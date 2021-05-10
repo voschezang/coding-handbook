@@ -15,7 +15,7 @@
 * Let's give developers admin rights on production machines.
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
   * Specialization can be achieved by scoping down the product (and/or outsourcing).
-* Take calculated risks, make mistakes and learn from them.
+* Take calculated risks, experiment, make mistakes and learn from them.
   * This requires an automated build/test process.
 
 
