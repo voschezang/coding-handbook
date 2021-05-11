@@ -12,6 +12,8 @@
 ## Software Engineering
 
 * Find the balance between proper software engineering and the hacker way.
+* Scrum does not imply agile.
+* Agile does not imply scrum.
 
 ### DevOps
 
@@ -24,8 +26,10 @@
 
 ### The hacker way
 
-* Be goal-oriented, focus on most impactful tasks.
-* Move fast. Take risks. Learn through experience.
+* Be goal-oriented. Focus on the most impactful tasks.
+* Move fast. Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
+  * E.g. writing a story, putting it on the backlog, wait for product owner approval.
+* Take risks. Learn through experience.
 * Try to hack your own systems.
 * Never say: "Sorry, that's out of scope".
 * Always aks yourself:
