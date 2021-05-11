@@ -28,7 +28,7 @@
 
 * Be goal-oriented. Focus on the most impactful tasks.
 * Move fast. Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
-  * E.g. writing a story, putting it on the backlog, wait for product owner approval.
+  * E.g. writing a story, refining it, putting it on the backlog, waiting for product owner approval.
 * Take risks. Learn through experience.
 * Try to hack your own systems.
 * Never say: "Sorry, that's out of scope".
