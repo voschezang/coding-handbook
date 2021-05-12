@@ -3,6 +3,7 @@
 ## Time to market
 
 * Effectiveness > Efficiency.
+* Running > Standing Still (to stand still is to fall behind).
 * What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
 * It is easier to deprecate code than to refactor it.
@@ -14,12 +15,13 @@
 * Find the balance between proper software engineering and the hacker way.
 * Scrum does not imply agile.
 * Agile does not imply scrum.
+* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams produce larger and more complex software.
 
 ### DevOps
 
 * Let's give developers admin rights on production machines.
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
-  * Specialization can be achieved by scoping down the product (and outsourcing).
+  * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
 * Take calculated risks, experiment, make mistakes and learn from them.
   * This requires an automated build/test process.
 
@@ -30,6 +32,7 @@
 * Move fast. Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
   * E.g. writing a story, refining it, putting it on the backlog, waiting for product owner approval.
 * Take risks. Learn through experience.
+* Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
 * Try to hack your own systems.
 * Never say: "Sorry, that's out of scope".
 * Always aks yourself:
@@ -53,3 +56,4 @@
 * Java is so flexible that it has neither of the advantages of a strong type system and a dynamic one (with duck typing).
 * C++ has default arguments AND function overloading.
 * Design patterns should be expressable on the language level. E.g. partial functions, Python's `@decorator`, Elm's `Maybe.andThen`.
+* Tuples should not have a length greater than 3 or 4 or 5 (otherwise use named tuples / records / maps).
