@@ -15,7 +15,8 @@
 * Find the balance between proper software engineering and the hacker way.
 * Scrum does not imply agile.
 * Agile does not imply scrum.
-* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams produce larger and more complex software.
+* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software.
+* Timestamp everything.
 
 ### DevOps
 
@@ -30,7 +31,7 @@
 
 * Be goal-oriented. Focus on the most impactful tasks.
 * Move fast. Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
-  * E.g. writing a story, refining it, putting it on the backlog, waiting for product owner approval.
+  * E.g. writing a story, refining it, let it wait on backlog, waiting for product owner approval.
 * Take risks. Learn through experience.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
 * Try to hack your own systems.
