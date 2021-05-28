@@ -17,6 +17,7 @@
 * Agile does not imply scrum.
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software.
 * Timestamp everything.
+* Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
 
 ### DevOps
 
@@ -30,9 +31,10 @@
 ### The hacker way
 
 * Be goal-oriented. Focus on the most impactful tasks.
-* Move fast. Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
+* Move fast, but in small steps. Take risks and learn through experience.
+ * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
+* Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
   * E.g. writing a story, refining it, let it wait on backlog, waiting for product owner approval.
-* Take risks. Learn through experience.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
 * Try to hack your own systems.
 * Never say: "Sorry, that's out of scope".
