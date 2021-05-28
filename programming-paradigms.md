@@ -41,3 +41,19 @@
   * E.g. `function composition, Maybe.andThen, List.map, Function.map fold, filter`
   * Unfortunately, because of their importance they have been given technical names such as `Monad, Monoid, Functor`
 
+
+## Tradeoff's
+
+Tradeoff's for application structure. 
+The best choice is context-dependent (i.e. ambiguous).
+
+* Ordering of data: _row_-major or _column_-major
+   * The former is readable and intuitive, the latter let's you do linear algebra
+* Default visibility of attributes and methods: `public` or `private`.
+* Mutable or immutable data.
+* Appliction architecture: monolithic or microservice.
+* Version control:
+   * Multiple branches, but moving changes in one direction through environments (e.g. `dev -> test -> production`).
+  * A single main branch (trunk), where each higher environment can only checkout commits after they have been tested.
+
+
