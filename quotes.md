@@ -1,9 +1,12 @@
 # Quotes
 
+* Effectiveness > Efficiency. Be adaptive.
+* Running > Standing Still (to stand still is to fall behind).
+* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+
+
 ## Time to market
 
-* Effectiveness > Efficiency.
-* Running > Standing Still (to stand still is to fall behind).
 * What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
 * It is easier to deprecate code than to refactor it.
@@ -18,14 +21,24 @@
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software.
 * Timestamp everything.
 * Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
+* Design for failure; assume each component will break eventually.
 
 ### DevOps
 
+* Take calculated risks, experiment, make mistakes and learn from them.
+  * This requires an automated build/test process.
 * Let's give developers admin rights on production machines.
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
-* Take calculated risks, experiment, make mistakes and learn from them.
-  * This requires an automated build/test process.
+
+
+### DevOps Organizations
+
+* Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
+  * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
+  * Give teams and team-members agency, such that they can experiment and innovate.
+* Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
+* Apply [Autonomation](https://en.wikipedia.org/wiki/Autonomation)
 
 
 ### The hacker way
