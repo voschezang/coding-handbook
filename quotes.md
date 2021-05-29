@@ -53,7 +53,7 @@
 <hr>
 
 ## Programming languages
-* Runtime errors are a (language design) choice.
+* Runtime errors are a language (design) choice.
 * --Hit compile-- Break time.
 * Just get the code to compile, so we can get to real work: debugging.
 * Java is so flexible that it has neither of the advantages of a strong type system and a dynamic one (with duck typing).
