@@ -18,7 +18,7 @@
 * Find the balance between proper software engineering and the hacker way.
 * Scrum does not imply agile.
 * Agile does not imply scrum.
-* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software.
+* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
 * Timestamp everything.
 * Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
 * Design for failure; assume each component will break eventually.
