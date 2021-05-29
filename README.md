@@ -1,5 +1,7 @@
 # Coding Style Guide
 
+_Disclaimer: The majority of the statements made in this repo are not sarcastic._
+
 Table of Contents:
 * [Quotes](quotes.md) - to contemplate, (high level).
 * [Style-Guide](style-guide.md) - a prescriptive guide for programming (low level).
