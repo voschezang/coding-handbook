@@ -37,6 +37,8 @@
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
   * Give teams and team-members agency, such that they can experiment and innovate.
+  * Minimize the amount of regulation and bureaucracy.
+  * Hire the most expensive experts.
 * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 * Apply [Autonomation](https://en.wikipedia.org/wiki/Autonomation)
 
