@@ -27,6 +27,8 @@
 
 * Take calculated risks, experiment, make mistakes and learn from them.
   * This requires an automated build/test process.
+  * Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback asap.
+  * Deploy changes to 
 * Let's give developers admin rights on production machines.
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
