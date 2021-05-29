@@ -22,7 +22,7 @@
 
 ## Language Complexity
 
-* OOP is the most powerful paradigm because we represent our program as a distributed system (CAP theorem) and allow the program to behave as a network.
+* OOP is the most powerful paradigm because we represent our program as a distributed system and allow the program to behave as a network.
   * Designing classes is as easy as designing system architectures.
 
 * The complexity of type/class-composition scales linearly but the complexity of a **network** scales non-linearly, due to the interactions between different components.
