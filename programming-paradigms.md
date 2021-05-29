@@ -45,14 +45,20 @@
 ## Tradeoff's
 
 Tradeoff's for application structure. 
-The best choice is context-dependent (i.e. ambiguous).
+The best choice is *context-dependent* (i.e. ambiguous).
 
-* Default visibility of attributes and methods: `public` or `private`.
-* Mutable or immutable data.
-* Ordering of data: _row_-major or _column_-major
-   * The former is readable and intuitive, the latter let's you do linear algebra
+### General
 * Appliction architecture: monolithic or microservice.
+* Organization structure or workflow: waterfall, agile, or anarchy.
+  * The latter is for example effective in R&D
 * Version control:
   * Multiple branches, but moving changes in one direction through environments (e.g. `dev -> test -> production`).
   * A single main branch (trunk), where each environment is checked out at a specific commit/state (e.g. using tags).
+
+
+### Programming language design
+* Default visibility of attributes and methods: `public` or `private`.
+* Mutable or immutable data.
+* Ordering of data: _row_-major or _column_-major
+  * The former is readable and intuitive, the latter let's you do linear algebra
 
