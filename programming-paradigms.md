@@ -2,7 +2,7 @@
 
 ## Language Design
 
-* All modern languages (e.g. C, Java, Python, Haskell) allow for
+* All modern languages (e.g. C, Java, Python, Haskell) are [equal](https://en.wikipedia.org/wiki/Turing_completeness) and allow for
   1. encapsulation of _functionality_ using modules or components
   2. encapsulation of _data_ using (local) scopes
 
@@ -24,6 +24,9 @@
 
 * OOP is the most powerful paradigm because we represent our program as a distributed system and allow the program to behave as a network.
   * Designing classes is as easy as designing system architectures.
+
+* Functional programming combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics ([xkcd](https://xkcd.com/1270/))."
+
 
 * The complexity of type/class-composition scales linearly but the complexity of a **network** scales non-linearly, due to the interactions between different components.
    * Naturally, the complexity of FP programs scales linearly as well.
