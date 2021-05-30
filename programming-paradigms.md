@@ -34,13 +34,18 @@
 * Fortunately, there are many design patterns and principles that help you to counter the complexities and monstrosities typically entcountered in (enterprise) OOP codebases.
 
 * In FP there are many equivalents to OOP design principles, for example SOLID:
-   * The `Single-responsibility`, `Open-closed`, `Interface segregation`, and `Dependency inversion` princples are replaced by _Pure Functions).
+   * The `Single-responsibility`, `Open-closed`, `Interface segregation`, and `Dependency inversion` princples are replaced by [_Pure Functions_](https://en.wikipedia.org/wiki/Pure_function)).
    * The `Liskov substitution principle` are replaced by a proper (i.e. algebraic, composable) _type system_ (e.g. type classes).
 
 * In FP, design patterns are language-constructs.
   * E.g. `function composition, Maybe.andThen, List.map, Function.map fold, filter`
   * Unfortunately, because of their importance they have been given technical names such as `Monad, Monoid, Functor`
 
+* In FP, you can do [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) in one [line](https://wiki.haskell.org/Fold):
+  `current = foldl(update, init, events)`, where
+  * `current, init` have the type `State`,
+  * `events` is a sequence that represent transactions or updates,
+  * `update(State, Event) -> State` is a (pure) function.
 
 ## Tradeoff's
 
