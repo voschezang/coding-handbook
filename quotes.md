@@ -2,7 +2,7 @@
 
 * Effectiveness > Efficiency. Be adaptive.
 * Running > Standing Still (to stand still is to fall behind).
-* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
 
 ## Time to market
@@ -22,7 +22,7 @@
 * It is easier to deprecate code than to refactor it.
 * Timestamp everything.
 * Design for failure; assume each component will break eventually.
-* The _fourth_ problem in software engineering is accidental complexity; i.e. using the wrong types of model for a given use case.
+* The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA).
 
 <hr>
