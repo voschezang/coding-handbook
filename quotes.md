@@ -22,6 +22,8 @@
 * It is easier to deprecate code than to refactor it.
 * Timestamp everything.
 * Design for failure; assume each component will break eventually.
+* The _fourth_ problem in software engineering is accidental complexity; i.e. using the wrong types of model for a given use case.
+  * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA).
 
 <hr>
 
@@ -42,7 +44,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
-  * Give teams and team-members agency, such that they can experiment and innovate.
+  * Give teams and team-members agency and the freedom to move, such that they can experiment and innovate.
   * Minimize the amount of regulation and bureaucracy.
   * Hire the most expensive experts.
 * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
@@ -69,6 +71,13 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * "Our build process is not automized because it is so complex that it requires experts to do it manually."
 * "Our testing process is not automized because it is so complex that it requires experts to do it manually."
 * "100% test coverage means that all possible input values are considered. This would include all `integers`."
+
+### Unsorted
+
+Don't make fun of:
+* people who still use hard drives.
+* people who use backward slashes in paths.
+
 
 <hr>
 
