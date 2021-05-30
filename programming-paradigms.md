@@ -47,11 +47,12 @@
 Tradeoff's for application structure. 
 The best choice is *context-dependent* (i.e. ambiguous).
 
+
 ### General
 * Appliction architecture: monolithic or microservice.
 * Organization structure or workflow: waterfall, agile, or anarchy.
   * The latter is for example effective in R&D.
-  * The more imporant question is: how much upfront planning and refinement do we need before we can start experimenting.
+  * The more imporant question is: "How much upfront planning is required in advance of experimentation."
 * Version control:
   * Multiple branches, but moving changes in one direction through environments (e.g. `dev -> test -> production`).
   * A single main branch (trunk), where each environment is checked out at a specific commit/state (e.g. using tags).
@@ -60,6 +61,6 @@ The best choice is *context-dependent* (i.e. ambiguous).
 ### Programming language design
 * Default visibility of attributes and methods: `public` or `private`.
 * Mutable or immutable data.
-* Ordering of data: _row_-major or _column_-major
+* Ordering or [structure](https://en.wikipedia.org/wiki/AoS_and_SoA) of data: a _set_ of objects or an object with arrays.
   * The former is readable and intuitive, the latter let's you do linear algebra
 
