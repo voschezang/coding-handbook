@@ -19,6 +19,7 @@ This is a language specification that starts with an Algebraic Type System and a
 
 * A **Type-Class** is an intersection of multiple types.
 	- E.g. `PositiveEvenInt = PositiveInt & EvenInt`, where `&` denotes the logical _and_ operator.
+	- E.g. a [negatype](https://www.hillelwayne.com/negatypes/) `NotIterable = not Iterable`
 	
 *  There are 3 types of **datastructures**.
 	1. A tuple:  `User = (Int, String)`
