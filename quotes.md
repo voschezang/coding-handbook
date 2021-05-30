@@ -9,29 +9,30 @@
 
 * What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
-* It is easier to deprecate code than to refactor it.
 
 <hr>
 
 ## Software Engineering
 
 * Find the balance between proper software engineering and the hacker way.
-* Scrum does not imply agile.
-* Agile does not imply scrum.
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
-* Timestamp everything.
+* Scrum does not imply agile.
+* Agile does not imply [scrum](https://sanderhoogendoorn.com/jack-sparrow-and-the-end-of-scrum/).
 * Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
+* It is easier to deprecate code than to refactor it.
+* Timestamp everything.
 * Design for failure; assume each component will break eventually.
+
 
 ### DevOps
 
-* Take calculated risks, experiment, make mistakes and learn from them.
-  * This requires an automated build/test process.
-  * Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback asap.
-  * Deploy changes to 
-* Let's give developers admin rights on production machines.
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
+  * This requires an automated build-test-deployment process.
+* Take calculated risks, experiment, make mistakes and learn from them.
+  * Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
+  * Use local incidents and abnormalities to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
+* In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones unfinished.
 
 
 ### DevOps Organizations
@@ -42,7 +43,6 @@
   * Minimize the amount of regulation and bureaucracy.
   * Hire the most expensive experts.
 * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
-* Apply [Autonomation](https://en.wikipedia.org/wiki/Autonomation)
 
 
 ### The hacker way
