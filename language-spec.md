@@ -15,7 +15,7 @@ This is a language specification that starts with an Algebraic Type System and a
 	1. It can be defined using a listing of all elements, e.g. `EvenInt = { 0, 2, 4, ... }`.
 	2. Or using a property or equivalence relation, e.g. `MyFloat = { n where 0.1 < n < 1 or n > 10 }`
 	- A more programmer-oriented method is to write it as `Bool = true | false`, where the right-hand values are mutually exclusive.
-	- Type cannot be recursive. This prevents the following contradiction `RusselsSet = { n where n not in RusselsSet }`
+	- Type cannot recursively call themselves. This prevents the following contradiction `RusselsSet = { n where n not in RusselsSet }`
 
 * A **Type-Class** is an intersection of multiple types.
 	- E.g. `PositiveEvenInt = PositiveInt & EvenInt`, where `&` denotes the logical _and_ operator.
@@ -26,14 +26,20 @@ This is a language specification that starts with an Algebraic Type System and a
 	2. A named tuple or record: `User = {id: Int, name: String}`
 	3. An stream: `[ ... ]`
 
-* **Patten-matching** allows datastructures to be used as types.
-	- E.g. `Tree = { x where x = (_, _, _) | none }` where `_` is used to denote a wildcard variable (any value).
-	- Note that this is not a contradiction. It can be expanded to: `Tree = none | (x, none, none) | (x, (y, none, none), (z, none, none) ) | ...`
-
 * Types can be parameterized.
 	- E.g. `Result a = Success a | Error`
-	- This can be used in the typical fashion: 
-	`x.ifSuccess(f).ifSuccess(g).ifSuccess(h)` where functions `f,g,h` are applied in succession to `x`.
+
+* **Patten-matching** allows datastructures to be used as types.
+	- For example: `Tree = { x where x = (_, _, _) | none }` where `_` is used to denote a wildcard variable (any value).
+	- Note that this is not a contradiction. It can be expanded to: `Tree = none | (x, none, none) | (x, (y, none, none), (z, none, none) ) | ...`
+	- Another example would be a [Railway](https://fsharpforfunandprofit.com/rop/) pattern for error-handling.
+	- Here, the following functions are applied to the input iff the input is not an `Error`.
+```python
+Result y = x.toResult().ifSuccess(f)
+                       .ifSuccess(g)
+                       .ifSuccess(h)
+```
+
 
 * **Pure Functions** are stateless, deterministic mappings from one type to another.
 	- E.g. `add(a, b) =  a + b`, with the type signature `add(Int, Int) -> Int`
