@@ -11,7 +11,6 @@
 * Before software can be reusable it first has to be usable.
 * [Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306).
 
-<hr>
 
 ## Software Engineering
 
@@ -24,10 +23,11 @@
 * Timestamp everything.
 * Design for failure; assume each component will break eventually.
 
+<hr>
 
 ### DevOps
 
-The following is relevant in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
+The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
