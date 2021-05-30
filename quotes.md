@@ -27,6 +27,8 @@
 
 ### DevOps
 
+The following is relevant in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
+
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
   * This requires an automated build-test-deployment process.
