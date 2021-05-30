@@ -2,14 +2,14 @@
 
 ## Language Design
 
-* All modern languages (e.g. C, Java, Python, Haskell) are [equal](https://en.wikipedia.org/wiki/Turing_completeness) and allow for
-  1. encapsulation of _functionality_ using modules or components
-  2. encapsulation of _data_ using (local) scopes
+* All modern languages (e.g. C, Java, Python, Haskell) are [equal](https://en.wikipedia.org/wiki/Turing_completeness) and allow for:
+  1. encapsulation of _functionality_ using modules or components,
+  2. encapsulation of _data_ using (local) scopes.
 
-* In addition, many languages allow for composition of datastructures and methods a type of class system. E.g.
+* In addition, many languages allow for composition of datastructures and methods a type of class system. E.g.:
   1. Type aliasses and union types.
     E.g. `union type A = B | C`, `alias type A = {b: B, c: C}`.
-  2. Interfaces and base-classes (e.g. class implementation and extension)
+  2. Interfaces and base-classes (e.g. class implementation and extension).
   * This allows for domain-driven design.
 
 * The major difference between object-oriented programming (OOP) and functional programming (FP):
@@ -27,7 +27,6 @@
 
 * Functional programming combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics ([xkcd](https://xkcd.com/1270/))."
 
-
 * The complexity of type/class-composition scales linearly but the complexity of a **network** scales non-linearly, due to the interactions between different components.
    * Naturally, the complexity of FP programs scales linearly as well.
 
@@ -41,8 +40,8 @@
    * The `Liskov substitution principle` are replaced by a proper (i.e. algebraic, composable) _type system_ (e.g. type classes).
 
 * In FP, design patterns are language-constructs.
-  * E.g. `function composition, Maybe.andThen, List.map, Function.map fold, filter`
-  * Unfortunately, because of their importance they have been given technical names such as `Monad, Monoid, Functor`
+  * E.g. `function composition, Maybe.andThen, List.map, fold, filter`.
+  * Unfortunately, because of their importance they have been given technical names such as `Monad, Monoid, Functor`.
 
 * In FP, you can do [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) in one [line](https://wiki.haskell.org/Fold):
   `current = foldl(update, init, events)`, where
