@@ -50,7 +50,8 @@ The best choice is *context-dependent* (i.e. ambiguous).
 ### General
 * Appliction architecture: monolithic or microservice.
 * Organization structure or workflow: waterfall, agile, or anarchy.
-  * The latter is for example effective in R&D
+  * The latter is for example effective in R&D.
+  * The more imporant question is: how much upfront planning and refinement do we need before we can start experimenting.
 * Version control:
   * Multiple branches, but moving changes in one direction through environments (e.g. `dev -> test -> production`).
   * A single main branch (trunk), where each environment is checked out at a specific commit/state (e.g. using tags).
