@@ -9,6 +9,7 @@
 
 * What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
+* [Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306).
 
 <hr>
 
