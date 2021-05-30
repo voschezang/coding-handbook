@@ -1,5 +1,7 @@
 # Coding Style Guide
 
+This is a collection of guidelines related to software engineering and computer science.
+
 _Disclaimer: The majority of the statements made in this repo are not sarcastic._
 
 Table of Contents:
