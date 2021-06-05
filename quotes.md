@@ -30,7 +30,7 @@ Note that the validity of all statements is dependent on certain implicit or exp
 * Design for failure; assume each component will break eventually.
 * The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA).
-* Software Architecture is a discipline. Software is never [finished](https://en.wikipedia.org/wiki/All_models_are_wrong) and requirements will change.
+* Software Architecture is a discipline. Software is never [perfect](https://en.wikipedia.org/wiki/All_models_are_wrong) or [finished](https://www.youtube.com/watch?v=lY54TmmEllY) and requirements will change.
 
 <hr>
 
