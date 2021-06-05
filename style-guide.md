@@ -1,6 +1,6 @@
 # Style Guide
 
-* _Never_ deviate from the following guidelines. If you do anyway, carefully consider the implications.
+* Never deviate from the following guidelines. If you do anyway, carefully consider the implications.
 
 * These guidelines do not reflect the opinions of my past and future employers and employees.
 
@@ -53,8 +53,8 @@
 
 Always consider the tradeoffs of `AoS` and `AoS` (array of structures, structure of arrays, e.g. in terms of usability, performance, scalability.
 ```py
-class Agent = {.name, .position, .velocity}
-Agents = [Agent(), ..]
+class Agent  = {.name, .position, .velocity}
+class Agents = {Agent(), ..}
 ```
 
 ```py
