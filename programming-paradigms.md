@@ -49,14 +49,18 @@
   * `events` is a sequence that represent transactions or updates,
   * `update(State, Event) -> State` is a (pure) function.
 
+
 ## Tradeoff's
 
-Tradeoff's for application structure. 
+Tradeoff's for application structure.
 The best choice is *context-dependent* (i.e. ambiguous).
+Always assume a continuum when making decisions.
 
 
 ### General
-* Appliction architecture: monolithic or microservice.
+* Appliction architecture: coupled or decoupled components
+  * E.g. monolithic, layered, CQRS, event-sourcing.
+* System architecture: monolithic or microservice.
 * Organization structure or workflow: waterfall, agile, or anarchy.
   * The latter is for example effective in R&D.
   * The more imporant question is: "How much upfront planning is required in advance of experimentation."
