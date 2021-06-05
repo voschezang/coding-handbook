@@ -1,8 +1,14 @@
 # Quotes
 
-* Effectiveness > Efficiency. Be adaptive.
-* Running > Standing Still (to stand still is to fall behind).
+Note that the validity of all statements is dependent on certain implicit or explicit assumptions.
+
+* Effectiveness > Efficiency.
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+* Value both processes and outcoomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). Good results with bad processes have no predictive value.
+* Change itself is never the solution, but a flexible process is.
+* Change is a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [update]https://en.wikipedia.org/wiki/Posterior_probability).
+  * Define conditions under which you would change your beliefs.
+* Everything is a theory and could be proven wrong.
 
 
 ## Time to market
@@ -24,6 +30,7 @@
 * Design for failure; assume each component will break eventually.
 * The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA).
+* Software Architecture is a discipline. Software is never [finished](https://en.wikipedia.org/wiki/All_models_are_wrong) and requirements will change.
 
 <hr>
 
@@ -32,29 +39,31 @@
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
 * DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
-  * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing.
-  * This requires an automated build-test-deployment process.
+  * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
+  * This requires a fast and automated build-test-deployment process.
 * Take calculated risks, experiment, make mistakes and learn from them.
   * Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
-  * Use local incidents and abnormalities to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
-* In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones unfinished.
+  * Use local discoveries to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
+  * Build in slack.
+* In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones in-progress.
+* Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experienting.
+ * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
 
 
 ### DevOps Organizations
 
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
-  * Give teams and team-members agency and the freedom to move, such that they can experiment and innovate.
   * Minimize the amount of regulation and bureaucracy.
-  * Hire the most expensive experts.
+  * Give teams and team-members agency such that they can experiment and innovate. Don't punnish good processes with bad outcomes (but learn from them).
+* Hire the most expensive experts.
+* Be more than just componets (e.g. departments), be interconnected, like a community.
 * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 
 
 ### The hacker way
 
 * Be goal-oriented. Focus on the most impactful tasks.
-* Move fast, but in small steps. Take risks and learn through experience.
- * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
 * Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
   * E.g. writing a story, refining it, let it wait on backlog, waiting for product owner approval.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
