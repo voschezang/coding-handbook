@@ -6,7 +6,7 @@ Note that the validity of all statements is dependent on certain implicit or exp
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 * Value both processes and outcoomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). Good results with bad processes have no predictive value.
 * Change itself is never the solution, but a flexible process is.
-* Change is a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [update]https://en.wikipedia.org/wiki/Posterior_probability).
+* Change is a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Define conditions under which you would change your beliefs.
 * Everything is a theory and could be proven wrong.
 
