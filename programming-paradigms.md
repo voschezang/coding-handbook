@@ -8,7 +8,7 @@
 
 * In addition, many languages allow for composition of datastructures and methods a type of class system. E.g.:
   1. Type aliasses and union types.
-    E.g. `union type A = B | C`, `alias type A = {b: B, c: C}`.
+      E.g. `union type A = B | C`, `alias type A = {b: B, c: C}`.
   2. Interfaces and base-classes (e.g. class implementation and extension).
   * This allows for domain-driven design.
 
@@ -54,7 +54,9 @@
 
 Tradeoff's for application structure.
 The best choice is *context-dependent* (i.e. ambiguous).
-Always assume a continuum when making decisions.
+Always assume a continuum when making **decisions**.
+
+* In addition, consider the impact, and whether the decision is easily reversible (or adaptable).
 
 
 ### General
@@ -69,9 +71,24 @@ Always assume a continuum when making decisions.
   * A single main branch (trunk), where each environment is checked out at a specific commit/state (e.g. using tags).
 
 
-### Programming language design
+### Programming Language Design
 * Default visibility of attributes and methods: `public` or `private`.
 * Mutable or immutable data.
 * Ordering or [structure](https://en.wikipedia.org/wiki/AoS_and_SoA) of data: a _set_ of objects or an object with arrays.
   * The former is readable and intuitive, the latter let's you do linear algebra
 
+
+
+## Experimenal Design
+
+* Collaborate & discuss & challenge your assumptions.
+* Limit the scope of experiments and MVP's. Make sure that you have the ability to kill them.
+* Consider the following ([tradoffs](https://twitter.com/johncutlefish/status/1400681664225837057)): 
+  * Local - global
+  * Flexible - rigid
+  * Short duration - long duration
+  * Short feedback loops - long feedback loops
+  * Invitation - imposition
+  * Minimal & compact - fully self-contained
+  * Value in side-effects - risk in side-effects
+  * Low threat to status quo - challenges status quo & conventions

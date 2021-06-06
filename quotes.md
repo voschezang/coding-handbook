@@ -5,10 +5,11 @@ Note that the validity of all statements is dependent on certain implicit or exp
 * Effectiveness > Efficiency.
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 * Value both processes and outcoomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). Good results with bad processes have no predictive value.
-* Change itself is never the solution, but a flexible process is.
-* Change is a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
+* Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
+  * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Define conditions under which you would change your beliefs.
 * Everything is a theory and could be proven wrong.
+* [Confidence](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) does not imply compentence
 
 
 ## Time to market
@@ -42,12 +43,12 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
   * This requires a fast and automated build-test-deployment process.
 * Take calculated risks, experiment, make mistakes and learn from them.
-  * Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
+  * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
   * Use local discoveries to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
-  * Build in slack.
+  * Build in slack, i.e. room to incorporate learning & improvement.
 * In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones in-progress.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experienting.
- * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
+  * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
 
 
 ### DevOps Organizations
@@ -67,9 +68,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
   * E.g. writing a story, refining it, let it wait on backlog, waiting for product owner approval.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
-* Try to hack your own systems.
 * Never say: "Sorry, that's out of scope".
-* Always aks yourself:
+* Reconsider all conventions. Try to hack your own systems. Always aks yourself:
   1. How can I break or abuse this?
   2. Are there other ways to do this?
 
@@ -84,8 +84,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 ### Unsorted
 
 Don't make fun of:
-* people who still use hard drives.
-* people who use backward slashes in paths.
+* People who still use hard drives.
+* People who use backward slashes in paths.
 
 
 <hr>
