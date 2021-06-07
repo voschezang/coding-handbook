@@ -16,9 +16,8 @@
 * Variable (attribute) names should be self-explanatory. 
    * Don't use the type of a variable as its name. 
       E.g. `dataframe_list = list(DataFrame())`.
-   * Don't prefix variables with nondescriptive terms such as 
-      `get, obtain, acquire, find` or `do, perform, execute, determine, compute, establish`.
-
+   * Don't prefix variables with nondescriptive terms such as `do, perform, execute, determine, compute, establish`.
+   
 * Don't use overly complex object names, especially if they cause error messages that overflow the terminal buffer.
   * E.g. `org.java.beans.beancontext.BeanContextServiceProviderBeanInfo`
 
@@ -47,8 +46,7 @@
 
 * Use _language-specific_ autoformat.
 
-<br><hr>
-
+---
 
 ## Data
 
@@ -57,6 +55,8 @@ Always consider the tradeoffs of `AoS` and `AoS` (array of structures, structure
 class Agent  = {.name, .position, .velocity}
 class Agents = {Agent(), ..}
 ```
+
+
 
 ```py
 class Agents = {names = [], positions = [], velocities = []}

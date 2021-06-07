@@ -2,14 +2,13 @@
 
 Note that the validity of all statements is dependent on certain implicit or explicit assumptions.
 
-* Effectiveness > Efficiency.
+* Effectiveness > efficiency.
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
-* Value both processes and outcoomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). Good results with bad processes have no predictive value.
+* Value both processes and outcomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). Good results with bad processes have no predictive value.
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Define conditions under which you would change your beliefs.
 * Everything is a theory and could be proven wrong.
-* [Confidence](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) does not imply compentence
 
 
 ## Time to market
@@ -96,5 +95,6 @@ Don't make fun of:
 * Just get the code to compile, so we can get to real work: debugging.
 * Java is so flexible that it has neither of the advantages of a strong type system and a dynamic one (with duck typing).
 * C++ has default arguments AND function overloading.
-* Design patterns should be expressable on the language level. E.g. partial functions, Python's `@decorator`, Elm's `Maybe.andThen`.
+* Design patterns should be expressible on the language level. E.g. partial functions, Python's `@decorator`, Elm's `Maybe.andThen`.
 * Tuples should not have a length greater than 3 or 4 or 5 (otherwise use named tuples / records / maps).
+

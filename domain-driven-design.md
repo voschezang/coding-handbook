@@ -26,7 +26,7 @@ def sumInUSD(wallet: Wallet) -> USD:
 ```
 
 2. The second OOP version is longer and more complex; 
-it uses a base-class, an adapter-class, a composite-class and it uses encapsulation to hide internal states.
+	it uses a base-class, an adapter-class, a composite-class and it uses encapsulation to hide internal states.
 	- This implementation is not trivial. An alternative implementation could use an interface rather than an abstract base class.
 	- The developer has to take all of this into account when designing the classes.
 

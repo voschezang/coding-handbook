@@ -2,7 +2,8 @@
 
 This is a language specification that starts with an Algebraic Type System and adds OOP concepts on top of it.
 
-<hr>
+---
+
 
 ## 1. Type Systems
 
@@ -45,7 +46,8 @@ Result y = x.toResult().ifSuccess(f)
 	- E.g. `add(a, b) =  a + b`, with the type signature `add(Int, Int) -> Int`
 	- E.g. `div(a, b) = a / b`, with the signature `div(Int, NonZeroInt) -> Float`
 
-<hr>
+---
+
 
 ## 2. Object-Oriented Programming
 
