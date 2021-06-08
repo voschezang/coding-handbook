@@ -7,7 +7,7 @@
 
 ## Design
 - Code should not be clever. Designs should be as simple as possible, but not simpler.
-  - The plurar of regex is regret.
+  - Solutions may be [insightful](https://www.hillelwayne.com/post/cleverness/) but be careful with assumptions and constraints.
 - First solve the problem (e.g. proof that specification is correct), then write code.
 - Documentation should be written top-down rather than bottom-up. The latter requires a big upfront investment from the reader.
 

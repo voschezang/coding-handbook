@@ -9,6 +9,8 @@ Note that the validity of all statements is dependent on certain implicit or exp
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Define conditions under which you would change your beliefs.
 * Everything is a theory and could be proven wrong.
+* Don't let school get in the way of your education.
+* Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill.
 
 
 ## Time to market
@@ -56,6 +58,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
   * Minimize the amount of regulation and bureaucracy.
   * Give teams and team-members agency such that they can experiment and innovate. Don't punnish good processes with bad outcomes (but learn from them).
+* Multidisciplinary teams are initially less (cost-)efficient than functional teams, but make up for this by writing better and more stable software.
 * Hire the most expensive experts.
 * Be more than just componets (e.g. departments), be interconnected, like a community.
 * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
