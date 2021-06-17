@@ -81,7 +81,7 @@ Always assume a continuum when making **decisions**.
 
 ## Experimenal Design
 
-* Collaborate & discuss & challenge your assumptions.
+* Do collaborate & discuss, and challenge your assumptions.
 * Limit the scope of experiments and MVP's. Make sure that you have the ability to kill them.
 * Consider the following ([tradoffs](https://twitter.com/johncutlefish/status/1400681664225837057)): 
   * Local - global
@@ -92,3 +92,5 @@ Always assume a continuum when making **decisions**.
   * Minimal & compact - fully self-contained
   * Value in side-effects - risk in side-effects
   * Low threat to status quo - challenges status quo & conventions
+  * Accumulate technical debt - reduce technical debt
+  * Economic profit - accounting profit

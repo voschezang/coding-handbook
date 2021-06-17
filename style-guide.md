@@ -10,6 +10,10 @@
   - Solutions may be [insightful](https://www.hillelwayne.com/post/cleverness/) but be careful with assumptions and constraints.
 - First solve the problem (e.g. proof that specification is correct), then write code.
 - Documentation should be written top-down rather than bottom-up. The latter requires a big upfront investment from the reader.
+- *Low* level code changes more often than *high* level code.
+  - E.g. a change in an interface requires a change in the implementation but not the vice versa.
+- *Generic* code changes more frequently than *specific* code.
+  - E.g. linear algebra libraries are unaffected by changes in customer preferences.
 
 ## Variable names
 
