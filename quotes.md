@@ -1,6 +1,6 @@
 # Quotes
 
-Note that the validity of all statements is dependent on certain implicit and explicit assumptions. They are biased towards software engineering.
+Note that the validity of the following statements is dependent on certain *implicit* and *explicit* assumptions. Additionally they are biased towards software engineering.
 
 * Everything is a theory and could be proven wrong.
 * There is no such thing as absolute certainty. Even [rationality](https://en.wikipedia.org/wiki/Postmodernism) does not guarantee certainty. Pure objectivity does not exist.
@@ -8,20 +8,26 @@ Note that the validity of all statements is dependent on certain implicit and ex
     ) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality
     ).
 * Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill.
-* Mistakes are undervalued. There are a necessity for learning.
+* Mistakes are undervalued. There are a necessity for learning and they are extremely effective at creating awareness.
+    * In art mistakes are celebrated, and are often the most memorable parts of a piece.
 * Don't let school get in the way of your education.
+    * Stop thinking in closed questions: "Is this answer correct?".
+    * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
 * Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). 
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`. 
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+* It is never *necessary* to continue after reaching a [good enough](https://en.wikipedia.org/wiki/Good_enough_parent) point.
+    * Only unicorns are perfect.
+* Think in possibilities rather than limitations.
 
 
 
 **Processes**
 
 * Effectiveness > Efficiency.
-* Take regular breaks
-    * Take time to orient yourself and reflect.
-    * Make room to make improvements.
+* Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
+    * Take regular breaks. Take time to orient yourself and reflect.
+    * Make room to make improvements (plan in slack).
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Define conditions under which you would change your beliefs.
@@ -58,9 +64,9 @@ Note that the validity of all statements is dependent on certain implicit and ex
 * Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
 * Timestamp everything.
 
-<hr>
 
-### DevOps
+
+**DevOps**
 
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
@@ -77,20 +83,20 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Improving daily working > daily work.
 
 
-### DevOps Organizations
+
+**DevOps Organizations**
 
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
   * Minimize the amount of regulation and bureaucracy.
   * Give teams and team-members agency such that they can experiment and innovate. Don't punish good processes with bad outcomes (but learn from them).
-  * Assuming that employees are professional and act rational, any mistakes can be attributed to external factors. The logical response would then be to change the environment to minimize future errors.
+  * Assuming that employees are professional and act rational, any mistakes can be attributed to external factors. [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) is about accidents rather than stupidity. The logical response is usually to change the environment to minimize future errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)). 
 * Multidisciplinary teams are initially less (cost-)efficient than functional teams, but make up for this by writing better and more stable software.
 * Hire the most expensive experts.
 * Be more than just componets (e.g. departments), be interconnected, like a community.
 * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 
-
-### The hacker way
+**The hacker way**
 
 * Be goal-oriented. Focus on the most impactful tasks.
 * Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
@@ -101,22 +107,19 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   1. How can I break or abuse this?
   2. Are there other ways to do this?
 
-
-### Automation & Testing
+**Automation & Testing**
 
 * "If you have expert developers you don't need to waste time on unit tests."
 * "Our build process is not automized because it is so complex that it requires experts to do it manually."
 * "Our testing process is not automized because it is so complex that it requires experts to do it manually."
 * "100% test coverage means that all possible input values are considered. This would include all `integers`."
 
-### Unsorted
+**Unsorted**
 
 Don't make fun of:
 * People who still use hard drives.
 * People who use backward slashes in paths.
 
-
-<hr>
 
 ## Programming languages
 * Runtime errors are a language (design) choice.
