@@ -1,8 +1,51 @@
 # Style Guide
 
 * Never deviate from the following guidelines. If you do anyway, carefully consider the implications.
-
 * These guidelines do not reflect the opinions of my past and future employers and employees.
+
+
+
+
+## Specification
+
+Twofold:
+
+1. Describe behaviour of the system; how it reacts to inputs.
+    - This part may be complex, but start with an high level, treating the internals as a black box.
+2. Describe the boundaries of the system; list all inputs and outputs.
+
+Avoid or resolve ambiguity.
+
+* *Complicated* is just a euphemism for "scary to think about".
+
+
+
+## Documentation
+
+**Ordering**
+
+Explanations can be top-down (high level first) or bottom-up (low level first).
+
+- The first is intuitive, but requires the repeated use concepts that are not well-defined (yet).
+    - Start with *What* and *Why* instead of the *How*.
+- The second allows you to start from fundamental principles, but requires a bit up-front investment from the reader
+    - There is a risk of missing the global point.
+
+
+
+**Complexity**
+
+Multiple levels of documentation, ordered by level of natural language (increasing).
+
+1. Module level. 
+    - Clean, clear, readable code. From high level to low level. E.g. self-explanatory variable- and file-names.
+    - Inline comments and doc-strings.
+    - Up-to-date, readable **tests** that act as a specification.
+2. Application level. High cohesion.
+    - Self-contained repositories with a readme.
+3. System level. Relations between multiple components. E.g. a wiki.
+
+
 
 
 ## Design
@@ -14,6 +57,10 @@
   - E.g. a change in an interface requires a change in the implementation but not the vice versa.
 - *Generic* code changes more frequently than *specific* code.
   - E.g. linear algebra libraries are unaffected by changes in customer preferences.
+- Interfaces should be backwards compatible. Otherwise create a new interface. Only if that is not possible, break the interface and update all implementations.
+
+
+
 
 ## Variable names
 
@@ -50,7 +97,6 @@
 
 * Use _language-specific_ autoformat.
 
----
 
 ## Data
 

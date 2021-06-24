@@ -2,14 +2,13 @@
 
 This is a language specification that starts with an Algebraic Type System and adds OOP concepts on top of it.
 
----
-
 
 ## 1. Type Systems
 
 * **Variables** are merely _references_ to either immutable values (constants) or other variables.
+	
 	- Hence variables do not necessarily have a value.
-
+	
 * Each **value** (written in lowercase) has a _Type_.
 
 * A **Type** is a _set_ of values. A set is unordered and can be closed, open or clopen.

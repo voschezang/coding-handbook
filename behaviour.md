@@ -14,6 +14,7 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
   * This effect is stronger for personal goals and important plans/projects/strategies/objectives. As a result we may be better at estimating the future of others than our own.
   * And we keep doing this after recognizing the discrepancy. "That was an exception / This time is different".
 * Optimism is rational: it enhances self-esteem and self-efficacy and improves persistence [[1]][1]. [Embrace](https://en.wikipedia.org/wiki/Amor_fati) your environment rather than complaining about it.
+    * "Nothing ventured, nothing gained"
 * [Confidence](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) does not imply competence, but is [related](https://en.wikipedia.org/wiki/Four_stages_of_competence) to it.
 * Each person is unique cannot be compared. Comparing them reduces them to a single metric. The same is true for groups
     * [Identity](https://en.wikipedia.org/wiki/Identity_(philosophy)) is fluid, [ill-defined](https://en.wikipedia.org/wiki/Difference_(philosophy)) and tends to change and adapt.
@@ -22,9 +23,14 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 
 **Statistics**
 
-* Many results are distributed as a [power law](https://en.wikipedia.org/wiki/Pareto_distribution), where 80% of the results are caused by 20% of the participants.
-* The average of averages [follows](https://en.wikipedia.org/wiki/Central_limit_theorem) a normal distribution (bell curve).
-* Anything that can go wrong [will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) (eventually).
+There are two main distributions:
+1. A bell curve. The average of averages [follows](https://en.wikipedia.org/wiki/Central_limit_theorem) a normal distribution.
+2. A [power law](https://en.wikipedia.org/wiki/Pareto_distribution), where 80% of the results are caused by 20% of the participants.
+    * Or, 10% of the results [outweigh](https://en.wikipedia.org/wiki/Sturgeon%27s_law) the other 90%.
+
+Many probabilistic processes are [ergodic](https://en.wikipedia.org/wiki/Ergodicity); i.e. *time* average = *ensemble* average. Equality may not hold for higher-order moments.
+
+* In such processes, anything that can happen [will happen](https://en.wikipedia.org/wiki/Murphy%27s_law) (eventually).
 
 
 
@@ -52,7 +58,8 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 
 **Other**
 
-* Evolutions of ideas often follow the [triads](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic) `thesis–antithesis–synthesis`, or `problem-reaction-solution` or `abstract-negative-concrete` (rather than more [convoluted cycles](https://en.wikipedia.org/wiki/Hype_cycle)).
+* Evolutions of ideas often follow the [triads](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic) `thesis–antithesis–synthesis`, or `problem-reaction-solution` or `abstract-negative-concrete` (rather than more [convoluted cycles](https://en.wikipedia.org/wiki/Hype_cycle)). Another example is the [three-act structure](https://en.wikipedia.org/wiki/Three-act_structure) in theater.
+* Ambiguity in specifications implies conflict. People tend to blame themselves for their limited understanding, instead of objectively criticizing the specification. They'll try to make up for it by working harder (instead of addressing the underlying issue).
 
 
 

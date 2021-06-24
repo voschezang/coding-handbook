@@ -13,7 +13,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Don't let school get in the way of your education.
     * Stop thinking in closed questions: "Is this answer correct?".
     * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
-* Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). 
+* Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`. 
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 * It is never *necessary* to continue after reaching a [good enough](https://en.wikipedia.org/wiki/Good_enough_parent) point.
@@ -25,9 +25,10 @@ Note that the validity of the following statements is dependent on certain *impl
 **Processes**
 
 * Effectiveness > Efficiency.
-* Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
-    * Take regular breaks. Take time to orient yourself and reflect.
+* Slow down to speed up. Humans were not made for constant motion.
+    * Take regular breaks. Take time to orient yourself and reflect. Sometimes you have to take a step back to move forward.
     * Make room to make improvements (plan in slack).
+    * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Define conditions under which you would change your beliefs.
@@ -41,7 +42,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 * What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
-* [Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557).
+* [Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
 
 
 
@@ -80,7 +81,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones in-progress.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
-* Improving daily working > daily work.
+* Improving daily working > daily work. Improve processes instead of optimizing goals.
 
 
 
@@ -90,11 +91,15 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
   * Minimize the amount of regulation and bureaucracy.
   * Give teams and team-members agency such that they can experiment and innovate. Don't punish good processes with bad outcomes (but learn from them).
-  * Assuming that employees are professional and act rational, any mistakes can be attributed to external factors. [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) is about accidents rather than stupidity. The logical response is usually to change the environment to minimize future errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)). 
+  * Assuming that employees are professional and act rational, any mistakes can be attributed to external factors. [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) is about accidents rather than stupidity. The logical response is usually to change the environment to minimize future errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
+* Build a community.
+    * Embrace communal learning. Learn for the sake of learning. This includes teaching.
+    * Be more than just components (e.g. departments), be interconnected.
+    * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 * Multidisciplinary teams are initially less (cost-)efficient than functional teams, but make up for this by writing better and more stable software.
 * Hire the most expensive experts.
-* Be more than just componets (e.g. departments), be interconnected, like a community.
-* Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
+
+
 
 **The hacker way**
 
@@ -102,10 +107,13 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
   * E.g. writing a story, refining it, let it wait on backlog, waiting for product owner approval.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
-* Never say: "Sorry, that's out of scope".
+* Always ask "Why?". Ought and Musts aren't valid reasons.
+    * Never say: "Sorry, that's out of scope".
 * Reconsider all conventions. Try to hack your own systems. Always aks yourself:
   1. How can I break or abuse this?
   2. Are there other ways to do this?
+
+
 
 **Automation & Testing**
 
@@ -113,6 +121,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * "Our build process is not automized because it is so complex that it requires experts to do it manually."
 * "Our testing process is not automized because it is so complex that it requires experts to do it manually."
 * "100% test coverage means that all possible input values are considered. This would include all `integers`."
+
+
 
 **Unsorted**
 

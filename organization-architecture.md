@@ -25,6 +25,8 @@ Disclaimer:
     * Simplicity (high bias) - complexity ([high variance](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff))
     * Specificity - generality
 
+
+
 ## Programming
 * Application architecture: coupled or decoupled components
     * E.g. monolithic, layered, CQRS, event-sourcing.
@@ -61,3 +63,6 @@ Embrace a culture of learning.
     * Minimal & compact - fully self-contained
     * Value in side-effects - risk in side-effects
     * Low threat to status quo - challenges status quo & conventions
+
+
+
