@@ -8,7 +8,6 @@ Unit-tests are excluded for brevity.
 
 1. The first FP example if brief and can easily be extended in case of future requirements.
 	- It should be noted that the type conversion is a bit fuzzy. This part is language-dependent.
-	- Alternatively the type `Money` could be a product type.
 
 
 ```python
@@ -19,7 +18,7 @@ type Money = EUR | USD # union type
 type Wallet = { dollars: USD, euros: EUR } # C-style record
 
 def eurosToDollars(euros: EUR) -> USD:
-	return euros * 1.0
+	return euros * 2
 
 def sumInUSD(wallet: Wallet) -> USD:
     return wallet.dollars + eurosToDollars(wallet.euros)
@@ -33,20 +32,20 @@ def sumInUSD(wallet: Wallet) -> USD:
 ```java
 /**
  * OOP
- * For brevity all methods are public
+ * For brevity all methods are public and constructors, getters and setters are omitted.
  */
  
 abstract class Money
 {
-	Int value;
+	Int value; // in units
 }
 
-class EUR extends Money {} // excl. constructor, getters, setters
-class USD extends Money // excl. constructor, getters, setters
+class EUR extends Money {}
+class USD extends Money
 {
 	add(USD dollars)
 	{
-		// violation of CQR separation
+		// violation of command-query separation
 		self.value += dollars.value;
 	}
 }
@@ -56,7 +55,7 @@ class MoneyConverter // adapter pattern
 	// adapter to reduce coupling between EUR and USD
 	static USD toUSD(EUR euros) 
 	{
-		return euros.value * 1.0
+		return euros.value * 2
 	}
 }
 
@@ -79,15 +78,10 @@ class Wallet // composite pattern
 		result.add(Converter.toUSD(self.euros));
 		return result;
 
-		// alternatively, a one-line functional static method could be used
+		// alternatively, a one-liner with functional static methods could be used
 		// return USD.addTwo(self.dollars, Converter.toUSD(self.euros));
 	}
-
-
-	// excl. getters, setters
 }
 ```
 
-Because the two implementations are comparable, one could be used to generate the other.
-For that reason I favour the shortest version.
-
+Because the two implementations are [comparable](https://en.wikipedia.org/wiki/Isomorphism), one could be used to generate the other.

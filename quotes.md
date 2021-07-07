@@ -7,18 +7,20 @@ Note that the validity of the following statements is dependent on certain *impl
 * Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation
     ) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality
     ).
-* Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill.
+* Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
 * Mistakes are undervalued. There are a necessity for learning and they are extremely effective at creating awareness.
-    * In art mistakes are celebrated, and are often the most memorable parts of a piece.
+    * In contrast, in art mistakes are celebrated, and are often the most memorable parts of a piece.
 * Don't let school get in the way of your education.
+    * Practice self-actualization: reaching your full potential, discovering your self and finding the meaning of life.
     * Stop thinking in closed questions: "Is this answer correct?".
     * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
-* Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
-* When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`. 
-* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). It allows interaction, the sharing of ideas.
 * It is never *necessary* to continue after reaching a [good enough](https://en.wikipedia.org/wiki/Good_enough_parent) point.
     * Only unicorns are perfect.
 * Think in possibilities rather than limitations.
+* Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
+* When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
+* If you don't want your product to be criticized, just give it a positive name: e.g. be agile, use clean code.
 
 
 
@@ -40,6 +42,9 @@ Note that the validity of the following statements is dependent on certain *impl
 
 **Time to market**
 
+* Being busy indicates a lack or prioritization.
+    * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus.
+* Don't jump from problems to solutions. First find the underlying causes.
 * What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
 * [Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
@@ -71,17 +76,23 @@ Note that the validity of the following statements is dependent on certain *impl
 
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
-* DevOps is just [vertical intergration](https://en.wikipedia.org/wiki/Vertical_integration).
+* DevOps is just [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). You build it, you run it.
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
-  * This requires a fast and automated build-test-deployment process.
+  * This requires a fast and automated build-test-deployment process. Be able to deploy 100 times per day.
+  * Strive for one-by-one production (small batches). Minimize the number of batching steps. Limit work in process and inventory.
+      * Remove any bottlenecks that stand in the way of this.
 * Take calculated risks, experiment, make mistakes and learn from them.
   * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
   * Use local discoveries to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
   * Build in slack, i.e. room to incorporate learning & improvement.
+* Design for failure. Change the environment to minimize future errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
+    * Assume that all people will make mistakes and act foolish eventually.
 * In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones in-progress.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
+  * Ideally change one thing at the same time (in a team) so you can study the results and possibly infer causality. This is also an incentive to move faster and finish tasks.
 * Improving daily working > daily work. Improve processes instead of optimizing goals.
+* Rely on read-only afternoons and Fridays. Do deployments and releases during weekends.
 
 
 
@@ -89,15 +100,17 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Allow for [free market dynamics](https://en.wikipedia.org/wiki/Market_mechanism) and healthy competition, but to a [limited extend](https://en.wikipedia.org/wiki/Das_Kapital).
-  * Minimize the amount of regulation and bureaucracy.
-  * Give teams and team-members agency such that they can experiment and innovate. Don't punish good processes with bad outcomes (but learn from them).
-  * Assuming that employees are professional and act rational, any mistakes can be attributed to external factors. [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) is about accidents rather than stupidity. The logical response is usually to change the environment to minimize future errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
+  * Minimize the amount of regulation and bureaucracy. Time spend on filling out forms is a waste.
 * Build a community.
-    * Embrace communal learning. Learn for the sake of learning. This includes teaching.
     * Be more than just components (e.g. departments), be interconnected.
-    * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing))
+    * Embrace communal learning. Learn for the sake of learning. This includes teaching.
+    * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing)).
+* Improvement and innovation should be done both top-down and bottom-up.
+    * Give teams and team-members agency such that they can experiment and innovate. Don't punish good processes with bad outcomes (but learn from them).
 * Multidisciplinary teams are initially less (cost-)efficient than functional teams, but make up for this by writing better and more stable software.
+* Assuming that employees are professional and act rationally, most mistakes can be attributed to external factors. Explain events with self-interest, then [stupidity](https://en.wikipedia.org/wiki/Hanlon%27s_razor), and only then malice.
 * Hire the most expensive experts.
+    * Hiring people for the short term incentivizes them to find short term solutions.
 
 
 
@@ -105,7 +118,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 
 * Be goal-oriented. Focus on the most impactful tasks.
 * Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.
-  * E.g. writing a story, refining it, let it wait on backlog, waiting for product owner approval.
+  * E.g. writing a story, refining it, let it wait on backlog, waiting for approval.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
 * Always ask "Why?". Ought and Musts aren't valid reasons.
     * Never say: "Sorry, that's out of scope".
@@ -129,6 +142,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 Don't make fun of:
 * People who still use hard drives.
 * People who use backward slashes in paths.
+
+
 
 
 ## Programming languages

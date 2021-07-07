@@ -19,18 +19,16 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * Each person is unique cannot be compared. Comparing them reduces them to a single metric. The same is true for groups
     * [Identity](https://en.wikipedia.org/wiki/Identity_(philosophy)) is fluid, [ill-defined](https://en.wikipedia.org/wiki/Difference_(philosophy)) and tends to change and adapt.
 
+* Success: you or your ideas need to be either *exceptional* (better than everything else) or *different*.
 
+* [Multiplicity](https://en.wikipedia.org/wiki/Posthuman) of selves. Identification with each role is dynamic. "I was not myself". Time flies.
 
-**Statistics**
+* The Self or Subject can be:
 
-There are two main distributions:
-1. A bell curve. The average of averages [follows](https://en.wikipedia.org/wiki/Central_limit_theorem) a normal distribution.
-2. A [power law](https://en.wikipedia.org/wiki/Pareto_distribution), where 80% of the results are caused by 20% of the participants.
-    * Or, 10% of the results [outweigh](https://en.wikipedia.org/wiki/Sturgeon%27s_law) the other 90%.
+    - Aristotle's essence or spirit: our underlying self.
+    - Subject of though: Cartesian Ego (observer of the world, body as an interface).
 
-Many probabilistic processes are [ergodic](https://en.wikipedia.org/wiki/Ergodicity); i.e. *time* average = *ensemble* average. Equality may not hold for higher-order moments.
-
-* In such processes, anything that can happen [will happen](https://en.wikipedia.org/wiki/Murphy%27s_law) (eventually).
+    - [Being-in-the-world](https://en.wikipedia.org/wiki/Dasein): the coherence of the self and the reset of the world.
 
 
 
@@ -60,6 +58,7 @@ Many probabilistic processes are [ergodic](https://en.wikipedia.org/wiki/Ergodic
 
 * Evolutions of ideas often follow the [triads](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic) `thesis–antithesis–synthesis`, or `problem-reaction-solution` or `abstract-negative-concrete` (rather than more [convoluted cycles](https://en.wikipedia.org/wiki/Hype_cycle)). Another example is the [three-act structure](https://en.wikipedia.org/wiki/Three-act_structure) in theater.
 * Ambiguity in specifications implies conflict. People tend to blame themselves for their limited understanding, instead of objectively criticizing the specification. They'll try to make up for it by working harder (instead of addressing the underlying issue).
+* It takes decennia to build a reputation but only 1 incident to ruin it.
 
 
 

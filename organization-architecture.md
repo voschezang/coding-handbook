@@ -2,11 +2,11 @@
 
 Disclaimer:
 
-* The best choice is *context-dependent* (i.e. ambiguous).
+* The best choice is *context-dependent* (i.e. ambiguous). Adapt if the environment changes.
+* Always consider the options in between two extremes.
+* In addition, consider the *impact*, and whether the decision is easily *reversible* (or adaptable).
 
-* Always assume a continuum when making **decisions**.
 
-* In addition, consider the impact, and whether the decision is easily reversible (or adaptable).
 
 
 ## Organizations
@@ -15,7 +15,8 @@ Disclaimer:
     * The latter is for example effective in R&D.
     * The more imporant question is: "How much upfront planning is required in advance of experimentation."
 * Organization structure: functional (e.g. `Dev + Ops`) or market-based (e.g. `DevOps`).
-    * Optimize for cost or for speed.
+    * Optimize for *cost* or for *speed*.
+    * Local changes are easy, global changes are expensive. Embrace independent, autonomous teams.
 * Cohesion of products - flexibility in product designs.
 * Optimize for growth or value.
 * Time-horizon

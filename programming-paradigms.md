@@ -48,3 +48,54 @@
   * `current, init` have the type `State`,
   * `events` is a sequence that represent transactions or updates,
   * `update(State, Event) -> State` is a (pure) function.
+
+
+
+# Patterns
+
+Note, in general:
+
+- Locality is easy: e.g. changes inside a single module or a single application.
+
+- Systems can be specific and efficient, or generic and flexible.
+
+
+
+## System & Application Architecture
+
+Although systems architecture and application architecture are different disciplines, design patterns are relevant to everything from high-level systems to low-level applications. They do however have different implications at different levels of scale.
+
+- Applications with many components are also systems. 
+
+
+
+**Orchestration & Choreography**
+
+Orchestration
+
+- Centralized control. services are called explicitly using API's.
+    - Using *Commands* that focus on the *future*. E.g. `doThis`.
+    - Messages (data) are send to specific destinations (peer-to-peer).
+
+Choreography
+
+- Distributed control. applications are autonomous and react to messages.
+    - Using *Events* that describe the *past*. E.g. `ThisHappened`.
+    - Messages (data) are broadcasted.
+    - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
+
+
+
+**Pure Functions**
+[Functions](https://en.wikipedia.org/wiki/Pure_function) that are stateless and deterministic. This makes them trivial to parallelize. 
+
+**Command–query Separation**
+Each function, method or API call should focus on [one task](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation), i.e. be *either* an imperative command or a query. 
+
+**Unix Philosophy**
+Design programs to be [minimalistic](https://en.wikipedia.org/wiki/Unix_philosophy), light-weight and reusable.
+
+
+
+
+
