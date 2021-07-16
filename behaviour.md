@@ -16,13 +16,11 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * Optimism is rational: it enhances self-esteem and self-efficacy and improves persistence [[1]][1]. [Embrace](https://en.wikipedia.org/wiki/Amor_fati) your environment rather than complaining about it.
     * "Nothing ventured, nothing gained"
 * [Confidence](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) does not imply competence, but is [related](https://en.wikipedia.org/wiki/Four_stages_of_competence) to it.
+* Many decision are driven by *fear*. E.g. the fear of risk, or the fear of missing out.
 * Each person is unique cannot be compared. Comparing them reduces them to a single metric. The same is true for groups
     * [Identity](https://en.wikipedia.org/wiki/Identity_(philosophy)) is fluid, [ill-defined](https://en.wikipedia.org/wiki/Difference_(philosophy)) and tends to change and adapt.
-
 * Success: you or your ideas need to be either *exceptional* (better than everything else) or *different*.
-
 * [Multiplicity](https://en.wikipedia.org/wiki/Posthuman) of selves. Identification with each role is dynamic. "I was not myself". Time flies.
-
 * The Self or Subject can be:
 
     - Aristotle's essence or spirit: our underlying self.
@@ -40,6 +38,7 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * Regulation and bureaucracy incentivize [gamesmanship](https://en.wikipedia.org/wiki/Gamesmanship) over sportsmanship.
 * Bureaucratic organizations don't accept [sunk costs](https://en.wikipedia.org/wiki/Sunk_cost).
 * Groups tend to develop [herd mentalities](https://en.wikipedia.org/wiki/Herd_mentality) and [groupthink](https://en.wikipedia.org/wiki/Groupthink).
+* Humans prefer certainty and absolutes over stochasticity and complexity. They tend to underestimate variance (e.g. by setting a *just* a mean expectation).
 
 
 
@@ -48,8 +47,8 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * The demand upon a (free) resource tends to expand to match the supply of the resource.
     * (Process) work [expands](https://en.wikipedia.org/wiki/Parkinson's_law) to fill the time available for its completion.
     * Data expands to [fill the space](https://en.wikipedia.org/wiki/Jevons_paradox) available for storage.
-* In the short run, the market is a voting machine but in the long run, it's's a [weighing](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) machine.
-* News is by definition random.
+* The market is a *voting* machine In the short run, but a [*weighing*](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) machine in the long run.
+* News is by definition [random](https://en.wikipedia.org/wiki/Information_content).
     * In an efficient market, stock prices depend on news and thus [evolve randomly](https://en.wikipedia.org/wiki/Random_walk_hypothesis).
 
 

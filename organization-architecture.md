@@ -12,19 +12,25 @@ Disclaimer:
 ## Organizations
 
 * Organization workflow: waterfall, agile, or anarchy.
-    * The latter is for example effective in R&D.
-    * The more imporant question is: "How much upfront planning is required in advance of experimentation."
+    * The latter can be effective in for example R&D.
+    * The more important question is: "How much upfront planning is required in advance of experimentation."
 * Organization structure: functional (e.g. `Dev + Ops`) or market-based (e.g. `DevOps`).
     * Optimize for *cost* or for *speed*.
     * Local changes are easy, global changes are expensive. Embrace independent, autonomous teams.
-* Cohesion of products - flexibility in product designs.
+* Adapt to change - be consistent (conservative)
+    * Adapt target conditions (be pragmatic) - invest in removing obstacles and bottlenecks
+    * Cohesion of products - flexibility in product designs.
+* Failure of components or services
+    * Resilient to failure, but allowing higher failure rates
+    * Strongly impacted by failure, but immediately resolving failures and continuously reducing failure rate.
+
 * Optimize for growth or value.
 * Time-horizon
     * Accumulate technical debt - reduce technical debt
     * Prioritize important tasks - short tasks
 * Economic profit - accounting profit
-    * Simplicity (high bias) - complexity ([high variance](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff))
-    * Specificity - generality
+* Simplicity (high bias) - complexity ([high variance](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff))
+* Specificity - generality
 
 
 

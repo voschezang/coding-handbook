@@ -21,6 +21,8 @@ Note that the validity of the following statements is dependent on certain *impl
 * Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
 * If you don't want your product to be criticized, just give it a positive name: e.g. be agile, use clean code.
+* "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
+* Set target conditions before figuring how how to reach them.
 
 
 
@@ -44,10 +46,10 @@ Note that the validity of the following statements is dependent on certain *impl
 
 * Being busy indicates a lack or prioritization.
     * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus.
+    * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
 * Don't jump from problems to solutions. First find the underlying causes.
-* What one person can do in nine months, nine persons can do in one month.
 * Before software can be reusable it first has to be usable.
-* [Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
+* "What one person can do in nine months, nine persons can do in one month."
 
 
 
@@ -55,7 +57,7 @@ Note that the validity of the following statements is dependent on certain *impl
 ## Software Engineering
 
 * Find the balance between proper software engineering and the hacker way.
-* There is no universal, optimal ratio between `Dev + Ops` and `DevOps`. Instead allow teams to move in a direction that is optimal in a specific context.
+* There is no universal, optimal ratio between `Dev + Ops` and `DevOps`.  Instead allow teams to move in a direction that is optimal in a specific context.
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
 * Scrum does not imply agile.
 * Agile does not imply [scrum](https://sanderhoogendoorn.com/jack-sparrow-and-the-end-of-scrum/).
@@ -79,14 +81,18 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * DevOps is just [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). You build it, you run it.
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
   * This requires a fast and automated build-test-deployment process. Be able to deploy 100 times per day.
-  * Strive for one-by-one production (small batches). Minimize the number of batching steps. Limit work in process and inventory.
-      * Remove any bottlenecks that stand in the way of this.
+* Strive for a stable one-by-one production flow (small batches).
+    * Remove any bottlenecks that stand in the way of this vision.
+    * Minimize the number of batching steps. Minimize waste in between steps.
+    * Optimize the process such that it requires minimal inventory.
 * Take calculated risks, experiment, make mistakes and learn from them.
   * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
   * Use local discoveries to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
   * Build in slack, i.e. room to incorporate learning & improvement.
-* Design for failure. Change the environment to minimize future errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
+* Design for failure. 
     * Assume that all people will make mistakes and act foolish eventually.
+    * Change the environment to minimize potential errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
+    * "Let it crash". Fail fast, but in a controlled way (e.g. using circuit breakers and compartmentalization). Make failure visible instead of suppressing it. Don't let problems accumulate to a [critical state](https://en.wikipedia.org/wiki/Critical_phenomena). This prevents [cascading](https://en.wikipedia.org/wiki/Cascading_failure) failures.
 * In a complex, dynamic environment, it is better to release 1 feature than to leave 5 ones in-progress.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
