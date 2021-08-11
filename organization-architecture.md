@@ -14,19 +14,22 @@ Disclaimer:
 * Organization workflow: waterfall, agile, or anarchy.
     * The latter can be effective in for example R&D.
     * The more important question is: "How much upfront planning is required in advance of experimentation."
-* Organization structure: functional (e.g. `Dev + Ops`) or market-based (e.g. `DevOps`).
+* Organization structure: functional (by type, e.g. `Dev, Ops`) or market/product-based (e.g. `DevOps`).
     * Optimize for *cost* or for *speed*.
-    * Local changes are easy, global changes are expensive. Embrace independent, autonomous teams.
+    * Different levels typically have a different structures (e.g. `organization, department, team`).
+    * Local changes are easy and global changes are expensive. Embrace independent, autonomous teams.
+        * You build it, you run it, you own it.
+    * These structures show up at the level of technology (e.g. code) as well.
 * Adapt to change - be consistent (conservative)
     * Adapt target conditions (be pragmatic) - invest in removing obstacles and bottlenecks
     * Cohesion of products - flexibility in product designs.
 * Failure of components or services
     * Resilient to failure, but allowing higher failure rates
     * Strongly impacted by failure, but immediately resolving failures and continuously reducing failure rate.
-
 * Optimize for growth or value.
 * Time-horizon
-    * Accumulate technical debt - reduce technical debt
+    * Accumulate technical debt (i.e. invest) - reduce technical debt (or quality debt, skill debt)
+        * Note that not all technical debt has to be paid off; code can simply be deprecated.
     * Prioritize important tasks - short tasks
 * Economic profit - accounting profit
 * Simplicity (high bias) - complexity ([high variance](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff))
@@ -42,6 +45,7 @@ Disclaimer:
 * Version control:
     * Multiple branches, but moving changes in one direction through environments (e.g. `dev -> test -> production`).
     * A single main branch (trunk), where each environment is checked out at a specific commit/state (e.g. using tags).
+* Small, predictable stories or tasks - large, meaningful, unpredictable stories
 
 **Solutions**
 

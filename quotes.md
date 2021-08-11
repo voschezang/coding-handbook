@@ -15,14 +15,13 @@ Note that the validity of the following statements is dependent on certain *impl
     * Stop thinking in closed questions: "Is this answer correct?".
     * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). It allows interaction, the sharing of ideas.
-* It is never *necessary* to continue after reaching a [good enough](https://en.wikipedia.org/wiki/Good_enough_parent) point.
+* It is never *necessary* to continue after reaching a [good enough](https://en.wikipedia.org/wiki/Good_enough_parent) point. Perfection leads to overfitting.
     * Only unicorns are perfect.
 * Think in possibilities rather than limitations.
 * Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
-* If you don't want your product to be criticized, just give it a positive name: e.g. be agile, use clean code.
+* If you don't want your product to be criticized, just give it a positive name: e.g. be *agile*, be smart, use *clean* code.
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
-* Set target conditions before figuring how how to reach them.
 
 
 
@@ -30,7 +29,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 * Effectiveness > Efficiency.
 * Slow down to speed up. Humans were not made for constant motion.
-    * Take regular breaks. Take time to orient yourself and reflect. Sometimes you have to take a step back to move forward.
+    * Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
     * Make room to make improvements (plan in slack).
     * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
@@ -68,8 +67,9 @@ Note that the validity of the following statements is dependent on certain *impl
 * The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA).
 * If tests are not run periodically they will start to fail over time.
-* It is easier to deprecate code than to refactor it.
+* Not all technical debt has to be [paid off](https://www.martinfowler.com/bliki/TechnicalDebt.html); sometimes code can be simply deprecated.
 * Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
+* Pairing is useful, but you can't expect everyone to use it to the same extend.
 * Timestamp everything.
 
 
@@ -85,10 +85,11 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
     * Remove any bottlenecks that stand in the way of this vision.
     * Minimize the number of batching steps. Minimize waste in between steps.
     * Optimize the process such that it requires minimal inventory.
-* Take calculated risks, experiment, make mistakes and learn from them.
-  * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP.
-  * Use local discoveries to make [global improvments](https://en.wikipedia.org/wiki/Autonomation).
+* Take calculated risks, experiment, make mistakes (notice mistakes) and learn from them.
+  * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP. Failure enables success.
+  * Use local discoveries to make [global improvements](https://en.wikipedia.org/wiki/Autonomation).
   * Build in slack, i.e. room to incorporate learning & improvement.
+  * Focus on a single experiment at a time, to minimize outcome ambiguity (e.g. when inferring causality).
 * Design for failure. 
     * Assume that all people will make mistakes and act foolish eventually.
     * Change the environment to minimize potential errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
@@ -146,8 +147,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 **Unsorted**
 
 Don't make fun of:
-* People who still use hard drives.
-* People who use backward slashes in paths.
+* Systems that use hard drives.
+* Systems that use backward slashes in paths.
 
 
 

@@ -1,5 +1,7 @@
 # Programming Paradigms
 
+[toc]
+
 ## Language Design
 
 * All modern languages (e.g. C, Java, Python, Haskell) are [equal](https://en.wikipedia.org/wiki/Turing_completeness) and allow for:

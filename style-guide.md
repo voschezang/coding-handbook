@@ -3,7 +3,7 @@
 * Never deviate from the following guidelines. If you do anyway, carefully consider the implications.
 * These guidelines do not reflect the opinions of my past and future employers and employees.
 
-
+[toc]
 
 
 ## Specification
