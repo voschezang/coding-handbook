@@ -28,6 +28,10 @@ Note that the validity of the following statements is dependent on certain *impl
 **Processes**
 
 * Effectiveness > Efficiency.
+* Doing the right thing > being right.
+* Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
+    * "No plan survives first contact"
+* Unspoken expectations are less likely to be unambiguous than explicit ones.
 * Slow down to speed up. Humans were not made for constant motion.
     * Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
     * Make room to make improvements (plan in slack).
@@ -49,6 +53,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Don't jump from problems to solutions. First find the underlying causes.
 * Before software can be reusable it first has to be usable.
 * "What one person can do in nine months, nine persons can do in one month."
+* [Solve via iteration](https://www.instagram.com/p/CP_70ppLAYC/), then get paid by repetition (scale up).
 
 
 
@@ -56,21 +61,39 @@ Note that the validity of the following statements is dependent on certain *impl
 ## Software Engineering
 
 * Find the balance between proper software engineering and the hacker way.
-* There is no universal, optimal ratio between `Dev + Ops` and `DevOps`.  Instead allow teams to move in a direction that is optimal in a specific context.
-* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
-* Scrum does not imply agile.
-* Agile does not imply [scrum](https://sanderhoogendoorn.com/jack-sparrow-and-the-end-of-scrum/).
 * Programming is the formalization of *human*-readable requirements and transforming them into *machine*-readable language.
 * Machine learning is the art of inferring *rules* and *patterns* based on `data` and `answers`. And then predicting the future.
 * Software Architecture is a discipline. Software is never [perfect](https://en.wikipedia.org/wiki/All_models_are_wrong) or [finished](https://www.youtube.com/watch?v=lY54TmmEllY) and requirements will change.
   * Design for failure; assume each component will break eventually.
 * The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
-  * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA).
+  * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA)
 * If tests are not run periodically they will start to fail over time.
 * Not all technical debt has to be [paid off](https://www.martinfowler.com/bliki/TechnicalDebt.html); sometimes code can be simply deprecated.
-* Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
-* Pairing is useful, but you can't expect everyone to use it to the same extend.
+* Assign owners/requestors to *requirements*. Who want this? Is it still relevant?
 * Timestamp everything.
+* Laziness incentivizes [innovation](https://en.wikipedia.org/wiki/Automation).
+
+
+
+**Collaboration**
+
+* There is no universal, optimal ratio between `Dev + Ops` and `DevOps`.  Instead allow teams to move in a direction that is optimal in a specific context.
+
+* Parallelization of work is easy, but working together is hard.
+
+* [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
+
+* Scrum does not imply agile.
+
+* Agile does not imply [scrum](https://sanderhoogendoorn.com/jack-sparrow-and-the-end-of-scrum/).
+
+* Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
+
+* A high level of trust (between team members) is required in order to do effective pairing.
+
+* Pairing is useful, but you can't expect everyone to use it to the same extend.
+
+    
 
 
 
@@ -81,10 +104,13 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * DevOps is just [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). You build it, you run it.
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
   * This requires a fast and automated build-test-deployment process. Be able to deploy 100 times per day.
-* Strive for a stable one-by-one production flow (small batches).
-    * Remove any bottlenecks that stand in the way of this vision.
-    * Minimize the number of batching steps. Minimize waste in between steps.
-    * Optimize the process such that it requires minimal inventory.
+* Maximize productivity by minimizing lead time per task/item.
+    * Strive for a stable one-by-one production flow (small batches).
+        * This is more *agile* than increasing parallelization and batch sizes.
+        * Remove any bottlenecks that stand in the way of this vision.
+        * Finish the current tasks before starting new ones.
+    * Minimize the number of batching steps and minimize waste in between. Optimize the process such that it requires minimal inventory.
+    * Measure and visualize both lead-time and lead-time-per-task.
 * Take calculated risks, experiment, make mistakes (notice mistakes) and learn from them.
   * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP. Failure enables success.
   * Use local discoveries to make [global improvements](https://en.wikipedia.org/wiki/Autonomation).

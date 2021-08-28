@@ -20,6 +20,8 @@ Disclaimer:
     * Local changes are easy and global changes are expensive. Embrace independent, autonomous teams.
         * You build it, you run it, you own it.
     * These structures show up at the level of technology (e.g. code) as well.
+* Focus vs. diversification (as an organization, team, team-member).
+    * E.g. work on all important areas (ticking all the boxes) or choose a subset of them to focus on.
 * Adapt to change - be consistent (conservative)
     * Adapt target conditions (be pragmatic) - invest in removing obstacles and bottlenecks
     * Cohesion of products - flexibility in product designs.
@@ -31,6 +33,9 @@ Disclaimer:
     * Accumulate technical debt (i.e. invest) - reduce technical debt (or quality debt, skill debt)
         * Note that not all technical debt has to be paid off; code can simply be deprecated.
     * Prioritize important tasks - short tasks
+* Collaboration: centralized or decentralized responsibilities and decisions.
+    * Number of teams/products per by PO and per scrum master.
+    * Combined product owner and scrum master roles - distribution of roles across multiple people.
 * Economic profit - accounting profit
 * Simplicity (high bias) - complexity ([high variance](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff))
 * Specificity - generality
