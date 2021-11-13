@@ -18,6 +18,11 @@ Software Industry
 * [Quotes](quotes.md) - to contemplate (high level).
 * [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 * [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
+* [Software Engineering](software-engineering.md) - what is it.
+
+General
+
+- [Modeling](modelling.md) - theory about models.
 
 
 

@@ -47,6 +47,24 @@ Multiple levels of documentation, ordered by level of natural language (increasi
 
 
 
+**Comments**
+
+Comments are metadata. They do increase maintenance. Two categories are:
+
+- Functional comments: `TODO`, `SMELL`
+- Documenting what vs. why.
+
+The Why consists of the following categories:
+
+- Context
+    - Negative information (what is not happening).
+    - Rationale, history
+- Performance
+- Use-cases, side-effects
+- Tips
+
+
+
 
 ## Design
 - Code should not be clever. Designs should be as simple as possible, but not simpler.
@@ -114,4 +132,8 @@ class Agents = {Agent(), ..}
 ```py
 class Agents = {names = [], positions = [], velocities = []}
 ```
+
+
+
+Tuples should not have a length greater than 3 or 4 or 5. Suitable alternatives might be named tuples, records or (hash-) maps.
 
