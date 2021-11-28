@@ -1,5 +1,7 @@
 # Quotes
 
+[toc]
+
 Note that the validity of the following statements is dependent on certain *implicit* and *explicit* assumptions. Additionally they are biased towards software engineering.
 
 * Everything is a theory and could be proven wrong.
@@ -25,6 +27,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
 * If you don't want your product to be criticized, just give it a positive name: e.g. be *agile*, be smart, use *clean* code.
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
+* Natural developments are not inevitable.
 
 
 
@@ -87,31 +90,23 @@ Note that the validity of the following statements is dependent on certain *impl
 
 
 
-**Collaboration**
+### Collaboration
 
 * There is no universal, optimal ratio between `Dev + Ops` and `DevOps`.  Instead allow teams to move in a direction that is optimal in a specific context.
-
 * Parallelization of work is easy (silos), but working together is hard.
-
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
-
 * Scrum does not imply agile.
-
 * Agile does not imply [scrum](https://sanderhoogendoorn.com/jack-sparrow-and-the-end-of-scrum/).
-
+* Success in scum involves [more](https://twitter.com/ronjeffries/status/1460048015549509633) than that what's in the scrum guide.
 * Finding 5 bugs in 5 lines of code is easier than finding 1 bug in 500 lines of code. Keep pull-requests small.
-
 * A high level of trust (between team members) is required in order to do effective pairing.
-
 * Pairing is useful, but you can't expect everyone to use it to the same extend.
-
 * Refinement of stories is a type of risk mitigation, where the upfront cost is independent of the materialization of risks. Hence in many cases it may feel unnecessary.
-
-    
-
+* Retrospectives are useless if you don't want to change
 
 
-**DevOps**
+
+### DevOps
 
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
@@ -139,9 +134,9 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Defer impactful decisions if they are uncertain.
     * Use small decisions as experiments.
     * Put new code behind feature flags and use canary deployments.
-
 * Prefer automation (and alternatives) over formal processes and contracts (e.g. in risk management).
     * If it's risky then do it more often. This forces one to address issues.
+    * If it's difficult then do it more often. Practice.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
   * Ideally change one thing at the same time (in a team) so you can study the results and possibly infer causality. This is also an incentive to move faster and finish tasks.
@@ -150,7 +145,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 
 
 
-**DevOps Organizations**
+### DevOps Organizations
 
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Minimize the amount of regulation and bureaucracy. Time spend on filling out forms is a waste.
@@ -167,7 +162,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 
 
 
-**The hacker way**
+### The hacker way
 
 * Be goal-oriented. Focus on the most impactful tasks.
 * Sprint's aren't fast enough. Don't wait for other developers to sync up and instead release multiple times per day.

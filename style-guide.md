@@ -49,10 +49,14 @@ Multiple levels of documentation, ordered by level of natural language (increasi
 
 **Comments**
 
-Comments are metadata. They do increase maintenance. Two categories are:
+Comments are metadata. They do increase maintenance. A few categories:
 
 - Functional comments: `TODO`, `SMELL`
-- Documenting what vs. why.
+    - These can be useful even if they are never addressed. They visualize code quality and warn contributes about missing or broken functionality.
+
+- Documenting why vs. what.
+- Giving examples
+- Giving references (to external documentation)
 
 The Why consists of the following categories:
 

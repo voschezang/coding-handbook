@@ -45,3 +45,6 @@ General
 
 E.g. a goal can be short-term and precise, or long-term but vague.
 
+
+
+Definition of anti-pattern: a commonly used bad solution to some problem.

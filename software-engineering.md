@@ -2,9 +2,11 @@
 
 As a discipline.
 
+Also see [Product Management](product-management.md).
 
+[toc]
 
-**Software methods**
+## Software methods
 
 There doesn't exist a method that guarantees bug-free code. Don't make assumptions about the reliability of code but instead verify it. This requires the following points:
 
@@ -20,7 +22,7 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
 - Automation.
 
-- Teams that are in control of their own application. Otherwise they cannot be really accountable.
+- Teams that are in control of their own application. Without agency they cannot realistically be accountable.
 
     - A third-party should not be able to change the application outside the control of the team itself. Consider hair triggers and safety caps.
 
@@ -31,54 +33,7 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
 - Communication between teams and departments. Both personal and using proper APIs.
 
-- Risk management. E.g. thread modeling.
-
-
-
-**Types of work**
-
-Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-complex-complicated-obvious`
-
-1. Research (theoretical, experimental), deconstruct the application domain.
-2. Development: novelty, effectiveness, build/improve an application.
-3. Operations: efficiency, run a black-box application.
-4. Administration: consistency, manage a black-box application.
-
-
-
-**Ways of working**
-
-Ordered descending by release time and size (lead-time).
-
-1. Waterfall: long cycles, clearly separated stages (design, develop, test, release).
-2. Agile: iterative improvement, short feedback loops.
-    1. Scrum: sprinting to a goal, MVP-first
-    2. Kanban: continuously improving
-    3. The hacker way: no deadlines, no fixed teams, no synchronization.
-
-
-
-**Testing**
-
-Three methodologies:
-
-- Write spec, then code, then test.
-- TDD
-- Develop a PoC, then evaluate whether it should be put into production, and only then continue with TDD on that specific feature.
-
-
-
-**Traditional Paradigms**
-
-With minimal collaboration, roles could be distributed as follows. The alternative would be a cross-functional team.
-
-- Architect: designs theoretical systems.
-- Developer: turns requirements into code.
-    - Senior: write interfaces.
-    - Junior: write implementations.
-- Tester: turns code into bug-reports.
-- PO: requests features.
-- Scrum master: process management, coaching, HR
+- Risk management. E.g. thread modeling. See [management principles](management-principles.md).
 
 
 
@@ -89,7 +44,62 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 
 
 
-### Programming productivity
+## Types of Work
+
+Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-complex-complicated-obvious`. Also see [Traditional Paradigms](#Traditional Paradigms).
+
+1. Research (theoretical, experimental), deconstruct the application domain.
+2. Development: novelty, effectiveness, build/improve an application. I.e. invest and introduce change.
+3. Operations: efficiency, run a black-box application. I.e. cut cost and block change.
+4. Administration: consistency, manage a black-box application.
+
+Addition
+
+- Managing X: making sure X is done in a certain way or at a larger scale.
+
+[DevOps](quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
+
+
+
+#### Traditional Paradigms
+
+With minimal collaboration, roles could be distributed as follows. The alternative would be a cross-functional team.
+
+- Architect: designs theoretical systems.
+- Developer: turns requirements into code.
+    - Senior: write interfaces.
+    - Junior: write implementations.s
+- Tester: turns code into bug-reports.
+- PO: requests features.
+- Scrum master: process management, coaching, HR
+
+
+
+### Ways of working
+
+Ordered descending by release time and size (lead-time).
+
+1. Waterfall: long cycles, clearly separated (but optimized) stages (design, develop, test, release). Big bang release (optics). Top-down decisions.
+2. Agile: (be able to) inspect and adapt. Use iterative improvement, short feedback loops. Bottom-up decisions (e.g. user-oriented). Defer uncertain decisions unless there is a good reason not to.
+    1. Scrum: sprinting to a goal, MVP-first
+    2. Kanban: continuously improving
+    3. The hacker way: no deadlines, no fixed teams, no synchronization.
+
+Note that agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does always come at the cost of being flexible. You cannot optimize for everything.
+
+
+
+#### Testing
+
+Three methodologies:
+
+- Write spec, then code, then test.
+- TDD
+- Develop a PoC, then evaluate whether it should be put into production, and only then continue with TDD on that specific feature.
+
+
+
+## Programming productivity
 
 **Language/System Agnostic**
 

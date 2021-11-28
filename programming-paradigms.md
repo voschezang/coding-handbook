@@ -55,11 +55,23 @@
 
 # Patterns
 
+Patterns are *just* models that can be used as tools to understand a system. Note that:
+
+> All models are wrong.
+
+and
+
+> Multiple models can be correct.
+
+
+
 Note, in general:
 
 - Locality is easy: e.g. changes inside a single module or a single application.
-
 - Systems can be specific and efficient, or generic and flexible.
+- Systems are usually explained as a set of components. Yet often the connections between components are more important.
+
+- A property of many good patterns is that they have clear boundaries.
 
 
 
@@ -91,11 +103,55 @@ Choreography
 **Pure Functions**
 [Functions](https://en.wikipedia.org/wiki/Pure_function) that are stateless and deterministic. This makes them trivial to parallelize. 
 
+**Interfaces**
+
+- Inheritance (sub-typing, sub-classes). I.e. backwards compatibility with a previous interface. E.g. `Array` vs. `Sequence`
+- Composition. Typically used for behaviour (e.g. `Iterable`).
+
 **Command–query Separation**
 Each function, method or API call should focus on [one task](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation), i.e. be *either* an imperative command or a query. 
 
 **Unix Philosophy**
 Design programs to be [minimalistic](https://en.wikipedia.org/wiki/Unix_philosophy), light-weight and reusable.
+
+**Communication**
+Four major categories:
+
+- API/RPC calls. Share both data and process. Simple & intuitive (aka function calls).
+    - Slow, high communication overhead.
+- Messaging. Fast, light-weight, allowing non-blocking communication.
+    - Steep learning curve.
+    - Potential ownership problem. It requires a shared communication bus.
+- FTP. Simple & universal. Just data, no commands.
+    - Lacking synchronous communication. No consistency or timeline management.
+- Shared DB. Single source of truth. Real-time access to latest data.
+    - It is difficult to find uniform data model without compromises.
+    - Noisy neighbour syndrome.
+    - Performance can be an issue.
+
+
+
+## Design Patterns
+
+Design patterns for applications and systems.
+
+
+
+Some intuitive patterns that can be explained without technical details.
+
+- Publisher-subscriber, with topics. E.g. radio-broadcasting.
+- Producer-consumer. Either using push or pull.
+- Adapter. Outsource or delegate exceptional cases. E.g. a power-plug.
+- Backend for frontend (BFF). A user-centric layer to hide the complex backend.
+- Proxy. An imperfect substitution.
+
+
+
+
+
+
+
+
 
 
 
