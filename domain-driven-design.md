@@ -1,6 +1,8 @@
 # Domain-Driven Design
 
-## Currency conversion
+
+
+## Example: Currency Conversion
 
 Two type-safe implementations using FP and OOP. 
 Unit-tests are excluded for brevity.
@@ -85,3 +87,32 @@ class Wallet // composite pattern
 ```
 
 Because the two implementations are [comparable](https://en.wikipedia.org/wiki/Isomorphism), one could be used to generate the other.
+
+
+
+## Architecture
+
+A  [hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) is an intuitive approach to combine domain-driven design (DDD) into a real-world application.
+
+A major component is the Adaptor pattern. The idea is to outsource all contextual logic, allowing the inner code to focus on the core domain.
+
+E.g.
+
+```sh
+$ tree
+App
+├── CoreBusiness.java # Domain Logic
+├── DependencyAdapter # Adapters for external dependencies (libraries or APIs)
+│   ├── AnalyticsApp.java
+│   └── PartnerAPI.java
+├── Repository
+│   ├── Repository.java # Abstraction for internal databases
+│   └── Internal
+│       ├── Inventory.java
+│       ├── Order.java
+│       └── UserAccount.java
+└── Service # User-Centric APIs
+    ├── ExternalRestAPI.java
+    └── InternalRestAPI.java
+```
+

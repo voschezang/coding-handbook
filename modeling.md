@@ -22,11 +22,13 @@ Principles of modeling, statistics and machine learning. Note that a model can b
 **Analogies vs. First Principles**
 
 - If an event is observed frequently, then analogies can help.
-- If a process is novel, but the inner process is understood, then one can start with fundamentals.
+- If a process is novel, but the inner process is understood, then it can be beneficial to start with fundamentals.
 
 
 
 ## Learning
+
+> Learning revolves around revising your opinions.
 
 Experiments not require complex setups. Start simple and expand if necessary. Three types:
 
@@ -36,6 +38,26 @@ Experiments not require complex setups. Start simple and expand if necessary. Th
     1. Replicate multiple environments. 
     2. Change one of them and use the other one as a baseline.
     3. Compare the results.
+
+
+
+### Sources
+
+> With false assumptions, any idea can be sold.
+
+Distinguish between the inside view and the [outside view](https://buttondown.email/hillelwayne/archive/the-outside-view/). Evaluate the idea first from the outside view perspective, and use that as a consideration (limitation) of the validity of any internal claims.
+
+- Outside view: without going into details, is the source credible?
+    - Is it a radical idea, or conforming to consensus?
+    - Is the source a single entity, or a multiplicity? Is it dogmatic?
+    - Is the scope of the idea well-defined, or is the idea applied to various domains, without a firm grounding (racing thoughts)?
+    - Is there an "enemy view"? Is there an obsession over categorization of alternative ideas?
+        - Are both the advantages and disadvantages considered? Is there a tradeoff or is the idea an absolute?
+    - Is the channel of communication reliable? Public? Can others criticize the idea openly?
+    - Is the method of communication suitable? Does the source have honest intent?
+- Inside view: go in depth.
+    - Are the assumptions valid?
+    - Given the assumptions of the source, does the story make sense?
 
 
 

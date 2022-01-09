@@ -8,15 +8,15 @@
   1. encapsulation of _functionality_ using modules or components,
   2. encapsulation of _data_ using (local) scopes.
 
-* In addition, many languages allow for composition of datastructures and methods a type of class system. E.g.:
+* In addition, many languages allow for composition of data-structures and methods a type of class system. E.g.:
   1. Type aliasses and union types.
       E.g. `union type A = B | C`, `alias type A = {b: B, c: C}`.
   2. Interfaces and base-classes (e.g. class implementation and extension).
   * This allows for domain-driven design.
 
 * The major difference between object-oriented programming (OOP) and functional programming (FP):
-    * OOP: coupling of data and methods, resulting in complex objects with an internal, hidden/private state.
-    * FP: **de**coupling of data and methods, resulting in independent, stateless, deterministic functions. 
+    * OOP: coupling of data and operations, resulting in complex objects with an internal, hidden/private state.
+    * FP: **de**coupling of data and operations, resulting in independent, stateless, deterministic functions.
       This makes it trivial to parallelize.
 
 * Properties such as data immutablility, overriding, overloading, static/dynamic/strong/weak/nominal/structural typing, are irrelevant.

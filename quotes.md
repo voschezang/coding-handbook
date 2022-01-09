@@ -28,6 +28,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * If you don't want your product to be criticized, just give it a positive name: e.g. be *agile*, be smart, use *clean* code.
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
 * Natural developments are not inevitable.
+* Dogma is regarded by the common people as true, by the wise as false, and by rulers as useful.
 
 
 
@@ -36,11 +37,16 @@ Note that the validity of the following statements is dependent on certain *impl
 * Effectiveness > Efficiency.
     * Prefer messy but effective communication over efficient silos (with tunnel vision).
 * Doing the right thing > being right.
-* Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
-    * "No plan survives first contact"
-* Unspoken expectations are less likely to be unambiguous than explicit ones.
+* Good strategy means saying no.
+* Process = intensity + consistency
+    * Good outcome > meeting the initial requirements.
+    * Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
+        * "No plan survives first contact"
+
+    * Unspoken expectations are less likely to be unambiguous than explicit ones.
+
 * Slow down to speed up. Humans were not made for constant motion.
-    * Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
+    * Pause. Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
     * Make room to make improvements (plan in slack).
     * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
@@ -49,13 +55,18 @@ Note that the validity of the following statements is dependent on certain *impl
 * Value both processes and outcomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). 
     * Good results with bad processes have no predictive value.
 * Be input-driven rather than merely output-driven. You can control the input, but the output is a side-effect.
-* If the postmortem (or RCA) results in in one mistake, then the postmortem was wrong. I.e. if there was a single point of failure then that was the problem.
+    * Outcome > output.
+
+* Blameless postmortems
+    * If there was a single point of failure then that was the problem (i.e. the system).
+    * Nameless postmortems imply that there is a need to hide the name.
 
 
 
 **Time to market**
 
 * Deliver sooner, not faster. Velocity > speed.
+* Received value (by customer) > created value (inventory).
 * Being busy indicates a lack or prioritization.
     * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus.
     * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.

@@ -1,6 +1,6 @@
 # Coding Handbook
 
-This is a collection of guidelines and ideas related to software engineering and computer science. References to [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:About) are chosen for convenience.
+This is a collection of guidelines and ideas related to software engineering and computer science. It is not meant to be a complete or exhaustive overview.
 
 
 
@@ -18,13 +18,13 @@ Software Industry
 * [Quotes](quotes.md) - to contemplate (high level).
 * [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 * [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
-* [Software Engineering](software-engineering.md) - what is it.
+* [Software Engineering](software-engineering.md) - what is it.g
+* [Goals/Planning/Strategy](goals-planning-strategy.md) - a format to denote goals and strategies.
+* [Product Management](product-management) - Ideas about Product
 
 General
 
-- [Modeling](modelling.md) - theory about models.
-
-
+- [Modeling](modeling.md) - theory about models.
 
 
 
@@ -47,4 +47,4 @@ E.g. a goal can be short-term and precise, or long-term but vague.
 
 
 
-Definition of anti-pattern: a commonly used bad solution to some problem.
+Definition of *anti-pattern*: a commonly used bad solution to some problem. Possibly just an indicator, signaling a deeper issue.
