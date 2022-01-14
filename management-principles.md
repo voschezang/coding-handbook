@@ -23,6 +23,49 @@ There is a tradeoff between adapting to the current team, and seeking out employ
 
 
 
+**Systems & Processes**
+
+Any system can be modeled as a black box with inputs and outputs. Given an objective (e.g. provide value) or a key result (e.g. making money), the progress can be understood using this simplified system:
+
+- *Input*: money moving into the system (over time). E.g. through sales, or services being delivered to customers.
+    - This can be defined as *throughput*
+- *Output*: operational expenses (over time). The cost to turn inventory into sold products.
+- *Inventory*: everything else. This category doesn't (yet) create value. Investments that can be sold.
+    - The longer inventory sits idle the lower the relative ROI. This drags down the performance of the whole.
+
+Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima.
+
+Using these measurable properties, a universal system-metric would be: `input - output - inventory`. Any choice can be evaluated using this metric. Is the change going to improve this metric in a given timespan?
+
+From this definition, it follows that any work that does not contribute towards throughput is either an investment or a complete waste.
+
+> Working on the right thing > investing (e.g. optimizing, learning) > working on the wrong thing (over-producing)
+
+As a complement to this metric, a relative ROI can be defined as: `(input - output) / inventory` (where inventory is never zero). Beware that this metric doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions). 
+
+The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
+
+
+
+**Propagation of errors**
+
+>  A chain is no stronger than its weakest link.
+
+The variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. In systems with high dependence (correlation), any bottleneck will greatly impact the product of the system. The typical example of this is traffic congestion.
+
+The only way to exclude bottlenecks is to let the system run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
+
+Hence, a *bottleneck* can be defined as: any resource that has capacity ≤ than the demand placed upon it.
+
+The first step is to [find and study](https://en.wikipedia.org/wiki/PDCA) bottlenecks. Then resolve them. If this is not possible, either:
+
+- Improve their efficiency and reduce their variance.
+- Ensure that the resource is used for the right job.
+
+In the same spirit, it can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production (which will increase inventory).
+
+
+
 **Measure of Success**
 
 Define a proper measure of success. Evaluate whether the assignment could be successful (outcome-based) without meeting the requirements.
@@ -40,6 +83,10 @@ There are two types of efficiency:
 - Efficiency of flow (to customer). I.e. [pull-strategy](https://en.wikipedia.org/wiki/Push%E2%80%93pull_strategy), demand-oriented. Because the customer pays for the service.
 
 Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If tasks are picked up as planned (following demand), then people can be free to make improvements and learn.
+
+
+
+In a balanced system produces all resources produce exactly the right amount. There is no excess inventory. This theoretical state is dangerous. Any perturbation (expected variance) would be detrimental to flow, because all components are related and depend on each other.
 
 
 

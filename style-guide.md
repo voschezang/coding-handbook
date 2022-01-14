@@ -1,7 +1,7 @@
 # Style Guide
 
-* Never deviate from the following guidelines. If you do anyway, carefully consider the implications.
-* These guidelines do not reflect the opinions of my past and future employers and employees.
+* Never deviate from the following guidelines. If you do so anyway, carefully consider the implications.
+* These guidelines do not reflect the opinions of my past and future employers.
 
 [toc]
 
@@ -84,7 +84,7 @@ The Why consists of the following categories:
 
 
 
-## Variable names
+### Variable names
 
 * Variable (attribute) names should be self-explanatory. 
    * Don't use the type of a variable as its name. 
@@ -95,7 +95,7 @@ The Why consists of the following categories:
 
 
 
-## Classes & methods
+### Classes & methods
 
 * The average number of lines per function or method should be `5`.
 * When writing Python, don't make it look like Java.
@@ -112,14 +112,14 @@ The Why consists of the following categories:
 
 
 
-## Formatting
+### Formatting
 
 * Use _language-specific_ autoformat.
 
 
 
 
-## Data
+### Data
 
 Always consider the tradeoffs of `AoS` and `AoS` (array of structures, structure of arrays). Consider terms of usability, performance, adaptability and scalability.
 ```py
@@ -136,4 +136,25 @@ class Agents = {names = [], positions = [], velocities = []}
 
 
 Tuples should not have a length greater than 3 or 4 or 5. Suitable alternatives might be named tuples, records or (hash-) maps.
+
+
+
+## Implementation
+
+- Make the flow of a procedural program trivial to understand.
+    - Avoid unnecessary indentation.
+    - Simplify [conditionals](https://en.wikipedia.org/wiki/De_Morgan's_laws). Moving negations outside is usually more intuitive.
+
+E.g.
+
+``` python
+def f(a, b, c):
+    if not a: 
+        return 1
+    if b: 
+        return 2
+
+    later()
+    return 3
+```
 

@@ -221,6 +221,9 @@ Typically non-prioritized and not discussed openly.
 **Invisible work**
 Single-point-of-failure. No handover in case of problems.
 
+**Zombie product**
+A product that is kept alive for political or personal reasons.
+
 
 
 **Bottlenecks**

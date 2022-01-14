@@ -10,10 +10,12 @@ An hierarchy of three layers:
 
 **(1) High level**
 
+A few variants:
+
 - North Star Goal: specific and measurable. A rough direction to go towards. Top of the goal/sub-goal hierarchy.
     - Make sure this metric is consistent with your definition of success.
 
-- Narratives: what the ideal state would look like. A vision.
+- Outcome or narrative: what the ideal state would look like. A vision.
     - E.g."1000 songs in your pocket"
 
 **(3) Planning**
@@ -30,8 +32,10 @@ Then find a way to align with the whole organization or team...
 
 Long-term goals are generally stable and short-term plans can be made continuously. Everything in between is inherently messy. The "middle" is based on the current worldview, but because it is specific it will become more and more obsolete as the environment changes. Hence it has to be from time to time.
 
-- Do to come up with a plan, but don't expect to stick to it. Build an abstract planning that is simple to adjust.
+- Do come up with a plan, but don't expect to stick to it. Build an abstract planning that is simple to adjust.
 - Diversify; consider multiple approaches (bets) that try will help you to reach your goal from different angles.
+    - e.g. have multiple [key results](https://en.wikipedia.org/wiki/OKR).
+
 
 
 
@@ -49,7 +53,7 @@ Summarize higher level in one-pages, but do use appendices (for details) and lin
 
 - A goal should be skewed towards the *Why* instead of the *What*. It should be an optimistic vision or mission.
     - This includes a understanding of the relevant assumptions.
-- Given a goal, formulate an *initiative* (input), *target* (output, objectives) and a *target condition* (outcome). 
+- Given a goal, formulate an *initiative* (input), *target* (output, result) and a *target condition* (objective, outcome).
     - Define the minimum amount of work that is required to reach an outcome and start there.
 
 - Use metrics as a tool to track progress. Expectations for metrics should be ambitious but not impossible.
