@@ -4,6 +4,14 @@ Inspired by [[1]][1]. See also on [goals and planning](goals-planning-strategy.m
 
 [toc]
 
+Three main **types** are:
+
+- Product management.  More [here](product-management.md#Product and Projects).
+- Project management
+- Process & People management.
+
+
+
 **Main Activities**
 
 Management consists of two main activities:
@@ -57,12 +65,19 @@ The only way to exclude bottlenecks is to let the system run at partial capacity
 
 Hence, a *bottleneck* can be defined as: any resource that has capacity ≤ than the demand placed upon it.
 
+- Based on this definition, optimizing non-bottleneck components doesn't improve the efficiency of the system.
+- Before optimizing a specific component it should be taken into account whether the component is likely to be a bottleneck.
+
 The first step is to [find and study](https://en.wikipedia.org/wiki/PDCA) bottlenecks. Then resolve them. If this is not possible, either:
 
 - Improve their efficiency and reduce their variance.
 - Ensure that the resource is used for the right job.
 
 In the same spirit, it can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production (which will increase inventory).
+
+
+
+
 
 
 

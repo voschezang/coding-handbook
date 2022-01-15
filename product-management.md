@@ -18,6 +18,31 @@ Don't sell, tell a story instead. This requires more than a formal list of requi
 
 
 
+## Product and Projects
+
+The main differences between project and product mindsets.
+
+**Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. This creates an inherent focus on the *future*.
+
+- Optimize **cost**. Satisfy requirements as fast and efficiently as possible.
+
+    - Build a feature/project/product, then hand it over and move on.
+
+    - Reach the deadline at all cost; strip features or reduce quality if necessary.
+
+**Products** are *continuous*, but may expire. This creates an inherent focus on the *present*.
+
+- Maximize **value**, opportunity and viability. 
+    - Delivering value to customers > resource efficiency.
+
+- Compatible with DevOps and vertical integration.
+    - "You build it, you own, you run it"
+
+- Place bets on potential wins. Prefer outcomes over meeting (initial) requirements.
+    - Long-term revenue stream > quarterly results.
+
+
+
 **Types of Products**
 
 - Traditional Product: a static object. Must be right the first time.
@@ -145,7 +170,7 @@ The generic concepts PoC and MVP can be applied to tasks and features. In genera
 **Prioritization of future work**
 Two different methods to plan work:
 
-- Sprints of 1-4 weeks. The team commits to a certain set of tasks. This commitment is used as a motivational goal rather than an obligation: left-over tasks should be seen as an possibility of improvement rather than a failure. In non-specialist teams the diversity of the work in the sprint should be taken into account.
+- Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In non-specialist teams the diversity of the work in the sprint should be taken into account.
 - No sprints, but instead use a continuously updated backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
 
 **Prioritization of work in progress**
@@ -157,6 +182,13 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 
 
 ### Backlog
+
+Items can be grouped together in two ways:
+
+- By goal. E.g. a sequence of tasks with a single purpose.
+- By type. E.g. individual, independent tasks that happen to be similar. E.g. by improving `adaptability, efficiency, security`. 
+
+
 
 Administration of work that should be done in the future.
 

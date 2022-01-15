@@ -70,7 +70,7 @@ Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-co
 
 1. Research (theoretical, experimental), deconstruct the application domain.
 2. Development: novelty, effectiveness, build/improve an application. I.e. invest and introduce change.
-3. Operations: efficiency, run a black-box application. I.e. cut cost and block change. Execute a process.
+3. Operations: efficiency & quality, run a black-box application. I.e. cut cost and block change. Execute a process.
 4. Administration: consistency, manage a black-box application. Audit an executed process.
 
 Addition
@@ -89,6 +89,7 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 - Developer: turns requirements into code.
     - Senior: write interfaces. Coach others. Take ownership. Adapt.
     - Junior: write implementations. Follow instructions. Experiment.
+    
 - Tester: turns code into bug-reports.
 - PO: requests features.
 - Scrum master: process management, coaching, HR
