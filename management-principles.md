@@ -4,7 +4,9 @@ Inspired by [[1]][1]. See also on [goals and planning](goals-planning-strategy.m
 
 [toc]
 
-Three main **types** are:
+## Overview
+
+Three main types are:
 
 - Product management.  More [here](product-management.md#Product and Projects).
 - Project management
@@ -31,6 +33,26 @@ There is a tradeoff between adapting to the current team, and seeking out employ
 
 
 
+
+
+**Measure of Success**
+
+Define a proper measure of success. Evaluate whether the assignment could be successful (outcome-based) without meeting the requirements. 
+
+Typical components:
+
+- Efficiency: of the system as a whole or individual components (e.g. resources).
+- Quality: high quality and low variance.
+- Agility: be able to adapt.
+
+
+
+## Systems & Processes
+
+Anything can be described as a system, but the level of uncertainty and control may vary.
+
+
+
 **Systems & Processes**
 
 Any system can be modeled as a black box with inputs and outputs. Given an objective (e.g. provide value) or a key result (e.g. making money), the progress can be understood using this simplified system:
@@ -38,8 +60,10 @@ Any system can be modeled as a black box with inputs and outputs. Given an objec
 - *Input*: money moving into the system (over time). E.g. through sales, or services being delivered to customers.
     - This can be defined as *throughput*
 - *Output*: operational expenses (over time). The cost to turn inventory into sold products.
-- *Inventory*: everything else. This category doesn't (yet) create value. Investments that can be sold.
+- *Inventory*: everything else. This category doesn't (yet) create value.
+    - E.g. investments that can be sold or reserves that are kept for risk containment.
     - The longer inventory sits idle the lower the relative ROI. This drags down the performance of the whole.
+    
 
 Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima.
 
@@ -49,7 +73,7 @@ From this definition, it follows that any work that does not contribute towards 
 
 > Working on the right thing > investing (e.g. optimizing, learning) > working on the wrong thing (over-producing)
 
-As a complement to this metric, a relative ROI can be defined as: `(input - output) / inventory` (where inventory is never zero). Beware that this metric doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions). 
+As a complement to this metric, a relative ROI can be defined as: `(input - output) / inventory` (where inventory is never zero). This metric highlights the cost of inventory. Beware that it doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions). 
 
 The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
 
@@ -75,33 +99,30 @@ The first step is to [find and study](https://en.wikipedia.org/wiki/PDCA) bottle
 
 In the same spirit, it can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production (which will increase inventory).
 
-
-
-
-
-
-
-**Measure of Success**
-
-Define a proper measure of success. Evaluate whether the assignment could be successful (outcome-based) without meeting the requirements.
+Tasks that go to bottleneck resources typically have high queue times, while all other tasks have high waiting times.
 
 
 
 **Efficiency & Optimization**
 
-Efficiency at a given time interval is not enough. Also care about the ability of an organization to adapt to changing environments.
+> Resource activation does not imply resource utilization.
 
 There are two types of efficiency:
 
-- Efficiency of resources. Maximize production.
+- Efficiency of resources. 
+    - Measured by resource utilization, which is defined as: "The percentage of time the resource is producing something which is contributing to the main goal". This definition excludes the production of e.g. spare parts.
     - Risks: inventory (over-production), over-stretching of resources, over-optimization (silos).
+    
 - Efficiency of flow (to customer). I.e. [pull-strategy](https://en.wikipedia.org/wiki/Push%E2%80%93pull_strategy), demand-oriented. Because the customer pays for the service.
 
 Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If tasks are picked up as planned (following demand), then people can be free to make improvements and learn.
 
+> Low idle time is a side-effect of flow efficiency but not a method of reaching it.
 
+In a *balanced* system, all resources produce exactly the right amount. There is no excess inventory. This theoretical state is dangerous. Any perturbation (expected variance) would be detrimental to flow, because all components are related and depend on each other. This inherent risk can be contained in two fundamental ways:
 
-In a balanced system produces all resources produce exactly the right amount. There is no excess inventory. This theoretical state is dangerous. Any perturbation (expected variance) would be detrimental to flow, because all components are related and depend on each other.
+- Increase inventory. This decreases agility and limits cash flow.
+- Decrease batch sizes, which decreases lead time. This increases setup time (handovers).
 
 
 

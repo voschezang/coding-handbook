@@ -1,5 +1,9 @@
 # Tradeoff in the Architecture of Organizations, Workflow and Products
 
+> Software architecture and organizational architecture are intertwined.
+
+Dependencies between teams affect both how software grows and the lead time of new features.
+
 [toc]
 
 

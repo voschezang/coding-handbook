@@ -12,7 +12,7 @@ Also see  [goals and strategy](goals-planning-strategy.md) and  [management prin
 
 > Vertical integration makes it easier to get value to a (specific) customer.
 
-
+> Keeping a product alive requires both a good narrative and regular progress.
 
 Don't sell, tell a story instead. This requires more than a formal list of requirements. Use visualizations. Describe the whole in addition to individual parts.
 
@@ -170,7 +170,7 @@ The generic concepts PoC and MVP can be applied to tasks and features. In genera
 **Prioritization of future work**
 Two different methods to plan work:
 
-- Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In non-specialist teams the diversity of the work in the sprint should be taken into account.
+- Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In cross-functional teams the diversity of the work in the sprint may be taken into account.
 - No sprints, but instead use a continuously updated backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
 
 **Prioritization of work in progress**

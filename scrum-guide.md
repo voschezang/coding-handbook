@@ -1,17 +1,29 @@
 # Scrum
 
-This document is compatible with [Scrum](https://www.scrum.org/). The [official](https://scrumguides.org/scrum-guide.html) guide (2020) is a concise set of rules rather than a guideline. At first sight these may seem unnecessarily strict and even dogmatic. The text should be interpreted in the right context, but the intent of the guide cannot easily be written down in [natural language](https://en.wikipedia.org/wiki/Natural_language). Moreover, the guide doesn't specify how to apply Scrum in a specific domain. If you want to adapt Scrum more easily it is advised to collaborate with Scrum trainers to establish a two-way conversation.
+This document is compatible with the  [Scrum guide](https://scrumguides.org/scrum-guide.html) (2020). At first sight, the original text may seem unnecessarily strict and even dogmatic. Although it contains strict rules, it is intended as a guideline and it should be interpreted in the right context. Unfortunately, the deeper meaning of the authors cannot easily be written down in [natural language](https://en.wikipedia.org/wiki/Natural_language). A typical point of discussion is whether Scrum is applied *correctly*, but it would be more useful to focus on how Scrum can be used most effectively.
+
+The guide does not specify how to apply Scrum in a specific domain. If you want to adapt Scrum it is advised to make use of complementary resources. For example by hiring Scrum trainers to establish a two-way conversation.
 
 [toc]
 
 ## High-Level Overview
-Scrum is designed for small teams that manages a single product in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). It is by design generic and under-specified. For it excludes how to develop product portfolios, how to define a target market, how to do UX or how to manage employees. This generic approach allows Scrum to be adapted to a specific domain and organization. The main caveat is that it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a product mindset.
+Scrum is designed for  small teams that manages a single product in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). It is by design generic and under-specified. For it excludes how to develop product portfolios, how to define a target market, how to do UX or how to manage employees. Scrums generic approach allows it to be adapted to a specific domain and organization. The main caveat is that it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a product mindset.
 
 ### Values
-Scrum advocates for the following values: `commitment, focus, openness, respect, courage`. Teams should discover themselves how they can apply these values in practice, in their organization.
+Scrum values people over processes. It advocates for the following values: `commitment, focus, openness, respect, courage`. Teams should discover themselves how they can apply these values in practice, in their organization.
+
+> Inspection is useless if you don't want to change.
+
+Scrum is founded on empiricism and lean thinking.
+
+1. Transparency: continuously make observations and collect data.
+2. Inspection: periodically analyze the current state in order to detect and predict possible (undesirable) consequences.
+3. Adaption: when a process deviates from acceptable bounds then it must be adjusted as soon as possible. This requires empowerment of the team and its members.
+
+Naturally, Scrum is opposed to practices of hiding problems (from managers). E.g. polishing statistics out of fear or reprisal.
 
 **Agile**
-It is a framework that helps teams to be [agile](https://en.wikipedia.org/wiki/Agile_software_development); to be able to inspect and adapt. It advocates for iteration as the main method to manage uncertainty and change. This contrasts with other methods that rely on [functional phases](https://en.wikipedia.org/wiki/Waterfall_model) and tightening of requirements. A major reason for this is that this would just constrains the solution, without addressing the underlying problem.
+It is a framework that helps teams to be [agile](https://en.wikipedia.org/wiki/Agile_software_development); to be able to inspect and adapt. It advocates for iteration as the main method to manage uncertainty, change and risk. This contrasts with other methods that rely on [functional phases](https://en.wikipedia.org/wiki/Waterfall_model) and tightening of requirements. A major reason for this is that this would just constrains the solution, without addressing the underlying problem.
 
 **Product Mindset**
 Scrum revolves around products rather of projects. See [this document](product-management.md#Product and Projects). It prioritizes the creation and delivery of value instead of time and cost. In this spirit, success is defined as:
@@ -23,8 +35,6 @@ Scrum revolves around products rather of projects. See [this document](product-m
 **Anti-patterns**
 
 - Managers that spend their time firefighting.
-- Keeping managers happy by hiding problems.
-- Polishing statistics out of fear of consequences
 
 ### Sprints
 
@@ -58,8 +68,9 @@ The PO is accountable for the following items, but can delegate them if desired:
 
 The Scrum Master (SM) role includes:
 
-- Removing impediments.
+- Removing impediments; manage dependencies.
 - Educating the organization on Scrum.
+- (Optional) Coaching of team members.
 
 It is [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rather than a boss, chairman, scribe, secretary or police agent.
 
@@ -182,5 +193,23 @@ Features and changes must adhere to the DoD and even then the PO should decide w
 
 Product Portfolio: a set of products.
 
-For each product: Product Vision > Product Strategy > Product Goal > Sprint Goal.
+For each product: Product Vision (Why) > Product Strategy (How) > Product Goal (Why) > Product Roadmap (How) > Sprint Goal.
+
+
+
+- Why: Corporate Vision
+    - What: Product Portfolio
+    - How: Corporate Strategy
+
+
+
+- Why: Product Vision
+    - How: Product Strategy
+- Why: Product Goal
+    - How: Product Roadmap
+- Why: Sprint Goal.
+    - What: Sprint Backlog
+    - Who: Sprint plan
+
+
 

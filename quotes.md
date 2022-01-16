@@ -5,6 +5,7 @@
 Note that the validity of the following statements is dependent on certain *implicit* and *explicit* assumptions. Additionally they are biased towards software engineering.
 
 * Everything is a theory and could be proven wrong.
+* Every problem seems easy after reading the solution.
 * There is no such thing as absolute certainty. Even [rationality](https://en.wikipedia.org/wiki/Postmodernism) does not guarantee certainty. Pure objectivity does not exist.
 * Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation
     ) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality
@@ -34,9 +35,9 @@ Note that the validity of the following statements is dependent on certain *impl
 
 **Processes**
 
-* Effectiveness > Efficiency.
+* Effectiveness (doing the right things) > Efficiency (doing things right).
     * Prefer messy but effective communication over efficient silos (with tunnel vision).
-* Doing the right thing > being right.
+    * Doing the right thing > being right.
 * Good strategy means saying no.
 * Process = intensity + consistency
     * Good outcome > meeting the initial requirements.
@@ -46,9 +47,14 @@ Note that the validity of the following statements is dependent on certain *impl
     * Unspoken expectations are less likely to be unambiguous than explicit ones.
 
 * Slow down to speed up. Humans were not made for constant motion.
+    * Control flow. Prioritize ([triage](https://en.wikipedia.org/wiki/Triage)) before starting new tasks. Options: `do, defer, delegate, drop`
     * Pause. Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
+        * Being busy = being lazy. Not taking the time to reconsider.
+
     * Make room to make improvements (plan in slack).
     * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
+    * Don't jump from problems to solutions. First find the underlying causes.
+
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Learning requires *un*learning. Define conditions under which you would change your beliefs.
@@ -65,12 +71,12 @@ Note that the validity of the following statements is dependent on certain *impl
 
 **Time to market**
 
-* Deliver sooner, not faster. Velocity > speed.
-* Received value (by customer) > created value (inventory).
+* Deliver sooner, not faster. Average throughput > total throughput.
+    * Received value (by customer) > created value (inventory).
+
 * Being busy indicates a lack or prioritization.
-    * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus.
+    * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
     * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
-* Don't jump from problems to solutions. First find the underlying causes.
 * Training can be defined as "practice by doing", but at a much slower pace. It shouldn't be rushed.
 * Before software can be reusable it first has to be usable.
 * "What one person can do in nine months, nine persons can do in one month."
