@@ -30,6 +30,9 @@ Note that the validity of the following statements is dependent on certain *impl
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
 * Natural developments are not inevitable.
 * Dogma is regarded by the common people as true, by the wise as false, and by rulers as useful.
+* Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects. 
+    * Context switching isn't free.
+
 
 
 

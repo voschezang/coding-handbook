@@ -6,15 +6,46 @@ Inspired by [[1]][1]. See also on [goals and planning](goals-planning-strategy.m
 
 ## Overview
 
-Three main types are:
+1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge. 
+2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
+3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value. 
+    1. Project (time- and cost-bound). Focus on reaching a goal.
+    2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
 
-- Product management.  More [here](product-management.md#Product and Projects).
-- Project management
-- Process & People management.
+
+
+Gaining knowledge
+
+- Start with a prior belief, collect data, update your belief, and repeat.
 
 
 
-**Main Activities**
+**Change**
+
+Note that these can all involve *change*. A typical challenge is to change common processes.
+
+1. [Influences](https://danluu.com/culture/) people
+    1. Incentives. Rewards and punishments for behaviour or achievements.
+    2. Processes. E.g. regulation, validation.
+    3. Culture. "inherent" values. E.g. ideals to strive for.
+2. Persuade people
+
+
+
+Reaching goals usually requires change.
+
+1. Direction.
+    1. Increase positive effects (e.g. increase profit).
+    2. Decrease negative effects (e.g. cut cost).
+2. Locality.
+    1. Optimize (all) individual components.
+    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components.
+
+With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
+
+
+
+**Type of leadership**
 
 Management consists of two main activities:
 
@@ -33,8 +64,6 @@ There is a tradeoff between adapting to the current team, and seeking out employ
 
 
 
-
-
 **Measure of Success**
 
 Define a proper measure of success. Evaluate whether the assignment could be successful (outcome-based) without meeting the requirements. 
@@ -43,13 +72,17 @@ Typical components:
 
 - Efficiency: of the system as a whole or individual components (e.g. resources).
 - Quality: high quality and low variance.
-- Agility: be able to adapt.
+- Agility: be able to adapt. Typical influences are lead time, batch sizes
 
 
 
 ## Systems & Processes
 
+Many challenges in management can be untangled by going back to fundamentals. A general form is a *system*. Using a mathematical representation of a system allows us to draw conclusions that generalize to arbitrary domain.
+
 Anything can be described as a system, but the level of uncertainty and control may vary.
+
+A specific type of system is an *organization*, which can be defined as an interdependent set of components that work together towards a common goal. The alignment, autonomy and coordination of these components complicates the path to the goal.
 
 
 
@@ -61,13 +94,14 @@ Any system can be modeled as a black box with inputs and outputs. Given an objec
     - This can be defined as *throughput*
 - *Output*: operational expenses (over time). The cost to turn inventory into sold products.
 - *Inventory*: everything else. This category doesn't (yet) create value.
-    - E.g. investments that can be sold or reserves that are kept for risk containment.
+    - E.g. investments that can be sold or reserves (buffers) that are kept for risk containment.
     - The longer inventory sits idle the lower the relative ROI. This drags down the performance of the whole.
+    - Most inventory depreciates over time. Inventory can even become obsolete.
     
 
 Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima.
 
-Using these measurable properties, a universal system-metric would be: `input - output - inventory`. Any choice can be evaluated using this metric. Is the change going to improve this metric in a given timespan?
+Using these measurable properties, a universal system-metric would be: `input - output - inventory`. Any choice can be evaluated using this metric: "Is the change going to improve this metric in a given timespan?"
 
 From this definition, it follows that any work that does not contribute towards throughput is either an investment or a complete waste.
 
@@ -83,21 +117,31 @@ The future profitability can be defined as the [expected value](https://en.wikip
 
 >  A chain is no stronger than its weakest link.
 
-The variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. In systems with high dependence (correlation), any bottleneck will greatly impact the product of the system. The typical example of this is traffic congestion.
+A bottleneck or constraint can greatly impact the product of the system. The typical example of this is traffic congestion. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this.
 
-The only way to exclude bottlenecks is to let the system run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
+The only fundamental way to avoid bottlenecks is to let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
 
-Hence, a *bottleneck* can be defined as: any resource that has capacity ≤ than the demand placed upon it.
 
-- Based on this definition, optimizing non-bottleneck components doesn't improve the efficiency of the system.
-- Before optimizing a specific component it should be taken into account whether the component is likely to be a bottleneck.
+
+**Resources**
+
+Let's use the formal term *resource* for components in a system. This includes anything that helps the system or organization towards its goal. Based on this definition, optimizing non-bottleneck components doesn't improve the efficiency of the system. The caveat is that resources should of course also work on the *right* thing. Avoiding working on the wrong thing can reduce waste and thereby improve global efficiency.
+
+Resources can be categorizes as:
+
+1. Bottlenecks: any resource that has capacity ≤ than the demand placed upon it.
+2. Capacity constraint resources. A resource that is on the verge of becoming a bottleneck.
+3. Non-bottlenecks. Optimizing these will not improve the flow of the system.
+
+
 
 The first step is to [find and study](https://en.wikipedia.org/wiki/PDCA) bottlenecks. Then resolve them. If this is not possible, either:
 
-- Improve their efficiency and reduce their variance.
-- Ensure that the resource is used for the right job.
+1. Maximize utilization or minimize idle time. This will make the resource more efficient.
+2. Ensure that the resource is used for the right job.
+3. Improve their efficiency and quality. E.g. reduce variance.
 
-In the same spirit, it can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production (which will increase inventory).
+In the same spirit, it can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
 
 Tasks that go to bottleneck resources typically have high queue times, while all other tasks have high waiting times.
 
@@ -106,6 +150,10 @@ Tasks that go to bottleneck resources typically have high queue times, while all
 **Efficiency & Optimization**
 
 > Resource activation does not imply resource utilization.
+
+A system can have many small bottlenecks. Therefore it is useful to distinguish between local inefficiencies and a global one. This is the main constraint of a system.
+
+
 
 There are two types of efficiency:
 
@@ -191,16 +239,6 @@ Local improvements and adaptation are a vital complement to top-down strategies.
 
 - This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
 - Local improvements are usually easier than global ones.
-
-
-
-**Influence (organizational level)**
-
-[Three influences](https://danluu.com/culture/)
-
-- Incentives. Rewards and punishments for behaviour or achievements.
-- Processes. E.g. regulation, validation.
-- Culture. "inherent" values. E.g. ideals to strive for.
 
 
 

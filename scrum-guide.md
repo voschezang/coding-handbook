@@ -47,12 +47,14 @@ Sprints are short projects with a fixed length and a goal (outcome). Scrum speci
 In addition, there are a few other activities
 
 - The Daily Scrum
-- Refinement work.
+- Refinement work. This doesn't have to be a formal event, but it should be done regularly.
 
 
 
 
 ## Roles
+
+### Product Owner
 
 A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM.
 
@@ -66,15 +68,46 @@ The PO is accountable for the following items, but can delegate them if desired:
 
 
 
-The Scrum Master (SM) role includes:
+### Scrum Master
 
-- Removing impediments; manage dependencies.
+A Scrum Master (SM) manages people and processes, but from a distance. The end-goal is for the rest of the team to take ownership. The style can vary from leading to facilitating. A few important activities are:
+
+- Removing impediments. This may require escalation to the rest of the organization.
 - Educating the organization on Scrum.
-- (Optional) Coaching of team members.
+- Coaching of team members.
 
-It is [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rather than a boss, chairman, scribe, secretary or police agent.
+The activities of a SM depend on both the organization and the team. As Scrum gets adapted in an organization, the domain where the SM may evolve:
+
+1. An understanding of Scrum in the team or organization
+2. Scrum team forming
+3. Development excellence
+4. Adjacent processes
+5. Organizational processes
+
+As the team develops itself from towards mastery of Scrum, the role of the SM can change as well:
+
+1. Teaching techniques
+2. Embracing empiricism
+3. Valuable outcomes
+4. Values and principles
+5. Invisibly present
 
 
+It is a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rather than a boss, chairman, scribe, secretary or police agent. Based on the environment, the role can manifest itself in several ways. A good SM chooses deliberately how to act.
+
+- Leading, pushing
+    - Teacher or mentor
+    - Uphold Scrum
+    - Take action. E.g. escalate a problem.
+- Facilitating, showing, giving perspective
+    - Facilitator, coach
+    - Point north
+    - Actively do nothing
+
+
+
+
+### Developers
 
 The rest of the development teams does not have a hierarchy and are instead self-organizing. They should hold each other accountable (as a team) rather than by an external party.
 
@@ -166,6 +199,9 @@ Some common patterns for PBIs:
 | Increment (finished work)              | Definition of Done |
 
 
+
+**Product Backlog**
+A single source of truth of planned work. It is prioritized by value, as defined by the PO.
 
 
 **Product Goal**

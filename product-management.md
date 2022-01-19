@@ -30,7 +30,7 @@ The main differences between project and product mindsets.
 
     - Reach the deadline at all cost; strip features or reduce quality if necessary.
 
-**Products** are *continuous*, but may expire. This creates an inherent focus on the *present*.
+**Products** are *continuous*, but may expire (based on alternatives). This creates an inherent focus on the *present*.
 
 - Maximize **value**, opportunity and viability. 
     - Delivering value to customers > resource efficiency.
