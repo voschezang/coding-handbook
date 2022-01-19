@@ -1,4 +1,4 @@
-# Tradeoff in the Architecture of Organizations, Workflow and Products
+# Tradeoffs in the Architecture of Organizations, Workflow and Products
 
 > Software architecture and organizational architecture are intertwined.
 
@@ -149,6 +149,5 @@ Embrace a culture of learning.
     * Minimal & compact - fully self-contained
     * Value in side-effects - risk in side-effects
     * Low threat to status quo - challenges status quo & conventions
-
 
 
