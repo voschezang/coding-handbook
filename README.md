@@ -25,6 +25,7 @@ Software Industry
 General
 
 - [Modeling](modeling.md) - theory about models.
+- [Organization Structure](organization-structure.md) - not just application architecture.
 
 
 
