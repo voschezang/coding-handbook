@@ -1,10 +1,29 @@
 # Management Principles
 
-Inspired by [[1]][1]. See also on [goals and planning](goals-planning-strategy.md).
+Inspired by [various sources](#References). See also on [goals and planning](goals-planning-strategy.md).
 
 [toc]
 
 ## Overview
+
+> Good management is situational
+
+See also [organization-structure.md](organization-structure.md). Management consists of **balances**. For example:
+
+- Learning and adjusting.
+    - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience.
+
+- Focussing versus diversifying.
+    - E.g. improving a process versus outsourcing a process.
+
+- Time horizon.
+    - Pursue an optimistic ideal or a realistic planning.
+    - Optimizing for the next quarter or for multiple decades.
+
+
+
+
+Three integral properties of management.
 
 1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge. 
 2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
@@ -13,10 +32,6 @@ Inspired by [[1]][1]. See also on [goals and planning](goals-planning-strategy.m
     2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
 
 
-
-Gaining knowledge
-
-- Start with a prior belief, collect data, update your belief, and repeat.
 
 
 
@@ -38,10 +53,21 @@ Reaching goals usually requires change.
     1. Increase positive effects (e.g. increase profit).
     2. Decrease negative effects (e.g. cut cost).
 2. Locality.
-    1. Optimize (all) individual components.
-    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components.
+    1. Optimize (all) individual components. 
+        1. Risk: over-production, tunnel-vision.
+    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components. 
+        1. Risk: bias for the current goal. E.g. bias for a target market.
+    3. Diversify. E.g. diversify the product line for exposure to new markets.
+        1. Risk: lack of focus, lack of efficiency, low margins.
 
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
+
+
+
+Goals
+
+- Goals that are too high lead short term optimization (trying to survive instead of investing).
+- Goal that are not high enough lead to a lack of focus.
 
 
 
@@ -119,7 +145,9 @@ The future profitability can be defined as the [expected value](https://en.wikip
 
 A bottleneck or constraint can greatly impact the product of the system. The typical example of this is traffic congestion. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this.
 
-The only fundamental way to avoid bottlenecks is to let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
+The only fundamental way to avoid internal bottlenecks is to let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
+
+Note that there can also be an external bottleneck. E.g. market demand that is lower than the capacity of the system.
 
 
 
@@ -189,16 +217,6 @@ This involve
 Note that investment involves a short term cost by definition.
 
 
-
-
-
-Management is about finding a balance. For example:
-
-- Focus on an optimistic ideal or a realistic planning.
-- Being adaptive (pragmatic) or being consistent (conservative).
-- Optimizing for the next quarter or multiple decades.
-- Optimizing the whole or focussing on individual components (e.g. departments, teams, individuals)
-- Improve what you are doing or stop doing what you should not be doing
 
 
 
@@ -396,8 +414,51 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
 
 
 
+## Miscellaneous
+
+Gaining knowledge
+
+- Start with a prior belief, collect data, update your belief, and repeat.
 
 
-**References**
+
+Types of work
+
+- Planned work
+	- Business projects. E.g. directly related to customer demand.
+	- Internal projects. Enable business projects.
+	- Changes. E.g. maintenance.
+- Unplanned work. This keeps you from doing actual work
+	- Firefighting. E.g. incidents, recovery work.
+	- Adjusting, changing plans.
+
+
+
+**Knowledge**
+
+Four types of knowledge
+
+- Known knowns: mastery
+- Known unknowns: self-awareness
+- Unknown knowns: hidden potential
+- Unknown unknowns: blind spots
+
+
+
+**Stability / Reliability**
+
+Single point estimates (e.g. the mean) are a poor predictor of stability. The following image shows that chaotic (random) and cyclical processes - which are fundamentally different - can have the same mean.
+
+![plot-process-throughput](/Users/mark/stack/src/coding-style-guide/img/plot-process-throughput.png)
+
+
+
+
+
+
+
+## References
 
 [1]: Rother	"Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results"
+[2]: Goldratt "The Goal"
+[4]: DeMarco "Peopleware: Productive Projects and Teams"

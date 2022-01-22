@@ -38,7 +38,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 **Processes**
 
-* Effectiveness (doing the right things) > Efficiency (doing things right).
+* Effectiveness (doing the right thing, goal-oriented) > Efficiency (doing things right, process-oriented).
     * Prefer messy but effective communication over efficient silos (with tunnel vision).
     * Doing the right thing > being right.
 * Good strategy means saying no.

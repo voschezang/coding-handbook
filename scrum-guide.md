@@ -104,23 +104,16 @@ It is a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rath
     - Point north
     - Actively do nothing
 
-
-
+**Anti-patterns**
+Micromanagement, PO without authority, too many dependencies, mechanical scrum (without values).
 
 ### Developers
 
-The rest of the development teams does not have a hierarchy and are instead self-organizing. They should hold each other accountable (as a team) rather than by an external party.
+The rest of the development teams does not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable.
 
-They deliver periodic increments of work, which can be released 
+They should have enough autonomy to be able to take ownership of their work. They should be hold accountable by each other (as a team) rather than by an external party.
 
-
-
-The Scrum teams consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO.
-
-
-
-**Anti-patterns**
-Micromanagement, PO without authority, too many dependencies.
+The Scrum teams consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO. Scrum prescribes a team size of at most 10 members, unless there is a good reason to have a larger team.
 
 ## Events
 
@@ -140,9 +133,9 @@ Sprint events are opportunities to inspect and adapt. They are all timeboxed. Us
 
 The Daily Scrum is independent of the sprint length.
 
-| Event       | Inspection                   | Adaption       | Who Attends      | Time-box |
-| ----------- | ---------------------------- | -------------- | ---------------- | -------- |
-| Daily Scrum | Progress towards Sprint Goal | Sprint Backlog | Development Team | 15 min.  |
+| Event                 | Inspection                   | Adaption       | Who Attends      | Time-box |
+| --------------------- | ---------------------------- | -------------- | ---------------- | -------- |
+| Daily Scrum (Standup) | Progress towards Sprint Goal | Sprint Backlog | Development Team | 15 min.  |
 
 
 
@@ -172,6 +165,9 @@ The team informs stakeholders about their progress. A moment for stakeholders an
 
 
 
+**Anti-pattern**
+Start-stop scrum; no continuity between sprints.
+
 ## Artifacts
 
 Scrum does not prescribe [user-stories](https://www.atlassian.com/agile/project-management/user-stories) or [epics](https://www.atlassian.com/agile/project-management/epics-stories-themes), but instead uses the generic term Product Backlog Item (PBI). The flow ` idea > WIP >  delivery > release` is as follows:
@@ -182,11 +178,16 @@ Scrum does not prescribe [user-stories](https://www.atlassian.com/agile/project-
 
 
 
-Some common patterns for PBIs:
+Some common patterns for PBIs. Lowercase letters denote preparation and uppercase letters denote a release.
 
+- `AAA BBB CCC`: release frequently and with focus.
 - `ABC ABC ABC`: release frequently, but without focus.
-- `AAA BBB CCC`: release less frequently, but with focus.
+- `aaA bbB ccC`: release less frequently, but with focus.
 - `abc abc ABC`: release after third sprint (anti-pattern).
+
+
+
+The size or weight of PBIs is a proxy for the effort required to finish it. It can be expressed in e.g. FTE hours or complexity. If all PBIs have a comparable size then it becomes easier to predict when work is finished, even while taking into account uncertainty. In order to make accurate estimations a confidence interval based on historical data is vital.
 
 
 
@@ -213,7 +214,7 @@ As mentioned, reaching the sprint goal has precedence over the sprint backlog. T
 
 
 
-The **Definition of Done** (DoD) is specific to an organization and a team. It describes quality standards and usually includes:
+The **Definition of Done** (DoD) can be specific to a team and describes when an Increment is ready to be released in production. It describes quality standards and usually includes:
 
 - ˙Integration tests
 

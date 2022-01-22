@@ -19,6 +19,28 @@ Control of an organization vary between being completely centralized or complete
 
 
 
+## Autonomy and Alignment per Domain
+
+Organizations cannot be studied properly without taking into account the domain in which they live.
+
+Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
+
+1. Chaotic. *"Novel practice"*
+2. Complex. *"Emergent practice"*
+3. Complicated. *"Good practice"*
+4. Obvious. *"Best practice"*
+
+There are two fundamental dimensions of of influence. 
+
+1. Alignment: from flexibility to consistency.
+2. Autonomy: from centralized to distributed.
+
+These dimensions are intertwined and the optimum is situational. The following image gives an example of how the level of regulation can affect the value that is produced and delivered. Other properties with similar effects are: overstaffing and up-front planning.
+
+![plot-process-value-per-domain](/Users/mark/stack/src/coding-style-guide/img/plot-process-value-per-domain.png)
+
+
+
 ## Hierarchy of Components
 
 This section uses the term "team" instead of "component", but the categories do extend beyond this.
