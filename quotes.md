@@ -52,7 +52,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Slow down to speed up. Humans were not made for constant motion.
     * Control flow. Prioritize ([triage](https://en.wikipedia.org/wiki/Triage)) before starting new tasks. Options: `do, defer, delegate, drop`
     * Pause. Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
-        * Being busy = being lazy. Not taking the time to reconsider.
+        * Busyness is correlated with laziness. E.g. not taking the time to reconsider.
 
     * Make room to make improvements (plan in slack).
     * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.

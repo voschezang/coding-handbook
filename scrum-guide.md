@@ -7,20 +7,26 @@ The guide does not specify how to apply Scrum in a specific domain. If you want 
 [toc]
 
 ## High-Level Overview
-Scrum is designed for  small teams that manages a single product in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). It is by design generic and under-specified. For it excludes how to develop product portfolios, how to define a target market, how to do UX or how to manage employees. Scrums generic approach allows it to be adapted to a specific domain and organization. The main caveat is that it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a product mindset.
+Scrum is designed for  small teams that manages a single product in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). The main reasons to use it are (1) to  improve quality through reflection and adaption and (2) to reduce risk by delivering value in short increments.
+
+Scrum is by design generic and under-specified. For example, it excludes how to develop product portfolios, how to define a target market, how to improve UX or how to manage employees. Scrums generic approach allows it to be adapted to a specific domain and organization. The main caveat is that it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a *product mindset*.
 
 ### Values
 Scrum values people over processes. It advocates for the following values: `commitment, focus, openness, respect, courage`. Teams should discover themselves how they can apply these values in practice, in their organization.
 
 > Inspection is useless if you don't want to change.
 
-Scrum is founded on empiricism and lean thinking.
+Scrum values empiricism and lean thinking.
 
 1. Transparency: continuously make observations and collect data.
 2. Inspection: periodically analyze the current state in order to detect and predict possible (undesirable) consequences.
 3. Adaption: when a process deviates from acceptable bounds then it must be adjusted as soon as possible. This requires empowerment of the team and its members.
 
-Naturally, Scrum is opposed to practices of hiding problems (from managers). E.g. polishing statistics out of fear or reprisal.
+A few concrete values:
+
+- Quality first. Do not reduce quality for the sake of reaching a deadline. The only exception to deviate from standard processes are when there is a production-incident. 
+- Self-managing teams. Don't solve problems for the team but instead empower the team to find a solution.
+- Scrum is opposed to practices of hiding problems (from managers). E.g. polishing statistics out of fear or reprisal.
 
 **Agile**
 It is a framework that helps teams to be [agile](https://en.wikipedia.org/wiki/Agile_software_development); to be able to inspect and adapt. It advocates for iteration as the main method to manage uncertainty, change and risk. This contrasts with other methods that rely on [functional phases](https://en.wikipedia.org/wiki/Waterfall_model) and tightening of requirements. A major reason for this is that this would just constrains the solution, without addressing the underlying problem.
@@ -30,11 +36,10 @@ Scrum revolves around products rather of projects. See [this document](product-m
 
 - Frequent delivery of value to customers.
 - The ability to adapt to changes. E.g. in markets, technology, customer preference.
-- Ownership of the team.
+- Ownership of the team. Developers should have enough autonomy to self-organize and adapt.
 
 **Anti-patterns**
-
-- Managers that spend their time firefighting.
+Managers that spend their time firefighting.
 
 ### Sprints
 
@@ -49,14 +54,18 @@ In addition, there are a few other activities
 - The Daily Scrum
 - Refinement work. This doesn't have to be a formal event, but it should be done regularly.
 
+Note that delivering software can be decoupled from releasing software. Even is delivered software is not released immediately, the periodic delivery incentivizes feedback and it increases transparency, and control.
 
 
 
 ## Roles
 
-### Product Owner
+A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](organization-structure.md).
 
-A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM.
+**Anti-patterns**
+Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work.
+
+### Product Owner
 
 The PO is accountable for the following items, but can delegate them if desired:
 
@@ -66,11 +75,9 @@ The PO is accountable for the following items, but can delegate them if desired:
 
 - Mediation between stakeholders, customers and the development teams.
 
-
-
 ### Scrum Master
 
-A Scrum Master (SM) manages people and processes, but from a distance. The end-goal is for the rest of the team to take ownership. The style can vary from leading to facilitating. A few important activities are:
+A Scrum Master (SM) manages people and processes, but from a distance. This allows the SM to be a more objective observer. The end-goal is for the rest of the team to take ownership. The style can vary from leading to facilitating. A few important activities are:
 
 - Removing impediments. This may require escalation to the rest of the organization.
 - Educating the organization on Scrum.
@@ -92,44 +99,45 @@ As the team develops itself from towards mastery of Scrum, the role of the SM ca
 4. Values and principles
 5. Invisibly present
 
-
-It is a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rather than a boss, chairman, scribe, secretary or police agent. Based on the environment, the role can manifest itself in several ways. A good SM chooses deliberately how to act.
+Although the SM is the expert on the Scrum process, most decisions should be made by the team. The SM is a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rather than a boss, chairman, scribe, secretary or police agent. Based on the environment, the role can manifest itself in several ways. A good SM chooses deliberately how to act.
 
 - Leading, pushing
     - Teacher or mentor
     - Uphold Scrum
     - Take action. E.g. escalate a problem.
 - Facilitating, showing, giving perspective
-    - Facilitator, coach
+    - Facilitator or coach
+    - Actively do nothing. E.g. let small problems show up to allow the team to react.
     - Point north
-    - Actively do nothing
-
-**Anti-patterns**
-Micromanagement, PO without authority, too many dependencies, mechanical scrum (without values).
 
 ### Developers
 
-The rest of the development teams does not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable.
+The rest of the **development teams** do not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable. A PO or SM can also have a developer role.
 
-They should have enough autonomy to be able to take ownership of their work. They should be hold accountable by each other (as a team) rather than by an external party.
+Developers should have enough autonomy to be able to take ownership of their work. They should be hold accountable by each other (as a team) rather than by an external party.
 
-The Scrum teams consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO. Scrum prescribes a team size of at most 10 members, unless there is a good reason to have a larger team.
+The **Scrum teams** consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO. Scrum prescribes a team size of at most 10 members, unless there is a good reason to have a larger team.
+
+
 
 ## Events
 
-**Sprint**
+### Sprint
 Sprints can be independent from the release cycle; in the ideal case releases happen multiple times per week. The focus of a sprint should be to reach the Sprint goal rather than following the initial planning; it may not be necessary to finish all work in the Sprint Backlog. If the sprint goal becomes obsolete then the sprint can be ended prematurely. New sprints start automatically after the previous sprint has ended. 
 
 The time-limit of a sprint is fixed. Any unfinished work may be moved over the the next sprint. If the sprint goal is not reached then the team should take it as an opportunity to learn and choose a new sprint goal in the next sprint. Hence it is not permitted to increase the length of a sprint. In addition,  reducing quality for the sake of reaching a deadline is a no-go.
 
-**Sprint Events**
-Sprint events are opportunities to inspect and adapt. They are all timeboxed. Usually they don't take up the capacity, especially not for shorter sprints.
+**Anti-pattern**
+Start-stop scrum; no continuity between sprints. Mechanical scrum (without Scrum values).
 
-| Event                | Inspection                         | Adaption                                       | Who Attends                 | Time-box (for 1 Month) |
+### Sprint Events
+Sprint events are opportunities to inspect the current sprint and adapt accordingly. These events are all time-boxed, but usually they don't take up their full capacity, especially not for shorter sprints.
+
+| Event                | What to inspect?                   | What to adapt?                                 | Who attends?                | Time-box (for 1 Month) |
 | -------------------- | ---------------------------------- | ---------------------------------------------- | --------------------------- | ---------------------- |
 | Sprint Planning      | Product Backlog                    | Sprint Goal, Sprint Backlog, Planning/Forecast | Scrum Team, invited experts | 8 hours                |
 | Sprint Review        | Increment, Sprint, Product Backlog | Product Backlog                                | Scrum Team, Stakeholders    | 4 hours                |
-| Sprint Retrospective | Sprint                             | Improvements                                   | Scrum Team                  | 3 hours                |
+| Sprint Retrospective | Sprint                             | Improvements, Product Backlog                  | Scrum Team                  | 3 hours                |
 
 The Daily Scrum is independent of the sprint length.
 
@@ -137,15 +145,15 @@ The Daily Scrum is independent of the sprint length.
 | --------------------- | ---------------------------- | -------------- | ---------------- | -------- |
 | Daily Scrum (Standup) | Progress towards Sprint Goal | Sprint Backlog | Development Team | 15 min.  |
 
+**Daily Scrum**
+This event that occurs daily, at the same place and time. The format is free, but it should focus on the progress towards the sprint goal rather than on what team members have done. 
 
-
-**Daily Scrum** 
-This event that occurs daily, at the same place and time. It is exclusive to developers, to incentivize ownership. If a PO, SM or manager is present anyway, they should not facilitate the session.
+The event  is exclusive to developers in order to to incentivize ownership. If a PO, SM or manager is present anyway, they should not facilitate the session.
 
 
 
 **Sprint Planning**
-A sprint starts with a planning session where the Why, What and How of the current sprint are discussed. Note that these points impact each other, so it may be necessary to go back and forth between them.
+A sprint starts with a planning session where the Why, What and How of the current sprint are discussed. Note that these points impact each other, so it may be necessary to go back and forth between these questions.
 
 - Why is this sprint valuable? -> Sprint Goal
 - What can be done this sprint. -> Sprint Backlog
@@ -156,25 +164,35 @@ A sprint starts with a planning session where the Why, What and How of the curre
 
 
 
-
 **Sprint Review**
-The team informs stakeholders about their progress. A moment for stakeholders and other parties to give feedback. This is not a validation stage.
+The team informs stakeholders about their progress. A moment for stakeholders and other parties to give feedback. 
 
-- Note that stakeholders usually know the problem space better than members of the scrum team. Hence their feedback is vital.
-- The content of the review should not present features that are still in progress, but it can discuss the progress towards them (e.g. challenges).
+- This is not a validation stage but rather a moment to incorporate new information into the product backlog.
+- The review should not be a sales pitch and neither should it give a demo of features that are not *done*. However, it can discuss progress or challenges.
+
+- In general, stakeholders know the problem space better than members of the scrum team. Hence their feedback can be vital.
+
+It can include:
+
+- What happened in the Sprint itself.
+- Delivered Increments and outcomes.
+- Current business conditions.
+- Product Backlog and progress towards Product goal.
 
 
 
-**Anti-pattern**
-Start-stop scrum; no continuity between sprints.
+**Sprint Retrospective**
+Reflect on the last sprint with regards to individuals, interactions, processes and tools. Discuss what went well, what problems were encountered and how those problems could be solved. The [format](https://retromat.org/) the can be varied occasionally, but not too often.
+
+
 
 ## Artifacts
 
 Scrum does not prescribe [user-stories](https://www.atlassian.com/agile/project-management/user-stories) or [epics](https://www.atlassian.com/agile/project-management/epics-stories-themes), but instead uses the generic term Product Backlog Item (PBI). The flow ` idea > WIP >  delivery > release` is as follows:
 
-1. Product Backlog Item. The size and complexity can vary, but higher priority items should be more specific, and preferably smaller. Items should not be split up into multiple stages (e.g. `develop, test`).
+1. Product Backlog Item. The size and complexity can vary, but higher priority items should be more specific, and preferably smaller. Some teams like use a "definition of ready".
 2. *Refined* Product Backlog Item, which is clearly defined and can be explained to stakeholders. Refining should be done just-in-time rather than months in advance, to prevent waste. External dependencies should be minimized (or addressed). The Sprint Backlog contains a plan how to deliver each item.
-3. Increment; a piece of functionality that complies with the Definition of Done (DoD). It should be a usable and may combine multiple PBIs.
+3. Increment; a piece of functionality that complies with the Definition of Done (DoD). It should be a usable and may combine multiple PBIs. Increments should not be split up into multiple stages (e.g. `design, develop, test`).
 
 
 
@@ -209,44 +227,36 @@ A single source of truth of planned work. It is prioritized by value, as defined
 If the Product Goal is achieved or obsolete then a new goal is chosen.
 
 **Sprint Goal**
+Having a single goal forces the team and stakeholders to accept the priority of features. It incentivizes stakeholders to align on what's the most important aspect. 
 
-As mentioned, reaching the sprint goal has precedence over the sprint backlog. The development team is solely responsible for the Sprint Backlog, and can change it as they see fit.
+As mentioned, reaching the sprint goal has precedence over the sprint backlog. The development team is solely responsible for the Sprint Backlog, and can change it as they see fit. If they want to adjust the Sprint Goal or the planning then they can discuss or re-negotiate it with the PO.
 
 
 
-The **Definition of Done** (DoD) can be specific to a team and describes when an Increment is ready to be released in production. It describes quality standards and usually includes:
+The **Definition of Done** (DoD) describes when an Increment is *ready* to be released to customers. 
 
-- ˙Integration tests
+1. Product qualities: equal for all teams that work on the same product.
+2. Development standards: specific to a team.
 
-The DoD is complemented by Acceptance Criteria of backlog items.
-
-Ideally, compliance with internal or external regulation is ensured to automated pipelines rather than manual verification.
-
-Features and changes must adhere to the DoD and even then the PO should decide whether to release them.
+The DoD is complemented by Acceptance Criteria of backlog items, which are more specific. Ideally, compliance with internal or external regulation would be ensured through automated pipelines rather than manual verification.
 
 
 
 ### Hierarchy
 
-Product Portfolio: a set of products.
-
-For each product: Product Vision (Why) > Product Strategy (How) > Product Goal (Why) > Product Roadmap (How) > Sprint Goal.
-
-
-
-- Why: Corporate Vision
-    - What: Product Portfolio
-    - How: Corporate Strategy
-
-
+- Why: Company Vision
+    - What: Business Strategy
+    - How: Product Portfolio (Product Line)
 
 - Why: Product Vision
-    - How: Product Strategy
+    - What: Product Strategy
+    - How: Release Plan
 - Why: Product Goal
-    - How: Product Roadmap
+    - What: Product Roadmap
+    - How: Product Backlog
 - Why: Sprint Goal.
     - What: Sprint Backlog
-    - Who: Sprint plan
+    - How: Sprint plan
 
 
 

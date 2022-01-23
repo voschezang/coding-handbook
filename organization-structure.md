@@ -43,7 +43,9 @@ These dimensions are intertwined and the optimum is situational. The following i
 
 ## Hierarchy of Components
 
-This section uses the term "team" instead of "component", but the categories do extend beyond this.
+A large organization can consists of sub-organizations. E.g. departments, divisions, teams. It is not possible to specialize at every level without impacting cohesion, alignment and collaboration.
+
+This section uses the term "team" instead of "component" for simplicity, but the categories do extend beyond this.
 
 1. Functional teams.
 2. Feature or product teams.

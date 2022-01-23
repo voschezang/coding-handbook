@@ -62,12 +62,7 @@ Reaching goals usually requires change.
 
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
-
-
-Goals
-
-- Goals that are too high lead short term optimization (trying to survive instead of investing).
-- Goal that are not high enough lead to a lack of focus.
+Also see  [goals and strategy](goals-planning-strategy.md).
 
 
 
@@ -218,18 +213,6 @@ Note that investment involves a short term cost by definition.
 
 
 
-
-
-Time is constrained and limits productivity.
-
-1. Be more productive, e.g. by increasing the productivity per employee or the number of employees.
-2. Decrease the amount of work. Prioritization of *core* activities and outsourcing of *contextual* activities.
-    - I.e. do what you'd do if time was even more constrained.
-
-Making waste cheaper (e.g. through outsourcing) is not the same as improving a process.
-
-
-
 **Types of Challenges**
 
 Fundamental characteristics of the world (from [Buddhism](https://en.wikipedia.org/wiki/Three_marks_of_existence)):
@@ -241,15 +224,6 @@ Fundamental characteristics of the world (from [Buddhism](https://en.wikipedia.o
 In addition, learning (adapting) takes practice. Both at the individual and organizational level.
 
 
-
-**Organization Levels**
-
-An organization may be divided into departments, teams and individual. At each level there is a trade-off between generalization and specialization. Two possibilities:
-
-- Functional departments, DevOps teams, specialized individuals.
-- Product-based departments, functional teams, generalized individuals.
-
-Note, you can't specialize at every level without impacting cohesion, alignment and collaboration.
 
 
 
@@ -347,6 +321,17 @@ Technique:
 
 Let the other accept your schedule. Not everything is possible, so force the client to choose explicitly. Communicate transparently.
 
+There is never enough time, but there are three ways to manage it: prioritization, efficiency and multiplication.
+
+Prioritize *core* activities and defer, drop or delegate (outsource) *contextual* activities.
+
+Sometimes efficiency can be improved by changing processes or technology.
+
+Time can be multiplied. 
+
+- Teach others *why* and *what* instead of *how*. Empower others to do it independently.
+- Broadcasting instead of point-to-point communication. E.g. write a blog post or wiki instead of a long email.
+
 
 
 ### Risk management
@@ -424,13 +409,18 @@ Gaining knowledge
 
 Types of work
 
-- Planned work
-	- Business projects. E.g. directly related to customer demand.
-	- Internal projects. Enable business projects.
-	- Changes. E.g. maintenance.
-- Unplanned work. This keeps you from doing actual work
-	- Firefighting. E.g. incidents, recovery work.
-	- Adjusting, changing plans.
+- Planned work or pre-defined work.
+  - Business projects. E.g. directly related to customer demand.
+  - Internal projects. Enable business projects.
+  - Changes. E.g. maintenance.
+- Unplanned work. Work as it appears.
+  - Firefighting. E.g. incidents, recovery work.
+
+- Defining work. Planning
+    - Adjusting, changing plans.
+
+
+Work needs to be defined (to some extend) before it can be delegated.
 
 
 
