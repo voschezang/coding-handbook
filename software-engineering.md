@@ -51,6 +51,8 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
 ### Clean Code
 
+> Design for replacement rather than reuse.
+
 Although there is no consensus on the definition of "clean" code, some indisputable properties are the following.
 
 - Consistency of style.
@@ -91,8 +93,8 @@ With minimal collaboration, roles could be distributed as follows. The alternati
     - Junior: write implementations. Follow instructions. Experiment.
     
 - Tester: turns code into bug-reports.
-- PO: requests features.
-- Scrum master: process management, coaching, HR
+- PO: manage product and stakeholders, requests features.
+- Scrum master: process management, coaching, HR.
 
 
 
@@ -100,19 +102,34 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 
 > Agile is a mindset, not a process
 
-Ordered descending by release time and size (lead-time).
+The [structure of teams](organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with handovers, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is "agile".
 
-1. Waterfall: long cycles, clearly separated (but optimized) stages (design, develop, test, release). Big bang release (optics). Top-down decisions.
-2. Agile: (be able to) inspect and adapt; to be able to create or adjust your own process. Use iterative improvement, short feedback loops. Bottom-up decisions (e.g. user-oriented). Defer uncertain decisions unless there is a good reason not to.
-    1. Scrum: sprinting to a goal, MVP-first. Limit total WIP (number of stories).
-    2. Kanban: continuously improving. Limit WIP per column (`dev, review, test, release `).
-    3. The hacker way: no deadlines, no fixed teams, no synchronization.
+**Two extremes**
+
+1. Waterfall
+    1. Designed for *throughput* and *stability*.
+    2. Requirements drive design which drives development.
+    3. Top-down decision making. Specialized (functional) teams with limited responsibility.
+    4. `Outcome = Output`
+2. Agile
+    1. Designed to be resilient to *changing requirements* (due to customers, markets or technology).
+    2. Objectives (outcomes) drive discovery which drives development. 
+    3. Collaborative decision making. Empowered cross-functional teams.
+    4. `Outcome > Output`
+
+**Agile**
+
+The ability to inspect and adapt; to be able to create or adjust your own process. Goals are guiding. Uncertain decisions are deferred unless there is a good reason not to. A few frameworks:
+
+1. [Scrum](scrum-guide.md): sprinting to a goal, MVP-first. Limit total WIP (number of tasks/features).
+2. Kanban: continuously improving. Limit WIP per phase (e.g. `dev, review, test, release `).
+3. The hacker way: no deadlines, no fixed teams, no synchronization.
 
 
 
 Notes
 
--  Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does always come at the cost of being flexible. You cannot optimize for everything.
+-  Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does come at the cost of being flexible. You cannot optimize for everything.
 - If the full strategy is decided top-down then the agility of development teams is limited.
 
 

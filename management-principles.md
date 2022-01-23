@@ -91,9 +91,16 @@ Define a proper measure of success. Evaluate whether the assignment could be suc
 
 Typical components:
 
-- Efficiency: of the system as a whole or individual components (e.g. resources).
-- Quality: high quality and low variance.
+- Total total returns. Delivered  value rather than produced value. E.g.
+    - Profit minus expenses and inventory.
+    - Quality: high quality and low variance.
+
+- Relative returns. Delivered value relative to the effort or cost put into the system. 
+    - Efficiency: of the system as a whole or individual components (e.g. resources). This consists of resource utilization and throughput.
+
 - Agility: be able to adapt. Typical influences are lead time, batch sizes
+
+Note that measures of success can be biased by how a component is perceived. E.g. a cost center of a profit center. 
 
 
 
@@ -158,15 +165,18 @@ Resources can be categorizes as:
 
 
 
-The first step is to [find and study](https://en.wikipedia.org/wiki/PDCA) bottlenecks. Then resolve them. If this is not possible, either:
+The first step is to find and [address bottlenecks](https://en.wikipedia.org/wiki/Theory_of_constraints). If they cannot easily be resolved then do the following.
 
-1. Maximize utilization or minimize idle time. This will make the resource more efficient.
-2. Ensure that the resource is used for the right job.
-3. Improve their efficiency and quality. E.g. reduce variance.
+1. Ensure that the resource is used for the right job. This is always important, but sometimes difficult to put into practice.
+2. Subordinate nearby resources to the bottleneck resource. Maximize utilization or minimize idle time of the bottleneck resource. This will make it more efficient.
+3. Improve the resource itself. Either by
+    1. Increasing capacity or efficiency.
+    2. Increasing quality. E.g. reduce variance.
+4. These changes may have shifted the bottleneck elsewhere. Repeat this process until market demand has become the limiting factor.
 
-In the same spirit, it can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
+It can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
 
-Tasks that go to bottleneck resources typically have high queue times, while all other tasks have high waiting times.
+Tasks that go to bottleneck resources typically have high [queue times](https://en.wikipedia.org/wiki/Queue_management_system), while all other tasks have high waiting times.
 
 
 
@@ -439,7 +449,7 @@ Four types of knowledge
 
 Single point estimates (e.g. the mean) are a poor predictor of stability. The following image shows that chaotic (random) and cyclical processes - which are fundamentally different - can have the same mean.
 
-![plot-process-throughput](/Users/mark/stack/src/coding-style-guide/img/plot-process-throughput.png)
+![plot-process-throughput](img/plot-process-throughput.png)
 
 
 
@@ -449,6 +459,6 @@ Single point estimates (e.g. the mean) are a poor predictor of stability. The fo
 
 ## References
 
-[1]: Rother	"Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results"
-[2]: Goldratt "The Goal"
-[4]: DeMarco "Peopleware: Productive Projects and Teams"
+- Rother. *Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results*
+- Goldrat. *The Goal*
+- DeMarco. *Peopleware: Productive Projects and Teams*

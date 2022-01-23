@@ -124,6 +124,10 @@ Ideally, go to production as soon as possible. Use gradual releases (e.g. by dem
 
 ### Possible Processes from Idea to Implementation
 
+From objective to discovery to delivery. Note that these phases could happen in parallel.
+
+
+
 **Implementation agnostic idea**
 
 1. Narrative: `I wish my app would do X`
@@ -176,7 +180,7 @@ Two different methods to plan work:
 **Prioritization of work in progress**
 Maximize flow and minimize inventory (i.e. unfinished tasks, unmerged code). Prefer finishing tasks over starting new tasks. Address blocked task immediately instead of avoiding them. Find an optimal number of tasks to work on at the same time (within a team).
 
-**Resource management**
+**Human resource management**
 Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable team-size by default and change it when the product demands it.
 
 
@@ -239,7 +243,7 @@ The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/ph
 
 
 **Promotion driven development**
-Bias for optics.
+Bias for optics & complexity. Build interesting stuff tools of useful tools.
 
 **Customer chasing development**
 Optimize on satisfying a single customer, instead of a market.
