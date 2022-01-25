@@ -6,6 +6,10 @@
 
 > Great outcome > meeting initial requirements.
 
+A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
+
+
+
 An hierarchy of three layers:
 
 **(1) High level**

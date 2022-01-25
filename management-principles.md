@@ -106,7 +106,7 @@ Note that measures of success can be biased by how a component is perceived. E.g
 
 ## Systems & Processes
 
-Many challenges in management can be untangled by going back to fundamentals. A general form is a *system*. Using a mathematical representation of a system allows us to draw conclusions that generalize to arbitrary domain.
+Many challenges in management can be untangled by going back to fundamentals. A general form is a *system*. Using a mathematical representation of a system allows us to draw conclusions that generalize to arbitrary domains.
 
 Anything can be described as a system, but the level of uncertainty and control may vary.
 
@@ -172,7 +172,7 @@ The first step is to find and [address bottlenecks](https://en.wikipedia.org/wik
 3. Improve the resource itself. Either by
     1. Increasing capacity or efficiency.
     2. Increasing quality. E.g. reduce variance.
-4. These changes may have shifted the bottleneck elsewhere. Repeat this process until market demand has become the limiting factor.
+4. Lifting a bottleneck may change the functioning of the whole system. The bottleneck may have moved elsewhere. Repeat this process until market demand has become the limiting factor.
 
 It can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
 
@@ -184,17 +184,19 @@ Tasks that go to bottleneck resources typically have high [queue times](https://
 
 > Resource activation does not imply resource utilization.
 
-A system can have many small bottlenecks. Therefore it is useful to distinguish between local inefficiencies and a global one. This is the main constraint of a system.
+A system can have many small bottlenecks. Therefore it is useful to distinguish between local inefficiencies and a global one. The latter is called the main constraint of a system.
 
-
+Two fundamental types of inefficiencies are spare *capacity* (partial utilization) and spare *inventory* (buffers). Reducing them directly can be risky, but improving the system as a whole may reduce them both as a side-effect.
 
 There are two types of efficiency:
 
-- Efficiency of resources. 
+- Efficiency of resources. Reduce spare capacity (partial resource utilization). 
     - Measured by resource utilization, which is defined as: "The percentage of time the resource is producing something which is contributing to the main goal". This definition excludes the production of e.g. spare parts.
     - Risks: inventory (over-production), over-stretching of resources, over-optimization (silos).
-    
+    - Build to sell: build until capacity runs out and then sell inventory to the highest bidder.
 - Efficiency of flow (to customer). I.e. [pull-strategy](https://en.wikipedia.org/wiki/Push%E2%80%93pull_strategy), demand-oriented. Because the customer pays for the service.
+    - Build to order: pre-define a price range and only build products that are ordered.
+
 
 Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If tasks are picked up as planned (following demand), then people can be free to make improvements and learn.
 
@@ -411,13 +413,15 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
 
 ## Miscellaneous
 
-Gaining knowledge
+**Gaining knowledge**
 
-- Start with a prior belief, collect data, update your belief, and repeat.
+- Start with a prior belief, formulate, collect data (experiment), update your belief, and repeat.
+- Value [falsifiability](https://en.wikipedia.org/wiki/Falsifiability).
+- Think in probabilities. Absolute certainty should be a red flag.
 
 
 
-Types of work
+**Types of work**
 
 - Planned work or pre-defined work.
   - Business projects. E.g. directly related to customer demand.
@@ -426,7 +430,7 @@ Types of work
 - Unplanned work. Work as it appears.
   - Firefighting. E.g. incidents, recovery work.
 
-- Defining work. Planning
+- Planning or defining work.
     - Adjusting, changing plans.
 
 

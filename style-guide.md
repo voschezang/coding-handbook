@@ -79,6 +79,8 @@ The Why consists of the following categories:
 - *Generic* code changes more frequently than *specific* code.
   - E.g. linear algebra libraries are unaffected by changes in consumer preferences.
 - Interfaces should be backwards compatible. Otherwise create a new interface. Only if that is not possible, break the interface and update all implementations.
+    - Design for [replacement](https://martinfowler.com/bliki/SacrificialArchitecture.html) rather than reuse.
+
 - Log and monitor everything. Build this into the design instead of adding it later.
 
 

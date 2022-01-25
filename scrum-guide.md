@@ -1,18 +1,34 @@
 # Scrum
 
-This document is compatible with the  [Scrum guide](https://scrumguides.org/scrum-guide.html) (2020). At first sight, the original text may seem unnecessarily strict and even dogmatic. Although it contains strict rules, it is intended as a guideline and it should be interpreted in the right context. Unfortunately, the deeper meaning of the authors cannot easily be written down in [natural language](https://en.wikipedia.org/wiki/Natural_language). A typical point of discussion is whether Scrum is applied *correctly*, but it would be more useful to focus on how Scrum can be used most effectively.
+This document is compatible with the  [Scrum guide](https://scrumguides.org/scrum-guide.html) (2020). At first sight, the original text may seem unnecessarily strict and even dogmatic. Although it contains strict rules, it is intended as a guideline and it should be interpreted in the right context. Unfortunately, the deeper meaning of the authors cannot easily be written down in [natural language](https://en.wikipedia.org/wiki/Natural_language). A typical point of discussion is whether Scrum is applied *correctly*, but it is more useful to focus on how Scrum can be used most effectively.
 
 The guide does not specify how to apply Scrum in a specific domain. If you want to adapt Scrum it is advised to make use of complementary resources. For example by hiring Scrum trainers to establish a two-way conversation.
 
 [toc]
 
 ## High-Level Overview
+
 Scrum is designed for  small teams that manages a single product in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). The main reasons to use it are (1) to  improve quality through reflection and adaption and (2) to reduce risk by delivering value in short increments.
 
-Scrum is by design generic and under-specified. For example, it excludes how to develop product portfolios, how to define a target market, how to improve UX or how to manage employees. Scrums generic approach allows it to be adapted to a specific domain and organization. The main caveat is that it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a *product mindset*.
+### What
 
-### Values
-Scrum values people over processes. It advocates for the following values: `commitment, focus, openness, respect, courage`. Teams should discover themselves how they can apply these values in practice, in their organization.
+Scrum is by design generic and under-specified. For example, it excludes how to develop product portfolios, how to define a target market, how to program, how to improve UX or how to manage employees. Scrums generic approach allows it to be adapted to a specific domain and organization. The main caveat is that it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a *product mindset*.
+
+Scrum is about:
+
+- Agility: inspect embrace change and an uncertain environment.
+- Build & deliver incremental value to customers.
+- Cross-functional collaboration.
+- Discovery-driven development over requirements-driven development.
+- Experimentation and learning.
+
+Scrum includes of:
+
+- 5 core [values](#Values):  `commitment, focus, openness, respect, courage`
+- The [Sprint](#Sprint) and 5 formal Sprint [events](#Sprint Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
+- 3 [roles](#Roles): `Product Owner, Scrum Master, Developers `
+
+### How
 
 > Inspection is useless if you don't want to change.
 
@@ -41,7 +57,7 @@ Scrum revolves around products rather of projects. See [this document](product-m
 **Anti-patterns**
 Managers that spend their time firefighting.
 
-### Sprints
+#### Sprints
 
 Sprints are short projects with a fixed length and a goal (outcome). Scrum specifies a few sprint-specific events:
 
@@ -55,6 +71,20 @@ In addition, there are a few other activities
 - Refinement work. This doesn't have to be a formal event, but it should be done regularly.
 
 Note that delivering software can be decoupled from releasing software. Even is delivered software is not released immediately, the periodic delivery incentivizes feedback and it increases transparency, and control.
+
+
+
+## Values
+
+Scrum values people over processes. It advocates for the following values:
+
+- **Commitment**. Set realistic goals and try to achieve them as a team.
+- **Focus** on the current sprint and work together as a team.
+- **Openness** towards stakeholders and towards each other. Transparency is vital for learning.
+- **Respect** each other.
+- **Courage** to work on tough problems rather than blindly following traditional practices.
+
+Teams should discover themselves how they can apply these values in practice, in their organization.
 
 
 
@@ -77,7 +107,7 @@ The PO is accountable for the following items, but can delegate them if desired:
 
 ### Scrum Master
 
-A Scrum Master (SM) manages people and processes, but from a distance. This allows the SM to be a more objective observer. The end-goal is for the rest of the team to take ownership. The style can vary from leading to facilitating. A few important activities are:
+A Scrum Master (SM) is accountable for the Scrum Process and the effectiveness of the team. The SM manages people and processes, but from a distance. This allows the SM to be a more objective observer. The end-goal is for the rest of the team to take ownership. The style can vary from leading to facilitating. A few important activities are:
 
 - Removing impediments. This may require escalation to the rest of the organization.
 - Educating the organization on Scrum.
@@ -123,7 +153,7 @@ The **Scrum teams** consists of the SM and Development team. It excludes stakeho
 ## Events
 
 ### Sprint
-Sprints can be independent from the release cycle; in the ideal case releases happen multiple times per week. The focus of a sprint should be to reach the Sprint goal rather than following the initial planning; it may not be necessary to finish all work in the Sprint Backlog. If the sprint goal becomes obsolete then the sprint can be ended prematurely. New sprints start automatically after the previous sprint has ended. 
+Sprints can be independent from the release cycle; in the ideal case releases happen multiple times per week. The focus of a sprint should be to reach the Sprint goal rather than following the initial planning; it may not be necessary to finish all work in the Sprint Backlog. If the sprint goal becomes obsolete then the PO can end the sprint prematurely. New sprints start automatically after the previous sprint has ended. 
 
 The time-limit of a sprint is fixed. Any unfinished work may be moved over the the next sprint. If the sprint goal is not reached then the team should take it as an opportunity to learn and choose a new sprint goal in the next sprint. Hence it is not permitted to increase the length of a sprint. In addition,  reducing quality for the sake of reaching a deadline is a no-go.
 
@@ -167,8 +197,8 @@ A sprint starts with a planning session where the Why, What and How of the curre
 **Sprint Review**
 The team informs stakeholders about their progress. A moment for stakeholders and other parties to give feedback. 
 
-- This is not a validation stage but rather a moment to incorporate new information into the product backlog.
-- The review should not be a sales pitch and neither should it give a demo of features that are not *done*. However, it can discuss progress or challenges.
+- This is not a validation stage of past work but rather a moment to incorporate new information into the product backlog.
+- The review should not be a sales pitch and neither should it give a demo of features that are not yet *done*. However, it can discuss progress or challenges.
 
 - In general, stakeholders know the problem space better than members of the scrum team. Hence their feedback can be vital.
 
@@ -191,8 +221,9 @@ Reflect on the last sprint with regards to individuals, interactions, processes 
 Scrum does not prescribe [user-stories](https://www.atlassian.com/agile/project-management/user-stories) or [epics](https://www.atlassian.com/agile/project-management/epics-stories-themes), but instead uses the generic term Product Backlog Item (PBI). The flow ` idea > WIP >  delivery > release` is as follows:
 
 1. Product Backlog Item. The size and complexity can vary, but higher priority items should be more specific, and preferably smaller. Some teams like use a "definition of ready".
-2. *Refined* Product Backlog Item, which is clearly defined and can be explained to stakeholders. Refining should be done just-in-time rather than months in advance, to prevent waste. External dependencies should be minimized (or addressed). The Sprint Backlog contains a plan how to deliver each item.
-3. Increment; a piece of functionality that complies with the Definition of Done (DoD). It should be a usable and may combine multiple PBIs. Increments should not be split up into multiple stages (e.g. `design, develop, test`).
+2. *Refined* Product Backlog Item, which is clearly defined and can be explained to stakeholders. Refining should be done just-in-time rather than months in advance, to prevent waste. External dependencies should be minimized (or addressed). 
+3. Items on the Sprint Backlog. PBI's are decomposed into items that take at most one day.
+4. Increment; a piece of functionality that complies with the Definition of Done (DoD). It should be a usable and may combine multiple PBIs. Increments should not be split up into multiple stages (e.g. `design, develop, test`).
 
 
 
@@ -221,7 +252,6 @@ The size or weight of PBIs is a proxy for the effort required to finish it. It c
 
 **Product Backlog**
 A single source of truth of planned work. It is prioritized by value, as defined by the PO.
-
 
 **Product Goal**
 If the Product Goal is achieved or obsolete then a new goal is chosen.

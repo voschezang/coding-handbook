@@ -126,6 +126,14 @@ Ideally, go to production as soon as possible. Use gradual releases (e.g. by dem
 
 From objective to discovery to delivery. Note that these phases could happen in parallel.
 
+Formal steps
+
+1. Initial idea.
+2. Let it grow. Re-think it or share it with other people.
+3. Prioritize it.
+4. Build it. This requires development capacity.
+5. Release it. This requires stakeholder and/or customer management.
+
 
 
 **Implementation agnostic idea**
