@@ -25,7 +25,7 @@ Scrum is about:
 Scrum includes of:
 
 - 5 core [values](#Values):  `commitment, focus, openness, respect, courage`
-- The [Sprint](#Sprint) and 5 formal Sprint [events](#Sprint Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
+- The [Sprint](#Sprint) and 4 formal Sprint [events](#Sprint Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
 - 3 [roles](#Roles): `Product Owner, Scrum Master, Developers `
 
 ### How
@@ -92,6 +92,8 @@ Teams should discover themselves how they can apply these values in practice, in
 
 A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](organization-structure.md).
 
+Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
+
 **Anti-patterns**
 Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work.
 
@@ -137,14 +139,16 @@ Although the SM is the expert on the Scrum process, most decisions should be mad
     - Take action. E.g. escalate a problem.
 - Facilitating, showing, giving perspective
     - Facilitator or coach
-    - Actively do nothing. E.g. let small problems show up to allow the team to react.
+    - Actively do nothing. Observe. E.g. let small problems reveal itself to the team.
     - Point north
 
 ### Developers
 
-The rest of the **development teams** do not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable. A PO or SM can also have a developer role.
+The rest of the **development teams** do not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable. A PO or SM can also have a developer role. Developers should have enough autonomy to be able to take ownership of their work. They are accountable for:
 
-Developers should have enough autonomy to be able to take ownership of their work. They should be hold accountable by each other (as a team) rather than by an external party.
+- Creating and adjusting the plan for the current sprint.
+- Instilling quality by adhering to the Definition of Done.
+- Holding each other accountable.
 
 The **Scrum teams** consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO. Scrum prescribes a team size of at most 10 members, unless there is a good reason to have a larger team.
 
@@ -155,7 +159,7 @@ The **Scrum teams** consists of the SM and Development team. It excludes stakeho
 ### Sprint
 Sprints can be independent from the release cycle; in the ideal case releases happen multiple times per week. The focus of a sprint should be to reach the Sprint goal rather than following the initial planning; it may not be necessary to finish all work in the Sprint Backlog. If the sprint goal becomes obsolete then the PO can end the sprint prematurely. New sprints start automatically after the previous sprint has ended. 
 
-The time-limit of a sprint is fixed. Any unfinished work may be moved over the the next sprint. If the sprint goal is not reached then the team should take it as an opportunity to learn and choose a new sprint goal in the next sprint. Hence it is not permitted to increase the length of a sprint. In addition,  reducing quality for the sake of reaching a deadline is a no-go.
+The duration of sprints is chosen based on busines risk and synchronization with other business events. The chosen duration is fixed, but a sprint can be cancelled if the Sprint Goal has become obsolete. If there is unfinished work left in a sprint then that  may be moved over the the next sprint. If the sprint goal is not reached then the team should take it as an opportunity to learn and choose a new sprint goal in the next sprint. Hence it is not permitted to increase the length of a sprint. In addition,  reducing quality for the sake of reaching a deadline is a no-go.
 
 **Anti-pattern**
 Start-stop scrum; no continuity between sprints. Mechanical scrum (without Scrum values).
@@ -176,9 +180,7 @@ The Daily Scrum is independent of the sprint length.
 | Daily Scrum (Standup) | Progress towards Sprint Goal | Sprint Backlog | Development Team | 15 min.  |
 
 **Daily Scrum**
-This event that occurs daily, at the same place and time. The format is free, but it should focus on the progress towards the sprint goal rather than on what team members have done. 
-
-The event  is exclusive to developers in order to to incentivize ownership. If a PO, SM or manager is present anyway, they should not facilitate the session.
+This is a developer-centric event that occurs daily, at the same place and time for consistency and to reduce complexity. The format is free, but it should focus on the progress towards the sprint goal rather than on what team members have done. If a PO, SM or manager is present then they should not facilitate or steer the session.
 
 
 
@@ -232,7 +234,7 @@ Some common patterns for PBIs. Lowercase letters denote preparation and uppercas
 - `AAA BBB CCC`: release frequently and with focus.
 - `ABC ABC ABC`: release frequently, but without focus.
 - `aaA bbB ccC`: release less frequently, but with focus.
-- `abc abc ABC`: release after third sprint (anti-pattern).
+- `abc abc ABC`: stack up WIP and release them after the third sprint (anti-pattern).
 
 
 
@@ -256,19 +258,20 @@ A single source of truth of planned work. It is prioritized by value, as defined
 **Product Goal**
 If the Product Goal is achieved or obsolete then a new goal is chosen.
 
+**Sprint Backlog**
+The Sprint Backlog is owned by the development team. If there is demand to change it then the development team can decide to adjust the it, as long as it doesn't endanger the sprint goal.
+
 **Sprint Goal**
 Having a single goal forces the team and stakeholders to accept the priority of features. It incentivizes stakeholders to align on what's the most important aspect. 
 
 As mentioned, reaching the sprint goal has precedence over the sprint backlog. The development team is solely responsible for the Sprint Backlog, and can change it as they see fit. If they want to adjust the Sprint Goal or the planning then they can discuss or re-negotiate it with the PO.
 
+ **Definition of Done**
+The Definition of Done (DoD) describes when an Increment is *ready* to be released to customers. It is used to ensure quality. and transparency, by providing a shared understanding. It is created by the Scrum Team. If there is a organization-wide DoD then that one must be followed as a minimum. The Dod should be equal for teams that work on the same product, but it can be complemented by team-specific *development standards*.
 
+In addition, the DoD is complemented by Acceptance Criteria of backlog items, which are more specific. 
 
-The **Definition of Done** (DoD) describes when an Increment is *ready* to be released to customers. 
-
-1. Product qualities: equal for all teams that work on the same product.
-2. Development standards: specific to a team.
-
-The DoD is complemented by Acceptance Criteria of backlog items, which are more specific. Ideally, compliance with internal or external regulation would be ensured through automated pipelines rather than manual verification.
+Ideally, compliance with internal or external regulation would be ensured through automated pipelines rather than manual verification.
 
 
 

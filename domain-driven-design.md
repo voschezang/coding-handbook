@@ -1,5 +1,7 @@
 # Domain-Driven Design
 
+DDD embraces the uncertainty of business terminology. Domain objects are expected to change often, while adapters can be functionally static. Adapters are designed to be replaceable.
+
 
 
 ## Example: Currency Conversion

@@ -22,7 +22,7 @@ Don't sell, tell a story instead. This requires more than a formal list of requi
 
 The main differences between project and product mindsets.
 
-**Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. This creates an inherent focus on the *future*.
+**Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. There is a preference for the short term (the duration of the project) over the long term (after the project).
 
 - Optimize **cost**. Satisfy requirements as fast and efficiently as possible.
 
@@ -30,7 +30,7 @@ The main differences between project and product mindsets.
 
     - Reach the deadline at all cost; strip features or reduce quality if necessary.
 
-**Products** are *continuous*, but may expire (based on alternatives). This creates an inherent focus on the *present*.
+**Products** are *continuous*, but may expire (based on alternatives). There is a preference for value and sustainability.
 
 - Maximize **value**, opportunity and viability. 
     - Delivering value to customers > resource efficiency.
@@ -183,7 +183,7 @@ The generic concepts PoC and MVP can be applied to tasks and features. In genera
 Two different methods to plan work:
 
 - Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In cross-functional teams the diversity of the work in the sprint may be taken into account.
-- No sprints, but instead use a continuously updated backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
+- No sprints, but instead use a continuously updated product backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
 
 **Prioritization of work in progress**
 Maximize flow and minimize inventory (i.e. unfinished tasks, unmerged code). Prefer finishing tasks over starting new tasks. Address blocked task immediately instead of avoiding them. Find an optimal number of tasks to work on at the same time (within a team).
@@ -198,26 +198,31 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 Items can be grouped together in two ways:
 
 - By goal. E.g. a sequence of tasks with a single purpose.
-- By type. E.g. individual, independent tasks that happen to be similar. E.g. by improving `adaptability, efficiency, security`. 
+- By type. E.g. individual, independent tasks that happen to be similar. E.g. improving `adaptability, user-experience, efficiency, security`. 
 
 
 
-Administration of work that should be done in the future.
+**Administration**
 
-- Explicit (on the backlog).
-	- Fully refined stories.
-	- Minor stories: trivial but more than a day of work.
-	- Tasks: a conceptually simple story with the minimal number of story points. 
-	    - This can be either low-complexity work or something with high uncertainty ("just try it").
-- Implicit (not on the backlog).
-  - In documentation (readme, spec, or external documentation).
+> Work needs to be defined before it can be delegated.
+
+Let the *product backlog* be defined as an ordered list of items that represent work that can be done in the future. Planned work can be administrated in the following ways.
+
+- Explicit: on the backlog.
+	- Rough ideas, goals, outcomes, results.
+	- Small, fully refined items (stories) that can be finished within a few weeks.
+	- Minor tasks that are no more than a day of work.
+- Implicit: not on the backlog.
+  - Alerts on a public dashboard that require attention.
+  - In documentation (readme, specification, or external documentation).
+    - Features that are currently supported, but that can be removed once they demand disappears.
     - Limitations of current design or implementation.
     - Possibilities of current approach / next steps.
     - Known risks.
   - Comments in source code (e.g. `TODO, SMELL`).
-  - Hidden in private team-member (mental) notes.
+  - Hidden in private (mental) notes. E.g. questions send over email.
 
-Ideally, one would bring up an idea when it is ready to have a meaningful conversation about.
+Within a team it is unavoidable that there are "private" ideas that are not though out. Ideally they would be brought up whenever the idea is ready to be shared and (part of) the team has capacity to discuss it.
 
 
 

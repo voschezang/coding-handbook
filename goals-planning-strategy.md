@@ -18,9 +18,7 @@ A few variants:
 
 - North Star Goal: specific and measurable. A rough direction to go towards. Top of the goal/sub-goal hierarchy.
     - Make sure this metric is consistent with your definition of success.
-
 - Outcome or narrative: what the ideal state would look like. A vision.
-    - E.g."1000 songs in your pocket"
 
 **(3) Planning**
 
@@ -53,6 +51,21 @@ Summarize higher level in one-pages, but do use appendices (for details) and lin
 
 **Assumptions & Facts**
 For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
+
+
+
+### Tools
+
+**Narrative**
+Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
+
+**Persona**
+A model of the target market or audience. E.g. a typical user with a certain background.
+
+**User Story**
+What value a given feature would bring to a given *persona*. E.g.:
+
+> As a `Persona` I want  `an action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
 
 
 
@@ -99,6 +112,16 @@ Avoid personal bias. Instead of estimating your personal work (or your team), es
 **Flow of Work**
 
 The optimal size of batches, number of batching steps and the size of subtasks is context-dependent. Hence it should be optimized to current conditions, in concurrence with any target conditions.
+
+
+
+**Choosing Goals**
+
+Prioritization requires de-prioritization. This is inherently difficult. A few tools that can be used are:
+
+- Select a single goal, that is absolutely necessary. E.g. address (or identify) the main constraint.
+
+- Create a plot of the benefits as result of the effort required, for each possible goal.
 
 
 

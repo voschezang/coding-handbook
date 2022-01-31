@@ -423,18 +423,18 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
 
 **Types of work**
 
-- Planned work or pre-defined work.
-  - Business projects. E.g. directly related to customer demand.
-  - Internal projects. Enable business projects.
-  - Changes. E.g. maintenance.
-- Unplanned work. Work as it appears.
-  - Firefighting. E.g. incidents, recovery work.
+> Work needs to be defined before it can be delegated.
 
-- Planning or defining work.
-    - Adjusting, changing plans.
+There are three types of work.
+
+1. Unplanned work. Firefighting. E.g. incidents, recovery work.
+2. Planned work or pre-defined work.
+    1. Business projects. E.g. directly related to customer demand.
+    2. Internal projects. Enable business projects.
+    3. Changes. E.g. maintenance.
+3. Planning work. E.g. defining, refining , adjusting or changing plans.
 
 
-Work needs to be defined (to some extend) before it can be delegated.
 
 
 

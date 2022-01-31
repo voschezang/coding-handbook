@@ -10,30 +10,38 @@ Also see [Product Management](product-management.md).
 
 There doesn't exist a method that guarantees bug-free code. Don't make assumptions about the reliability of code but instead verify it. This requires the following points:
 
-- Transparency, Traceability, Visibility. 
+- Visibility, Transparency, Traceability
 
-    - E.g. (predictive) monitoring and alerting.
+    - Clear documentation; from high to low level, including relevant assumptions.
+    - (predictive) monitoring and alerting.
     - Ensure that there is up-to-date documentation that is clear and covers both the components and the interactions of the system.
 
-- Testing.
+- Software Quality
 
-    -  E.g. a sandbox-environment that is effectively equivalent to the production-environment.
-    - Multiple levels of testing. E.g. `unit, system, functional, performance`.
+    - Code quality, decent code coverage. Good unit-tests and complementing integration tests.
+        - Multiple levels of testing. E.g. `unit, system, functional, performance`.
+        - Representative tests. E.g. a sandbox-environment that is effectively equivalent to the production-environment.
+
+    - Clear documentation and specification; from high to low level, including relevant assumptions.
+        - This allows obsolete code to be more easily removed, eventually reducing the entropy of a codebase.
 
 - Automation.
 
-- Teams that are in control of their own application. Without agency they cannot realistically be accountable.
+- Good software, system and organizational architecture.
+
+    - Teams that are in control of their own application. Without agency they cannot realistically be accountable.
 
     - A third-party should not be able to change the application outside the control of the team itself. Consider hair triggers and safety caps.
 
         - > You build it you run it.
-    
-    
+
+
     - The team should be able (authorized) to block the release of a change they don't support.
-    
 
 
-- Communication between teams and departments. Both personal and using proper APIs.
+    - Communication between teams and departments. Both personal and using proper APIs.
+
+
 
 - Risk management. E.g. thread modeling. See [management principles](management-principles.md).
 
@@ -62,9 +70,41 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 
 
 
-See also [programming-paradigms.md](programming-paradigms.md) and [sytle-guide.md](style-guide.md).
+See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.md](style-guide.md).
 
 
+
+### Testing
+
+> The entropy (complexity) of software without "good" tests can only increase. Tests allow features to be safely removed.
+
+The term testing is usually used for "checks". A distinction can be made based on the role of requirements.
+
+- No requirements: Testing. E.g. `observing, exploring, experimenting`.
+    - Learn something new. Do research. This is inherently unpredictable. Techniques to improve consistency are:
+        - Time-boxes. Zoom in and out.
+    - Black box: study the different inputs and outputs of a system.
+    - White box: study the inner systems.
+- Requirements: Checking.
+    - Verification and validation based on pre-specified requirements
+        - This can often be automated
+    - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
+
+In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.
+
+No testing.
+
+- Develop a PoC, then evaluate whether it should be put into production, and only then continue with TDD on that specific feature. This means that there are no tests written for unused code.
+
+
+
+**Test Pyramid**
+Rely on unit-tests (checks) to verify that requirements or specifications are met. Decompose large integration tests.
+
+Tests for interfaces can be generated automatically.
+
+**Anti-pattern**
+Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are slow, unmaintainable and too sensitive.
 
 ## Types of Work
 
@@ -112,14 +152,21 @@ The [structure of teams](organization-structure.md) and departments has a great 
     3. Top-down decision making. Specialized (functional) teams with limited responsibility.
     4. `Outcome = Output`
 2. Agile
-    1. Designed to be resilient to *changing requirements* (due to customers, markets or technology).
+    1. Designed to be *fast* and to be resilient to *changing requirements* (due to customers, markets or technology).
     2. Objectives (outcomes) drive discovery which drives development. 
     3. Collaborative decision making. Empowered cross-functional teams.
     4. `Outcome > Output`
 
 **Agile**
 
-The ability to inspect and adapt; to be able to create or adjust your own process. Goals are guiding. Uncertain decisions are deferred unless there is a good reason not to. A few frameworks:
+The ability to inspect and adapt; to be able to create or adjust your own process. This is done by:
+
+- Focussing on value streams (towards the customer) instead of resource efficiency. 
+- Eliminate waste, e.g. inventory or unreleased software. 
+- Minimize lead time per feature. This can greatly reduce risk.
+- Have goals that are guiding rather leading. Defer uncertain decisions are there is a good reason not to. 
+
+A few frameworks for small or decentralized organizations:
 
 1. [Scrum](scrum-guide.md): sprinting to a goal, MVP-first. Limit total WIP (number of tasks/features).
 2. Kanban: continuously improving. Limit WIP per phase (e.g. `dev, review, test, release `).
@@ -131,6 +178,14 @@ Notes
 
 -  Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does come at the cost of being flexible. You cannot optimize for everything.
 - If the full strategy is decided top-down then the agility of development teams is limited.
+
+
+
+**Anti-pattern**
+
+- FrAgile: Agile teams without authority to overcome bureaucratic impediments. 
+
+- Product-oriented teams in a project-oriented (management or bureaucratic) environment.
 
 
 
@@ -164,14 +219,6 @@ This pattern has some downsides:
 - It may create an incentive to build a "feature factory", with a bias for LOC or number of features, over customer value.
 
 
-
-#### Testing
-
-Three methodologies:
-
-- Write spec, then code, then test.
-- TDD
-- Develop a PoC, then evaluate whether it should be put into production, and only then continue with TDD on that specific feature. This means that there are not tests written for unused code.
 
 
 
