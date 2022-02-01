@@ -177,6 +177,16 @@ The generic concepts PoC and MVP can be applied to tasks and features. In genera
 
 
 
+**Types of features**
+Note that features often have multiple roles, and can be sold as feature anyway.
+
+|                | User-invisible | User-visible                                                 |
+| -------------- | -------------- | ------------------------------------------------------------ |
+| Positive Value | Feature        | Architecture, non-functional requirements, process improvements |
+| Negative Value | Defect         | Technical debt                                               |
+
+
+
 ## JIT Planning
 
 **Prioritization of future work**

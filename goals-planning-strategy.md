@@ -47,7 +47,7 @@ Long-term goals are generally stable and short-term plans can be made continuous
 
 The goal is to externalize thinking. This helps to alignment the whole organization or team.
 
-Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources.
+Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](documentation.md).
 
 **Assumptions & Facts**
 For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.

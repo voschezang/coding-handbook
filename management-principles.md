@@ -39,11 +39,11 @@ Three integral properties of management.
 
 Note that these can all involve *change*. A typical challenge is to change common processes.
 
-1. [Influences](https://danluu.com/culture/) people
+1. [Influence](https://danluu.com/culture/) people (indirect)
     1. Incentives. Rewards and punishments for behaviour or achievements.
     2. Processes. E.g. regulation, validation.
     3. Culture. "inherent" values. E.g. ideals to strive for.
-2. Persuade people
+2. Persuade people (direct)
 
 
 
@@ -54,11 +54,13 @@ Reaching goals usually requires change.
     2. Decrease negative effects (e.g. cut cost).
 2. Locality.
     1. Optimize (all) individual components. 
-        1. Risk: over-production, tunnel-vision.
+        1. Risk: over-production, tunnel-vision, high inventory that can become obsolete.
     2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components. 
         1. Risk: bias for the current goal. E.g. bias for a target market.
     3. Diversify. E.g. diversify the product line for exposure to new markets.
-        1. Risk: lack of focus, lack of efficiency, low margins.
+        1. Diversify into new markets.
+            1. Risk: lack of focus, lack of efficiency, low margins.
+        2. Diversify the current market by creating segments.
 
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 

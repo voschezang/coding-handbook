@@ -12,7 +12,8 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
 - Visibility, Transparency, Traceability
 
-    - Clear documentation; from high to low level, including relevant assumptions.
+    - Clear [documentation](documentation.md). An explanation from high to low level and including relevant assumptions.
+        - This can be complemented by "How-to" guides.
     - (predictive) monitoring and alerting.
     - Ensure that there is up-to-date documentation that is clear and covers both the components and the interactions of the system.
 
@@ -33,15 +34,13 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
     - A third-party should not be able to change the application outside the control of the team itself. Consider hair triggers and safety caps.
 
-        - > You build it you run it.
+        - ` You build it you run it.`
 
-
+    -  The team should be able (authorized) to block the release of a change they don't support.
+    
+    
     - The team should be able (authorized) to block the release of a change they don't support.
-
-
     - Communication between teams and departments. Both personal and using proper APIs.
-
-
 
 - Risk management. E.g. thread modeling. See [management principles](management-principles.md).
 
@@ -96,15 +95,27 @@ No testing.
 
 - Develop a PoC, then evaluate whether it should be put into production, and only then continue with TDD on that specific feature. This means that there are no tests written for unused code.
 
-
-
 **Test Pyramid**
 Rely on unit-tests (checks) to verify that requirements or specifications are met. Decompose large integration tests.
 
-Tests for interfaces can be generated automatically.
+- UI should have unit-tests.
+- Tests for interfaces can be generated automatically.
 
 **Anti-pattern**
 Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are slow, unmaintainable and too sensitive.
+
+
+
+## Software Quality
+
+Two types
+
+- External software quality; visible to users.
+    - Users are directly impacted by this.
+- Internal software quality; invisible to users. 
+    - Users are indirectly impacted by this, through lead time..
+
+
 
 ## Types of Work
 
