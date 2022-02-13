@@ -16,9 +16,17 @@ Also see  [goals and strategy](goals-planning-strategy.md) and  [management prin
 
 Don't sell, tell a story instead. This requires more than a formal list of requirements. Use visualizations. Describe the whole in addition to individual parts.
 
+## Product
+
+**Terminology**
+
+A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *User*, paid for by a *Customer*. The *Stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
+
+Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees.
 
 
-## Product and Projects
+
+### Product and Projects
 
 The main differences between project and product mindsets.
 
@@ -43,6 +51,8 @@ The main differences between project and product mindsets.
 
 
 
+### Background
+
 **Types of Products**
 
 - Traditional Product: a static object. Must be right the first time.
@@ -53,7 +63,7 @@ The main differences between project and product mindsets.
 
 **Product Portfolio**
 
-  Three innovation horizons. From exploitation to exploration.
+Three innovation horizons. From exploitation to exploration.
 
 1. Current cash-flow (value): profitable now. Risk: they may become a commodity.
 2. High-growth businesses: will become cash-flow.
@@ -80,6 +90,10 @@ Don't expect to satisfy all possible customers. Instead optimize for a limited s
 - Target market: optimize product for this market
 - Boundary: additional sales, but don't optimize product for this markter
 - Excluded from target
+
+
+
+[Market segmentation](https://en.wikipedia.org/wiki/Market_segmentation) is key because perception of value is subjective. In non-segmented markets, customers with high value perception pay just the average price and customers with relatively low value perception will not pay at all.
 
 
 
@@ -114,7 +128,11 @@ Applying [this hierarchy](goals-planning-strategy.md), this would result in:
 - A North Star Goal, with a metric to track progress.
     - Consider multiple possible scenarios/futures, not just the ideal case.
 - Diversified sub-goals ([initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)/Saga's/Epics) that are abstract and can easily be adjusted.
+    - Note that these are not just categories of stories (e.g. "improve security").
+
 - Stories or Tasks. The titles can be denoted in advance, but the details should not be added until the point where they are going to be picked up to be worked  in the short-term. I.e. only add details to the highest-priority stories.
+    - In practice, some stories will contribute to multiple sub-goals. There isn't always  a one-size-fits-all solution, so be pragmatic about this. 
+
 
 In general, MVP-based iterations are preferred. Their size is context-dependent.
 
@@ -265,20 +283,25 @@ The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/ph
 
 
 
-**Promotion driven development**
-Bias for optics & complexity. Build interesting stuff tools of useful tools.
+
 
 **Customer chasing development**
 Optimize on satisfying a single customer, instead of a market.
 
-**Pet Projects**
-Build something in secret to avoid the administrative or collaborative overhead.
-
-**Shadow Backlog**
-Typically non-prioritized and not discussed openly.
+**Feature Factory**
+Bias for releasing features, rather than solving customer problems. See [software-engineering](software-engineering.md]).
 
 **Invisible work**
 Single-point-of-failure. No handover in case of problems.
+
+**Pet Projects**
+Build something in secret to avoid the administrative or collaborative overhead.
+
+**Promotion driven development**
+Bias for optics & complexity. Build interesting stuff tools of useful tools.
+
+**Shadow Backlog**
+Typically non-prioritized and not discussed openly.
 
 **Zombie product**
 A product that is kept alive for political or personal reasons.

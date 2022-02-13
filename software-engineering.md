@@ -195,8 +195,8 @@ Notes
 **Anti-pattern**
 
 - FrAgile: Agile teams without authority to overcome bureaucratic impediments. 
-
 - Product-oriented teams in a project-oriented (management or bureaucratic) environment.
+- Feature factory. A focus on building and releasing new functionality rather than solving long-term customer problems (quantity over quality). This can result in high WIP.
 
 
 
@@ -216,9 +216,12 @@ The rate of integration directly affects the tome to receive and act upon feedba
 **Risk.** Changes can impact stability. Risk mitigation can be done by these two strategies:
 
 - Separation by demographic. E.g. [canary releases](https://martinfowler.com/bliki/CanaryRelease.html) where software is released gradually. In case of risk materialization, this will limit the impact to users and it will allow developers to address issues immediately.
-    - This increases the time-to-market, similar to the concept of a one-by-one production flow .
+    - This increases the time-to-market, similar to the concept of a one-by-one production flow.
+    - This incentivizes good metrics that track not just quality but also market-fit - and outcomes.
+    - This embraces learning. The early customer-feedback allows plans to be re-adjusted before sunk costs make it practically impossible.
 - Separation by non-production environments. E.g. [DTAP](https://en.wikipedia.org/wiki/Development,_testing,_acceptance_and_production).
     - This introduces safety barriers at the (potential) cost of time-to-market.
+    - There is a risk falling for the sunk cost fallacy. Once something has passed through multiple time-consuming or expensive stages, it becomes politically difficult to cancel.
 
 
 

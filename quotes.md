@@ -2,6 +2,8 @@
 
 [toc]
 
+## General
+
 Note that the validity of the following statements is dependent on certain *implicit* and *explicit* assumptions. Additionally they are biased towards software engineering.
 
 * Everything is a theory and could be proven wrong.
@@ -23,6 +25,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * But do gradually reduce exposure to uncooperative participants.
 * It is't necessary to continue after reaching a _good enough_ point. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting).
     * Only unicorns are perfect.
+    * Continuous improvement is better than delayed perfection.
 * Think in possibilities rather than limitations.
 * Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
@@ -32,11 +35,11 @@ Note that the validity of the following statements is dependent on certain *impl
 * Dogma is regarded by the common people as true, by the wise as false, and by rulers as useful.
 * Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects. 
     * Context switching isn't free.
+* Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
 
 
 
-
-**Processes**
+### Processes
 
 * Effectiveness (doing the right thing, goal-oriented) > Efficiency (doing things right, process-oriented).
     * Prefer messy but effective communication over efficient silos (with tunnel vision).
@@ -72,7 +75,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 
 
-**Time to market**
+### Time to market
 
 * Deliver sooner, not faster. Average throughput > total throughput.
     * Received value (by customer) > created value (inventory).

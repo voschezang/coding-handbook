@@ -2,6 +2,14 @@
 
 [toc]
 
+Functions of writing
+
+- Past events: documenting
+- Now: deconstructing, exploring
+- Future events: delegating
+
+
+
 **Types of documentation**
 
 Documentation should not only be written for a specific audience, but it should also have a specific [functionality](https://documentation.divio.com/).
@@ -12,6 +20,9 @@ Documentation should not only be written for a specific audience, but it should 
 | *must*        | allow the newcomer to get started                            | show how to solve a specific problem                         | describe the machinery                                       | explain                                                      | be testable                          |
 | *its form*    | a lesson                                                     | a series of steps                                            | dry description                                              | discursive explanation                                       | requirements                         |
 | *analogy*     | teaching a small child how to cook                           | a recipe in a cookery book                                   | a reference encyclopaedia article                            | an article on culinary social history                        | the definition of a Pizza Margherita |
+
+- Tutorials and explanations are educational and thus suitable for learning.
+- How-to guides and references are informational and more suitable for work.
 
 
 

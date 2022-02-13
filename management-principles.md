@@ -33,8 +33,6 @@ Three integral properties of management.
 
 
 
-
-
 **Change**
 
 Note that these can all involve *change*. A typical challenge is to change common processes.
@@ -53,14 +51,14 @@ Reaching goals usually requires change.
     1. Increase positive effects (e.g. increase profit).
     2. Decrease negative effects (e.g. cut cost).
 2. Locality.
-    1. Optimize (all) individual components. 
+    1. Optimize (all) individual components.
         1. Risk: over-production, tunnel-vision, high inventory that can become obsolete.
     2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components. 
         1. Risk: bias for the current goal. E.g. bias for a target market.
     3. Diversify. E.g. diversify the product line for exposure to new markets.
         1. Diversify into new markets.
             1. Risk: lack of focus, lack of efficiency, low margins.
-        2. Diversify the current market by creating segments.
+        2. Diversify the current market by creating [segments](https://en.wikipedia.org/wiki/Market_segmentation).
 
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
@@ -68,7 +66,7 @@ Also see  [goals and strategy](goals-planning-strategy.md).
 
 
 
-**Type of leadership**
+**Management Style and Focus**
 
 Management consists of two main activities:
 
@@ -81,7 +79,7 @@ Management consists of two main activities:
     - Employees should have agency and be incentivized to be pro-active. Allow them to question everything.
     - The organization should be a community, where people interact.
 
-Hence management styles can be oriented towards (1) leadership or (2) facilitation. In addition there might be a focus on a specific function, for example a product or project. The work will vary greatly dependent on the type of organization and the composition of teams.
+Hence management styles can be oriented towards (1) **leadership** or (2) **facilitation**. In addition there might be a focus on a specific function, for example a product or project. The work will vary greatly dependent on the type of organization and the composition of teams.
 
 There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
 
@@ -147,7 +145,9 @@ The future profitability can be defined as the [expected value](https://en.wikip
 
 >  A chain is no stronger than its weakest link.
 
-A bottleneck or constraint can greatly impact the product of the system. The typical example of this is traffic congestion. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this.
+A bottleneck or constraint can greatly impact the product of the system. This could mean either poor performance or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this. 
+
+The typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only (short-term) mitigation is to decrease velocity.
 
 The only fundamental way to avoid internal bottlenecks is to let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
 
@@ -200,7 +200,7 @@ There are two types of efficiency:
     - Build to order: pre-define a price range and only build products that are ordered.
 
 
-Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If tasks are picked up as planned (following demand), then people can be free to make improvements and learn.
+Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If there is spare capacity, then people can be free to make improvements and learn.
 
 > Low idle time is a side-effect of flow efficiency but not a method of reaching it.
 
@@ -208,6 +208,8 @@ In a *balanced* system, all resources produce exactly the right amount. There is
 
 - Increase inventory. This decreases agility and limits cash flow.
 - Decrease batch sizes, which decreases lead time. This increases setup time (handovers).
+
+Having inventory can effect that are not directly financial. For example, owning real estate or vehicles rather than renting them can improve work attitude.
 
 
 

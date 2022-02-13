@@ -1,6 +1,27 @@
-# Goals Planning Strategy Vision
+# Goals and Planning
 
 [toc]
+
+> Planning is generally good, not updating plans isn't.
+
+
+
+**Terminology**
+
+Specific types of goals
+
+| Term         | Meaning |
+| ------------ | ------- |
+| Mission      | Why     |
+| Vision       | What    |
+| Strategy     | How     |
+| Roadmap      | When    |
+| Segmentation | Who     |
+| Positioning  | Where   |
+
+Note that these can be chosen for an *organization* and for each *product* within that organization.
+
+
 
 ## Roadmap
 
@@ -20,6 +41,8 @@ A few variants:
     - Make sure this metric is consistent with your definition of success.
 - Outcome or narrative: what the ideal state would look like. A vision.
 
+Based on this high-level goal, you can define *inputs* or metrics to track progress.
+
 **(3) Planning**
 
 Use a rolling window. I.e. update the following list regularly/frequently. Reflect on results periodically and update them ad-hoc, on gaining new information.
@@ -37,6 +60,8 @@ Long-term goals are generally stable and short-term plans can be made continuous
 - Do come up with a plan, but don't expect to stick to it. Build an abstract planning that is simple to adjust.
 - Diversify; consider multiple approaches (bets) that try will help you to reach your goal from different angles.
     - e.g. have multiple [key results](https://en.wikipedia.org/wiki/OKR).
+
+A common tool to address the complexity of this area are OKRs. Do note that this works best *as a complement* to a long-term outcome. 
 
 
 
@@ -122,6 +147,15 @@ Prioritization requires de-prioritization. This is inherently difficult. A few t
 - Select a single goal, that is absolutely necessary. E.g. address (or identify) the main constraint.
 
 - Create a plot of the benefits as result of the effort required, for each possible goal.
+
+
+
+Defining goals
+
+- Bottom-up: First list features or desires, then define metrics.
+- Top-down: Define a desired outcome, then define metrics to track progress towards that outcome, then list immediate actions. 
+
+
 
 
 

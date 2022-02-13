@@ -95,7 +95,7 @@ A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or mo
 Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
 
 **Anti-patterns**
-Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work.
+Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work. A group of individuals rather than an aligned team.
 
 ### Product Owner
 
@@ -266,30 +266,14 @@ Having a single goal forces the team and stakeholders to accept the priority of 
 
 As mentioned, reaching the sprint goal has precedence over the sprint backlog. The development team is solely responsible for the Sprint Backlog, and can change it as they see fit. If they want to adjust the Sprint Goal or the planning then they can discuss or re-negotiate it with the PO.
 
+Ideally the Sprint Goal would have been reached before the end of the sprint. In such case the team could start preparation for the next sprint, but they could also take this opportunity to invest time in longer-term goals, reflect or work on personal improvements.
+
+
+
  **Definition of Done**
 The Definition of Done (DoD) describes when an Increment is *ready* to be released to customers. It is used to ensure quality. and transparency, by providing a shared understanding. It is created by the Scrum Team. If there is a organization-wide DoD then that one must be followed as a minimum. The Dod should be equal for teams that work on the same product, but it can be complemented by team-specific *development standards*.
 
 In addition, the DoD is complemented by Acceptance Criteria of backlog items, which are more specific. 
 
 Ideally, compliance with internal or external regulation would be ensured through automated pipelines rather than manual verification.
-
-
-
-### Hierarchy
-
-- Why: Company Vision
-    - What: Business Strategy
-    - How: Product Portfolio (Product Line)
-
-- Why: Product Vision
-    - What: Product Strategy
-    - How: Release Plan
-- Why: Product Goal
-    - What: Product Roadmap
-    - How: Product Backlog
-- Why: Sprint Goal.
-    - What: Sprint Backlog
-    - How: Sprint plan
-
-
 
