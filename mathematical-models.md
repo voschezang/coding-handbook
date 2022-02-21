@@ -62,6 +62,24 @@ Exponential growth can result in strong compounding.
 
 
 
+### Queueing Theory
+
+**Terminology**
+
+Utilization is the relative amount of time that a resource is busy (i.e. not idle). Variability is the variance in service time of a specific component.
+
+**Theories**
+
+[Little's law](https://en.wikipedia.org/wiki/Little's_law) states that for a stationary system, the long-term average:
+
+> Mean lead time =  number of items in the system / mean arrival rate (of items)
+
+
+
+[Kingma's formula](https://en.wikipedia.org/wiki/Kingman's_formula) predicts that given certain constraints, full system utilization results in infinite lead time. 
+
+
+
 ## Game Theory
 
 Interaction of rational agents.

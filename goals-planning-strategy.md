@@ -29,7 +29,7 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
 
-
+Ideal outcomes are often difficult to measure and quantify. Hence goals are used as a proxy for convenience.
 
 An hierarchy of three layers:
 

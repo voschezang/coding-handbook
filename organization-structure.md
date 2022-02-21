@@ -17,6 +17,12 @@ Control of an organization vary between being completely centralized or complete
 - Orchestration: communication happens through *commands*. E.g. a CEO makes an order.
 - Choreography: communication happens mainly by *events*. E.g. an investor broadcasts that they are offering stock at a certain price.
 
+In addition, power can be oriented differently.
+
+- Authoritative: chain of command.
+- Bureaucratic: rule-oriented.
+- Generative: performance-oriented.
+
 
 
 ## Autonomy and Alignment per Domain
@@ -26,9 +32,19 @@ Organizations cannot be studied properly without taking into account the domain 
 Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
 
 1. Chaotic. *"Novel practice"*
+    1. Act immediately, then evaluate, then respond.
+
 2. Complex. *"Emergent practice"*
+    1. Probe, experiment, then evaluate, then respond
+
 3. Complicated. *"Good practice"*
+    1. Analyze the problem, then respond.
+
 4. Obvious. *"Best practice"*
+    1. Categorize the situation by using existing models.
+
+
+
 
 There are two fundamental dimensions of of influence. 
 
@@ -37,7 +53,7 @@ There are two fundamental dimensions of of influence.
 
 These dimensions are intertwined and the optimum is situational. The following image gives an example of how the level of regulation can affect the value that is produced and delivered. Other properties with similar effects are: overstaffing and up-front planning.
 
-![plot-process-value-per-domain](/Users/mark/stack/src/coding-style-guide/img/plot-process-value-per-domain.png)
+![plot-process-value-per-domain](img/plot-process-value-per-domain.png)
 
 
 

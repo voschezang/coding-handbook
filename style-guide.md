@@ -17,8 +17,8 @@ See [documentation](documentation.md).
   - Solutions may be [insightful](https://www.hillelwayne.com/post/cleverness/) but be careful with assumptions and constraints.
 - First solve the problem (e.g. proof that specification is correct), then write code.
 - *Low* level code changes more often than *high* level code.
-    - E.g. a change in an interface requires a change in the implementation but not the vice versa.
-- *Generic* code changes more frequently than *specific* code.
+    - A change in an interface requires a change in the implementation but not the vice versa.
+- *Generic* code changes less frequently than *specific* code.
   - E.g. linear algebra libraries are unaffected by changes in consumer preferences.
 - Interfaces should be backwards compatible. Otherwise create a new interface. Only if that is not possible, break the interface and update all implementations.
     - Design for [replacement](https://martinfowler.com/bliki/SacrificialArchitecture.html) rather than reuse.
@@ -27,8 +27,16 @@ See [documentation](documentation.md).
 
 
 
+## Tests
 
-### Variable names
+See [testing](software-engineering.md#Testing)
+
+- Strive towards a single unit-test per test, rather than a single assertion per test.
+
+
+
+
+## Variable names
 
 * Variable (attribute) names should be self-explanatory. 
    * Don't use the type of a variable as its name. 
@@ -39,13 +47,13 @@ See [documentation](documentation.md).
 
 
 
-### Classes & methods
+## Classes & methods
 
 * The average number of lines per function or method should be `5`.
 * When writing Python, don't make it look like Java.
 ```diff
 - if (obj.data.getSize() > 0) {
--     return apple.getWeight() + grapes.getFromIndex(0);
+-     return (apple.getWeight(), grapes.getFromIndex(0)).sumTotal();
 - }
 + if obj.data:
 +     return apple.weight + grapes[0]
@@ -56,14 +64,14 @@ See [documentation](documentation.md).
 
 
 
-### Formatting
+## Formatting
 
 * Use _language-specific_ autoformat.
 
 
 
 
-### Data
+## Data
 
 Always consider the tradeoffs of `AoS` and `AoS` (array of structures, structure of arrays). Consider terms of usability, performance, adaptability and scalability.
 ```py
@@ -83,7 +91,7 @@ Tuples should not have a length greater than 3 or 4 or 5. Suitable alternatives 
 
 
 
-## Implementation
+## Flow
 
 - Make the flow of a procedural program trivial to understand.
     - Avoid unnecessary indentation.
