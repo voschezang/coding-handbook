@@ -17,11 +17,11 @@ Control of an organization vary between being completely centralized or complete
 - Orchestration: communication happens through *commands*. E.g. a CEO makes an order.
 - Choreography: communication happens mainly by *events*. E.g. an investor broadcasts that they are offering stock at a certain price.
 
-In addition, power can be oriented differently.
+In addition, [power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) can be oriented differently.
 
-- Authoritative: chain of command.
-- Bureaucratic: rule-oriented.
-- Generative: performance-oriented.
+- Authoritative: chain of command. Associated with scapegoating.
+- Bureaucratic: rule-oriented. Associated with seeking justice. Ensure fairness through equal rules.
+- Generative: performance-oriented. Associated with learning.
 
 
 
@@ -84,3 +84,10 @@ This design attempts to avoid the strong coupling of functional teams and the we
 
 Note that the facade and the complementing services can be either function-oriented or feature-oriented.
 
+
+
+Graphically, this can look like this (see image).
+
+The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.
+
+![org-arch](img/org-arch.png)
