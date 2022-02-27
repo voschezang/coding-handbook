@@ -119,7 +119,7 @@ Two types
 
 ## Types of Work
 
-Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-complex-complicated-obvious`. Also see [Traditional Paradigms](#Traditional Paradigms).
+Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-complex-complicated-obvious`. Also see [Traditional Paradigms](#Traditional%20Paradigms).
 
 1. Research (theoretical, experimental), deconstruct the application domain.
 2. Development: novelty, effectiveness, build/improve an application. I.e. invest and introduce change.
