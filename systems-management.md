@@ -30,11 +30,11 @@ A the system can be decomposed into three mutually exclusive components. Money i
 - *Output*: operational expenses (over time). The cost to turn input inventory into output
 - *Inventory*: everything else. Everything in this does not directly (currently) provide value.
 
-Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima. More on this [later](#Internal View).
+Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima. More on this [later](#Internal%20View).
 
 ### Inventory
 
-Based on the domain, inventory can include unfinished work, unsold items, buffer, queues, margins of safety. A common role of inventory is to contain [risk](#Risk Management). However, inventory has a few inherent disadvantages.
+Based on the domain, inventory can include unfinished work, unsold items, buffer, queues, margins of safety. A common role of inventory is to contain [risk](#Risk%20Management). However, inventory has a few inherent disadvantages.
 
 - Inventory has usually a direct cost, and thus can reduce efficiency and relative profitability.
 - Inventory tends to deprecate in value over time, for example due to changes in technology or requirements. It can even become obsolete.
