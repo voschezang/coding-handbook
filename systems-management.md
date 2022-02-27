@@ -1,0 +1,143 @@
+# Systems
+
+This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](goals-planning-strategy.md).
+
+[toc]
+
+## Introduction
+
+A general form is a **system**. Using a mathematical representation of a system allows us to draw conclusions that generalize to arbitrary domains.
+
+Anything can be described as a system, but the level of uncertainty and control may vary.
+
+A specific type of system is an *organization*, which can be defined as an interdependent set of components that work together towards a common goal. The alignment, autonomy and coordination of these components complicates the path to the goal.
+
+The relevant components in a system are called **resources**. This may include human, computational and mechanical resources. The connections between components vary between domains, but are just as important.
+
+
+
+## External View
+
+The behaviour of a system can be understood by studying its inputs and outputs. This model is agnostic about the inner workings of the system.  Long-term objectives are usually difficult to quantify. In practice, one can use a short-term metric as a proxy for the real objective. Two common options are *movement* (associated with energy) or *profit* (associated with money).
+
+The flow of value through a system can be drawn from left to right, whereas the resulting flow of money goes to the opposite direction.
+
+<img src="img/system-flow-value.png" alt="system-flow-value" style="width:70%;" />
+
+A the system can be decomposed into three mutually exclusive components. Money is used as an example, but this model does generalize to other domains.
+
+- *Input*: money moving into the system (over time). E.g. through sales, or services being delivered to customers.
+- *Output*: operational expenses (over time). The cost to turn input inventory into output
+- *Inventory*: everything else. Everything in this does not directly (currently) provide value.
+
+Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima. More on this [later](#Internal View).
+
+### Inventory
+
+Based on the domain, inventory can include unfinished work, unsold items, buffer, queues, margins of safety. A common role of inventory is to contain [risk](#Risk Management). However, inventory has a few inherent disadvantages.
+
+- Inventory has usually a direct cost, and thus can reduce efficiency and relative profitability.
+- Inventory tends to deprecate in value over time, for example due to changes in technology or requirements. It can even become obsolete.
+- Inventory is often proportional to lead time. For a FIFO-type process, it holds that `E[lead time] = queue size x optimal lead time`.
+
+### Performance Metrics
+
+Using these measurable properties, a universal system-metric would be: `input - output - inventory`. Any choice can be evaluated using this metric: "Is the change going to improve this metric in a given timespan?"
+
+From this definition, it follows that any work that does not contribute towards throughput is either an investment or a complete waste.
+
+> Working on the right thing > investing (e.g. optimizing, learning) > working on the wrong thing (over-producing)
+
+As a complement to this metric, the relative performance can be defined as: `(input - output) / inventory` (where inventory is never zero). This metric highlights the cost of inventory. Beware that it doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions). 
+
+The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
+
+
+
+## Internal View
+
+By definition, the internal components in a systems are either directly or indirectly dependent on each other. Mathematically, a system can be described by a covariance matrix, but this explanation will use a more intuitive, visual model.
+
+This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
+
+In the ideal case, the system has a clear [critical path](https://en.wikipedia.org/wiki/Critical_path_method). This is the longest dependent chain. Optimizations of components in this chain are likely to contribute to the global optimum, whereas all other optimizations are merely local.
+
+Before going into detail, consider that there are two perspectives to view the performance of a system.
+
+- The operational cost of the system. This is a linear sum of all the system's components.
+- The flow of value through the system. This consists of the lead time (per item) and the total throughput.
+
+Based on these perspectives, **resource efficiency** can be measured as **resource utilization** and **resource throughput**. Note that neither are perfect metrics. Resource utilization is defined as the proportion of time that a resource is busy. The inverse of utilization is idle time. This can be spare capacity, slack, or a margin of safety in project estimations. 
+
+Resources are connected to each other with **queues**. In project management this takes the form inventory or *work in progress (WIP)*.
+
+Resource utilization and queue size (WIP) are interconnected. Suppose that each resource produces as much output as there is demand (e.g. by the next resource in the chain). If queue sizes are increased, each preceding resource has to increase utilization to match the increased demand. If the queue size are decreased, then each preceding resource can work at lower capacity (or work on some other task).
+
+In addition, there are a few important but counter-intuitive effects.
+
+- Adding spare capacity tends to [decrease](https://en.wikipedia.org/wiki/Parkinson%27s_law) resource throughput. This means that incidental delays are not compensated. 
+    - E.g. the starting slowly because there is plenty to time left.
+    - E.g. postponing completion to avoid more aggressive schedules in the future. 
+- Increasing queue sizes will increase WIP (in project management). 
+    - This will increase the amount of unfinished work, which will increase handovers, which will decrease system throughput.
+    - This will increase pressure, which will increase context switching, which will decrease system throughput.
+
+
+
+### Bottlenecks
+
+Resources can be categorizes as:
+
+1. Bottlenecks: any resource that has capacity ≤ than the demand placed upon it.
+2. Capacity constraint resources. A resource that is on the verge of becoming a bottleneck.
+3. Non-bottlenecks. Optimizing these will not improve the flow of the system.
+
+The demand of resources is affected by queue size. Queues can be used as buffers against variance in resource performance. Tasks that go to bottleneck resources typically have high [queue times](https://en.wikipedia.org/wiki/Queue_management_system), while all other tasks have high waiting times.
+
+In theory, idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
+
+#### Propagation of errors
+
+>  A chain is no stronger than its weakest link.
+
+A bottleneck or constraint can greatly impact the product of the system. This could mean either poor performance or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this. The [critical path](https://en.wikipedia.org/wiki/Critical_path_method) is defined as the longest dependent chain.
+
+The typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only (short-term) mitigation is to decrease the velocity of each car.
+
+The only fundamental way to avoid internal bottlenecks is to *subordinate* all other components to the main bottleneck. E.g. let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
+
+Note that there can also be an external bottleneck. E.g. market demand that is lower than the capacity of the system.
+
+
+
+### Efficiency & Optimization
+
+> Resource activation does not imply resource utilization.
+
+A system can have many small bottlenecks. Therefore it is useful to distinguish between local inefficiencies and a global one. The latter is called the main constraint of a system.
+
+Two fundamental types of inefficiencies are spare *capacity* (partial utilization) and spare *inventory* (buffers). Reducing them directly can be risky, but improving the system as a whole may reduce them both as a side-effect.
+
+There are two types of efficiency:
+
+- Efficiency of resources. Reduce spare capacity (partial resource utilization). 
+    - Measured by resource utilization, which is defined as: "The percentage of time the resource is producing something which is contributing to the main goal". This definition excludes the production of e.g. spare parts.
+    - Risks: inventory (over-production), over-stretching of resources, over-optimization (silos).
+    - Build to sell: build until capacity runs out and then sell inventory to the highest bidder.
+- Efficiency of flow (to customer). I.e. [pull-strategy](https://en.wikipedia.org/wiki/Push%E2%80%93pull_strategy), demand-oriented. Because the customer pays for the service.
+    - Build to order: pre-define a price range and only build products that are ordered.
+
+
+Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If there is spare capacity, then people can be free to make improvements and learn.
+
+> Low idle time is a side-effect of flow efficiency but not a method of reaching it.
+
+In a *balanced* system, all resources produce exactly the right amount. There is no excess inventory. This theoretical state is dangerous. Any perturbation (expected variance) would be detrimental to flow, because all components are related and depend on each other. This inherent risk can be contained in two fundamental ways:
+
+- Increase inventory. This decreases agility and limits cash flow.
+- Decrease batch sizes, which decreases lead time. This increases setup time (handovers).
+
+Having inventory can effect that are not directly financial. For example, owning real estate or vehicles rather than renting them can improve work attitude.
+
+
+

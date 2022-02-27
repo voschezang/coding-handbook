@@ -1,6 +1,6 @@
 # Management Principles
 
-Inspired by [various sources](#References). See also on [goals and planning](goals-planning-strategy.md).
+Inspired by [various sources](#References). See also [goals & strategy](goals-planning-strategy.md).
 
 [toc]
 
@@ -8,17 +8,17 @@ Inspired by [various sources](#References). See also on [goals and planning](goa
 
 > Good management is situational
 
-See also [organization-structure.md](organization-structure.md). Management consists of **balances**. For example:
+Management consists of **balances**. For example:
 
 - Learning and adjusting.
     - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience.
-
-- Focussing versus diversifying.
+- Focussing and diversifying.
     - E.g. improving a process versus outsourcing a process.
-
 - Time horizon.
     - Pursue an optimistic ideal or a realistic planning.
     - Optimizing for the next quarter or for multiple decades.
+
+See also [organization-structure](organization-structure.md) and [systems-management](systems-management.md).
 
 
 
@@ -28,60 +28,42 @@ Three integral properties of management.
 1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge. 
 2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
 3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value. 
-    1. Project (time- and cost-bound). Focus on reaching a goal.
+    1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
     2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
 
 
 
-**Change**
-
-Note that these can all involve *change*. A typical challenge is to change common processes.
-
-1. [Influence](https://danluu.com/culture/) people (indirect)
-    1. Incentives. Rewards and punishments for behaviour or achievements.
-    2. Processes. E.g. regulation, validation.
-    3. Culture. "inherent" values. E.g. ideals to strive for.
-2. Persuade people (direct)
-
-
-
-Reaching goals usually requires change.
-
-1. Direction.
-    1. Increase positive effects (e.g. increase profit).
-    2. Decrease negative effects (e.g. cut cost).
-2. Locality.
-    1. Optimize (all) individual components.
-        1. Risk: over-production, tunnel-vision, high inventory that can become obsolete.
-    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components. 
-        1. Risk: bias for the current goal. E.g. bias for a target market.
-    3. Diversify. E.g. diversify the product line for exposure to new markets.
-        1. Diversify into new markets.
-            1. Risk: lack of focus, lack of efficiency, low margins.
-        2. Diversify the current market by creating [segments](https://en.wikipedia.org/wiki/Market_segmentation).
-
-With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
-
-Also see  [goals and strategy](goals-planning-strategy.md).
-
-
-
-**Management Style and Focus**
-
 Management consists of two main activities:
 
 1. Set *optimistic* goals, prioritize them and make a *realistic* planning/estimation.
-    - Be great at setting expectations.
+    - Be great at setting expectations (e.g. to stakeholders).
+    - Communicate a clear vision.
     - Adapt over time. Revisit past decisions.
-    - Prioritization includes deciding what *not* to do.
+    - Decide what [*not*](https://en.wikipedia.org/wiki/Opportunity_cost) to do.
 2. Creating an environment where employees can reach those goals.
 
     - Employees should have agency and be incentivized to be pro-active. Allow them to question everything.
     - The organization should be a community, where people interact.
 
-Hence management styles can be oriented towards (1) **leadership** or (2) **facilitation**. In addition there might be a focus on a specific function, for example a product or project. The work will vary greatly dependent on the type of organization and the composition of teams.
+Hence management styles can be oriented towards (1) leadership or (2) facilitation. In addition there might be a focus on a specific function, for example a product or project. The work will vary greatly dependent on the type of organization and the composition of teams.
 
 There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
+
+
+
+**Effectiveness**
+
+The two main directions to be effective are:
+
+- Deliver (maximize) value to customer. This may require investment and innovation (change).
+- Eliminate (minimize) waste. This doesn't just demand reliability and stability, but it also requires an investment to remove obstacles.
+
+This involve
+
+- Continuous improvement of purposes, people, processes.
+- Continuous discovery of value and waste.
+
+Note that investment involves a short term cost by definition.
 
 
 
@@ -104,155 +86,40 @@ Note that measures of success can be biased by how a component is perceived. E.g
 
 
 
-## Systems & Processes
+### Change
 
-Many challenges in management can be untangled by going back to fundamentals. A general form is a *system*. Using a mathematical representation of a system allows us to draw conclusions that generalize to arbitrary domains.
+Note that these can all involve *change*. A typical challenge is to change common processes.
 
-Anything can be described as a system, but the level of uncertainty and control may vary.
+1. [Influence](https://danluu.com/culture/) people (indirect)
+    1. Incentives. Rewards and punishments for behaviour or achievements.
+    2. Processes. E.g. regulation, validation.
+    3. Culture. "inherent" values. E.g. ideals to strive for.
+2. Persuade people (direct)
 
-A specific type of system is an *organization*, which can be defined as an interdependent set of components that work together towards a common goal. The alignment, autonomy and coordination of these components complicates the path to the goal.
 
 
+**Dimensions of Change**
 
-**Systems & Processes**
+Reaching goals usually requires change.
 
-Any system can be modeled as a black box with inputs and outputs. Given an objective (e.g. provide value) or a key result (e.g. making money), the progress can be understood using this simplified system:
+1. Direction.
+    1. Increase positive effects (e.g. increase profit).
+    2. Decrease negative effects (e.g. cut cost).
+2. Locality.
+    1. Optimize (all) individual components.
+        1. Risk: over-production, tunnel-vision, high inventory that can become obsolete.
+    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components. 
+        1. Risk: bias for the current goal. E.g. bias for a target market.
+    3. Diversify. E.g. diversify the product line for exposure to new markets.
+        1. Diversify into new markets.
+            1. Risk: lack of focus, lack of efficiency, low margins.
+        2. Diversify the current market by creating [segments](https://en.wikipedia.org/wiki/Market_segmentation).
 
-- *Input*: money moving into the system (over time). E.g. through sales, or services being delivered to customers.
-    - This can be defined as *throughput*
-- *Output*: operational expenses (over time). The cost to turn inventory into sold products.
-- *Inventory*: everything else. This category doesn't (yet) create value.
-    - E.g. investments that can be sold or reserves (buffers) that are kept for risk containment.
-    - The longer inventory sits idle the lower the relative ROI. This drags down the performance of the whole.
-    - Most inventory depreciates over time. Inventory can even become obsolete.
-    
+With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
-Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima.
+Also see [goals and strategy](goals-planning-strategy.md).
 
-Using these measurable properties, a universal system-metric would be: `input - output - inventory`. Any choice can be evaluated using this metric: "Is the change going to improve this metric in a given timespan?"
 
-From this definition, it follows that any work that does not contribute towards throughput is either an investment or a complete waste.
-
-> Working on the right thing > investing (e.g. optimizing, learning) > working on the wrong thing (over-producing)
-
-As a complement to this metric, a relative ROI can be defined as: `(input - output) / inventory` (where inventory is never zero). This metric highlights the cost of inventory. Beware that it doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions). 
-
-The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
-
-
-
-**Propagation of errors**
-
->  A chain is no stronger than its weakest link.
-
-A bottleneck or constraint can greatly impact the product of the system. This could mean either poor performance or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this. 
-
-The typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only (short-term) mitigation is to decrease velocity.
-
-The only fundamental way to avoid internal bottlenecks is to let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
-
-Note that there can also be an external bottleneck. E.g. market demand that is lower than the capacity of the system.
-
-
-
-**Resources**
-
-Let's use the formal term *resource* for components in a system. This includes anything that helps the system or organization towards its goal. Based on this definition, optimizing non-bottleneck components doesn't improve the efficiency of the system. The caveat is that resources should of course also work on the *right* thing. Avoiding working on the wrong thing can reduce waste and thereby improve global efficiency.
-
-Resources can be categorizes as:
-
-1. Bottlenecks: any resource that has capacity ≤ than the demand placed upon it.
-2. Capacity constraint resources. A resource that is on the verge of becoming a bottleneck.
-3. Non-bottlenecks. Optimizing these will not improve the flow of the system.
-
-
-
-The first step is to find and [address bottlenecks](https://en.wikipedia.org/wiki/Theory_of_constraints). If they cannot easily be resolved then do the following.
-
-1. Ensure that the resource is used for the right job. This is always important, but sometimes difficult to put into practice.
-2. Subordinate nearby resources to the bottleneck resource. Maximize utilization or minimize idle time of the bottleneck resource. This will make it more efficient.
-3. Improve the resource itself. Either by
-    1. Increasing capacity or efficiency.
-    2. Increasing quality. E.g. reduce variance.
-4. Lifting a bottleneck may change the functioning of the whole system. The bottleneck may have moved elsewhere. Repeat this process until market demand has become the limiting factor.
-
-It can be concluded that any idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
-
-Tasks that go to bottleneck resources typically have high [queue times](https://en.wikipedia.org/wiki/Queue_management_system), while all other tasks have high waiting times.
-
-
-
-**Efficiency & Optimization**
-
-> Resource activation does not imply resource utilization.
-
-A system can have many small bottlenecks. Therefore it is useful to distinguish between local inefficiencies and a global one. The latter is called the main constraint of a system.
-
-Two fundamental types of inefficiencies are spare *capacity* (partial utilization) and spare *inventory* (buffers). Reducing them directly can be risky, but improving the system as a whole may reduce them both as a side-effect.
-
-There are two types of efficiency:
-
-- Efficiency of resources. Reduce spare capacity (partial resource utilization). 
-    - Measured by resource utilization, which is defined as: "The percentage of time the resource is producing something which is contributing to the main goal". This definition excludes the production of e.g. spare parts.
-    - Risks: inventory (over-production), over-stretching of resources, over-optimization (silos).
-    - Build to sell: build until capacity runs out and then sell inventory to the highest bidder.
-- Efficiency of flow (to customer). I.e. [pull-strategy](https://en.wikipedia.org/wiki/Push%E2%80%93pull_strategy), demand-oriented. Because the customer pays for the service.
-    - Build to order: pre-define a price range and only build products that are ordered.
-
-
-Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If there is spare capacity, then people can be free to make improvements and learn.
-
-> Low idle time is a side-effect of flow efficiency but not a method of reaching it.
-
-In a *balanced* system, all resources produce exactly the right amount. There is no excess inventory. This theoretical state is dangerous. Any perturbation (expected variance) would be detrimental to flow, because all components are related and depend on each other. This inherent risk can be contained in two fundamental ways:
-
-- Increase inventory. This decreases agility and limits cash flow.
-- Decrease batch sizes, which decreases lead time. This increases setup time (handovers).
-
-Having inventory can effect that are not directly financial. For example, owning real estate or vehicles rather than renting them can improve work attitude.
-
-
-
-**Effectiveness**
-
-The two main directions to be effective are:
-
-- Deliver (maximize) value to customer. This may require investment and innovation (change).
-- Eliminate (minimize) waste. This doesn't just demand reliability and stability, but it also requires an investment to remove obstacles.
-
-This involve
-
-- Continuous improvement of purposes, people, processes.
-- Continuous discovery of value and waste.
-
-Note that investment involves a short term cost by definition.
-
-
-
-**Types of Challenges**
-
-Fundamental characteristics of the world (from [Buddhism](https://en.wikipedia.org/wiki/Three_marks_of_existence)):
-
-1. Change. Nothing is permanent (time moves forward). As a result, systems degrade and expire. Hence there is a need to adapt, transform and sometimes start over. Naturally, even methods itself have to be adapted.
-2. [Interdependence](https://en.wikipedia.org/wiki/Systems_theory). Consider components and connections. Hence we should embrace collaboration over isolation.
-3. Dissatisfaction. Repetition is boring. Hence there is a need to iterate, learn and improve.
-
-In addition, learning (adapting) takes practice. Both at the individual and organizational level.
-
-
-
-
-
-Local improvements and adaptation are a vital complement to top-down strategies.
-
-- This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
-- Local improvements are usually easier than global ones.
-
-
-
-**Work environment**
-
-Company values should be reinforced though the work environment. E.g. if software quality is valued then internal software should also be of high standards.
 
 
 
@@ -311,9 +178,19 @@ Learning on a local level is easy, but learning at the "middle management level"
 
 
 
+Local improvements and adaptation are a vital complement to top-down strategies.
+
+- This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
+- Local improvements are usually easier than global ones.
+
 
 
 ## Management per Type
+
+**Organization Management**
+ [organization-structure](organization-structure.md) 
+
+
 
 **Crisis management**
 
@@ -350,7 +227,24 @@ Time can be multiplied.
 
 
 
-### Risk management
+### Process Management
+
+Based on the properties of [systems](systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
+
+1. Identify the main constraint in the system.
+    1. Identify the [critical chain](https://en.wikipedia.org/wiki/Critical_path_method).
+    2. Identify the critical component. This can be either a policy or a physical constraint.
+2. Assuming there is no simple solution, *exploit* the constraint. Ensure that the resource is used for the right job and then maximize its throughput.
+3. *Subordinate* everything else. Let the Let dependent components run at partial capacity. This avoids wasteful over-production.
+4. *Elevate* the constraint. E.g. increase the capacity of the critical components.
+5. Repeat all the previous steps, until the constraint has moved *outside* of the system. Note that lifting a bottleneck may change the functioning of the whole system.
+6. Two remaining challenges are:
+    1. [Risk management](#Risk Management). E.g. find optimal buffer-sizes.
+    2. [Product management](product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
+
+
+
+### Risk Management
 
 Definitions:
 
@@ -377,7 +271,7 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
     1. Avoidance: don't take risks at all (but miss out on potential wins).
     2. Evasion (retainment): count on luck, assume low-probability events won't occur.
 3. Specific strategies that do address risk:
-    1. Containment: decrease impact of risk when they do occur. E.g. reserve *buffers*.*
+    1. Containment: decrease impact of risk when they do materialize. E.g. reserve *buffers*.*
     2. Mitigation: reduce containment cost. This has an up-front cost, independent of whether the risk will materialize. 
 
 
@@ -416,6 +310,16 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
 
 
 ## Miscellaneous
+
+Fundamental characteristics of the world (from [Buddhism](https://en.wikipedia.org/wiki/Three_marks_of_existence)):
+
+1. Change. Nothing is permanent (time moves forward). As a result, systems degrade and expire. Hence there is a need to adapt, transform and sometimes start over. Naturally, even methods itself have to be adapted.
+2. [Interdependence](https://en.wikipedia.org/wiki/Systems_theory). Consider components and connections. Hence we should embrace collaboration over isolation.
+3. Dissatisfaction. Repetition is boring. Hence there is a need to iterate, learn and improve.
+
+In addition, learning (adapting) takes practice. Both at the individual and organizational level.
+
+
 
 **Gaining knowledge**
 
@@ -458,8 +362,6 @@ Four types of knowledge
 Single point estimates (e.g. the mean) are a poor predictor of stability. The following image shows that chaotic (random) and cyclical processes - which are fundamentally different - can have the same mean.
 
 ![plot-process-throughput](img/plot-process-throughput.png)
-
-
 
 
 

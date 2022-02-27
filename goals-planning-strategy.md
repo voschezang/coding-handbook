@@ -1,4 +1,4 @@
-# Goals and Planning
+# Goals & Strategy
 
 [toc]
 

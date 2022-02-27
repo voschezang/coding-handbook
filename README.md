@@ -19,12 +19,14 @@ Software Industry
 * [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 * [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
 * [Software Engineering](software-engineering.md) - what is it.
-* [Goals/Planning/Strategy](goals-planning-strategy.md) - a format to denote goals and strategies.
 * [Product Management](product-management) - Ideas about Product
 
 General
 
 - [Modeling](modeling.md) - theory about models.
+- [Management Principles](management-principles) - a collection of domain-agnostic theories.
+- [Goals/Planning/Strategy](goals-planning-strategy.md) - a format to denote goals and strategies.
+- [Systems Management](systems-management.md).
 - [Organization Structure](organization-structure.md) - not just application architecture.
 
 

@@ -55,7 +55,7 @@ Scrum revolves around products rather of projects. See [this document](product-m
 - Ownership of the team. Developers should have enough autonomy to self-organize and adapt.
 
 **Anti-patterns**
-Managers that spend their time firefighting.
+Mechanical scrum (without Scrum values).
 
 #### Sprints
 
@@ -95,7 +95,7 @@ A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or mo
 Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
 
 **Anti-patterns**
-Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work. A group of individuals rather than an aligned team.
+Managers that spend their time firefighting. Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work. A group of individuals rather than an aligned team.
 
 ### Product Owner
 
@@ -162,7 +162,13 @@ Sprints can be independent from the release cycle; in the ideal case releases ha
 The duration of sprints is chosen based on busines risk and synchronization with other business events. The chosen duration is fixed, but a sprint can be cancelled if the Sprint Goal has become obsolete. If there is unfinished work left in a sprint then that  may be moved over the the next sprint. If the sprint goal is not reached then the team should take it as an opportunity to learn and choose a new sprint goal in the next sprint. Hence it is not permitted to increase the length of a sprint. In addition,  reducing quality for the sake of reaching a deadline is a no-go.
 
 **Anti-pattern**
-Start-stop scrum; no continuity between sprints. Mechanical scrum (without Scrum values).
+Too little or too much overlap between sprints
+
+- Start-stop scrum; no continuity between sprints. 
+
+- Red sprints; repeatedly having leftover work from each previous sprint.
+
+E.g. repeatedly scoping out all unfinished work at the end of the sprint to make it seem like the sprint went perfect.
 
 ### Sprint Events
 Sprint events are opportunities to inspect the current sprint and adapt accordingly. These events are all time-boxed, but usually they don't take up their full capacity, especially not for shorter sprints.

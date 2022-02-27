@@ -51,6 +51,8 @@ The main differences between project and product mindsets.
 
 
 
+Projects typically have three constraints: a time bound, cost bound and a set of requirements. When risks materialize then at least one of these must be let go.
+
 ### Background
 
 **Types of Products**
@@ -222,6 +224,8 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 
 
 ### Backlog
+
+The backlog is a list of future work. Ideally it is prioritized. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. Each item is a small project.
 
 Items can be grouped together in two ways:
 
