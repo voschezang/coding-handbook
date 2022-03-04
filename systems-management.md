@@ -60,7 +60,11 @@ By definition, the internal components in a systems are either directly or indir
 
 This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
 
-In the ideal case, the system has a clear [critical path](https://en.wikipedia.org/wiki/Critical_path_method). This is the longest dependent chain. Optimizations of components in this chain are likely to contribute to the global optimum, whereas all other optimizations are merely local.
+<img src="img/seq-par-chain.png" alt="seq-par-chain" style="width:60%;" />
+
+In the ideal case, the system has a clear [critical path](https://en.wikipedia.org/wiki/Critical_path_method). This is the longest dependent chain. As show in the scheme below, this may be ambiguous. Optimizations of components in the critical chain are likely to contribute to the global optimum, whereas all other optimizations are merely local.
+
+<img src="img/composite-chain.png" alt="composite-chain" style="width:70%;" />
 
 Before going into detail, consider that there are two perspectives to view the performance of a system.
 
@@ -141,3 +145,8 @@ Having inventory can effect that are not directly financial. For example, owning
 
 
 
+## Runtime
+
+It is common that the expected runtime (until completion) has the following pattern.
+
+![plot-expected-completion-time](img/plot-expected-completion-time.png)

@@ -123,6 +123,16 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 
 
+**Timeline**
+
+
+
+![plot-expected-completion-time](img/plot-expected-completion-time.png)
+
+![plot-estimated-num-features](img/plot-estimated-num-features.png)
+
+
+
 ## Up-front Planning
 
 Applying [this hierarchy](goals-planning-strategy.md), this would result in:
