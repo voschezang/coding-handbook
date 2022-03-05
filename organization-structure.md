@@ -86,6 +86,8 @@ Note that the facade and the complementing services can be either function-orien
 
 
 
+### Software Organizations
+
 Graphically, this can look like this (see image).
 
 The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.

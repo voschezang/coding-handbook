@@ -58,15 +58,20 @@ The future profitability can be defined as the [expected value](https://en.wikip
 
 By definition, the internal components in a systems are either directly or indirectly dependent on each other. Mathematically, a system can be described by a covariance matrix, but this explanation will use a more intuitive, visual model.
 
+#### Single Chains
+
 This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
 
 <img src="img/seq-par-chain.png" alt="seq-par-chain" style="width:60%;" />
 
-In the ideal case, the system has a clear [critical path](https://en.wikipedia.org/wiki/Critical_path_method). This is the longest dependent chain. As show in the scheme below, this may be ambiguous. Optimizations of components in the critical chain are likely to contribute to the global optimum, whereas all other optimizations are merely local.
+In the ideal case, the system has a known clear [critical path](https://en.wikipedia.org/wiki/Critical_path_method). This is the longest dependent chain. In case of multiple chains with the same length the variance can be taken into account. Only in case of equivalence the classification can be made arbitrarily. Optimizations of components in the critical chain are likely to contribute to the global optimum, whereas all other optimizations are merely local.
 
-<img src="img/composite-chain.png" alt="composite-chain" style="width:70%;" />
+<img src="img/composite-chain.png" alt="composite-chain" style="width:80%;" />
 
-Before going into detail, consider that there are two perspectives to view the performance of a system.
+Resources can be classified as being part of the critical path or not. Resources in the first category can be managed aggressively, focussing on short-term efficiency, whereas other resources can be optimized towards long-term efficiency. Dependent on the flexibility of resources, non-critical resources could even be used to aid critical resources.
+
+**Performance**
+Consider that there are two perspectives to view the performance of a system.
 
 - The operational cost of the system. This is a linear sum of all the system's components.
 - The flow of value through the system. This consists of the lead time (per item) and the total throughput.
@@ -86,7 +91,7 @@ In addition, there are a few important but counter-intuitive effects.
     - This will increase the amount of unfinished work, which will increase handovers, which will decrease system throughput.
     - This will increase pressure, which will increase context switching, which will decrease system throughput.
 
-
+![scheduling-slack](img/scheduling-slack.png)
 
 ### Bottlenecks
 
@@ -111,6 +116,14 @@ The typical example of this is traffic congestion. It is caused by a combination
 The only fundamental way to avoid internal bottlenecks is to *subordinate* all other components to the main bottleneck. E.g. let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
 
 Note that there can also be an external bottleneck. E.g. market demand that is lower than the capacity of the system.
+
+
+
+### Resource Contention
+
+In the aforementioned examples all resources had a static position. However, in reality, resources can shared. In such cases, the critical chain can span over multiple projects.
+
+<img src="img/critical-chain.png" alt="critical-chain" style="width:80%;" />
 
 
 
@@ -147,6 +160,6 @@ Having inventory can effect that are not directly financial. For example, owning
 
 ## Runtime
 
-It is common that the expected runtime (until completion) has the following pattern.
+For projects that have a fixed set of requirement and a minimum input effort, the expected time until completion often has the following pattern. For uncertain projects the tail is more pronounced.
 
 ![plot-expected-completion-time](img/plot-expected-completion-time.png)
