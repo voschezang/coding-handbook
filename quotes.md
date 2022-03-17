@@ -72,6 +72,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Blameless postmortems
     * If there was a single point of failure then that was the problem (i.e. the system).
     * Nameless postmortems imply that there is a need to hide the name.
+* Activity does not imply achievement.
 
 
 
@@ -153,13 +154,14 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
     * Assume that all people will make mistakes and act foolish eventually.
     * Change the environment to minimize potential errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
     * "Let it crash". Fail fast, but in a controlled way (e.g. using circuit breakers and compartmentalization). Make failure visible instead of suppressing it. Don't let problems accumulate to a [critical state](https://en.wikipedia.org/wiki/Critical_phenomena). This prevents [cascading](https://en.wikipedia.org/wiki/Cascading_failure) failures.
-* Releasing a single feature is preferred over to leaving 5 ones in-progress.
+* Releasing a single feature is generally better then leaving 5 ones in-progress.
 * Defer impactful decisions if they are uncertain.
     * Use small decisions as experiments.
     * Put new code behind feature flags and use canary deployments.
 * Prefer automation (and alternatives) over formal processes and contracts (e.g. in risk management).
     * If it's risky then do it more often. This forces one to address issues.
     * If it's difficult then do it more often. Practice.
+    * If it hurts (e.g. financially), do it more often. Let the pain show.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
   * Ideally change one thing at the same time (in a team) so you can study the results and possibly infer causality. This is also an incentive to move faster and finish tasks.

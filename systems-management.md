@@ -93,6 +93,10 @@ In addition, there are a few important but counter-intuitive effects.
 
 ![scheduling-slack](img/scheduling-slack.png)
 
+**Caveat**
+
+Deadlines are not the only method to control pressure. Hence it can be feasible to have loosed deadlines without losing pressure or focus.
+
 ### Bottlenecks
 
 Resources can be categorizes as:

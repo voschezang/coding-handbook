@@ -117,6 +117,40 @@ Two types
 
 
 
+### Technical Debt
+
+Technical debt is an investment. It is risky, especially when the aggregate debt is kept unchecked. The typical example is to trade in quality in order to release faster. Given that requirements usually change over time, technical debt doesn't always have to be "paid back". The tradeoff can be summarized as: "You ain't gonna need it" vs. "you're not gonna fix it later".
+
+In order to reduct risk, technical debt can be made implicit.
+
+- Document imperfect implementations.
+    - In code. E.g.:
+        - `raise NotImplementedError`
+        - Comments: `TODO, FIXME, SMELL`
+    - In external documentation
+
+Types
+
+- Confusing requirements. E.g. a design that is perceived as a bug by users.
+
+- Missing functionality.
+
+    - Low quality, sensitivity to small perturbations. E.g. special characters.
+    - Outdated software.
+
+- Lack of documentation.
+
+- Lack of tests.
+
+- Unnecessary complexity.
+
+    - Higher learning curve.
+        - Increased onboarding time
+
+    - Risk of bugs, inconsistencies, unexpected behaviour
+
+- Bad interfaces. This may result in lot's of duplicate code.
+
 ## Types of Work
 
 Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-complex-complicated-obvious`. Also see [Traditional Paradigms](#Traditional%20Paradigms).
@@ -211,7 +245,7 @@ The rate of integration directly affects the tome to receive and act upon feedba
 - Days or weeks. E.g. short-lived feature branches.
 - Months or years. E.g. working in parallel branches.
 
-  
+
 
 **Risk.** Changes can impact stability. Risk mitigation can be done by these two strategies:
 

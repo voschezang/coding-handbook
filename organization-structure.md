@@ -61,9 +61,9 @@ These dimensions are intertwined and the optimum is situational. The following i
 
 A large organization can consists of sub-organizations. E.g. departments, divisions, teams. It is not possible to specialize at every level without impacting cohesion, alignment and collaboration.
 
-This section uses the term "team" instead of "component" for simplicity, but the categories do extend beyond this.
+This section uses the term "team" instead of "component" for simplicity, but the categories do extend beyond this. Moreover, different levels typically have a different structures. E.g. functional departments with cross-functional teams.
 
-1. Functional teams.
+1. Functional, specialist teams (or departments or roles).
 2. Feature or product teams.
 3. Core + Context.
 

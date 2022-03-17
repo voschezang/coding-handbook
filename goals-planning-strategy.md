@@ -27,6 +27,8 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 > Great outcome > meeting initial requirements.
 
+> A goal is nothing without a good system to reach it.
+
 A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
 
 Ideal outcomes are often difficult to measure and quantify. Hence goals are used as a proxy for convenience.
@@ -41,7 +43,7 @@ A few variants:
     - Make sure this metric is consistent with your definition of success.
 - Outcome or narrative: what the ideal state would look like. A vision.
 
-Based on this high-level goal, you can define *inputs* or metrics to track progress.
+Based on this high-level goal, you can start to trace back which steps are necessary to reach it. In addition, you can setup *inputs* or metrics to track progress.
 
 **(3) Planning**
 
@@ -85,7 +87,7 @@ For each goal, denote the assumptions and rationale. Be explicit in what's an as
 Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
 
 **Persona**
-A model of the target market or audience. E.g. a typical user with a certain background.
+A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
 
 **User Story**
 What value a given feature would bring to a given *persona*. E.g.:
