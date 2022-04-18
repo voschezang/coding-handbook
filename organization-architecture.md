@@ -17,19 +17,15 @@ General strategy
 
 ## Principles
 
-**Independence**
+**Qualities**
 
-One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways.
+What to optimize a system for
 
-
-
-**Efficiency**
-
-A second pair of properties is efficiency and flexibility. They are (to some extend) negatively correlated; optimizing for efficiency limits flexibility.
-
-> Effectiveness = Efficiency x Flexibility
-
-This relates to [the bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in data science; you can either optimize for a specific situation or adapt to many different situations.
+- Change-oriented
+    - Data mutations.
+    - Structure or system mutations.
+    - Scalability
+- Queries
 
 
 
@@ -54,6 +50,21 @@ Bureaucracy limits innovation
 
 
 ## Tradeoffs
+
+### Fundamental Tradeoffs
+
+For the following groups, a system can never excel in all items per group.
+
+**Independence or Consistency**
+One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways. At the same time, independence comes at the cost of consistency, which has its own benefits.
+
+**Efficiency or Flexibility**
+A second pair of properties is efficiency and flexibility. They are (to some extend) negatively correlated; optimizing for efficiency limits flexibility.
+
+This relates to [the bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in data science; you can either optimize for a specific situation or adapt to many different situations.
+
+**Consistency, Availability, Partitioning**
+See [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).
 
 
 
@@ -149,5 +160,4 @@ Embrace a culture of learning.
     * Minimal & compact - fully self-contained
     * Value in side-effects - risk in side-effects
     * Low threat to status quo - challenges status quo & conventions
-
 

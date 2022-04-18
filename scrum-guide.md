@@ -246,8 +246,6 @@ Some common patterns for PBIs. Lowercase letters denote preparation and uppercas
 
 The size or weight of PBIs is a proxy for the effort required to finish it. It can be expressed in e.g. FTE hours or complexity. If all PBIs have a comparable size then it becomes easier to predict when work is finished, even while taking into account uncertainty. In order to make accurate estimations a confidence interval based on historical data is vital.
 
-
-
 ### Commitments
 
 | Artifact                               | Commitment         |
@@ -259,13 +257,15 @@ The size or weight of PBIs is a proxy for the effort required to finish it. It c
 
 
 **Product Backlog**
-A single source of truth of planned work. It is prioritized by value, as defined by the PO.
+A single source of truth of planned work. It is prioritized by value, as defined by the PO. In practice, the preferences of individuals can play a role as well. E.g. due to affinity, skill or even optics.
 
 **Product Goal**
 If the Product Goal is achieved or obsolete then a new goal is chosen.
 
 **Sprint Backlog**
 The Sprint Backlog is owned by the development team. If there is demand to change it then the development team can decide to adjust the it, as long as it doesn't endanger the sprint goal.
+
+Note that the selection and structure of sprint backlog items influences how effective the development team can be. There is a tradeoff between high autonomy and high alignment. An example of the former would be focus on individual (personal) tasks, and an example of the latter would be focus on task with the highest priority, at the cost of context switching.
 
 **Sprint Goal**
 Having a single goal forces the team and stakeholders to accept the priority of features. It incentivizes stakeholders to align on what's the most important aspect. 

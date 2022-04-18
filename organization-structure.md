@@ -25,6 +25,20 @@ In addition, [power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short
 
 
 
+## Boundaries
+
+Real world objects should rarely be studied in isolation.
+
+The connections of an object with the outside are usually:
+
+- Owner or Stakeholders: the party that profits from success of the organization
+- Customer: the party that pays to receive a service.
+- Employees: an intermediate party that delivers services.
+
+The overall goal of the organization should take into account the preferences of all these components.
+
+
+
 ## Autonomy and Alignment per Domain
 
 Organizations cannot be studied properly without taking into account the domain in which they live.

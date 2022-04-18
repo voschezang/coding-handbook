@@ -162,6 +162,24 @@ One-pagers. One page is enough to introduce an idea but does forces the writer t
 
 
 
+### Departments
+
+Traditional conflicts between departments
+
+**Development & Operations**
+
+- Development wants to change and innovate
+- Operations wants stability and predictability
+
+Typical solutions: DevOps, product-teams.
+
+**Operations & Sales**
+
+- Operations prefers small changes over large ones (e.g. slow supply lines).
+- Sales prefers bulk orders due to costs
+
+Typical solutions: ship orders in increments, vertical integration, store resources in a central location
+
 ## Organizational Learning
 
 An optimal learning environment has:
@@ -252,6 +270,12 @@ Definitions:
 
 - Risk management: dealing with unpleasantness, instead of counting on luck.
 
+```
+Total Risk = threads (external) + vulnerabilities (internal)
+```
+
+
+
 The main *prerequisite* is a certain corporate culture: Thinking in probabilities & decriminalize risk. Uncertainty should be preferred over being wrong (or overly optimistic).
 
 - Prefer mean-variance optimization over point-estimates. A typical prediction should include (un)certainty bounds. E.g. "We need at least 4 months, and it may take up to 1 year (in the worst case). We estimate a 80 % chance of finishing it in 6 to 8 months. "
@@ -266,19 +290,21 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
 
 1. General strategies:
     1. Avoid or limit tail-risk rather than focussing on winning.
-    2. Diversify to handle idiosyncratic (unsystematic) risk. I.e. make multiple small bets over a single large one.
+    2. Diversify to handle idiosyncratic (unsystematic) risk. I.e. make multiple small bets instead of a single large one.
 2. Specific strategies that don't address risk:
     1. Avoidance: don't take risks at all (but miss out on potential wins).
     2. Evasion (retainment): count on luck, assume low-probability events won't occur.
 3. Specific strategies that do address risk:
     1. Containment: decrease impact of risk when they do materialize. E.g. reserve *buffers*.*
-    2. Mitigation: reduce containment cost. This has an up-front cost, independent of whether the risk will materialize. 
+    2. Mitigation: reduce containment cost. E.g. though insurance. This has an up-front cost, independent of whether the risk will materialize.
 
 
 
 *Given a set of independent risks, the risk exposure per risk is the product of the probability of occurrence and the cost of occurrence. A conservative *buffer* is strictly higher then the total exposure. 
 
-> Risk exposure = probability of risk times the cost of occurrence
+```
+Risk Exposure = probability x materalization cost
+```
 
 
 

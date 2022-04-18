@@ -2,7 +2,7 @@
 
 [toc]
 
-> Planning is generally good, not updating plans isn't.
+> Planning is generally good, withholding from updating them isn't.
 
 
 
@@ -31,11 +31,13 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
 
-Ideal outcomes are often difficult to measure and quantify. Hence goals are used as a proxy for convenience.
+Ideal outcomes are often difficult to measure and quantify. Hence (sub-)goals are used as a proxy.
+
+
 
 An hierarchy of three layers:
 
-**(1) High level**
+**(1) High level / long term: North Star**
 
 A few variants:
 
@@ -45,7 +47,7 @@ A few variants:
 
 Based on this high-level goal, you can start to trace back which steps are necessary to reach it. In addition, you can setup *inputs* or metrics to track progress.
 
-**(3) Planning**
+**(3) Low-level / Short term: planning**
 
 Use a rolling window. I.e. update the following list regularly/frequently. Reflect on results periodically and update them ad-hoc, on gaining new information.
 
@@ -63,7 +65,17 @@ Long-term goals are generally stable and short-term plans can be made continuous
 - Diversify; consider multiple approaches (bets) that try will help you to reach your goal from different angles.
     - e.g. have multiple [key results](https://en.wikipedia.org/wiki/OKR).
 
-A common tool to address the complexity of this area are OKRs. Do note that this works best *as a complement* to a long-term outcome. 
+A common tool to address the complexity of this area are OKRs. Do note that this works best *as a complement* to a long-term outcome.
+
+In addition, the following tool can be used.
+
+Denote a list of *narratives* and a list of *epics*. Ideally they correspond directly to each other, but in practice they may be interdependent.
+
+Narratives are abstract but intuitive. They are large enough to be significant.
+
+Epics are more concrete.
+
+
 
 
 
@@ -93,6 +105,11 @@ A model (or proxy) of the target market or audience. E.g. a typical user with a 
 What value a given feature would bring to a given *persona*. E.g.:
 
 > As a `Persona` I want  `an action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
+
+In order to be effective, a the scope should be limited to a few weeks.
+
+**Epic**
+A collection of user stories that can be finished in at most a handful of months.
 
 
 

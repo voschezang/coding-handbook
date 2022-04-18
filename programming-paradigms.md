@@ -53,7 +53,7 @@
 
 
 
-# Patterns
+# Patterns & Principles
 
 Patterns are *just* models that can be used as tools to understand a system. Note that:
 
@@ -63,9 +63,9 @@ and
 
 > Multiple models can be correct.
 
+Patterns allow experience reuse, rather than code reuse. They provide a shared vocabulary. In addition, they are a necessary complement to OOP, which can grow overly complex quickly.
 
-
-Note, in general:
+In general:
 
 - Locality is easy: e.g. changes inside a single module or a single application.
 - Systems can be specific and efficient, or generic and flexible.
@@ -94,7 +94,7 @@ Orchestration
 Choreography
 
 - Distributed control. applications are autonomous and react to messages.
-    - Using *Events* that describe the *past*. E.g. `ThisHappened`.
+    - Using *Events* that describe the *past*. E.g. `ThisHasHappened`.
     - Messages (data) are broadcasted.
     - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
 
@@ -106,13 +106,13 @@ Choreography
 **Interfaces**
 
 - Inheritance (sub-typing, sub-classes). I.e. backwards compatibility with a previous interface. E.g. `Array` vs. `Sequence`
-- Composition. Typically used for behaviour (e.g. `Iterable`).
+- Composition. Typically used for behaviour (e.g. `Iterable`). This interface is generally better maintainable than inheritance.
 
 **Command–query Separation**
 Each function, method or API call should focus on [one task](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation), i.e. be *either* an imperative command or a query. 
 
 **Unix Philosophy**
-Design programs to be [minimalistic](https://en.wikipedia.org/wiki/Unix_philosophy), light-weight and reusable.
+Design programs to be [minimalistic](https://en.wikipedia.org/wiki/Unix_philosophy) and light-weight. This makes them replaceable and reusable.
 
 **Communication**
 Four major categories:
@@ -129,6 +129,9 @@ Four major categories:
     - Noisy neighbour syndrome.
     - Performance can be an issue.
 
+**Encapsulation**
+Encapsulate the parts of a program that change often. Usually this is the domain (core). In addition, make any contextual components replaceable. 
+
 
 
 ## Design Patterns
@@ -139,17 +142,24 @@ Design patterns for applications and systems.
 
 Some intuitive patterns that can be explained without technical details.
 
-- Publisher-subscriber, with topics. E.g. radio-broadcasting.
-- Producer-consumer. Either using push or pull.
-- Adapter. Outsource or delegate exceptional cases. E.g. a power-plug.
-- Backend for frontend (BFF). A user-centric layer to hide the complex backend.
-- Proxy. An imperfect substitution.
+- Communication
+
+    - Publisher-subscriber, with topics. E.g. radio-broadcasting on multiple channels.
+
+    - Producer-consumer. Either using push or pull.
 
 
+- Components and layers
+
+    - Adapter. Outsource or delegate exceptional cases. E.g. a power-plug.
+
+    - Backend for frontend (BFF). A user-centric layer to hide the complex backend.
+
+    - Proxy. An imperfect substitution.
 
 
-
-
+- Design
+    - Strategy. An interchangeable and replaceable interface for algorithms, to model behaviour. It can be replaced even at runtime.
 
 
 

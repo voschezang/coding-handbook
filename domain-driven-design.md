@@ -1,6 +1,33 @@
 # Domain-Driven Design
 
-DDD embraces the uncertainty of business terminology. Domain objects are expected to change often, while adapters can be functionally static. Adapters are designed to be replaceable.
+[toc]
+
+## Overview
+
+DDD embraces the uncertainty of business terminology. It is centered around domain objects, which are made as explicit as possible to minimize ambiguity. Domain objects are expected to change often, while adapters can be functionally static. Adapters are designed to be replaceable.
+
+
+
+### Ambiguity
+
+In the real world, objects can be ambiguous.
+
+- It is possible to have multiple views from the same object.
+- The object (or its properties) can change in the real world.
+
+In addition, there can be natural ambiguity. E.g a book can be a specific text or a physical copy.
+
+Within a single system such ambiguity can go unnoticed, but when integrating multiple systems problems can occur.
+
+
+
+### Reality
+
+> Databases model not reality itself, but how reality is processed by users
+
+In addition to the inherent imperfection of models, the realism of data can be limited in other ways. Suppose there is a database filled with information. The information can be outdated, or even fictional. Or the information can be limited by the knowledge of the author. Typical examples are empty database fields, or fields with a default value (e.g. `unknown`).
+
+
 
 
 
@@ -117,4 +144,10 @@ App
     ├── ExternalRestAPI.java
     └── InternalRestAPI.java
 ```
+
+
+
+## References
+
+- W. Kent. *Data and Reality*
 

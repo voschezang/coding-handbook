@@ -1,12 +1,12 @@
 # Software Engineering
 
-As a discipline.
-
-Also see [Product Management](product-management.md).
+Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](product-management.md).
 
 [toc]
 
-## Software methods / Bugs / Stability
+## Software methods
+
+### Stability
 
 There doesn't exist a method that guarantees bug-free code. Don't make assumptions about the reliability of code but instead verify it. This requires the following points:
 
@@ -53,6 +53,21 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 - At the end of each day, spend a few minutes cleaning up.
 - Take time every to reflect and question your way of working.
 - Go to bed early.
+
+
+
+### Maintainability
+
+>  Most time is spend on maintenance, rather than development of new software.
+
+Change is inevitable in software engineering. It can be caused by:
+
+- A change in customer requirements or user preferences.
+- A change in stakeholder requirements.
+- Changes in the environment, e.g. in technology.
+- More information that is available. E.g. after learning.
+
+See [programming-paradigms](programming-paradigms.md).
 
 
 
