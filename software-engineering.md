@@ -4,6 +4,42 @@ Software development used to be *just* a chaotic, creative endeavour. However, g
 
 [toc]
 
+## Overview
+
+Software engineering can be described from multiple points of view. In addition, it can be done in a specific [domain](software-domains.md).
+
+**Daily Work**
+From a high level, there are only three types:
+
+1. Planning work. E.g. requirements engineering, design, stakeholder/customer management, administration.
+2. Planned work. E.g. programming, designing, having discussions, reviews, testing, research, teaching.
+3. Unplanned work. E.g. incident handling, customer support, troubleshooting.
+
+**Responsibility**
+Depending on the level of specialization of the team or department:
+
+- Managing a software product or service.
+- Managing a specific component in a *value chain*. E.g. software development.
+
+**Value chain: the process from fresh idea to production**
+These phases can vary; them may take hours or years and they can be done by the same team or by specialized teams.
+
+1. Strategy
+2. Research
+3. Design
+4. Development
+5. Testing
+6. Operations, support
+7. Lifecycle management
+
+The following are related, but are usually delegated to other people:
+
+- Marketing
+- Sales
+- HR
+
+
+
 ## Software methods
 
 ### Stability
