@@ -24,6 +24,7 @@ Software Industry
 General
 
 - [Modeling](modeling.md) - theory about models.
+- [Learning](learning.md) - theory about learning & change.
 - [Management Principles](management-principles) - a collection of domain-agnostic theories.
 - [Goals/Planning/Strategy](goals-planning-strategy.md) - a format to denote goals and strategies.
 - [Systems Management](systems-management.md).

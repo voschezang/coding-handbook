@@ -71,9 +71,8 @@ In addition, the following tool can be used.
 
 Denote a list of *narratives* and a list of *epics*. Ideally they correspond directly to each other, but in practice they may be interdependent.
 
-Narratives are abstract but intuitive. They are large enough to be significant.
-
-Epics are more concrete.
+- Narratives are abstract but intuitive. They are large enough to be significant and they are independent of the required input effort.
+- Epics are more concrete. Implementation-oriented.They are based on the amount of required work.
 
 
 
@@ -97,6 +96,7 @@ For each goal, denote the assumptions and rationale. Be explicit in what's an as
 
 **Narrative**
 Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
+This is independent of the required input effort.
 
 **Persona**
 A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.

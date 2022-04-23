@@ -45,15 +45,17 @@ Organizations cannot be studied properly without taking into account the domain 
 
 Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
 
-1. Chaotic. *"Novel practice"*
+1. Chaotic. *"Novel practice"*.
     1. Act immediately, then evaluate, then respond.
 
-2. Complex. *"Emergent practice"*
+2. Complex. *"Emergent practice"*. Learn at the same pace that the environment is changing.
     1. Probe, experiment, then evaluate, then respond
-
-3. Complicated. *"Good practice"*
+    1. Suited for "Agile"
+    
+3. Complicated. *"Good practice"*. In absense of a single best practice (golden hammer).
     1. Analyze the problem, then respond.
-
+    1. Suited for "Lean"
+    
 4. Obvious. *"Best practice"*
     1. Categorize the situation by using existing models.
 

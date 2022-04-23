@@ -41,6 +41,10 @@ Experiments not require complex setups. Start simple and expand if necessary. Th
 
 
 
+See [learning](learning.md).
+
+
+
 ### Sources
 
 > With false assumptions, any idea can be sold.
