@@ -168,6 +168,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * Ideally change one thing at the same time (in a team) so you can study the results and possibly infer causality. This is also an incentive to move faster and finish tasks.
 * Improving daily working > daily work. Improve processes instead of optimizing goals.
 * Rely on read-only afternoons and Fridays. Do deployments and releases during weekends.
+* Tracking *waste* [implies](https://twitter.com/allenholub/status/1515368366126551048?s=11&t=J_VW7yZv_OUITGR5Bl41yQ) that it already has been identified, but not have been addressed.
 
 
 

@@ -8,6 +8,10 @@ Inspired by [various sources](#References). See also [goals & strategy](goals-pl
 
 > Good management is situational
 
+Management *an sich* is a theoretical domain. In the real world, there is only management of a *subject*. For example, management of people or a project.
+
+
+
 Management consists of **balances**. For example:
 
 - Learning and adjusting.
@@ -88,13 +92,13 @@ Note that measures of success can be biased by how a component is perceived. E.g
 
 ### Change
 
-Note that these can all involve *change*. A typical challenge is to change common processes.
+Note that these can all involve [*change*](learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](organization-structure.md).
 
 1. [Influence](https://danluu.com/culture/) people (indirect)
     1. Incentives. Rewards and punishments for behaviour or achievements.
     2. Processes. E.g. regulation, validation.
     3. Culture. "inherent" values. E.g. ideals to strive for.
-2. Persuade people (direct)
+2. Persuade people (direct). E.g. [transformational leadership](https://en.wikipedia.org/wiki/Transformational_leadership).
 
 
 
@@ -179,27 +183,6 @@ Typical solutions: DevOps, product-teams.
 - Sales prefers bulk orders due to costs
 
 Typical solutions: ship orders in increments, vertical integration, store resources in a central location
-
-## Organizational Learning
-
-An optimal learning environment has:
-
-- A teacher/coach/facilitator
-- Other learners
-- Customer or real-world feedback
-
-Learning requires both theory and practice (experimentation). Making mistakes is a vital part of learning.
-
-- Prefer collaboration over competition. The latter discourages mistakes, and thus hampers learning.
-
-Learning on a local level is easy, but learning at the "middle management level" is not (e.g. due to competition, fear of failure).
-
-
-
-Local improvements and adaptation are a vital complement to top-down strategies.
-
-- This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
-- Local improvements are usually easier than global ones.
 
 
 

@@ -1,5 +1,7 @@
 # Organizational Structure
 
+[toc]
+
 Let an **organization** be defined as *an interdependent set of components that work together towards a common goal*.  The alignment, autonomy and coordination of these components complicates the path to the goal.
 
 The optimal structure of an organization is highly dependent on the domain and scale. At the same time, the behaviour of these systems can be surprisingly similar. Examples of organizations are:
@@ -12,16 +14,34 @@ The optimal structure of an organization is highly dependent on the domain and s
 
 
 
-Control of an organization vary between being completely centralized or completely distributed. See also [programming-paradigmes.md](programming-paradigms.md).
+Control of an organization vary between being completely centralized or completely distributed. See also [programming-paradigmes](programming-paradigms.md).
 
 - Orchestration: communication happens through *commands*. E.g. a CEO makes an order.
 - Choreography: communication happens mainly by *events*. E.g. an investor broadcasts that they are offering stock at a certain price.
 
-In addition, [power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) can be oriented differently.
+In addition, [power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) can be oriented differently. Based on the flow of information, the following categories can be distinguished.
 
-- Authoritative: chain of command. Associated with scapegoating.
-- Bureaucratic: rule-oriented. Associated with seeking justice. Ensure fairness through equal rules.
-- Generative: performance-oriented. Associated with learning.
+- **Authoritative** (pathological): chain of command. Based on personal need. 
+    - Hide information from competitors. Suppress risks. Associated with scapegoating.
+
+- **Bureaucratic**: rule-oriented. Based on departmental need. Ensure fairness through equal rules.
+    - Narrow responsibility. Local improvements. Associated with seeking justice
+
+- **Generative**: performance-oriented. Welcome inquiry and support global improvements, even if they are disruptive.
+    - Shared responsibility. Associated with learning and sharing.
+
+
+#### Goals
+
+An organization may be optimized for a specific goal:
+
+- Adaptiveness, agility,
+- Community, e.g. learning [as a whole](https://en.wiktionary.org/wiki/scenius).
+- Innovation (taking risks).
+- Productivity (output or outcome).
+- Quality
+- Stability
+- Sustainability
 
 
 
@@ -41,7 +61,7 @@ The overall goal of the organization should take into account the preferences of
 
 ## Autonomy and Alignment per Domain
 
-Organizations cannot be studied properly without taking into account the domain in which they live.
+Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md).
 
 Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
 
@@ -52,7 +72,7 @@ Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by str
     1. Probe, experiment, then evaluate, then respond
     1. Suited for "Agile"
     
-3. Complicated. *"Good practice"*. In absense of a single best practice (golden hammer).
+3. Complicated. *"Good practice"*. In absence of a single best practice (golden hammer).
     1. Analyze the problem, then respond.
     1. Suited for "Lean"
     

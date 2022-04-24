@@ -137,7 +137,7 @@ The term testing is usually used for "checks". A distinction can be made based o
     - White box: study the inner systems.
 - Requirements: Checking.
     - Verification and validation based on pre-specified requirements
-        - This can often be automated
+        - This can often be **automated**
     - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
 
 In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.

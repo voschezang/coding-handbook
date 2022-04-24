@@ -18,13 +18,17 @@ Don't sell, tell a story instead. This requires more than a formal list of requi
 
 ## Product
 
-**Terminology**
+### Terminology
 
 A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *User*, paid for by a *Customer*. The *Stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
 
 Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees.
 
+**Product Discovery**
+Deciding what to build, for whom, when.
 
+**Product Delivery**
+Building it.
 
 ### Product and Projects
 

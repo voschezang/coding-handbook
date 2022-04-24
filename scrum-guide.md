@@ -27,6 +27,9 @@ Scrum includes of:
 - 5 core [values](#Values):  `commitment, focus, openness, respect, courage`
 - The [Sprint](#Sprint) and 4 formal Sprint [events](#Sprint Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
 - 3 [roles](#Roles): `Product Owner, Scrum Master, Developers `
+- 3 [artifacts](#Artifacts), each with a commitment: `Product Backlog (Goal), Sprint Backlog (Goal), Increment (DoD)` .
+
+These are hard, *immutable* requirements. This makes scrum revolutionary, rather than evolutionary. It isn't meant to be applied gradually (e.g. [kanban](learning.md#Kanban)). Instead, it requires a radical change in many traditional ways of working.
 
 ### How
 

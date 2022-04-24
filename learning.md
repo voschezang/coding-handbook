@@ -20,11 +20,14 @@ Push & pull. Similar to a dialogue, there should be a two-way interaction. Cross
 **Thesis-antithesis-synthesis**
 A three-steps pattern. In general, small (fast) cycles are less disruptive.
 
-1. Thesis. An idea (eureka) or a revolution
-2. Antithesis. A conflict. The new way will naturally differ from the old paradigm and will have to be tested to real-word scenario's. 
-3. Synthesis. A resolution where the new way is incorporated and becomes part of the main paradigm.
+1. **Thesis**. An idea (eureka) or a revolution. Associated with hype and momentum.
+2. **Antithesis**. A conflict. The new way will naturally differ from the old paradigm and will have to be tested to real-word scenario's. There can be resistance from the status quo. Moreover, the existing structures are optimized for the old paradigm. Output is likely to decrease for a while. Change is an investment that might pay off over time. 
+3. **Synthesis**. A resolution where the new way is incorporated and becomes part of the main paradigm. Side-effect of the original change are resolved.
 
 
+
+**Revolution vs. Evolution**
+Changes van vary from being large and disruptive, to gradual shifts. 
 
 
 
@@ -50,7 +53,38 @@ Other patterns
 
 
 
+
+
+## Organizational Learning
+
+An optimal learning environment has:
+
+- A teacher/coach/facilitator
+- Other learners
+- Customer or real-world feedback
+
+Learning requires both theory and practice (experimentation). Making mistakes is a vital part of learning.
+
+- Prefer collaboration over competition. The latter discourages mistakes, and thus hampers learning.
+
+Learning on a local level is easy, but learning at the "middle management level" is not (e.g. due to competition, fear of failure).
+
+
+
+Local improvements and adaptation are a vital complement to top-down strategies.
+
+- This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
+- Local improvements are usually easier than global ones.
+
+
+
 ### Improvement Frameworks
+
+A few dimensions:
+
+- Top-down or bottom-up.
+- Invite or inflict change.
+- Revolutionary or evolutionary change.
 
 #### Scrum
 
@@ -97,6 +131,8 @@ Principles
 | *Un*conscious *in*competence | Conscious *in*competence                             | Conscious competence                        | *Un*conscious competence                  | Transcended                               |
 | ...                          | Recollection: Situational instead of non-Situational | Recognition: Holistic instead of decomposed | Decision: Intuitive instead of analytical | Awareness: Absorbed instead of monitoring |
 | Needs rules                  | Tests rules                                          | Applies rules                               | Falls back on rules                       | Transcends rules                          |
+
+>  follow rules - break rules - make rules
 
 
 
