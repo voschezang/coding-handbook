@@ -101,6 +101,28 @@ In the real world, agents are always constrained.
 
 ## Series
 
+
+
+**Statistics**
+A random variable (r.v.) `X` can be approximated in several levels of detail, which are called *moments*.
+
+0. [Mean](https://en.wikipedia.org/wiki/Mean) or [expected value](https://en.wikipedia.org/wiki/Expected_value). `E[X]`
+1. [Variance](https://en.wikipedia.org/wiki/Variance). `Var[X]`. See also [covariance](https://en.wikipedia.org/wiki/Covariance).
+2. [Skewness](https://en.wikipedia.org/wiki/Skewness) or asymmetry.
+3. [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis) or tailed-ness.
+
+
+
+**Taylor Series**
 [Taylor series](https://en.wikipedia.org/wiki/Taylor_series). Knowing all higher order derivatives at a certain point `f(x)` allows you to infer the whole function `f(x+a)`.
 
+In physics, the following terms are used:
+
+0. **Position**. The current state of the system
+1. [**Velocity**](https://en.wikipedia.org/wiki/Velocity). The change of the system over time (or space).
+2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
+
+
+
+**Fourier Series**
 [Fourier series](https://en.wikipedia.org/wiki/Fourier_series).

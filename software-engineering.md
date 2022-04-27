@@ -342,7 +342,7 @@ On a daily basis there can be a *standup*, which is a briefing that covers at le
 
 **Tools**
 
-1. Version control (e.g. `git`)
+1. Version control (e.g. `git`). Usually using [multiple repositories](https://danluu.com/monorepo/).
 2. A simple editor with syntax highlighting, syntax checking, type checking, linting, etc.
 3. An advanced editor (IDE).
 4. CI/CD pipelines.

@@ -32,6 +32,14 @@ A the system can be decomposed into three mutually exclusive components. Money i
 
 Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima. More on this [later](#Internal%20View).
 
+Mathematically, the behaviour of a system can be described in several [levels](https://en.wikipedia.org/wiki/Taylor_series) of detail.
+
+0. **Position**. The current state of the system
+1. [**Velocity**](https://en.wikipedia.org/wiki/Velocity). The change of the system over time (or space).
+2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
+
+
+
 ### Inventory
 
 Based on the domain, inventory can include unfinished work, unsold items, buffer, queues, margins of safety. A common role of inventory is to contain [risk](#Risk%20Management). However, inventory has a few inherent disadvantages.
