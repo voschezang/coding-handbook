@@ -43,6 +43,7 @@ A few variants:
 
 - North Star Goal: specific and measurable. A rough direction to go towards. Top of the goal/sub-goal hierarchy.
     - Make sure this metric is consistent with your definition of success.
+    - Make sure this metric is clearly visible to the whole organization, such that they can align.
 - Outcome or narrative: what the ideal state would look like. A vision.
 
 Based on this high-level goal, you can start to trace back which steps are necessary to reach it. In addition, you can setup *inputs* or metrics to track progress.

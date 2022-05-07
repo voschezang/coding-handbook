@@ -120,6 +120,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Parallelization of work is easy (silos), but working together is hard.
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
 * [Imposing](https://www.martinfowler.com/bliki/AgileImposition.html) Agile is not agile.
+* Agile at scale requires *descaling*. I.e. make components independent s.t. they can move freely.
 * Scrum does not imply agile.
 * Agile does not imply [scrum](https://sanderhoogendoorn.com/jack-sparrow-and-the-end-of-scrum/).
 * Success in scum involves [more](https://twitter.com/ronjeffries/status/1460048015549509633) than that what's in the scrum guide.

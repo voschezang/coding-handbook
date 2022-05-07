@@ -56,7 +56,7 @@ Bureaucracy limits innovation
 For the following groups, a system can never excel in all items per group.
 
 **Independence or Consistency**
-One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways. At the same time, independence comes at the cost of consistency, which has its own benefits.
+One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways. However, independence is associated with [redundancy](http://yosefk.com/blog/redundancy-vs-dependencies-which-is-worse.html). It comes at the cost of consistency.
 
 **Efficiency or Flexibility**
 A second pair of properties is efficiency and flexibility. They are (to some extend) negatively correlated; optimizing for efficiency limits flexibility.

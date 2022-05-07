@@ -157,6 +157,23 @@ Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are 
 
 
 
+### Other Metrics
+
+- Lead time
+- Deployment frequency (to customer)
+- Mean time to recovery/restore (MTTR)
+- Change fail percentage
+
+
+
+Biased metrics
+
+- Lines of code (LOC): incentive to produce boilerplate code and to never deprecate code
+- Velocity: incentive to increase bulk sizes, preference for large, risky projects
+- Utilization: incentive for silo's, status quo and efficiency (rather than innovating)
+
+
+
 ## Software Quality
 
 Two types
@@ -242,7 +259,7 @@ The [structure of teams](organization-structure.md) and departments has a great 
 
 **Two extremes**
 
-1. Waterfall
+1. Waterfall. A fixed project scope, price and deadline. future changes are expensive.
     1. Designed for *throughput* and *stability*.
     2. Requirements drive design which drives development.
     3. Top-down decision making. Specialized (functional) teams with limited responsibility.

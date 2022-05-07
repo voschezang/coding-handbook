@@ -61,7 +61,9 @@ Multiple levels of documentation, ordered by level of natural language (increasi
 
 **Comments**
 
-Comments are metadata. They do increase maintenance. A few categories:
+Comments are metadata. They do increase maintenance. In contrast to programming languages, they do not have syntax or grammar restrictions. They can be tailored towards the audience, e.g. in a native language rather than english.
+
+A few categories:
 
 - Functional comments: `TODO`, `SMELL`
     - These can be useful even if they are never addressed. They visualize code quality and warn contributes about missing or broken functionality.
