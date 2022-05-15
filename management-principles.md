@@ -77,7 +77,7 @@ Define a proper measure of success. Evaluate whether the assignment could be suc
 
 Typical components:
 
-- Total total returns. Delivered  value rather than produced value. E.g.
+- Total returns. Delivered  value rather than produced value. E.g.
     - Profit minus expenses and inventory.
     - Quality: high quality and low variance.
 
@@ -87,6 +87,13 @@ Typical components:
 - Agility: be able to adapt. Typical influences are lead time, batch sizes
 
 Note that measures of success can be biased by how a component is perceived. E.g. a cost center of a profit center. 
+
+- Cost world: make local improvements (cut costs), that add up linearly to a global optimum.
+- Throughput: focus on the weakest link in the critical chain.
+
+
+
+Timeline, scope and capacity are related. If one changes, then at least one of the others will too.
 
 
 

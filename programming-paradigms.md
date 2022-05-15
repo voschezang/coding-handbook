@@ -9,23 +9,27 @@
   2. encapsulation of _data_ using (local) scopes.
 
 * In addition, many languages allow for composition of data-structures and methods a type of class system. E.g.:
-  1. Type aliasses and union types.
-      E.g. `union type A = B | C`, `alias type A = {b: B, c: C}`.
+  1. Type aliases and union types. E.g. `union type A = B | C`, `alias type A = {b: B, c: C}`.
   2. Interfaces and base-classes (e.g. class implementation and extension).
-  * This allows for domain-driven design.
-
+  
 * The major difference between object-oriented programming (OOP) and functional programming (FP):
-    * OOP: coupling of data and operations, resulting in complex objects with an internal, hidden/private state.
-    * FP: **de**coupling of data and operations, resulting in independent, stateless, deterministic functions.
-      This makes it trivial to parallelize.
-
+    * OOP
+        * Coupling of data and operations, which may result in complex objects with an internal, hidden/private state.
+            * This allows for inheritance of behaviour.
+        * Coupling of interfaces and implementations (e.g. `Iterator, Iterable`). This prevents the need to design a formal (mathematical) model.
+    * FP
+      * **De**coupling of operations and data and data, resulting in independent, stateless, deterministic functions. This makes it trivial to parallelize.
+      * **De**coupling of types and implementations. All behaviour is explicit.
+    
 * Properties such as data immutablility, overriding, overloading, static/dynamic/strong/weak/nominal/structural typing, are irrelevant.
+
+
 
 
 ## Language Complexity
 
-* OOP is the most powerful paradigm because we represent our program as a distributed system and allow the program to behave as a network.
-  * Designing classes is as easy as designing system architectures.
+* "OOP is the most powerful paradigm because we represent our program as a distributed system and allow the program to behave as a network."
+  * "Designing classes is as easy as designing system architectures."
 
 * "Functional programming combines the flexibility and power of [abstract mathematics](https://en.wikipedia.org/wiki/Category_theory) with the intuitive clarity of abstract mathematics ([xkcd](https://xkcd.com/1270/))."
 
@@ -36,15 +40,13 @@
 ## Language Usage
 
 * Fortunately, there are many design patterns and principles that help you to counter the complexities and monstrosities typically entcountered in (enterprise) OOP codebases.
-
 * In FP there are many equivalents to OOP design principles, for example SOLID:
-   * The `Single-responsibility`, `Open-closed`, `Interface segregation`, and `Dependency inversion` princples are replaced by [_Pure Functions_](https://en.wikipedia.org/wiki/Pure_function)).
-   * The `Liskov substitution principle` are replaced by a proper (i.e. algebraic, composable) _type system_ (e.g. type classes).
-
+   * The `Single-responsibility`, `Open-closed`, and `Interface segregation` principles are guaranteed for [_Pure Functions_](https://en.wikipedia.org/wiki/Pure_function).
+   * The `Liskov substitution ` and `Dependency inversion` principles are replaced by a proper (i.e. algebraic, composable) _type system_ (e.g. type classes).
 * In FP, design patterns are language-constructs.
   * E.g. `function composition, Maybe.andThen, List.map, fold, filter`.
   * Unfortunately, because of their importance they have been given technical names such as `Monad, Monoid, Functor`.
-
+  * Dependency injection is replaced by partial function application.
 * In FP, you can do [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) in one [line](https://wiki.haskell.org/Fold):
   `current = foldl(update, init, events)`, where
   * `current, init` have the type `State`,
@@ -52,114 +54,6 @@
   * `update(State, Event) -> State` is a (pure) function.
 
 
-
-# Patterns & Principles
-
-Patterns are *just* models that can be used as tools to understand a system. Note that:
-
-> All models are wrong.
-
-and
-
-> Multiple models can be correct.
-
-Patterns allow experience reuse, rather than code reuse. They provide a shared vocabulary. In addition, they are a necessary complement to OOP, which can grow overly complex quickly.
-
-In general:
-
-- Locality is easy: e.g. changes inside a single module or a single application.
-- Systems can be specific and efficient, or generic and flexible.
-- Systems are usually explained as a set of components. Yet often the connections between components are more important.
-
-- A property of many good patterns is that they have clear boundaries.
-
-
-
-## System & Application Architecture
-
-Although systems architecture and application architecture are different disciplines, design patterns are relevant to everything from high-level systems to low-level applications. They do however have different implications at different levels of scale.
-
-- Applications with many components are also systems. 
-
-
-
-**Orchestration & Choreography**
-
-Orchestration
-
-- Centralized control. services are called explicitly using API's.
-    - Using *Commands* that focus on the *future*. E.g. `doThis`.
-    - Messages (data) are send to specific destinations (peer-to-peer).
-
-Choreography
-
-- Distributed control. applications are autonomous and react to messages.
-    - Using *Events* that describe the *past*. E.g. `ThisHasHappened`.
-    - Messages (data) are broadcasted.
-    - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
-
-
-
-**Pure Functions**
-[Functions](https://en.wikipedia.org/wiki/Pure_function) that are stateless and deterministic. This makes them trivial to parallelize. 
-
-**Interfaces**
-
-- Inheritance (sub-typing, sub-classes). I.e. backwards compatibility with a previous interface. E.g. `Array` vs. `Sequence`
-- Composition. Typically used for behaviour (e.g. `Iterable`). This interface is generally better maintainable than inheritance.
-
-**Command–query Separation**
-Each function, method or API call should focus on [one task](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation), i.e. be *either* an imperative command or a query. 
-
-**Unix Philosophy**
-Design programs to be [minimalistic](https://en.wikipedia.org/wiki/Unix_philosophy) and light-weight. This makes them replaceable and reusable.
-
-**Communication**
-Four major categories:
-
-- API/RPC calls. Share both data and process. Simple & intuitive (aka function calls).
-    - Slow, high communication overhead.
-- Messaging. Fast, light-weight, allowing non-blocking communication.
-    - Steep learning curve.
-    - Potential ownership problem. It requires a shared communication bus.
-- FTP. Simple & universal. Just data, no commands.
-    - Lacking synchronous communication. No consistency or timeline management.
-- Shared DB. Single source of truth. Real-time access to latest data.
-    - It is difficult to find uniform data model without compromises.
-    - Noisy neighbour syndrome.
-    - Performance can be an issue.
-
-**Encapsulation**
-Encapsulate the parts of a program that change often. Usually this is the domain (core). In addition, make any contextual components replaceable. 
-
-
-
-## Design Patterns
-
-Design patterns for applications and systems.
-
-
-
-Some intuitive patterns that can be explained without technical details.
-
-- Communication
-
-    - Publisher-subscriber, with topics. E.g. radio-broadcasting on multiple channels.
-
-    - Producer-consumer. Either using push or pull.
-
-
-- Components and layers
-
-    - Adapter. Outsource or delegate exceptional cases. E.g. a power-plug.
-
-    - Backend for frontend (BFF). A user-centric layer to hide the complex backend.
-
-    - Proxy. An imperfect substitution.
-
-
-- Design
-    - Strategy. An interchangeable and replaceable interface for algorithms, to model behaviour. It can be replaced even at runtime.
 
 
 

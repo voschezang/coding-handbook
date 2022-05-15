@@ -78,7 +78,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 ### Time to market
 
-* Deliver sooner, not faster. Average throughput > total throughput.
+* Deliver sooner, rather than faster. Average throughput > total throughput.
     * Received value (by customer) > created value (inventory).
 
 * Being busy indicates a lack or prioritization.
