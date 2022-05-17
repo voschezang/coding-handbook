@@ -77,6 +77,21 @@ Denote a list of *narratives* and a list of *epics*. Ideally they correspond dir
 
 
 
+### Models
+
+Different ways to set goals
+
+**Legend**
+
+- A. Current state
+- B. Next target state, which will help towards Y and Z.
+- Y. Required objective for Z.
+- Z. North star goal
+
+
+
+![setting-goals](img/setting-goals.png)
+
 
 
 
