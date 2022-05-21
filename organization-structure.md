@@ -129,3 +129,16 @@ Graphically, this can look like this (see image).
 The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.
 
 ![org-arch](img/org-arch.png)
+
+
+
+There are two inherent boundaries between components. Often, each component is responsible (and optimized) for their own domain.
+
+- **Functional** Boundaries. E.g. between dev, ops, sales, marketing, security, compliance.
+- **Product** Boundaries. Between products or features. 
+
+Local interaction and changes are generally much easier than non local ones.
+
+
+
+![communication-patterns](img/communication-patterns.png)
