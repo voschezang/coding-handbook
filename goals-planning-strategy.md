@@ -90,7 +90,7 @@ Different ways to set goals
 
 
 
-![setting-goals](img/setting-goals.png)
+<img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
 
 

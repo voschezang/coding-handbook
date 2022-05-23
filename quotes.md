@@ -100,6 +100,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Machine learning is the art of inferring *rules* and *patterns* based on `data` and `answers`. And then predicting the future.
 * Software Architecture is a discipline. Software is never [perfect](https://en.wikipedia.org/wiki/All_models_are_wrong) or [finished](https://www.youtube.com/watch?v=lY54TmmEllY) and requirements will change.
   * Design for failure. Assume each component will break eventually.
+      * Ensure that mistakes can be restored easily.
   * Design for change. Don't assume requirements will be constant.
 * The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA)
