@@ -268,7 +268,9 @@ Total Risk = threads (external) + vulnerabilities (internal)
 
 The main *prerequisite* is a certain corporate culture: Thinking in probabilities & decriminalize risk. Uncertainty should be preferred over being wrong (or overly optimistic).
 
-- Prefer mean-variance optimization over point-estimates. A typical prediction should include (un)certainty bounds. E.g. "We need at least 4 months, and it may take up to 1 year (in the worst case). We estimate a 80 % chance of finishing it in 6 to 8 months. "
+- Prefer mean-variance optimization over point-estimates. A typical prediction should include (un)certainty bounds. E.g. "We need at least 4 months, and it may take up to 1 year (in the worst case). We estimate a 80 % chance of finishing it in 6 to 8 months."
+    - Usually point estimate overestimate in order to compensate for uncertainty. This can result in an [increase](https://en.wikipedia.org/wiki/Parkinson's_law) in the amount of work
+
 - Express projects success not as an absolute (success or fail), but as progression (number of features delivered at end of time period).
     - Build in slack, i.e. the flexibility to skip/add/change features during the project.
 

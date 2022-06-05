@@ -240,7 +240,7 @@ Addition
 
 With minimal collaboration, roles could be distributed as follows. The alternative would be a cross-functional team.
 
-- Architect: designs theoretical systems.
+- Architect: designs theoretical systems. Facilitate decision making.
 - Developer: turns requirements into code.
     - Senior: write interfaces. Coach others. Take ownership. Adapt.
     - Junior: write implementations. Follow instructions. Experiment.
