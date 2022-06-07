@@ -151,25 +151,34 @@ Make goals and problems **visible**. E.g. using a scrum or kanban board, milesto
 
 
 
-**Meetings**
-
-- Publish a schedule or agenda beforehand and stick to it. I.e. set expectations.
-- Schedule time to do preparation and post-preparation.
-    - These should be roughly proportional the length of the meeting and the number of participants.
-- Avoid overfull meetings. Allow flexibility for attendees.
-
-
-
 **Persistence**
 
 One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective.
 
 
 
-**Turnover**
+### Meetings
 
-- Warm welcome. Put in special care for team members that join and leave. These are critical moments.
-- Note down their first impressions. This is a unique moment where one can get unbiassed input.
+> Lack of conflict is an indicator that the right topics aren't being addressed.
+
+A lack of **consensus** is normal, especially for complex topics. First put all the cards on the table, have an open discussion and consider all relevant arguments. Then let the leader make a decision.
+
+
+
+Best practices
+
+- Scope
+    - Make meetings specific. Limit their scope. Don't strive for a one size fits all.
+        - E.g. status checks, retrospectives, reviews and demos (either internally or public).
+    - Insect the relevance of meetings. Connect them to the actual business, e.g. using KPIs.
+    - Save out-of-scope topics for later. This avoids the problem of not taking enough time for them. They also require a context shift and this reduce focus
+- Structure
+    - Use an agenda for meetings that should be prepared beforehand.
+        - This allows participants to evaluate whether each particular meeting is relevant to them.
+    - Topics based on current priority are better than following an outdated agenda
+    - A good structure doesn’t require agenda. E.g. a 1 min. round of updates doesn't require an agenda.
+- Schedule time to do preparation and post-preparation.
+    - These should be roughly proportional the length of the meeting and the number of participants.
 
 
 
@@ -387,6 +396,7 @@ Single point estimates (e.g. the mean) are a poor predictor of stability. The fo
 
 ## References
 
-- Rother. *Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results*
+- Rother. *Toyota Kata*
 - Goldrat. *The Goal*
-- DeMarco. *Peopleware: Productive Projects and Teams*
+- DeMarco. *Peopleware*
+- Lencioni. *Death by Meeting*
