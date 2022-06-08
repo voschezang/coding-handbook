@@ -2,6 +2,8 @@
 
 These patterns are often associated with functional programming languages, algebraic type systems and discrete mathematics.
 
+[toc]
+
 **Syntax**
 
 ```haskell
@@ -81,7 +83,7 @@ reduce : [V2] -> [C]
 
 ##### Multiple Tracks
 
-A function with a union type as domain or codomain. E.g. a function that can fail could have the signature `f : A -> B | Error` .
+Inspired by [this analogy](https://fsharpforfunandprofit.com/rop/). A function with a union type as domain or codomain. E.g. a function that can fail could have the signature `f : A -> B | Error` .
 
 - This generalizes to `Future` types, where the result is *either* a promise or a value.
 

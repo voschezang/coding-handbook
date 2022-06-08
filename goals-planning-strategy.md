@@ -2,7 +2,11 @@
 
 [toc]
 
-> Planning is generally good, withholding from updating them isn't.
+> Making plans is good, withholding from updating them isn't.
+
+
+
+> Good strategy means saying no.
 
 
 
@@ -18,6 +22,7 @@ Specific types of goals
 | Roadmap      | When    |
 | Segmentation | Who     |
 | Positioning  | Where   |
+| Tactic       | ...     |
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
@@ -77,7 +82,23 @@ Denote a list of *narratives* and a list of *epics*. Ideally they correspond dir
 
 
 
-### Models
+### Living Roadmap
+
+A roadmap becomes outdated over time due to:
+
+- Internal changes. E.g. learning as part of the pre-planned progression.
+- External changes. E.g. changes in the environment.
+
+Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
+
+- Daily check-in meeting. Align and improve awareness.
+- Weekly tactical meeting. React to short-term issues.
+- Monthly strategic meeting. Decide on long-term adjustments.
+- Quarterly off-site review. Take an outside-view and reflect.
+
+
+
+# Models
 
 Different ways to set goals
 
@@ -192,24 +213,46 @@ Defining goals
 
 
 
+### Content of Tasks
 
+Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
 
-### Content of tasks
+Before closing a task an appropriate review should be done to validate whether its purpose has been fulfilled.
 
-Subtasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
+#### Small Tasks
 
-The questions that should be answered are as follows (ordered by importance). This is based on [Kanban](https://en.wikipedia.org/wiki/Kanban) and [PDCA](https://en.wikipedia.org/wiki/PDCA).
+**Why** the need for change
 
-Approach
+- What problem does this task tackle?
+    - Why does this need to be done now?
 
-- What problem does this task tackle? To what higher-level goal does this task relate?
-- What are the current and target conditions?
-- What are the risks associated with this approach?
+**What** is going to happen
 
-Steps
+- *Context*: What are the current and target conditions?
+- *Proposal*: What is the proposed solution?
+- *Outcome*: To what higher-level goal does this task relate?
+    - What are the next steps?
+
+**How** to implement the change
 
 - What are the sub-tasks that are involved?
 - What is the minimal scope of the task?
-- What are the next steps?
 
-Before closing a task an appropriate review should be done to validate whether its purpose has been fulfilled.
+#### Larger Task
+
+In addition to the above:
+
+**Why this** investment should be made
+
+- What is the cost in terms of time and effort?
+- How much uncertainty is there?
+- What are the side-effects?
+
+**When** this investment should be made
+
+- What is the risk of not picking this up?
+- How long can this be deferred?
+
+How **success** is going to be measured
+
+- What metrics will be used to track progress?

@@ -44,7 +44,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Effectiveness (doing the right thing, goal-oriented) > Efficiency (doing things right, process-oriented).
     * Prefer messy but effective communication over efficient silos (with tunnel vision).
     * Doing the right thing > being right.
-* Good strategy means saying no.
+* Good strategy means saying no (otherwise there would be no strategy).
 * Process = intensity + consistency
     * Good outcome > meeting the initial requirements.
     * Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
