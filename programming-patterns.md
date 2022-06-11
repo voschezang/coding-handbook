@@ -184,7 +184,7 @@ Operations on a messages can be:
     - A gateway, hub or bridge can decouple the consumers and the providers from each other.
     - **Pipeline**. A sequence of calls, which makes up a long-lived process.
         - Synchronous. A traditional client-server setup.
-        - Asynchronous. Messages are *queued*, and can be executed by short-lived workers on the server-side.
+        - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
 - **Publisher-subscriber**. One-to-many messaging.
     - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
     - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.

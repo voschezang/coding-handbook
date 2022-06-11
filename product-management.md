@@ -4,35 +4,24 @@ Also see  [goals and strategy](goals-planning-strategy.md) and  [management prin
 
 [toc]
 
-> Maximize outcomes and minimize output.
+> Products are never finished, only deprecated.
 
-> Profit is an outcome and not a purpose. Value first.
+## Products and Projects
 
-> Good UX is about intuitiveness rather than about simplicity
+Difference in mindset
 
-> Vertical integration makes it easier to get value to a (specific) customer.
+- **Project** mindset: Finish a fixed set of tasks within a *time* and *cost* limit.
+- **Product** mindset: Continuously deliver value to a customer.
 
-> Keeping a product alive requires both a good narrative and regular progress.
+The former is ideal in a predictable environment, whereas the latter is optimal for uncertain environments. Rather than focussing on <u>successful completion</u>, focus on delivering value <u>sooner</u> to customers.
 
-Don't sell, tell a story instead. This requires more than a formal list of requirements. Use visualizations. Describe the whole in addition to individual parts.
+Note that products are usually improved or extend by completing smaller projects.
 
-## Product
+Because products are never finished, they cannot reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
 
-### Terminology
+### Differences
 
-A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *User*, paid for by a *Customer*. The *Stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
-
-Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees.
-
-**Product Discovery**
-Deciding what to build, for whom, when.
-
-**Product Delivery**
-Building it.
-
-### Product and Projects
-
-The main differences between project and product mindsets.
+The main differences between projects and products.
 
 **Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. There is a preference for the short term (the duration of the project) over the long term (after the project).
 
@@ -53,11 +42,27 @@ The main differences between project and product mindsets.
 - Place bets on potential wins. Prefer outcomes over meeting (initial) requirements.
     - Long-term revenue stream > quarterly results.
 
-
-
 Projects typically have three constraints: a time bound, cost bound and a set of requirements. When risks materialize then at least one of these must be let go.
 
-### Background
+
+
+
+
+## Terminology
+
+A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *User*, paid for by a *Customer*. The *Stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
+
+Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees.
+
+**Product Discovery**
+Deciding what to build, for whom, when.
+
+**Product Delivery**
+Building it.
+
+
+
+## Background
 
 **Types of Products**
 
