@@ -4,8 +4,6 @@
 
 > Making plans is good, withholding from updating them isn't.
 
-
-
 > Good strategy means saying no.
 
 
@@ -36,9 +34,9 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
 
-Ideal outcomes are often difficult to measure and quantify. Hence (sub-)goals are used as a proxy.
+> Separate goals from dreams
 
-
+It is great to have a long-term vision, but [good](https://en.wikipedia.org/wiki/SMART_criteria) goals are a vital complement. In addition, idealistic outcomes are often difficult to measure and quantify. Hence (sub-)goals are used as a proxy.
 
 An hierarchy of three layers:
 
@@ -57,9 +55,9 @@ Based on this high-level goal, you can start to trace back which steps are neces
 
 Use a rolling window. I.e. update the following list regularly/frequently. Reflect on results periodically and update them ad-hoc, on gaining new information.
 
-1. Now: a handful of tasks that are currently worked on
+1. Now: a handful of tasks that are currently worked on, and will be finished ASAP.
 2. Next: 3 tasks that will be picked up next
-3. Later: 1 task after that, and 1 task after that
+3. Later: 1 task after that, and 1 task after that. However, if we learn more, then we might select one of these tasks instead.
 
 Then find a way to align with the whole organization or team...
 
@@ -89,6 +87,27 @@ A roadmap becomes outdated over time due to:
 - Internal changes. E.g. learning as part of the pre-planned progression.
 - External changes. E.g. changes in the environment.
 
+Hence, use a format that is resilient to change. This can be done by combining high-level and low-level descriptions.
+
+#### Template
+
+A template for a one-pager roadmap. This can be complemented with external sources.
+
+1. A mission or vision. A perfect outcome.
+2. North star goal. A great outcome. The minimum investment you want to make. This takes in cost and time constraints.
+3. Current state and target state.
+4. A list of next target states. Avoid a strict ordering, but do suggest a preference based on the current circumstances.
+
+In addition, it can be useful to include *anti-goals*, i.e. which activities are excluded. This makes trade-offs explicit, and forces the authors to investigate their choices.
+
+
+
+<img src="img/roadmap.png" alt="roadmap" style="width:50%;" />
+
+
+
+#### Way of working
+
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
 
 - Daily check-in meeting. Align and improve awareness.
@@ -98,7 +117,7 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 
 
 
-# Models
+## Models for Goal Setting
 
 Different ways to set goals
 
