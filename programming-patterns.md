@@ -177,17 +177,24 @@ Operations on a messages can be:
     - Combining groups of messages. E.g. a splitter or aggregator.
     - Changing individual messages. E.g. the payload or structure (headers).
 
+
+
 **Abstractions**
 
 - **Producer-consumer**. One-to-one (point-to-point) messaging. An abstraction of the client-server relationship. A consumer (client) consumes a *service*, which is provided by the producer (server).
     - The client-server roles can be reversed, e.g. in case of *callbacks*.
-    - A gateway, hub or bridge can decouple the consumers and the providers from each other.
+    - A gateway, hub or bridge can decouple the consumers and the providers from each other. The gateway contains proxies that represent the original provider service.
+    - A message or event bus. Providers *just* broadcast messages and are agnostic of their consumers.
     - **Pipeline**. A sequence of calls, which makes up a long-lived process.
         - Synchronous. A traditional client-server setup.
         - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
 - **Publisher-subscriber**. One-to-many messaging.
     - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
     - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
+
+
+
+![communication-patterns-messaging](img/communication-patterns-messaging.png)
 
 
 
