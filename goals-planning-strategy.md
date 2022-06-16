@@ -89,7 +89,7 @@ A roadmap becomes outdated over time due to:
 
 Hence, use a format that is resilient to change. This can be done by combining high-level and low-level descriptions.
 
-#### Template
+#### Template 1
 
 A template for a one-pager roadmap. This can be complemented with external sources.
 
@@ -106,7 +106,13 @@ In addition, it can be useful to include *anti-goals*, i.e. which activities are
 
 
 
-#### Way of working
+#### Template 2
+
+List the desired outcomes over time, using an exponential timescale. E.g. a month, quarter, year and 4 years.
+
+
+
+#### Meetings
 
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
 

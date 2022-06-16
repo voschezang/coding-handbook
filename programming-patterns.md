@@ -109,11 +109,7 @@ Both an `isA` and a `hasA` relationship. They are typically chained together, to
 
 Unlike traditional inheritance, these objects can be defined dynamically, at runtime.
 
-**Template**
-A template is an abstract recipe or skeleton, that prescribes a basic structure. E.g.
 
-- A pizza must contain the *components* dough and a topping.
-- An iteration *algorithm* must contains the methods `next` and ` hasNext`.
 
 A few variants of this are the strategy pattern and the factory pattern.
 
@@ -125,7 +121,24 @@ One-to-one (point-to-point) messaging, where a service is provided by one party 
 
 
 
+#### Compression Patterns
+
+Two fundamental compression patterns
+
+- [Differencing](https://en.wikipedia.org/wiki/Data_differencing). Use a baseline structure and add a custom structure on top. E.g. use the median of the data as a baseline.
+- [Dictionary coding](https://en.wikipedia.org/wiki/Dictionary_coder). Use a dictionary as a database. Describe each data entry by a sequence of keys, which act as references of original components.
+
+**Template**
+A template is an abstract recipe or skeleton, that prescribes a basic structure. E.g.
+
+- A pizza must contain the *components* dough and a topping.
+- An iteration *algorithm* must contains the methods `next` and ` hasNext`.
+
+
+
 ## System Patterns
+
+See also [organization structure](organization-structure.md).
 
 
 
@@ -184,11 +197,10 @@ Operations on a messages can be:
 - **Producer-consumer**. One-to-one (point-to-point) messaging. An abstraction of the client-server relationship. A consumer (client) consumes a *service*, which is provided by the producer (server).
     - The client-server roles can be reversed, e.g. in case of *callbacks*.
     - A gateway, hub or bridge can decouple the consumers and the providers from each other. The gateway contains proxies that represent the original provider service.
-    - A message or event bus. Providers *just* broadcast messages and are agnostic of their consumers.
     - **Pipeline**. A sequence of calls, which makes up a long-lived process.
         - Synchronous. A traditional client-server setup.
         - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
-- **Publisher-subscriber**. One-to-many messaging.
+- **Publisher-subscriber**. One-to-many messaging. E.g. using a message or event bus.
     - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
     - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
 

@@ -161,9 +161,7 @@ One-pagers. One page is enough to introduce an idea but does forces the writer t
 
 > Lack of conflict is an indicator that the right topics aren't being addressed.
 
-A lack of **consensus** is normal, especially for complex topics. First put all the cards on the table, have an open discussion and consider all relevant arguments. Then let the leader make a decision.
-
-
+A lack of **consensus** is normal, especially for complex topics. First put all the cards on the table, have an open discussion and consider all relevant arguments. Then let the *chair* make a decision.
 
 Best practices
 
@@ -178,9 +176,9 @@ Best practices
     - Topics based on current priority are better than following an outdated agenda
     - A good structure doesn’t require agenda. E.g. a 1 min. round of updates doesn't require an agenda.
 - Schedule time to do preparation and post-preparation.
-    - These should be roughly proportional the length of the meeting and the number of participants.
+    - This should be roughly proportional the length of the meeting and the number of participants.
 
-
+See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
 
 ### Departments
 
@@ -218,7 +216,13 @@ Typical solutions: ship orders in increments, vertical integration, store resour
 **Expectation management**
 
 - Under-promise (and over-deliver) to stakeholders. Avoid uncertainty and build trust.
-- Over-promise internally, in order to motivate employees. In addition, prefer learning over blaming.
+    - Focus on *long-term*, abstract goals. Rely on *minimal* requirements.
+    - Add in slack as a buffer against risks.
+
+- Over-promise internally, in order to motivate employees.
+    - Include a *short-term* planning, that is specific. Include *full* requirements.
+    - In addition, prefer learning over blaming.
+
 
 Technique:
 
