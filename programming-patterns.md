@@ -121,12 +121,15 @@ One-to-one (point-to-point) messaging, where a service is provided by one party 
 
 
 
-#### Compression Patterns
+#### Data Compression
 
-Two fundamental compression patterns
+Two fundamental compression patterns.
 
-- [Differencing](https://en.wikipedia.org/wiki/Data_differencing). Use a baseline structure and add a custom structure on top. E.g. use the median of the data as a baseline.
-- [Dictionary coding](https://en.wikipedia.org/wiki/Dictionary_coder). Use a dictionary as a database. Describe each data entry by a sequence of keys, which act as references of original components.
+- [Differencing](https://en.wikipedia.org/wiki/Data_differencing). Take a *baseline* or template structure and add a *custom* structure on top. A typical use case is to use the the median of the data as a baseline.
+    - E.g. "The ~~duck~~ <u>dog</u> walks."
+- [Dictionary coding](https://en.wikipedia.org/wiki/Dictionary_coder). Use a dictionary as a database. Describe each data entry by a sequence of keys, which act as references of original components. E.g.:
+    - Given the objects `dog, tree` and the verbs `to bark, to walk`.
+    - The phrase `object.1 verb.1 object.2` represents the sentence "*The dog barks to the tree*".
 
 **Template**
 A template is an abstract recipe or skeleton, that prescribes a basic structure. E.g.
