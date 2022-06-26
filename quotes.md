@@ -20,6 +20,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Practice self-actualization: reaching your full potential, discovering your self and finding the meaning of life.
     * Stop thinking in closed questions: "Is this answer correct?". Rather, ask: "What are the possible answers?".
     * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
+* Smart does not imply wise. Wise does not imply smart.
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) (in contrast to e.g. retaliating strategies). 
     * It allows interaction, and the sharing of ideas. Nurture (or invest in) the positive feedback loop: `truth => trust => reputation => attraction`.
     * But do gradually reduce exposure to uncooperative participants.

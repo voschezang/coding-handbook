@@ -31,7 +31,10 @@ In addition, [power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short
     - Shared responsibility. Associated with learning and sharing.
 
 
-#### Goals
+
+## Effectiveness
+
+### Goals
 
 An organization may be optimized for a specific goal:
 
@@ -40,26 +43,13 @@ An organization may be optimized for a specific goal:
 - Innovation (taking risks).
 - Productivity (output or outcome).
 - Quality
+- Scalability
 - Stability
 - Sustainability
 
 
 
-## Boundaries
-
-Real world objects should rarely be studied in isolation.
-
-The connections of an object with the outside are usually:
-
-- Owner or Stakeholders: the party that profits from success of the organization
-- Customer: the party that pays to receive a service.
-- Employees: an intermediate party that delivers services.
-
-The overall goal of the organization should take into account the preferences of all these components.
-
-
-
-## Autonomy and Alignment per Domain
+### Autonomy and Alignment per Domain
 
 Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md).
 
@@ -71,11 +61,11 @@ Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by str
 2. Complex. *"Emergent practice"*. Learn at the same pace that the environment is changing.
     1. Probe, experiment, then evaluate, then respond
     1. Suited for "Agile"
-    
+
 3. Complicated. *"Good practice"*. In absence of a single best practice (golden hammer).
     1. Analyze the problem, then respond.
     1. Suited for "Lean"
-    
+
 4. Obvious. *"Best practice"*
     1. Categorize the situation by using existing models.
 
@@ -93,11 +83,52 @@ These dimensions are intertwined and the optimum is situational. The following i
 
 
 
-## Hierarchy of Components
+## Components
+
+Real world objects should rarely be studied in isolation. The connections of an object with the outside can be categorized as follows. The overall goal of the organization should take into account the preferences of all these components - both in the short and long term.
+
+- Owner or **Stakeholders**: the party that profits from success of the organization
+- **Customer**: the party that pays to receive a service.
+- **Employees**: an intermediate party that delivers services.
+
+Note that customers and consumers of a service are not always the same group.
+
+### Chains
+
+**Power Structure**
+Decisions are made and forwarded according to a [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy). This power structure may be explicit or implicit and centralized or distributed.
+
+**Value Delivery**
+A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
+
+
+
+These chains can intersect, based on the types of components in an organization.
+
+![feature-functional-teams](img/feature-functional-teams.png)
+
+
+
+### Organizational Scale
+
+Scaling up an organization while maintaining centralized control is difficult. Components may compete with each other.
+
+At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
+
+- In functional teams this could lead to strict SLAs and slow handovers.
+- In feature teams this can lead to diverging features. This increases duplication.
+
+![scaling-orgs](img/scaling-orgs.png)
+
+
+
+
+
+### Hierarchy of Components
 
 A large organization can consists of sub-organizations. E.g. departments, divisions, teams. It is not possible to specialize at every level without impacting cohesion, alignment and collaboration.
 
-This section uses the term "team" instead of "component" for simplicity, but the categories do extend beyond this. Moreover, different levels typically have a different structures. E.g. functional departments with cross-functional teams.
+This section uses the term "team" instead of "component" for simplicity, but the categories do generalize beyond this. Moreover, different levels typically have a different structures. E.g. functional departments with cross-functional teams.
 
 1. Functional, specialist teams (or departments or roles).
 2. Feature or product teams.
@@ -122,7 +153,7 @@ Note that the facade and the complementing services can be either function-orien
 
 
 
-### Software Organizations
+#### Software Organizations
 
 Graphically, this can look like this (see image).
 
@@ -142,3 +173,6 @@ Local interaction and changes are generally much easier than non local ones.
 
 
 ![communication-patterns](img/communication-patterns.png)
+
+
+
