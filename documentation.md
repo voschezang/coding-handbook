@@ -2,6 +2,8 @@
 
 [toc]
 
+## Audience & Author
+
 Functions of writing
 
 - Past events: documenting
@@ -33,6 +35,18 @@ This is even harder than writing good documentation. A standard way to maintain 
 
 
 ## Structure
+
+**Views**
+
+Documentation (and visualizations) can be created at different [levels of detail](https://en.wikipedia.org/wiki/C4_model). E.g.
+
+1. Context. How it relates to the outside world.
+2. The messy middle
+    1. Behaviour of the system itself. How it changes.
+    2. Components and the relations between them. What the responsibilities are.
+3. Inner workings of a given component.
+
+
 
 **Ordering**
 

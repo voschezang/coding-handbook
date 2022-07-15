@@ -123,6 +123,43 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 
 
 
+## Project Portfolio
+
+Individually, projects can seem valuable. A more difficult challenge is maintaining a balanced portfolio of projects. A typical chicken-egg problem is that projects need to be prepared before they can be prioritized. Doing too much preparation increases WIP and thus reduces focus. This template attempts to avoid this by defining high level outcomes and excluding details.
+
+This is especially useful w.r.t technical work that is not visible to end users. Although it is valuable, it can be easily be postponed without affecting promises to stakeholders.
+
+### Template
+
+Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state. The desired state is not necessarily a *target*, but rather an <u>idealistic outcome</u>. 
+
+This template focusses on the range of outcomes and excludes *how* to reach them. This avoids the overhead of up-front planning, and reduces the risk of plans becoming outdated.
+
+The template:
+
+``` markdown
+# Category A
+
+Current State
+> What is currently lacking. 
+
+Desired State
+> What outcome is envisioned.
+
+
+# Category B
+
+Current State
+> What is currently lacking. Link to Current design
+
+Desired State
+> What outcome is envisioned. Read more here.
+
+...
+```
+
+
+
 ## Models for Goal Setting
 
 Different ways to set goals

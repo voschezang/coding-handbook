@@ -144,20 +144,34 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 ## Up-front Planning
 
-Applying [this hierarchy](goals-planning-strategy.md), this would result in:
+> Strive for continuous planning rather than up-front planning.
+
+Planning can be split up into [two phases](goals-planning-strategy.md). After more information become available this cycle can be repeated.
+
+1. Refine the product portfolio and a range of desired outcomes.
+2. Choose a North Star Goal, metrics and initiatives.
+
+The latter would would result in:
 
 - A North Star Goal, with a metric to track progress.
     - Consider multiple possible scenarios/futures, not just the ideal case.
-- Diversified sub-goals ([initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)/Saga's/Epics) that are abstract and can easily be adjusted.
+- Diversified sub-goals ([initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)) that are abstract and can easily be adjusted.
     - Note that these are not just categories of stories (e.g. "improve security").
 
-- Stories or Tasks. The titles can be denoted in advance, but the details should not be added until the point where they are going to be picked up to be worked  in the short-term. I.e. only add details to the highest-priority stories.
+- Stories or Tasks. The titles can be denoted in advance, but the details should not be added until the point where they are going to be picked up to be worked in the short-term (based on the number of dependencies). I.e. only add details to the highest-priority stories.
     - In practice, some stories will contribute to multiple sub-goals. There isn't always  a one-size-fits-all solution, so be pragmatic about this. 
 
 
 In general, MVP-based iterations are preferred. Their size is context-dependent.
 
 Ideally, go to production as soon as possible. Use gradual releases (e.g. by demographic) and build-in the option to adapt if expectations are not met.
+
+
+
+In general there are two types of stories, both of which add value.
+
+- **User stories**. These are directly visible to end-users or stakeholders.
+- **Tech stories**. These are important, but their value is mostly visible internally. E.g. risk mitigation.
 
 
 
@@ -244,7 +258,7 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 
 ### Backlog
 
-The backlog is a list of future work. Ideally it is prioritized. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. Each item is a small project.
+The product backlog is a list of future work. Ideally it is prioritized. Each item is usually treated as a small project. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. This low-priority section of the backlog can be treated as an "option pool".
 
 Items can be grouped together in two ways:
 
