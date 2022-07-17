@@ -52,7 +52,6 @@ Note that the validity of the following statements is dependent on certain *impl
         * "No plan survives first contact"
 
     * Unspoken expectations are less likely to be unambiguous than explicit ones.
-
 * Slow down to speed up. Humans were not made for constant motion.
     * Control flow. Prioritize ([triage](https://en.wikipedia.org/wiki/Triage)) before starting new tasks. Options: `do, defer, delegate, drop`
     * Pause. Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
@@ -61,7 +60,6 @@ Note that the validity of the following statements is dependent on certain *impl
     * Make room to make improvements (plan in slack).
     * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
     * Don't jump from problems to solutions. First find the underlying causes.
-
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Learning requires *un*learning. Define conditions under which you would change your beliefs.
@@ -69,10 +67,13 @@ Note that the validity of the following statements is dependent on certain *impl
     * Good results with bad processes have no predictive value.
 * Be input-driven rather than merely output-driven. You can control the input, but the output is a side-effect.
     * Outcome > output.
-
 * Blameless postmortems
-    * If there was a single point of failure then that was the problem (i.e. the system).
-    * Nameless postmortems imply that there is a need to hide the name.
+    * Positive intent can cause negative impact.
+        * If there was a single point of failure then that was the problem (i.e. the system).
+    * Blameless doesn't mean nameless
+        * *Nameless* postmortems imply that there is a need to hide the name.
+        * Attribution is required for learning (investigation), but it doesn't require (over-)sanctioning.
+        * Rather than suppressing blame, regulate it and challenge allegations.
 * Activity does not imply achievement.
 
 

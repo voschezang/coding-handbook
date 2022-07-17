@@ -4,6 +4,8 @@ Also see  [goals and strategy](goals-planning-strategy.md) and  [management prin
 
 [toc]
 
+> Product management combines short term projects with long-living projects.
+
 > Products are never finished, only deprecated.
 
 ## Products and Projects
@@ -45,6 +47,8 @@ The main differences between projects and products.
 Projects typically have three constraints: a time bound, cost bound and a set of requirements. When risks materialize then at least one of these must be let go.
 
 
+
+![choosing-agile](img/choosing-agile.png)
 
 
 
@@ -320,8 +324,6 @@ The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/ph
 
 
 
-
-
 **Customer chasing development**
 Optimize on satisfying a single customer, instead of a market.
 
@@ -341,7 +343,7 @@ Bias for optics & complexity. Build interesting stuff tools of useful tools.
 Typically non-prioritized and not discussed openly.
 
 **Zombie product**
-A product that is kept alive for political or personal reasons.
+A product that is kept alive for political or personal reasons rather than market demand.
 
 
 

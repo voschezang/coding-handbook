@@ -255,11 +255,11 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 
 > Agile is a mindset, not a process
 
-The [structure of teams](organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with handovers, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is "agile".
+The [structure of teams](organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with handovers, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
 
 **Two extremes**
 
-1. Waterfall. A fixed project scope, price and deadline. future changes are expensive.
+1. Waterfall. A fixed project scope, price and deadline. Future changes are expensive.
     1. Designed for *throughput* and *stability*.
     2. Requirements drive design which drives development.
     3. Top-down decision making. Specialized (functional) teams with limited responsibility.
