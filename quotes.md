@@ -67,7 +67,8 @@ Note that the validity of the following statements is dependent on certain *impl
     * Good results with bad processes have no predictive value.
 * Be input-driven rather than merely output-driven. You can control the input, but the output is a side-effect.
     * Outcome > output.
-* Blameless postmortems
+* Blameless postmortems. Investigate *contribution* rather than attribution. Note that:
+    * There is never a single root cause. Instead, deconstruct the factors that contributed to the result.
     * Positive intent can cause negative impact.
         * If there was a single point of failure then that was the problem (i.e. the system).
     * Blameless doesn't mean nameless

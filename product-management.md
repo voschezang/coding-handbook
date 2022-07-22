@@ -1,29 +1,44 @@
 # Product Management
 
-Also see  [goals and strategy](goals-planning-strategy.md) and  [management principles](management-principles.md).
+This is more about *projects* than a *product*, but it borrows some useful terminology from product management. See also [goals and strategy](goals-planning-strategy.md) and  [management principles](management-principles.md).
 
 [toc]
 
-> Product management combines short term projects with long-living projects.
+> Product management combines short term projects with long-living products.
 
 > Products are never finished, only deprecated.
 
-## Products and Projects
+## Introduction
 
-Difference in mindset
+**Not project, but project<u>s</u> management**
+Often, projects are executed in conjunction to each other. To avoid local optimization, the portfolio of products must be taken into account. A *product* is a model that combines multiple projects, usually with the goal to deliver value to customers. See [Terminology](#Terminology).
+
+**The problem of uncertainty**
+In uncertain environments, projects will usually fail to meet either time, cost or initial requirements. In the presence of both [idiosyncratic](https://en.wikipedia.org/wiki/Idiosyncrasy) and [systematic risk](https://en.wikipedia.org/wiki/Systematic_risk) there can be a need for flexibility or agility. In product management this takes the following form:
+
+- A product strategy may consists of [multiple](https://en.wikipedia.org/wiki/Diversification_(finance)) initiatives that are designed to create a competitive edge.
+- A product roadmap lists the concrete projects that will be executed to realize this ideal.
+
+**Product and projects**
+First, there is a difference in mindset:
 
 - **Project** mindset: Finish a fixed set of tasks within a *time* and *cost* limit.
 - **Product** mindset: Continuously deliver value to a customer.
 
-The former is ideal in a predictable environment, whereas the latter is optimal for uncertain environments. Rather than focussing on <u>successful completion</u>, focus on delivering value <u>sooner</u> to customers.
+The former is ideal in a predictable environment, whereas the latter is optimal for uncertain environments. Rather than focussing on <u>successful completion</u>, it focusses on delivering value <u>sooner</u>.
 
-Note that products are usually improved or extend by completing smaller projects.
+In practice, products are improved through multiple small projects.
 
-Because products are never finished, they cannot reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
+Because products are never finished, they cannot be reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
+
+**Project sizing**
+Projects can usually be split up into smaller parts that are delivered immediately to customers. This may increase revenue sooner but it also may decrease efficiency. The ability to adapt can be used as an hedge against imperfect initial requirements. This iterative way of working is considered to be *agile*.
+
+![choosing-agile](img/choosing-agile.png)
 
 ### Differences
 
-The main differences between projects and products.
+A few differences between projects and products.
 
 **Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. There is a preference for the short term (the duration of the project) over the long term (after the project).
 
@@ -44,15 +59,27 @@ The main differences between projects and products.
 - Place bets on potential wins. Prefer outcomes over meeting (initial) requirements.
     - Long-term revenue stream > quarterly results.
 
-Projects typically have three constraints: a time bound, cost bound and a set of requirements. When risks materialize then at least one of these must be let go.
+Projects typically have three constraints: a time bound, cost bound and a set of requirements (input or output). When risks materialize then at least one of these must be let go.
 
 
 
-![choosing-agile](img/choosing-agile.png)
+## Project Management
+
+Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two of these can be guaranteed.
+
+This scope can be defined in different levels:
+
+- **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
+
+- **Output**-based. This leaves some freedom on the implementation side.  If risk materialize, either time or cost would have to be let go.
+
+- **Outcome**-based. This method is more subjective. It focusses on building the right thing, rather than something.
 
 
 
-## Terminology
+## Product Management
+
+### Terminology
 
 A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *User*, paid for by a *Customer*. The *Stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
 
@@ -62,7 +89,7 @@ Following this terminology, a successful product would need to fulfill the desir
 Deciding what to build, for whom, when.
 
 **Product Delivery**
-Building it.
+Building it (R&D) and delivering it (ops).
 
 
 
@@ -82,7 +109,7 @@ Three innovation horizons. From exploitation to exploration.
 
 1. Current cash-flow (value): profitable now. Risk: they may become a commodity.
 2. High-growth businesses: will become cash-flow.
-3. Growth options: will potentially become growth
+3. Growth options: will potentially become growth.
 
 
 
