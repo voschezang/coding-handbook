@@ -32,7 +32,7 @@ In practice, products are improved through multiple small projects.
 Because products are never finished, they cannot be reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
 
 **Project sizing**
-Projects can usually be split up into smaller parts that are delivered immediately to customers. This may increase revenue sooner but it also may decrease efficiency. The ability to adapt can be used as an hedge against imperfect initial requirements. This iterative way of working is considered to be *agile*.
+Projects can usually be split up into smaller parts that are delivered immediately - to customers. This may provide revenue *sooner* and it allows subsequent iterations to incorporate feedback from customers. This may reduce the amount of unused features. This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](scrum-guide.md).
 
 ![choosing-agile](img/choosing-agile.png)
 
