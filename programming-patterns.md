@@ -232,6 +232,16 @@ In addition, a provider of a service can expose client libraries and pipeline te
 
 
 
+**Repository interface processor**
+
+A domain-driven method to model a system.
+
+- A <u>repository</u> service to store data. A persistency layer. The source of truth.
+- An <u>interface</u> service to communicate with the repository layer.
+- A <u>processor</u> service that covers the domain-logic. The *core* in [hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)).
+
+
+
 **Model View Controller (MVC)** 
 [Consists](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) of
 

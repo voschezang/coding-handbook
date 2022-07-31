@@ -14,8 +14,8 @@ A typical example is to encapsulate strings. Instead of using raw strings, it's 
 
 In the real world, objects can be ambiguous.
 
-- It is possible to have multiple views from the same object.
-- The object (or its properties) can change in the real world.
+- It is possible to have multiple **views** from the same object.  E.g. a person may be listed as an employee and as stockholder.
+- The object (or its properties) can **change** in the real world.
 
 In addition, there can be natural ambiguity. E.g a book can be a specific text or a physical copy.
 
@@ -23,13 +23,18 @@ Within a single system such ambiguity can go unnoticed, but when integrating mul
 
 
 
+In addition, some other concepts that relates to ambiguity are:
+
+- Oneness. Dealing with identity. E.g. a team of which all members are replaced.
+- Sameness. Dealing with equality.
+
+
+
 ### Reality
 
 > Databases model not reality itself, but how reality is processed by users
 
-In addition to the inherent imperfection of models, the realism of data can be limited in other ways. Suppose there is a database filled with information. The information can be outdated, or even fictional. Or the information can be limited by the knowledge of the author. Typical examples are empty database fields, or fields with a default value (e.g. `unknown`).
-
-
+In addition to the inherent imperfection of models, the realism of data can be limited in other ways. Suppose there is a database filled with information. The information can be outdated, planned or falsified or completely fictional. Or the information can be limited by the knowledge of the author. Typical examples are empty database fields, or fields with a default value (e.g. `unknown`).
 
 
 
