@@ -129,7 +129,7 @@ Individually, projects can seem valuable. A more difficult challenge is maintain
 
 This is especially useful w.r.t technical work that is not visible to end users. Although it is valuable, it can be easily be postponed without affecting promises to stakeholders.
 
-### Template
+### Template 1
 
 Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state. The desired state is not necessarily a *target*, but rather an <u>idealistic outcome</u>. 
 
@@ -138,7 +138,7 @@ This template focusses on the range of outcomes and excludes *how* to reach them
 The template:
 
 ``` markdown
-# Category A
+# Theme A
 
 Current State
 > What is currently lacking. 
@@ -147,7 +147,7 @@ Desired State
 > What outcome is envisioned.
 
 
-# Category B
+# Theme B
 
 Current State
 > What is currently lacking. Link to Current design
@@ -157,6 +157,14 @@ Desired State
 
 ...
 ```
+
+
+
+### Template 2
+
+This is again based on categories or themes, but this template emphasizes the option pool. The shape of the visualisation (when zoomed out) gives an indication of the amount of focus.
+
+![option-pyramid](img/option-pyramid.png)
 
 
 
