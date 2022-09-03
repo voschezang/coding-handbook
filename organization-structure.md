@@ -101,6 +101,8 @@ Decisions are made and forwarded according to a [chain of command](https://en.wi
 **Value Delivery**
 A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
 
+Ideally each component in this chain has a [clear interface](https://en.wikipedia.org/wiki/Interface_segregation_principle). See [systems-management](systems-management.md)
+
 
 
 These chains can intersect, based on the types of components in an organization.

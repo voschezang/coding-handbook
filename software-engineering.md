@@ -346,9 +346,40 @@ This pattern has some downsides:
 
 ### Collaboration
 
-The typical way to plan work in a team is to use stories or tasks. The owner of a story will try to either finish the story quickly or assign resources such that the story  doesn't take unnecessary long.
+The typical method of specifying work in a development team is based on user- or tech-stories. The assignee or owner of a story will try to either finish the story quickly or assign resources such that the story  doesn't take unnecessary long.
 
 On a daily basis there can be a *standup*, which is a briefing that covers at least any deviations from the planning and optionally some relevant updates. This meeting will go over either (1) all tasks that are *in progress* or (2) all team members. The former has the advantage of identifying any tasks that are blocked.
+
+
+
+**Levels of collaboration in a team**
+
+The ratio of number of (independent) stories versus team members affects the average lead time of stories. In addition, it affect the level of awareness of each other's work. Note that these results are affected by other factors as well. E.g. the amount of informal communication between colleagues. 
+
+A few types of team collaboration:
+
+- **Silo's**. One person works on one story. This optimizes for *utilization*. This can be efficient, but there is a risk of long waiting time due to asynchronous reviews.  If there is a need for reviews, then stories tend to be on hold disproportionally often. Each person may defer the reviewing of other people's work as soon as they have time for it. Hence there is an incentivize for workers to start new tasks, whenever other tasks are blocked. This increases work-in-progress, and it results in more context switching. Both of these decreases lead time.
+- **Pairing** and mobbing. The team is split up and each sub-group works together on a single story. This optimizes for *quality* and *lead time* of the stories with the highest priority. Lower priority stories are started later. This requires an explicit prioritization, which has organizational implications. Deferring 
+- **Swarming**. This is an extreme version of pairing. This optimizes for *speed*. A large group focusses on a single task and drops everything else. For example, fixing a major production issue as soon as possible.
+
+
+
+**Reviews**
+
+Usually there is a need for reviews before code can be integrated. In general:
+
+- Large, infrequent reviews are efficient but inflexible. Reviewing them properly is time-consuming - and thus may be postponed. If reviewers find problems then it's either too late, or it would cause significant rework. This reduces quality.
+- Small, frequent reviews improve quality. However, they can also be disruptive.
+    - Continuous reviews are less disruptive as they avoid context switching. However, they do require synchronization.
+
+This seems to imply a tradeoff between quality and throughput. However, these two are intertwined. Low quality may cause rework, which in turn will decrease throughput. 
+
+The ideal way to achieve both quality and throughput is through *fast* reviews. This would require:
+
+- High awareness. This improves the time per review.
+- High availability. This improves the waiting time before a review starts.
+
+This puts a restriction on the amount of work in progress.
 
 
 
