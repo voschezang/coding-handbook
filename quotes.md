@@ -46,7 +46,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Prefer messy but effective communication over efficient silos (with tunnel vision).
     * Doing the right thing > being right.
 * Good strategy means saying no (otherwise there would be no strategy).
-* Process = intensity + consistency
+* Process = (average) intensity + consistency
     * Good outcome > meeting the initial requirements.
     * Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
         * "No plan survives first contact"
@@ -148,7 +148,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
         * This is more *agile* than increasing parallelization and batch sizes.
         * Remove any bottlenecks that stand in the way of this vision.
         * Finish the current tasks before starting new ones.
-    * Minimize the number of batching steps and minimize waste in between. Optimize the process such that it requires minimal inventory.
+    * Minimize the number of handovers. Optimize the process such that it requires minimal inventory.
     * Measure and visualize both lead-time and lead-time-per-task.
 * Take calculated risks, experiment, make mistakes (notice mistakes) and learn from them.
   * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP. Failure enables success.

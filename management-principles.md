@@ -8,14 +8,12 @@ Inspired by [various sources](#References). See also [goals & strategy](goals-pl
 
 > Good management is situational
 
-Management *an sich* is a theoretical domain. In the real world, there is only management of a *subject*. For example, management of people or a project.
-
-
+Management *an sich* is a theoretical domain. In the real world, all there exists is management of a *subject*. For example: management of people or a project. The *subject* can be seen as a system. The purpose of a manager is to ensure that the system achieves it purpose - now as well as in the future. Hence, rather than merely [doing work](https://twitter.com/reinh/status/1565487105907703808) - i.e. planning or executing plans - it involves facilitation and orchestration. As a consequence, the performance of a manager is interconnected with the performance of a system.
 
 Management consists of **balances**. For example:
 
 - Learning and adjusting.
-    - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience.
+    - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience. Based on the environment.
 - Focussing and diversifying.
     - E.g. improving a process versus outsourcing a process.
 - Time horizon.
@@ -61,8 +59,10 @@ The two main directions to be effective are:
 
 - Deliver (maximize) value to customer. This may require investment and innovation (change).
 - Eliminate (minimize) waste. This doesn't just demand reliability and stability, but it also requires an investment to remove obstacles.
+    - Waste is defined as "anything that isn't part of the value chain"
 
-This involve
+
+This involves
 
 - Continuous improvement of purposes, people, processes.
 - Continuous discovery of value and waste.
@@ -256,11 +256,11 @@ Based on the properties of [systems](systems-management.md) the following steps 
     1. Identify the [critical chain](https://en.wikipedia.org/wiki/Critical_path_method).
     2. Identify the critical component. This can be either a policy or a physical constraint.
 2. Assuming there is no simple solution, *exploit* the constraint. Ensure that the resource is used for the right job and then maximize its throughput.
-3. *Subordinate* everything else. Let the Let dependent components run at partial capacity. This avoids wasteful over-production.
+3. *Subordinate* everything else. Let dependent components run at partial capacity. This avoids wasteful over-production.
 4. *Elevate* the constraint. E.g. increase the capacity of the critical components.
 5. Repeat all the previous steps, until the constraint has moved *outside* of the system. Note that lifting a bottleneck may change the functioning of the whole system.
 6. Two remaining challenges are:
-    1. [Risk management](#Risk Management). E.g. find optimal buffer-sizes.
+    1. [Risk management](#Risk Management). E.g. finding optimal buffer-sizes.
     2. [Product management](product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
 
 

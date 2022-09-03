@@ -10,10 +10,10 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 
 * People tend to acknowledge past personal growth but underestimate or disregard [future personal growth](https://en.wikipedia.org/wiki/End-of-history_illusion). I.e. the idea that the current state and circumstances are constant until the end of history.
 * People tend to explain (attribute) positive and negative events [differently](https://en.wikipedia.org/wiki/Self-serving_bias).
+    * [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion) is rational in case of diminishing returns.
 * We (individuals and organizations) overestimate what we can do in a year and [underestimate](https://en.wikipedia.org/wiki/Roy_Amara) what we can do in ten years.
   * This effect is stronger for personal goals and important plans/projects/strategies/objectives. As a result we may be better at estimating the future of others than our own.
   * And we keep doing this after recognizing the discrepancy. "That was an exception / This time is different".
-
 * Belief
     - Bias to believe what one wants to believe.
     - Social belief: trust in what the majority beliefs.
@@ -23,8 +23,7 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * Many decision are driven by *fear*. E.g. the fear of risk, or the fear of missing out.
 * [Confidence](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) does not imply competence, but is [related](https://en.wikipedia.org/wiki/Four_stages_of_competence) to it.
 * Each person is unique cannot be compared. Comparing them reduces them to a single metric. The same is true for groups
-    * [Identity](https://en.wikipedia.org/wiki/Identity_(philosophy)) is fluid, [ill-defined](https://en.wikipedia.org/wiki/Difference_(philosophy)) and tends to change and adapt.
-* [Multiplicity](https://en.wikipedia.org/wiki/Posthuman) of selves. Identification with each role is dynamic. "I was not myself". Time flies.
+    * [Identity](https://en.wikipedia.org/wiki/Identity_(philosophy)) is fluid and [ill-defined](https://en.wikipedia.org/wiki/Difference_(philosophy)).
 
 
 
@@ -33,10 +32,25 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * (In technology) there are people who understand what they do not manage and people who manage what they don't understand.
   * In bureaucratic organizations, people are promoted until they are no longer [competent](https://en.wikipedia.org/wiki/Peter_principle) at their jobs.
   * Threatened leaders are incentivized to [promote incompetence](https://en.wikipedia.org/wiki/Negative_selection_(politics)) and [get rid of competitors](https://en.wikipedia.org/wiki/Tall_poppy_syndrome).
+  
 * Regulation and bureaucracy incentivize [gamesmanship](https://en.wikipedia.org/wiki/Gamesmanship) over sportsmanship.
+
 * Bureaucratic organizations don't accept [sunk costs](https://en.wikipedia.org/wiki/Sunk_cost).
+
 * Groups tend to develop [herd mentalities](https://en.wikipedia.org/wiki/Herd_mentality) and [groupthink](https://en.wikipedia.org/wiki/Groupthink).
+
 * Humans prefer certainty and absolutes over stochasticity and complexity. They tend to underestimate variance (e.g. by setting a *just* a mean expectation). An alternative would be [mean-variance analysis](https://en.wikipedia.org/wiki/Modern_portfolio_theory).
+
+* Bias for status quo.
+
+    * Changes are evaluated critically, while addressing problems the current state is postponed
+
+    * Evaluate outcome instead of process, resulting in a bias for luck
+
+    * Asymmetries in rewards.
+
+        * Stronger (desire for) punishment of faulty action than inaction
+        * Tendency to punish bad decisions but don’t reward good ones
 
 
 

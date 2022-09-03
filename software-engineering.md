@@ -50,8 +50,13 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
     - Clear [documentation](documentation.md). An explanation from high to low level and including relevant assumptions.
         - This can be complemented by "How-to" guides.
-    - (predictive) monitoring and alerting.
     - Ensure that there is up-to-date documentation that is clear and covers both the components and the interactions of the system.
+    - [Observability](https://en.wikipedia.org/wiki/Observability).  Two definitions
+        - Being able to infer the state of a system based on its outputs.
+        - Being able to see inside the system: distributed tracing.
+    - (predictive) monitoring and alerting.
+        - Based on service level objectives (SLO) and indicators (SLI).
+    - Application performance measurement (APM)
 
 - Software Quality
 
@@ -275,9 +280,9 @@ The [structure of teams](organization-structure.md) and departments has a great 
 The ability to inspect and adapt; to be able to create or adjust your own process. This is done by:
 
 - Focussing on value streams (towards the customer) instead of resource efficiency. 
-- Eliminate waste, e.g. inventory or unreleased software. 
-- Minimize lead time per feature. This can greatly reduce risk.
-- Have goals that are guiding rather leading. Defer uncertain decisions are there is a good reason not to. 
+- Eliminating waste, e.g. inventory or unreleased software.
+- Minimizing lead time per feature. This can greatly reduce risk.
+- Having goals that are guiding rather leading. Defer uncertain decisions unless there is a good reason not to.
 
 A few frameworks for small or decentralized organizations:
 

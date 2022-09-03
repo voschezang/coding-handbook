@@ -283,9 +283,11 @@ Defining goals
 
 
 
-### Content of Tasks
+### Specification of Tasks
 
 Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
+
+### Template: Tasks
 
 Before closing a task an appropriate review should be done to validate whether its purpose has been fulfilled.
 
@@ -326,3 +328,22 @@ In addition to the above:
 How **success** is going to be measured
 
 - What metrics will be used to track progress?
+
+
+
+### Template: TODO Lists
+
+Listing everything that's valuable can lead to an impractical number of items. Instead, classify the tasks. Then make the top priority task explicit.
+
+By time horizon:
+
+- Do now
+- Do sooner
+- Do later
+
+By importance:
+
+- Could do.
+- Should do.
+- Must do.
+

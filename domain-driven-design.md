@@ -19,9 +19,7 @@ In the real world, objects can be ambiguous.
 
 In addition, there can be natural ambiguity. E.g a book can be a specific text or a physical copy.
 
-Within a single system such ambiguity can go unnoticed, but when integrating multiple systems problems can occur.
-
-
+Within a single system such ambiguity can go unnoticed, but problems can arise when integrating multiple systems. To avoid this, terms can be made more *specific*. This [increases the contrast](https://twitter.com/jarango/status/1562791028167299079) between terms. E.g. use the term `PersonalBankAccount` rather than `Account`. Such terms only have meaning inside a given (bounded) [context](https://www.martinfowler.com/bliki/BoundedContext.html).
 
 In addition, some other concepts that relates to ambiguity are:
 

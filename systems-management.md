@@ -60,6 +60,17 @@ The future profitability can be defined as the [expected value](https://en.wikip
 
 
 
+#### Waste & Idle time
+
+Although idle time seems wasteful, it can be a necessity. Types of idle time:
+
+- Idle resources. E.g. firefighters that aren't actively putting out fires.
+- Idle tasks. E.g. tasks that are on hold.
+
+A third category of inefficiency are resources that are doing the "wrong" thing. E.g. producing a product that doesn't have demand.
+
+
+
 ## Internal View
 
 By definition, the internal components in a systems are either directly or indirectly dependent on each other. Mathematically, a system can be described by a covariance matrix, but this explanation will use a more intuitive, visual model.
