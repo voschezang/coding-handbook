@@ -346,7 +346,7 @@ This pattern has some downsides:
 
 ### Collaboration
 
-The typical method of specifying work in a development team is based on user- or tech-stories. The assignee or owner of a story will try to either finish the story quickly or assign resources such that the story  doesn't take unnecessary long.
+The typical method of specifying work in a development team is based on user- or tech-**stories**. The assignee or owner of a story will try to either finish the story quickly or assign resources such that the story  doesn't take unnecessary long.
 
 On a daily basis there can be a *standup*, which is a briefing that covers at least any deviations from the planning and optionally some relevant updates. This meeting will go over either (1) all tasks that are *in progress* or (2) all team members. The former has the advantage of identifying any tasks that are blocked.
 

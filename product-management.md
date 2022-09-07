@@ -1,6 +1,6 @@
 # Product Management
 
-This is more about *projects* than a *product*, but it borrows some useful terminology from product management. See also [goals and strategy](goals-planning-strategy.md) and  [management principles](management-principles.md).
+This is more about *projects* than a *product*, but it borrows some useful terminology from product management. See also [goals and strategy](goals-planning-strategy.md),  [management principles](management-principles.md) and [requirements-engineering](requirements-engineering.md).
 
 [toc]
 
@@ -60,20 +60,6 @@ A few differences between projects and products.
     - Long-term revenue stream > quarterly results.
 
 Projects typically have three constraints: a time bound, cost bound and a set of requirements (input or output). When risks materialize then at least one of these must be let go.
-
-
-
-## Project Management
-
-Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two of these can be guaranteed.
-
-This scope can be defined in different levels:
-
-- **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
-
-- **Output**-based. This leaves some freedom on the implementation side.  If risk materialize, either time or cost would have to be let go.
-
-- **Outcome**-based. This method is more subjective. It focusses on building the right thing, rather than something.
 
 
 
