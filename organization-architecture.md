@@ -83,8 +83,8 @@ See [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).
 * Unity/cohesion/diversity -  diversity/flexibility.
     * Adapt target conditions (be pragmatic) - invest in removing obstacles and bottlenecks
     * Cohesion of products - flexibility in product designs.
-* Optimize for productivity - value
-    * E.g. a feature factory vs. an organization of learning, where ideas are nurtured
+* Optimize for productivity (output) - value (flexibility)
+    * E.g. a feature factory (output) vs. an organization of learning (agility).
 * Failure of components or services
     * Resilient to failure, but allowing higher failure rates
     * Strongly impacted by failure, but immediately resolving failures and continuously reducing failure rate.

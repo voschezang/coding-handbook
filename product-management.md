@@ -32,9 +32,23 @@ In practice, products are improved through multiple small projects.
 Because products are never finished, they cannot be reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
 
 **Project sizing**
-Projects can usually be split up into smaller parts that are delivered immediately - to customers. This may provide revenue *sooner* and it allows subsequent iterations to incorporate feedback from customers. This may reduce the amount of unused features. This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](scrum-guide.md).
+Projects can usually be split up into smaller parts that are delivered immediately - to customers. Estimating the optimal granularity *a priori* is difficult. The major benefits of small deliverables are:
+
+- Provide revenue *sooner*.
+- Allow subsequent iterations to incorporate *feedback* from customers.
+- Reduce the amount of *unused* features.
+
+This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](scrum-guide.md).
+
+It is especially beneficial in context with the following problems:
+
+- There is uncertainty in the demand from customers. This creates a risk of building the wrong product.
+- There is uncertainty w.r.t the progress of the project. Any problems that arise might be discovered too late.
+- There are risk associated with the duration of project. E.g. when missing a deadline would be catastrophic.
 
 ![choosing-agile](img/choosing-agile.png)
+
+
 
 ### Differences
 
