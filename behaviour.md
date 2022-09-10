@@ -64,6 +64,7 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 * The market is a *voting* machine In the short run, but a [*weighing*](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) machine in the long run.
 * News is by definition [random](https://en.wikipedia.org/wiki/Information_content).
     * In an efficient market, stock prices depend on news and thus [evolve randomly](https://en.wikipedia.org/wiki/Random_walk_hypothesis).
+* Bias: optimize things that are measured.
 
 
 

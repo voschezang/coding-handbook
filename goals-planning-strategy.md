@@ -116,7 +116,7 @@ List the desired outcomes over time, using an exponential timescale. E.g. a mont
 
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
 
-- Daily check-in meeting. Align and improve awareness.
+- Daily check-in meeting. Align and improve awareness. E.g. of work or people.
 - Weekly tactical meeting. React to short-term issues.
 - Monthly strategic meeting. Decide on long-term adjustments.
 - Quarterly off-site review. Take an outside-view and reflect.

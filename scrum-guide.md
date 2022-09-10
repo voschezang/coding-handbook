@@ -191,6 +191,25 @@ The Daily Scrum is independent of the sprint length.
 **Daily Scrum**
 This is a developer-centric event that occurs daily, at the same place and time for consistency and to reduce complexity. The format is free, but it should focus on the progress towards the sprint goal rather than on what team members have done. If a PO, SM or manager is present then they should not facilitate or steer the session.
 
+Example formats:
+
+- Focus on flow of work. E.g. check each work item on the Scrum board.
+    - Risk: missing out on topics that are not on the board.
+    - Possible steps:
+        - *Which tasks moved recently?* 
+        - *Which tasks will be updated today?*
+        - *What work is blocked?*
+- Focus on people. E.g. ask everyone for a status update.
+    - Benefit: inclusion, improve personal connections. E.g. for remote jobs.
+    - Risk: work items can get overlooked.
+    - Possible steps:
+        - *What did you do?*
+        - *What are you going to do? What do you want to do/achieve/finish today?*
+        - *Any blockers?*
+- Combinations
+    - Work-first. Ask for personal updates iff there are no work items.
+    - People-first. For everyone, check-in on their work items.
+
 
 
 **Sprint Planning**
