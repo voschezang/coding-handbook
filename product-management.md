@@ -31,23 +31,6 @@ In practice, products are improved through multiple small projects.
 
 Because products are never finished, they cannot be reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
 
-**Project sizing**
-Projects can usually be split up into smaller parts that are delivered immediately - to customers. Estimating the optimal granularity *a priori* is difficult. The major benefits of small deliverables are:
-
-- Provide revenue *sooner*.
-- Allow subsequent iterations to incorporate *feedback* from customers.
-- Reduce the amount of *unused* features.
-
-This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](scrum-guide.md).
-
-It is especially beneficial in context with the following problems:
-
-- There is uncertainty in the demand from customers. This creates a risk of building the wrong product.
-- There is uncertainty w.r.t the progress of the project. Any problems that arise might be discovered too late.
-- There are risk associated with the duration of project. E.g. when missing a deadline would be catastrophic.
-
-![choosing-agile](img/choosing-agile.png)
-
 
 
 ### Differences
@@ -173,36 +156,109 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 
 
-## Up-front Planning
+## Planning
 
 > Strive for continuous planning rather than up-front planning.
 
-Planning can be split up into [two phases](goals-planning-strategy.md). After more information become available this cycle can be repeated.
+
+
+**Template**
 
 1. Refine the product portfolio and a range of desired outcomes.
-2. Choose a North Star Goal, metrics and initiatives.
+2. Choose a single North Star Goal and find metrics to track the progress towards it.
+3. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*. 
 
-The latter would would result in:
-
-- A North Star Goal, with a metric to track progress.
-    - Consider multiple possible scenarios/futures, not just the ideal case.
-- Diversified sub-goals ([initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)) that are abstract and can easily be adjusted.
-    - Note that these are not just categories of stories (e.g. "improve security").
-
-- Stories or Tasks. The titles can be denoted in advance, but the details should not be added until the point where they are going to be picked up to be worked in the short-term (based on the number of dependencies). I.e. only add details to the highest-priority stories.
-    - In practice, some stories will contribute to multiple sub-goals. There isn't always  a one-size-fits-all solution, so be pragmatic about this. 
-
-
-In general, MVP-based iterations are preferred. Their size is context-dependent.
-
-Ideally, go to production as soon as possible. Use gradual releases (e.g. by demographic) and build-in the option to adapt if expectations are not met.
+Based on this preparation, a roadmap can be setup. Then, projects can be defined, based on this roadmap. Ideally these project will only be refined *just in time* (JIT).
 
 
 
-In general there are two types of stories, both of which add value.
+### JIT Planning
 
-- **User stories**. These are directly visible to end-users or stakeholders.
-- **Tech stories**. These are important, but their value is mostly visible internally. E.g. risk mitigation.
+**Prioritization of future work**
+Two different methods to plan work:
+
+- Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In cross-functional teams the diversity of the work in the sprint may be taken into account.
+- No sprints, but instead use a continuously updated product backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
+
+**Prioritization of work in progress**
+Maximize flow and minimize inventory (i.e. unfinished tasks, unmerged code). Prefer finishing tasks over starting new tasks. Address blocked task immediately instead of avoiding them. Find an optimal number of tasks to work on at the same time (within a team).
+
+**Human resource management**
+Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable team-size by default and change it when the product demands it.
+
+
+
+### Backlog
+
+Also see [requirements-engineering](requirements-engineering.md).
+
+The product backlog is a list of future work. Ideally it is prioritized. Each item is usually treated as a small project. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. This low-priority section of the backlog can be treated as an "option pool".
+
+Items can be grouped together in two ways:
+
+- By goal. E.g. a sequence of tasks with a single purpose.
+- By type. E.g. individual, independent tasks that happen to be similar. E.g. improving `adaptability, user-experience, efficiency, security`. 
+
+
+
+**Administration**
+
+> Work needs to be defined before it can be delegated.
+
+Let the *product backlog* be defined as an ordered list of items that represent work that can be done in the future. Planned work can be administrated in the following ways.
+
+- Explicit: on the backlog.
+	- Rough ideas, goals, outcomes, results.
+	- Small, fully refined items (stories) that can be finished within a few weeks.
+	- Minor tasks that are no more than a day of work.
+- Implicit: not on the backlog.
+  - Alerts on a public dashboard that require attention.
+  - In documentation (readme, specification, or external documentation).
+    - Features that are currently supported, but that can be removed once they demand disappears.
+    - Limitations of current design or implementation.
+    - Possibilities of current approach / next steps.
+    - Known risks.
+  - Comments in source code (e.g. `TODO, SMELL`).
+  - Hidden in private (mental) notes. E.g. questions send over email.
+
+Within a team it is unavoidable that there are "private" ideas that are not though out. Ideally they would be brought up whenever the idea is ready to be shared and (part of) the team has capacity to discuss it.
+
+
+
+## Patterns & Anti-patterns
+
+[Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE) - overview by Henrik Kniberg
+
+
+
+**Customer chasing development**
+Optimize on satisfying a single customer, instead of a market.
+
+**Feature Factory**
+Bias for releasing features, rather than solving customer problems. See [software-engineering](software-engineering.md]).
+
+**Invisible work**
+Single-point-of-failure. No handover in case of problems.
+
+**Pet Projects**
+Build something in secret to avoid the administrative or collaborative overhead.
+
+**Promotion driven development**
+Bias for optics & complexity. Build interesting stuff tools of useful tools.
+
+**Shadow Backlog**
+Typically non-prioritized and not discussed openly.
+
+**Zombie product**
+A product that is kept alive for political or personal reasons rather than market demand.
+
+
+
+**Bottlenecks**
+
+- What is holding you back?
+- What patterns do you see developing?
+- Where would you focus more/less on?
 
 
 
@@ -245,137 +301,3 @@ Formal steps
 3. Prioritization of chosen strategy.
 4. ...
 
-
-
-### Types of Tasks
-
-The generic concepts PoC and MVP can be applied to tasks and features. In general, smaller task are less unpredictable and have a less rework associated with them. On the other hand, lengthy tasks [incentivize](https://medium.com/hackernoon/wip-it-real-good-66aa710178fd) the use backchannels, local agenda's and contribute to a lack of overall focus.
-
-- **Proof of concept** ([PoC](https://en.wikipedia.org/wiki/Proof_of_concept))
-    Build an experimental application and learn on the way. The goal is not to develop finished end-product but rather to demonstrate feasibility and/or learn what a production-like application would entail (and gain a head-start).
-
-- **Minimum Viable Product** ([MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)): 
-    Deploy a minimal feature ASAP s.t. you can collect early feedback and improve it iteratively. Maximize the amount of learning (e.g. from users/customers) with the least amount of effort. It emphasizes the value of customer-feedback is 
-- **Minimum Lovable Product** (MLP): 
-    Work towards a release that will overwhelm customers/end-users. In case of infrastructure this could mean an automated and sufficiently secured and monitored system.
-
-
-
-**Types of features**
-Note that features often have multiple roles, and can be sold as feature anyway.
-
-|                | User-invisible | User-visible                                                 |
-| -------------- | -------------- | ------------------------------------------------------------ |
-| Positive Value | Feature        | Architecture, non-functional requirements, process improvements |
-| Negative Value | Defect         | Technical debt                                               |
-
-
-
-## JIT Planning
-
-**Prioritization of future work**
-Two different methods to plan work:
-
-- Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In cross-functional teams the diversity of the work in the sprint may be taken into account.
-- No sprints, but instead use a continuously updated product backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
-
-**Prioritization of work in progress**
-Maximize flow and minimize inventory (i.e. unfinished tasks, unmerged code). Prefer finishing tasks over starting new tasks. Address blocked task immediately instead of avoiding them. Find an optimal number of tasks to work on at the same time (within a team).
-
-**Human resource management**
-Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable team-size by default and change it when the product demands it.
-
-
-
-### Backlog
-
-The product backlog is a list of future work. Ideally it is prioritized. Each item is usually treated as a small project. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. This low-priority section of the backlog can be treated as an "option pool".
-
-Items can be grouped together in two ways:
-
-- By goal. E.g. a sequence of tasks with a single purpose.
-- By type. E.g. individual, independent tasks that happen to be similar. E.g. improving `adaptability, user-experience, efficiency, security`. 
-
-
-
-**Administration**
-
-> Work needs to be defined before it can be delegated.
-
-Let the *product backlog* be defined as an ordered list of items that represent work that can be done in the future. Planned work can be administrated in the following ways.
-
-- Explicit: on the backlog.
-	- Rough ideas, goals, outcomes, results.
-	- Small, fully refined items (stories) that can be finished within a few weeks.
-	- Minor tasks that are no more than a day of work.
-- Implicit: not on the backlog.
-  - Alerts on a public dashboard that require attention.
-  - In documentation (readme, specification, or external documentation).
-    - Features that are currently supported, but that can be removed once they demand disappears.
-    - Limitations of current design or implementation.
-    - Possibilities of current approach / next steps.
-    - Known risks.
-  - Comments in source code (e.g. `TODO, SMELL`).
-  - Hidden in private (mental) notes. E.g. questions send over email.
-
-Within a team it is unavoidable that there are "private" ideas that are not though out. Ideally they would be brought up whenever the idea is ready to be shared and (part of) the team has capacity to discuss it.
-
-
-
-#### Story Points
-
-The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/photo/1) of story-points. Remember; story-points are not real.
-
-- Incentive to write smaller stories, s.t. they more easily fit in the next sprint.
-- Make estimations less subjective, e.g. by combining multiple (independent) estimations.
-    - Use the abstraction "complexity" to make estimations less personal.
-    - Stimulate discussion about the story itself and the number of points assigned to it. Talk about complexity.
-- Estimate or report on team-capacity and/or productivity per sprint.
-    - Show that the team works hard and consistently. Identify struggling teams.
-- Shared value between the team and higher management. Improve reporting towards management.
-    - Create burndown charts.
-- Make (reasonable) commitments to motivate team members. Improve prioritization.
-
-
-
-**Alternatives**
-
-- Units: scope all tasks down until they have a comparable, small and manageable size. Large tasks are a challenge.
-- Days per engineer: more specific than story-points but there is a risk of simplification (i.e. the comparison with an *average* engineer)
-
-
-
-## Patterns & Anti-patterns
-
-[Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE) - overview by Henrik Kniberg
-
-
-
-**Customer chasing development**
-Optimize on satisfying a single customer, instead of a market.
-
-**Feature Factory**
-Bias for releasing features, rather than solving customer problems. See [software-engineering](software-engineering.md]).
-
-**Invisible work**
-Single-point-of-failure. No handover in case of problems.
-
-**Pet Projects**
-Build something in secret to avoid the administrative or collaborative overhead.
-
-**Promotion driven development**
-Bias for optics & complexity. Build interesting stuff tools of useful tools.
-
-**Shadow Backlog**
-Typically non-prioritized and not discussed openly.
-
-**Zombie product**
-A product that is kept alive for political or personal reasons rather than market demand.
-
-
-
-**Bottlenecks**
-
-- What is holding you back?
-- What patterns do you see developing?
-- Where would you focus more/less on?

@@ -1,5 +1,9 @@
 # Requirements Engineering
 
+This document focusses on requirements for a single *unit* of work. Projects that can be split up over multiple tasks are covered [here](product-management.md).
+
+[toc]
+
 Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two of these can be guaranteed.
 
 This scope can be defined in different levels:
@@ -14,7 +18,7 @@ In complex contexts, there is structural *uncertainty*. During execution of a ta
 
 
 
-### Specification of Tasks
+## Specification of Tasks
 
 Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
 
@@ -79,3 +83,31 @@ By importance:
 - Should do.
 - Must do.
 
+
+
+
+
+## Estimation
+
+
+
+### Story Points
+
+The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/photo/1) of story-points. Remember; story-points are not real.
+
+- Incentive to write smaller stories, s.t. they more easily fit in the next sprint.
+- Make estimations less subjective, e.g. by combining multiple (independent) estimations.
+    - Use the abstraction "complexity" to make estimations less personal.
+    - Stimulate discussion about the story itself and the number of points assigned to it. Talk about complexity.
+- Estimate or report on team-capacity and/or productivity per sprint.
+    - Show that the team works hard and consistently. Identify struggling teams.
+- Shared value between the team and higher management. Improve reporting towards management.
+    - Create burndown charts.
+- Make (reasonable) commitments to motivate team members. Improve prioritization.
+
+
+
+**Alternatives**
+
+- Units: scope all tasks down until they have a comparable, small and manageable size. Large tasks are a challenge.
+- Days per engineer: more specific than story-points but there is a risk of simplification (i.e. the comparison with an *average* engineer)
