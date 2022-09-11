@@ -28,6 +28,16 @@ In addition, some other concepts that relates to ambiguity are:
 
 
 
+**Identity**
+This can be modeled using an identity function [`id`](https://docs.python.org/3.8/library/functions.html#id) where  `a = b` iff `id(a) == id(b)`.
+
+**Equality**
+Direct equality. E.g. `eq(10$, 10£) == True`  (at a given date).
+
+Equality can be fuzzy. This can be modeled by adding a *bias* or lens. `eq("sky", "water", bias=is_blue) == True` .
+
+
+
 ### Reality
 
 > Databases model not reality itself, but how reality is processed by users

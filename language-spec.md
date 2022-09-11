@@ -109,11 +109,25 @@ Rotate `f`<sup>`n`</sup>`(x) = x`
 
 #### Relations
 
-[Transitive](https://en.wikipedia.org/wiki/Transitive_relation): if `f(x) = y` and `g(y) = z` then there exists `h` s.t.  `h(x) = z`
+Relations can be one-to-one, one-to-many, or many-to-many.
 
-[Symmetric](https://en.wikipedia.org/wiki/Symmetric_relation): if `f(x) = y` then `f(y) = x`
+Instances of relationships can have attributes. E.g. the *date* of a marriage between people.
 
-[Reflexive](https://en.wikipedia.org/wiki/Reflexive_relation): if there exists an `f` s..t `f(x) = x` for every `x`
+
+
+**Properties & Restrictions**
+
+Directional. `f(x, y)` does not imply that `f(y, x)`
+
+[Transitive](https://en.wikipedia.org/wiki/Transitive_relation): If `f(x) = y` and `g(y) = z` then there exists `h` s.t.  `h(x) = z`
+
+[Symmetric](https://en.wikipedia.org/wiki/Symmetric_relation): If `f(x) = y` then `f(y) = x`
+
+Antisymmetric: If `f(x) = y` then `f(y) != x`
+
+[Reflexive](https://en.wikipedia.org/wiki/Reflexive_relation): If there exists an `f` s..t `f(x) = x` for every `x`
+
+Implication (composition). If `f(x, y)` and `f(y, z)` then `f(x, z)`
 
 
 
