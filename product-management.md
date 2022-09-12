@@ -76,7 +76,27 @@ Building it (R&D) and delivering it (ops).
 
 
 
-## Background
+### Product Teams
+
+A product team is supposed to completely manage a single product. The team is autonomous and can take ownership, because it controls the [whole](https://en.wikipedia.org/wiki/Vertical_integration) value chain.
+
+**Template**
+
+How to summarize a specific product team.
+
+- Product Portfolio. E.g. the main product and any features that complement it.
+- People. The team, stakeholders, customers and users.
+- Team Goals - and how they relate to departmental goals.
+    - What problems are customers currently facing?
+    - What problems is the team or product facing?
+- Planning
+    - Desired States. Which target conditions are desired.
+    - Initiatives. What actions can be taken to achieve these?
+    - Roadmap. When will these actions be taken?
+
+
+
+### Background
 
 **Types of Products**
 
@@ -97,6 +117,8 @@ Three innovation horizons. From exploitation to exploration.
 
 
 **Types of Customers and Stakeholders**
+
+For software products.
 
 - The product-owner or project-manager
 - The business (the rest of the organization)
@@ -164,6 +186,8 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 **Template**
 
+From [goals and strategy](goals-planning-strategy.md).
+
 1. Refine the product portfolio and a range of desired outcomes.
 2. Choose a single North Star Goal and find metrics to track the progress towards it.
 3. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*. 
@@ -192,12 +216,12 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 
 Also see [requirements-engineering](requirements-engineering.md).
 
-The product backlog is a list of future work. Ideally it is prioritized. Each item is usually treated as a small project. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. This low-priority section of the backlog can be treated as an "option pool".
+A product backlog is a list of future work. Ideally it is prioritized. Each item is usually treated as a small project. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. This low-priority section of the backlog can be treated as an "option pool".
 
 Items can be grouped together in two ways:
 
 - By goal. E.g. a sequence of tasks with a single purpose.
-- By type. E.g. individual, independent tasks that happen to be similar. E.g. improving `adaptability, user-experience, efficiency, security`. 
+- By theme. E.g. individual, independent tasks that happen to be similar. E.g. improving `adaptability, user-experience, efficiency, security`. 
 
 
 
@@ -222,6 +246,39 @@ Let the *product backlog* be defined as an ordered list of items that represent 
   - Hidden in private (mental) notes. E.g. questions send over email.
 
 Within a team it is unavoidable that there are "private" ideas that are not though out. Ideally they would be brought up whenever the idea is ready to be shared and (part of) the team has capacity to discuss it.
+
+
+
+#### Types of Tasks
+
+The generic concepts PoC and MVP can be applied to tasks and features. In general, smaller task are less unpredictable and have a less rework associated with them. On the other hand, lengthy tasks [incentivize](https://medium.com/hackernoon/wip-it-real-good-66aa710178fd) the use backchannels, local agenda's and contribute to a lack of overall focus.
+
+- **Proof of concept** ([PoC](https://en.wikipedia.org/wiki/Proof_of_concept))
+    Build an experimental application and learn on the way. The goal is not to develop finished end-product but rather to demonstrate feasibility and/or learn what a production-like application would entail (and gain a head-start).
+
+- **Minimum Viable Product** ([MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)): 
+    Deploy a minimal feature ASAP s.t. you can collect early feedback and improve it iteratively. Maximize the amount of learning (e.g. from users/customers) with the least amount of effort. It emphasizes the value of customer-feedback is 
+- **Minimum Lovable Product** (MLP): 
+    Work towards a release that will overwhelm customers/end-users. In case of infrastructure this could mean an automated and sufficiently secured and monitored system.
+
+
+
+**Types of features**
+Note that features often have multiple roles, and can be sold as feature anyway.
+
+|                | User-invisible | User-visible                                                 |
+| -------------- | -------------- | ------------------------------------------------------------ |
+| Positive Value | Feature        | Architecture, non-functional requirements, process improvements |
+| Negative Value | Defect         | Technical debt                                               |
+
+
+
+**Types of stories**
+
+In general there are two types of stories, both of which add value.
+
+- *User* stories. These are directly visible to end-users or stakeholders.
+- *Tech* stories. These are important, but their value is mostly visible internally. E.g. risk mitigation.
 
 
 

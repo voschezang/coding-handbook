@@ -1,8 +1,6 @@
 # Project Management
 
-This document is about refining and implementing an assignment. Such an assignment can be for example a project or user-story.
-
-See also [product-management](product-management.md)  [management principles](management-principles.md) and [requirements-engineering](requirements-engineering.md).
+This document is about refining and implementing an assignment. Such an assignment can be for example a project or user-story. See also [product-management](product-management.md)  [management principles](management-principles.md) and [requirements-engineering](requirements-engineering.md).
 
 [toc]
 
@@ -61,37 +59,4 @@ It is especially beneficial in context with the following problems:
 - Is the demand from customers clear?
 - Is the proposal technically feasible? If not, then consider starting with experiments.
 - Will progress be measurable?
-
-
-
-### Types of Tasks
-
-The generic concepts PoC and MVP can be applied to tasks and features. In general, smaller task are less unpredictable and have a less rework associated with them. On the other hand, lengthy tasks [incentivize](https://medium.com/hackernoon/wip-it-real-good-66aa710178fd) the use backchannels, local agenda's and contribute to a lack of overall focus.
-
-- **Proof of concept** ([PoC](https://en.wikipedia.org/wiki/Proof_of_concept))
-    Build an experimental application and learn on the way. The goal is not to develop finished end-product but rather to demonstrate feasibility and/or learn what a production-like application would entail (and gain a head-start).
-
-- **Minimum Viable Product** ([MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)): 
-    Deploy a minimal feature ASAP s.t. you can collect early feedback and improve it iteratively. Maximize the amount of learning (e.g. from users/customers) with the least amount of effort. It emphasizes the value of customer-feedback is 
-- **Minimum Lovable Product** (MLP): 
-    Work towards a release that will overwhelm customers/end-users. In case of infrastructure this could mean an automated and sufficiently secured and monitored system.
-
-
-
-**Types of features**
-Note that features often have multiple roles, and can be sold as feature anyway.
-
-|                | User-invisible | User-visible                                                 |
-| -------------- | -------------- | ------------------------------------------------------------ |
-| Positive Value | Feature        | Architecture, non-functional requirements, process improvements |
-| Negative Value | Defect         | Technical debt                                               |
-
-
-
-**Types of stories**
-
-In general there are two types of stories, both of which add value.
-
-- *User* stories. These are directly visible to end-users or stakeholders.
-- *Tech* stories. These are important, but their value is mostly visible internally. E.g. risk mitigation.
 
