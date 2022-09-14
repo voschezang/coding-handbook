@@ -4,9 +4,7 @@ This document focusses on requirements for a single *unit* of work. Projects tha
 
 [toc]
 
-Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two of these can be guaranteed.
-
-This scope can be defined in different levels:
+Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. This scope can be defined in different levels:
 
 - **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
 - **Output**-based. This leaves some freedom on the implementation side.  If risk materialize, either time or cost would have to be let go.
@@ -15,6 +13,8 @@ This scope can be defined in different levels:
     - There is an incentive to solve the underlying problem, rather than the initially suggested problem. This can be uncomfortable.
 
 In complex contexts, there is structural *uncertainty*. During execution of a task, more information will be discovered. The plan has to be adjusted when the initial requirements become outdated. The main challenge here is to choose whether to adjust the scope, the end date, or find another solution.
+
+A (in)direct result of the scope is **impact**. E.g. the effect of the initiative on a metric such as revenue. This usually  easier to measure than outcomes.
 
 
 

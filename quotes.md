@@ -37,6 +37,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects. 
     * Context switching isn't free.
 * Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
+* Nobody ever got fired for buying IBM.
 
 
 
@@ -84,6 +85,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Deliver sooner, rather than faster. Average throughput > total throughput.
     * Received value (by customer) > created value (inventory).
 
+* Doing nothing can be a deliberate action.
 * Being busy indicates a lack or prioritization.
     * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
     * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
@@ -91,7 +93,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Before software can be reusable it first has to be usable.
 * "What one person can do in nine months, nine persons can do in one month."
 * [Solve via iteration](https://www.instagram.com/p/CP_70ppLAYC/), then get paid by repetition (scale up).
-* Adding security to software after its been made is like [adding electricity and running water to a 1000 year old castle](https://twitter.com/jackrhysider/status/1453728265244315658)
+* Adding security to software after its been made is like [adding electricity and running water to a 1000 year old castle](https://twitter.com/jackrhysider/status/1453728265244315658).
 
 
 

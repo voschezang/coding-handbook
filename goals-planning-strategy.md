@@ -45,9 +45,9 @@ An hierarchy of three layers:
 A few variants:
 
 - North Star Goal: specific and measurable. A rough direction to go towards. Top of the goal/sub-goal hierarchy.
-    - Make sure this metric is consistent with your definition of success.
-    - Make sure this metric is clearly visible to the whole organization, such that they can align.
-- Outcome or narrative: what the ideal state would look like. A vision.
+    - Ideally this metric is consistent with your definition of success.
+    - Ideally this metric is clear to the whole organization, such that they can align.
+- Objective, Outcome or narrative: what the ideal state would look like. A vision. This can be a condition that needs to be fulfilled.
 
 Based on this high-level goal, you can start to trace back which steps are necessary to reach it. In addition, you can setup *inputs* or metrics to track progress.
 
@@ -63,20 +63,11 @@ Then find a way to align with the whole organization or team...
 
 **(2) The messy middle**
 
-Long-term goals are generally stable and short-term plans can be made continuously. Everything in between is inherently messy. The "middle" is based on the current worldview, but because it is specific it will become more and more obsolete as the environment changes. Hence it has to be from time to time.
+Long-term goals are generally stable and short-term plans can be made continuously. Everything in between is inherently messy. The "middle" is based on the current worldview, but because it is specific it will become more and more obsolete as the environment changes. Hence it has to adjusted be from time to time.
 
-- Do come up with a plan, but don't expect to stick to it. Build an abstract planning that is simple to adjust.
-- Diversify; consider multiple approaches (bets) that try will help you to reach your goal from different angles.
-    - e.g. have multiple [key results](https://en.wikipedia.org/wiki/OKR).
+A major strategy for this is diversification. Consider multiple initiatives that will help to reach your goal from different angles. Design these to be *replaceable*. Ensure that they can at least be adjusted over time. Note that this still allows focus on a single initiative at a time.
 
-A common tool to address the complexity of this area are OKRs. Do note that this works best *as a complement* to a long-term outcome.
-
-In addition, the following tool can be used.
-
-Denote a list of *narratives* and a list of *epics*. Ideally they correspond directly to each other, but in practice they may be interdependent.
-
-- Narratives are abstract but intuitive. They are large enough to be significant and they are independent of the required input effort.
-- Epics are more concrete. Implementation-oriented.They are based on the amount of required work.
+A common tool to address the complexity of this area are [OKRs](https://en.wikipedia.org/wiki/OKR). Do note that this works best as a *complement* to a long-term outcome.
 
 
 
@@ -85,7 +76,7 @@ Denote a list of *narratives* and a list of *epics*. Ideally they correspond dir
 A roadmap becomes outdated over time due to:
 
 - Internal changes. E.g. learning as part of the pre-planned progression.
-- External changes. E.g. changes in the environment.
+- External changes. Changes in the environment.
 
 Hence, use a format that is resilient to change. This can be done by combining high-level and low-level descriptions.
 

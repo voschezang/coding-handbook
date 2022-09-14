@@ -85,11 +85,13 @@ A product team is supposed to completely manage a single product. The team is au
 How to summarize a specific product team.
 
 - Product Portfolio. E.g. the main product and any features that complement it.
+    - Boundary: Are there any other contracts or in/out-bound connections?
+    - Context: Where are the products and services used?
 - People. The team, stakeholders, customers and users.
 - Team Goals - and how they relate to departmental goals.
     - What problems are customers currently facing?
     - What problems is the team or product facing?
-- Planning
+- Planning. What is changing?
     - Desired States. Which target conditions are desired.
     - Initiatives. What actions can be taken to achieve these?
     - Roadmap. When will these actions be taken?
