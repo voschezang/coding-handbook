@@ -12,17 +12,40 @@
 
 Specific types of goals
 
-| Term         | Meaning |
-| ------------ | ------- |
-| Mission      | Why     |
-| Vision       | What    |
-| Strategy     | How     |
-| Roadmap      | When    |
-| Segmentation | Who     |
-| Positioning  | Where   |
-| Tactic       | ...     |
+| Term         | Meaning                 |
+| ------------ | ----------------------- |
+| Mission      | Why (Purpose)           |
+| Vision       | What                    |
+| Strategy     | How (Why this movement) |
+| Roadmap      | When                    |
+| Segmentation | Who                     |
+| Positioning  | Where                   |
+| Tactic       | ...                     |
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
+
+
+
+## Map
+
+A visualization of points in space. They allow you to explore routes.
+
+They give insight into the environment and into how the environment is changing.
+
+
+
+Components
+
+- Anchor. Central, stable point.
+- Legend. What does space mean
+
+
+
+Dimensions that can be used:
+
+- Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
+- Visibility to end-users.
+- Level of [commodization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.
 
 
 

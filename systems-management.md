@@ -75,7 +75,7 @@ A third category of inefficiency are resources that are doing the "wrong" thing.
 
 By definition, the internal components in a systems are either directly or indirectly dependent on each other. Mathematically, a system can be described by a covariance matrix, but this explanation will use a more intuitive, visual model.
 
-#### Single Chains
+### Single Chains
 
 This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
 
@@ -86,6 +86,35 @@ In the ideal case, the system has a known clear [critical path](https://en.wikip
 <img src="img/composite-chain.png" alt="composite-chain" style="width:80%;" />
 
 Resources can be classified as being part of the critical path or not. Resources in the first category can be managed aggressively, focussing on short-term efficiency, whereas other resources can be optimized towards long-term efficiency. Dependent on the flexibility of resources, non-critical resources could even be used to aid critical resources.
+
+
+
+### Effectiveness
+
+A chain may contain unnecessary complexity. On a map, it would look like a meandering river.
+
+
+
+Components in a system may differ from each other w.r.t. specific dimensions. E.g.
+
+- Distance to the output of the system. 
+    - From the perspective of end-users.
+    - From the perspective of the provider. E.g. the value that's [added](https://en.wikipedia.org/wiki/Value_added) in each step.
+- Level of [commodization](https://en.wikipedia.org/wiki/Commoditization). From novelty to commodity. A product may be completely customized or it can be a commodity. The latter is generally cheaper to outsource.
+
+
+
+**Example**
+
+Components of a typical retail value chain. Due to regulation, not all components can be outsourced.
+
+<img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:70%;" />
+
+
+
+### Efficiency
+
+Optimizations based on the current process. This is based by adjusting components within a chain. This excludes radical changes to the chain itself.
 
 **Performance**
 Consider that there are two perspectives to view the performance of a system.
@@ -114,7 +143,7 @@ In addition, there are a few important but counter-intuitive effects.
 
 Deadlines are not the only method to control pressure. Hence it can be feasible to have loosed deadlines without losing pressure or focus.
 
-### Bottlenecks
+#### Bottlenecks
 
 Resources can be categorizes as:
 
@@ -140,7 +169,7 @@ Note that there can also be an external bottleneck. E.g. market demand that is l
 
 
 
-### Resource Contention
+#### Resource Contention
 
 In the aforementioned examples all resources had a static position. However, in reality, resources can shared. In such cases, the critical chain can span over multiple projects.
 
@@ -148,7 +177,7 @@ In the aforementioned examples all resources had a static position. However, in 
 
 
 
-### Efficiency & Optimization
+#### Efficiency & Optimization
 
 > Resource activation does not imply resource utilization.
 

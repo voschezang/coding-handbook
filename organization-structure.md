@@ -141,6 +141,16 @@ This section uses the term "team" instead of "component" for simplicity, but the
 **Functional Team**
 Focus on either a specific functionality or domain. E.g. a user-interface or a database. Because the team is subordinate to the whole, there is high alignment and low autonomy. There is a uniform user-interface, but every change can affect all components, which limits flexibility of the system.
 
+A typical separation:
+
+- R&D. Focus on innovation
+- Dev. Deliver unique products.
+- Ops. Deliver standardized products.
+
+Ideally, these teams would collaborate closely, rather than hand-over work.
+
+
+
 **Feature or Product Team**
 Focus on a product, service, or feature. E.g. a random name generator service. The independence gives the team high autonomy. This increases productivity and flexibility, but the lack of alignment to the whole can lead to over-optimization.
 
