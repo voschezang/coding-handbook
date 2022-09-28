@@ -28,12 +28,13 @@ Before closing a task an appropriate review should be done to validate whether i
 
 #### Small Tasks
 
-**Why** the need for change
+**Why** the need for change:
 
 - What problem does this task tackle?
     - Why does this need to be done now?
+- What is the underlying problem?
 
-**What** is going to happen
+**What** is going to happen:
 
 - *Context*: What it the the <u>current</u> conditions?
 - *Goal*:  What is the <u>target</u> condition? Use acceptance criteria. Make this user-centric.
@@ -41,10 +42,17 @@ Before closing a task an appropriate review should be done to validate whether i
 - *Outcome*: To what higher-level goal does this task relate?
     - What are the next steps?
 
-**How** to implement the change
+**How** to implement the change:
 
-- What are the sub-tasks that are involved?
-- What is the minimal scope of the task?
+- Input:
+    - What are the (rough) sub-tasks that are involved?
+    - What is the minimal scope of the task?
+
+- Outcome:
+    - Refer to the acceptance criteria.
+
+
+
 
 #### Larger Task
 

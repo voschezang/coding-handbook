@@ -75,7 +75,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Blameless doesn't mean nameless
         * *Nameless* postmortems imply that there is a need to hide the name.
         * Attribution is required for learning (investigation), but it doesn't require (over-)sanctioning.
-        * Rather than suppressing blame, regulate it and challenge allegations.
+        * Rather than suppressing blame, regulate it and challenge allegations. Decouple attribution from causality, intentionality and context.
 * Activity does not imply achievement.
 
 

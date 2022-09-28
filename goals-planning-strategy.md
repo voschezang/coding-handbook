@@ -132,7 +132,7 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 
 - Daily check-in meeting. Align and improve awareness. E.g. of work or people.
 - Weekly tactical meeting. React to short-term issues.
-- Monthly strategic meeting. Decide on long-term adjustments.
+- Monthly strategic meeting. Decide on long-term adjustments. Prepare topics beforehand.
 - Quarterly off-site review. Take an outside-view and reflect.
 
 

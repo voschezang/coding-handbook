@@ -143,9 +143,9 @@ Focus on either a specific functionality or domain. E.g. a user-interface or a d
 
 A typical separation:
 
-- R&D. Focus on innovation
+- R&D. Focus on innovation. Embrace variance.
 - Dev. Deliver unique products.
-- Ops. Deliver standardized products.
+- Ops. Deliver standardized products. Minimize variance.
 
 Ideally, these teams would collaborate closely, rather than hand-over work.
 
