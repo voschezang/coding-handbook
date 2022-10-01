@@ -75,6 +75,20 @@ A third category of inefficiency are resources that are doing the "wrong" thing.
 
 By definition, the internal components in a systems are either directly or indirectly dependent on each other. Mathematically, a system can be described by a covariance matrix, but this explanation will use a more intuitive, visual model.
 
+### Template: Functional Views
+
+See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). Based on events, activities and choices.
+
+**Sequence flows and communication flows**
+
+<img src="img/bpmp-simple.png" alt="bpmp-simple" style="width:80%;" />
+
+**Ownership**
+
+<img src="img/bpmp-ownership.png" alt="bpmp-ownership" style="width:80%;" />
+
+
+
 ### Single Chains
 
 This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
