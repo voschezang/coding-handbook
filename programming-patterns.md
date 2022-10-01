@@ -214,6 +214,10 @@ Operations on a messages can be:
     - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
     - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
 
+<img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:70%;" />
+
+
+
 
 
 **Component level**

@@ -110,3 +110,45 @@ Avoid or resolve ambiguity.
 
 >  *Complicated* is just a euphemism for "scary to think about".
 
+
+
+## Templates
+
+To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems-management.md).
+
+
+
+**Outside view**
+
+System as a black box. Focus on inputs and outputs.
+
+<img src="img/system-flow-value.png" alt="system-flow-value" style="width:50%;" />
+
+**Value Chain(s)**
+
+<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:60%;" />
+
+**Functional view**
+
+Activities and communication
+
+<img src="img/bpmp-simple.png" alt="bpmp-simple" style="width:50%;" />
+
+**Ownership / Responsibility**
+
+<img src="img/bpmp-ownership.png" alt="bpmp-ownership" style="width:50%;" />
+
+**Commoditization of Components**
+
+<img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:60%;" />
+
+**Queues**
+
+<img src="img/scheduling-slack.png" alt="scheduling-slack" style="width:80%;" />
+
+
+
+**Resource Contention**
+
+<img src="img/critical-chain.png" alt="critical-chain" style="width:60%;" />
+
