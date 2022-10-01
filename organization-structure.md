@@ -16,10 +16,14 @@ The optimal structure of an organization is highly dependent on the domain and s
 
 Control of an organization vary between being completely centralized or completely distributed. See also [programming-paradigmes](programming-paradigms.md).
 
-- Orchestration: communication happens through *commands*. E.g. a CEO makes an order.
-- Choreography: communication happens mainly by *events*. E.g. an investor broadcasts that they are offering stock at a certain price.
+- Orchestration: communication happens through a chain of *commands*. E.g. a CEO makes an order.
+- Choreography: communication contains many *events*, that are processed autonomously by components. E.g. an investor broadcasts that they are offering stock at a certain price.
 
-In addition, [power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) can be oriented differently. Based on the flow of information, the following categories can be distinguished.
+In addition, the communication can happen *synchronously* - with blocking messages - or *asynchronously*.
+
+
+
+[Power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) can be oriented differently. Based on the flow of information, the following categories can be distinguished.
 
 - **Authoritative** (pathological): chain of command. Based on personal need. 
     - Hide information from competitors. Suppress risks. Associated with scapegoating.
@@ -105,9 +109,11 @@ Ideally each component in this chain has a [clear interface](https://en.wikipedi
 
 
 
-These chains can intersect, based on the types of components in an organization.
+These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit.
 
 ![feature-functional-teams](img/feature-functional-teams.png)
+
+Note the similarity of these patterns to [choreography and orchestration](programming-patterns.md).
 
 
 

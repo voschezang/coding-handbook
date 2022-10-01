@@ -149,15 +149,20 @@ See also [organization structure](organization-structure.md).
 
 [Orchestration](https://en.wikipedia.org/wiki/Orchestration_%28computing%29)
 
-- Centralized control. services are called explicitly using e.g. API's.
+- **Top-down** control and *command*-driven communication. Messages are **demands** for action.
     - Using *Commands* that focus on the *future*. E.g. `doThis`.
+    - Domain logic is defined mainly top-down. Messages follow a pre-determined, hierarchical chain. E.g. `A -> B -> C`.
     - Messages (data) are send to specific destinations (peer-to-peer).
+        - This can happen *synchronously* or *asynchronously*.
 
 [Choreography](https://en.wikipedia.org/wiki/Service_choreography)
 
-- Distributed control. applications are autonomous and react to messages.
-    - Using *Events* that describe the *past*. E.g. `ThisHasHappened`.
-    - Messages (data) are broadcasted.
+- **Distributed** control and *event*-driven communication. Messages are **assertions**.
+- Applications provide assertions are autonomous and react to messages.
+    - Associated with *Events* that describe the *past*. E.g. `ThisHasHappened`.
+    - Domain logic is defined locally (bottom-up). Components choose autonomously how to react to messages. Responsibility and ownership may be undefined.
+        - End-user results are emergent. Changing the system may have side-effects.
+    - Messages (data) are broadcasted. They are asynchronous (non-blocking).
     - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
 
 
@@ -195,7 +200,9 @@ Operations on a messages can be:
 
 
 
-**Abstractions**
+#### Abstractions
+
+**Conceptual level**
 
 - **Producer-consumer**. One-to-one (point-to-point) messaging. An abstraction of the client-server relationship. A consumer (client) consumes a *service*, which is provided by the producer (server).
     - The client-server roles can be reversed, e.g. in case of *callbacks*.
@@ -209,11 +216,14 @@ Operations on a messages can be:
 
 
 
+**Component level**
+
 ![communication-patterns-messaging](img/communication-patterns-messaging.png)
 
 
 
 **Integration styles**
+
 Four standard categories:
 
 - API/RPC calls. Share both data and process. Simple & intuitive (aka function calls).
@@ -232,7 +242,7 @@ In addition, a provider of a service can expose client libraries and pipeline te
 
 
 
-**Repository interface processor**
+**Model: Repository interface processor**
 
 A domain-driven method to model a system.
 
