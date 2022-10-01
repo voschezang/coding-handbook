@@ -87,6 +87,10 @@ See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). B
 
 <img src="img/bpmp-ownership.png" alt="bpmp-ownership" style="width:80%;" />
 
+**Responsibility**
+
+<img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:80%;" />
+
 
 
 ### Single Chains

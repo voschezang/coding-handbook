@@ -138,6 +138,8 @@ Activities and communication
 
 <img src="img/bpmp-ownership.png" alt="bpmp-ownership" style="width:50%;" />
 
+<img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:50%;" />
+
 **Commoditization of Components**
 
 <img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:60%;" />
