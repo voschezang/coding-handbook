@@ -130,6 +130,24 @@ Components of a typical retail value chain. Due to regulation, not all component
 
 
 
+**Changing the Technology**
+
+Changing a process or adapting a new technology may disrupt a system. In order to implement the change as optimally, the system will have to be re-adjusted. In order to decide which components to adapt, ask the following questions:
+
+- What <u>limitation</u> are you tackling?
+    - What is the benefit of the new technology?
+    - How will it improve our system?
+- Which <u>rules</u> have been in place to manage this limitation? *These have to be updated...*
+- What are the <u>consequences</u> of those rules and policies? *They can go...*
+
+A few examples:
+
+- Agility: *The introduction of an [MRP](https://en.wikipedia.org/wiki/Material_requirements_planning) system will improve estimation and planning. Previously these calculations were done manually, which was time-consuming and thus expensive. As a result, this was done in large batches. Due to their large impact, these batches were verified thoroughly and changing them was forbidden.*
+- Inventory: *Due to slow switchovers, production of a specific product is done in large batches. We compete on price by providing discounts based on the size of batches. In order to control delivery times, we have to maintain a high inventory in every region.*
+- Efficiency: *This communication technology will allow us to communicate (or ship) within hours. Currently there is no awareness of the quantitive state of our different production centers. Hence, we don't know the exact demand of each state. This uncertainty was countered by a strategy of over-production: i.e. by maximizing resource utilization.*
+
+
+
 ### Efficiency
 
 Optimizations based on the current process. This is based by adjusting components within a chain. This excludes radical changes to the chain itself.
