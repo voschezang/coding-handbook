@@ -82,9 +82,9 @@ Note that the validity of the following statements is dependent on certain *impl
 
 ### Time to market
 
+* Solving problems > delivering more functionality.  
 * Deliver sooner, rather than faster. Average throughput > total throughput.
     * Received value (by customer) > created value (inventory).
-
 * Doing nothing can be a deliberate action.
 * Being busy indicates a lack or prioritization.
     * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.

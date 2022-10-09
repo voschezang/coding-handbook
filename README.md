@@ -2,10 +2,11 @@
 
 This is a collection of guidelines and ideas related to software engineering and computer science. It is not meant to be a complete or exhaustive overview.
 
-**Table of Contents:**
+**Table of Contents**
+
 Programming Languages & software design.
 
-* [**Style-Guide**](style-guide.md) - a prescriptive guide for programming (low level).
+* [Style-Guide](style-guide.md) - a prescriptive guide for programming (low level).
 * [Programming-Patterns](programming-patterns.md) - common programming, application and system architecture patterns.
     * [Functional-Programming-Patterns](programming-patterns-functional.md) - mathematical and functional programming patterns.
     * [Programming-Paradigms](programming-paradigms.md) - a comparison of OOP and FP.

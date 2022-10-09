@@ -141,35 +141,7 @@ A template is an abstract recipe or skeleton, that prescribes a basic structure.
 
 ## System Patterns
 
-See also [organization structure](organization-structure.md).
-
-
-
-**Distributed control**
-
-[Orchestration](https://en.wikipedia.org/wiki/Orchestration_%28computing%29)
-
-- **Top-down** control and *command*-driven communication. Messages are **demands** for action.
-    - Using *Commands* that focus on the *future*. E.g. `doThis`.
-    - Domain logic is defined mainly top-down. Messages follow a pre-determined, hierarchical chain. E.g. `A -> B -> C`.
-    - Messages (data) are send to specific destinations (peer-to-peer).
-        - This can happen *synchronously* or *asynchronously*.
-
-[Choreography](https://en.wikipedia.org/wiki/Service_choreography)
-
-- **Distributed** control and *event*-driven communication. Messages are **assertions**.
-- Applications provide assertions are autonomous and react to messages.
-    - Associated with *Events* that describe the *past*. E.g. `ThisHasHappened`.
-    - Domain logic is defined locally (bottom-up). Components choose autonomously how to react to messages. Responsibility and ownership may be undefined.
-        - End-user results are emergent. Changing the system may have side-effects.
-    - Messages (data) are broadcasted. They are asynchronous (non-blocking).
-    - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
-
-
-
-## Design Patterns
-
-Design patterns for applications and systems.
+Design patterns for applications and systems. See also [organization structure](organization-structure.md).
 
 
 
@@ -202,21 +174,30 @@ Operations on a messages can be:
 
 #### Abstractions
 
-**Conceptual level**
+**Fundamental level**
 
 - **Producer-consumer**. One-to-one (point-to-point) messaging. An abstraction of the client-server relationship. A consumer (client) consumes a *service*, which is provided by the producer (server).
     - The client-server roles can be reversed, e.g. in case of *callbacks*.
     - A gateway, hub or bridge can decouple the consumers and the providers from each other. The gateway contains proxies that represent the original provider service.
-    - **Pipeline**. A sequence of calls, which makes up a long-lived process.
-        - Synchronous. A traditional client-server setup.
-        - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
 - **Publisher-subscriber**. One-to-many messaging. E.g. using a message or event bus.
     - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
     - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
 
-<img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:70%;" />
+**Applied level**
+
+- **Façade**. A simplified representation that hides the complexity of the internal systems. A mediation layer provides access.
+
+- **Pipeline**. A sequence of calls, which makes up a long-lived process. The initiator has insight into the internal stages of the pipeline.
+
+    - Synchronous. A traditional client-server setup.
+
+    - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
+
+<img src="img/facade-pattern.png" alt="facade-pattern" style="width:40%;" />
 
 
+
+<img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:80%;" />
 
 
 

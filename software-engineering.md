@@ -303,7 +303,7 @@ Notes
 
 - FrAgile: Agile teams without authority to overcome bureaucratic impediments. 
 - Product-oriented teams in a project-oriented (management or bureaucratic) environment.
-- Feature factory. A focus on building and releasing new functionality rather than solving long-term customer problems (quantity over quality). This can result in high WIP.
+- Feature factory. A focus on *delivering* new functionality rather than *solving* long-term customer problems (quantity over quality). This can result in high WIP.
 
 
 

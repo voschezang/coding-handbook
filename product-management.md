@@ -218,9 +218,16 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 
 Also see [requirements-engineering](requirements-engineering.md).
 
-A product backlog is a list of future work. Ideally it is prioritized. Each item is usually treated as a small project. Higher priority items can be fully formalized, while the rest of the items can be rough drafts. This low-priority section of the backlog can be treated as an "option pool".
+A product backlog is a both:
 
-Items can be grouped together in two ways:
+- A list of future work.
+- A list of previous ideas.
+
+Ideally it is skewed towards the former. In addition, it can range from being a *wish-list* to a *commitment*.
+
+The items on the backlog are prioritized. Each item can be treated as a small project. [JIT planning](https://en.wikipedia.org/wiki/Lean_manufacturing) can be used to minimize over-production (of planning). This means that higher priority items can be fully formalized, while the rest of the items can be rough drafts.
+
+Items can be grouped together in several ways:
 
 - By goal. E.g. a sequence of tasks with a single purpose.
 - By theme. E.g. individual, independent tasks that happen to be similar. E.g. improving `adaptability, user-experience, efficiency, security`. 
@@ -238,6 +245,7 @@ Let the *product backlog* be defined as an ordered list of items that represent 
 	- Small, fully refined items (stories) that can be finished within a few weeks.
 	- Minor tasks that are no more than a day of work.
 - Implicit: not on the backlog.
+  - In other systems.
   - Alerts on a public dashboard that require attention.
   - In documentation (readme, specification, or external documentation).
     - Features that are currently supported, but that can be removed once they demand disappears.

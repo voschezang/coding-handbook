@@ -2,6 +2,8 @@
 
 [toc]
 
+## Introduction
+
 Let an **organization** be defined as *an interdependent set of components that work together towards a common goal*.  The alignment, autonomy and coordination of these components complicates the path to the goal.
 
 The optimal structure of an organization is highly dependent on the domain and scale. At the same time, the behaviour of these systems can be surprisingly similar. Examples of organizations are:
@@ -14,35 +16,22 @@ The optimal structure of an organization is highly dependent on the domain and s
 
 
 
-Control of an organization vary between being completely centralized or completely distributed. See also [programming-paradigmes](programming-paradigms.md).
+The structure of **control** (power) of an organization can vary between being completely centralized or completely distributed. Communication can vary from being *command*-based to being *event*-based. Furthermore, requests and demands can be output-based or outcome-based.
+
+Two patterns:
 
 - Orchestration: communication happens through a chain of *commands*. E.g. a CEO makes an order.
-- Choreography: communication contains many *events*, that are processed autonomously by components. E.g. an investor broadcasts that they are offering stock at a certain price.
+- Choreography: communication contains many *events*, that are processed autonomously by components. E.g. an investment group broadcasts that they are offering stock at a certain price.
 
 In addition, the communication can happen *synchronously* - with blocking messages - or *asynchronously*.
 
 
 
-[Power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) can be oriented differently. Based on the flow of information, the following categories can be distinguished.
-
-- **Authoritative** (pathological): chain of command. Based on personal need. 
-    - Hide information from competitors. Suppress risks. Associated with scapegoating.
-
-- **Bureaucratic**: rule-oriented. Based on departmental need. Ensure fairness through equal rules.
-    - Narrow responsibility. Local improvements. Associated with seeking justice
-
-- **Generative**: performance-oriented. Welcome inquiry and support global improvements, even if they are disruptive.
-    - Shared responsibility. Associated with learning and sharing.
-
-
-
-## Effectiveness
-
 ### Goals
 
 An organization may be optimized for a specific goal:
 
-- Adaptiveness, agility,
+- Adaptiveness, agility.
 - Community, e.g. learning [as a whole](https://en.wiktionary.org/wiki/scenius).
 - Innovation (taking risks).
 - Productivity (output or outcome).
@@ -50,6 +39,30 @@ An organization may be optimized for a specific goal:
 - Scalability
 - Stability
 - Sustainability
+
+
+
+Real world objects should rarely be studied in isolation. The connections of an object with the outside can be categorized as follows. The overall goal of the organization should take into account the preferences of all these components - both in the short and long term.
+
+- Owner or **Stakeholders**: the party that profits from success of the organization
+- **Customer**: the party that pays to receive a service.
+- **Employees**: an intermediate party that delivers services.
+
+Note that customers and consumers are not always the same group.
+
+
+
+### Value Delivery
+
+A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
+
+Ideally each component in this chain has a [clear interface](https://en.wikipedia.org/wiki/Interface_segregation_principle). See [systems-management](systems-management.md)
+
+
+
+These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit. There can be independence of decision making and independence of releasing.
+
+![feature-functional-teams](img/feature-functional-teams.png)
 
 
 
@@ -87,39 +100,86 @@ These dimensions are intertwined and the optimum is situational. The following i
 
 
 
-## Components
+## Relations Between Components
 
-Real world objects should rarely be studied in isolation. The connections of an object with the outside can be categorized as follows. The overall goal of the organization should take into account the preferences of all these components - both in the short and long term.
+Two dimensions:
 
-- Owner or **Stakeholders**: the party that profits from success of the organization
-- **Customer**: the party that pays to receive a service.
-- **Employees**: an intermediate party that delivers services.
-
-Note that customers and consumers of a service are not always the same group.
-
-### Chains
-
-**Power Structure**
-Decisions are made and forwarded according to a [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy). This power structure may be explicit or implicit and centralized or distributed.
-
-**Value Delivery**
-A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
-
-Ideally each component in this chain has a [clear interface](https://en.wikipedia.org/wiki/Interface_segregation_principle). See [systems-management](systems-management.md)
+-  The direction of relations
+- The type of relations
 
 
 
-These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit.
+### Type of relations
 
-![feature-functional-teams](img/feature-functional-teams.png)
+Decisions are made and forwarded according to a [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy). This power structure may be:
 
-Note the similarity of these patterns to [choreography and orchestration](programming-patterns.md).
+- Explicit or implicit.
+- Centralized or distributed.
+- Tight or loose coupled. E.g. by formulating requests based on input, output or outcomes. E.g.
+    - *"Execute these steps."*
+    - *"Solve this problem by building feature X"*
+    - *"Find a way to ensure that a user can achieve Y"*
+
+
+
+[Power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) in organizations can follow several patterns. Based on the flow of information, the following categories can be distinguished.
+
+- **Authoritative** (pathological): chain of command. Based on personal need. 
+    - Hide information from competitors. Suppress risks. Associated with scapegoating.
+
+- **Bureaucratic**: rule-oriented. Based on departmental need. Ensure fairness through equal rules.
+    - Narrow responsibility. Local improvements. Associated with seeking justice
+
+- **Generative**: performance-oriented. Welcome inquiry and support global improvements, even if they are disruptive.
+    - Shared responsibility. Associated with learning and sharing.
+
+
+
+### Direction of relations
+
+> In order to take responsibility, there is a need to be in control.
+
+The direction of dependency / control can be skewed to either:
+
+- The requesting side: orchestration with commands.
+- The receiving side: choreography with events.
+
+Ofter there is a need for a balance between the two. Too much orchestration can lead to inflexibility. Too much choreography can lead to anarchy or chaos.
+
+[Orchestration](https://en.wikipedia.org/wiki/Orchestration_%28computing%29)
+
+- **Top-down** control and *command*-driven communication. Messages are **demands** for action.
+    - Using **commands** that focus on the *future*. E.g. `doThis`. These are demands for action. They describe an intention of an actor.
+    - Domain logic is defined mainly top-down. Messages follow a pre-determined, hierarchical chain. E.g. `A -> B -> C`.
+    - Messages (data) are send to specific destinations (peer-to-peer).
+        - This can happen *synchronously* or *asynchronously*.
+
+[Choreography](https://en.wikipedia.org/wiki/Service_choreography)
+
+- **Distributed** control and *event*-driven communication. Messages are **assertions**.
+    - Using **events** that describe the *past*. E.g. `ThisHasHappened`. These are assertions or facts.
+    - Domain logic is defined locally (bottom-up). Components choose autonomously how to react to messages. Responsibility and ownership may be undefined.
+        - End-user results are emergent. Changing the system may have side-effects.
+    - Messages (data) are broadcasted. They are asynchronous (non-blocking).
+    - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
+
+
+
+## Types of Components
 
 
 
 ### Organizational Scale
 
 Scaling up an organization while maintaining centralized control is difficult. Components may compete with each other.
+
+There are a few phases that can be distinguished:
+
+![scale-up-out](img/scale-up-out.png)
+
+
+
+**In IT organizations**
 
 At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
 
@@ -173,9 +233,7 @@ Note that the facade and the complementing services can be either function-orien
 
 #### Software Organizations
 
-Graphically, this can look like this (see image).
-
-The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.
+Graphically, this can look like this. The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.
 
 ![org-arch](img/org-arch.png)
 

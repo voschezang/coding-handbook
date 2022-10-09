@@ -83,10 +83,3 @@ This assumes a non-convex learning landscape (otherwise simpler methods such as 
 The  [learning rate](https://en.wikipedia.org/wiki/Learning_rate) controls the size and frequency of mutations. In a complex learning landscape, a low learning rate will cause the population to get stuck in a local optimum, but a high learning rate may result in overshooting. A common strategy is to [decrease](https://en.wikipedia.org/wiki/Simulated_annealing) the learning rate over time.
 
 
-
-
-
-
-
-
-

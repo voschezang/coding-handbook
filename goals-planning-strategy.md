@@ -2,9 +2,18 @@
 
 [toc]
 
+## Overview
+
 > Making plans is good, withholding from updating them isn't.
 
 > Good strategy means saying no.
+
+Different modes of planning:
+
+- Top-down. Follow a vision. Then fill in the remaining steps. Address any obstacle.
+- Bottom-up. Focus on needs. Understand the current problems. Then address them.
+
+The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
 
 
@@ -12,15 +21,16 @@
 
 Specific types of goals
 
-| Term         | Meaning                 |
-| ------------ | ----------------------- |
-| Mission      | Why (Purpose)           |
-| Vision       | What                    |
-| Strategy     | How (Why this movement) |
-| Roadmap      | When                    |
-| Segmentation | Who                     |
-| Positioning  | Where                   |
-| Tactic       | ...                     |
+| Term         | Meaning                     |
+| ------------ | --------------------------- |
+| Mission      | Why (Purpose)               |
+| Vision       | What                        |
+| Strategy     | How (Why, outside factors)  |
+| Tactic       | How (Why, internal factors) |
+| Roadmap      | When                        |
+| Segmentation | Who                         |
+| Positioning  | Where                       |
+
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
@@ -139,15 +149,39 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 
 ## Project Portfolio
 
-Individually, projects can seem valuable. A more difficult challenge is maintaining a balanced portfolio of projects. A typical chicken-egg problem is that projects need to be prepared before they can be prioritized. Doing too much preparation increases WIP and thus reduces focus. This template attempts to avoid this by defining high level outcomes and excluding details.
+Before creating a roadmap, one must choose the right projects or initiatives.
+
+Individually, each projects may seem valuable. The challenge is to maintain a balanced portfolio of projects. A typical chicken-egg problem is that projects need to be prepared before they can be prioritized. Doing too much preparation increases WIP and thus reduces focus. This template attempts to avoid this by defining high level outcomes and excluding details.
 
 This is especially useful w.r.t technical work that is not visible to end users. Although it is valuable, it can be easily be postponed without affecting promises to stakeholders.
 
-### Template 1
+### Template 1: Awareness
 
-Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state. The desired state is not necessarily a *target*, but rather an <u>idealistic outcome</u>. 
+Awareness of the current landscape is a prerequisite of planning. This template focusses on understanding a complex landscape. It's based on the [scientific method](https://en.wikipedia.org/wiki/Scientific_method).
 
-This template focusses on the range of outcomes and excludes *how* to reach them. This avoids the overhead of up-front planning, and reduces the risk of plans becoming outdated.
+Observe *signals.* 
+
+- Which problems are clearly visible. What is causing these? Why haven't these been solved before? 
+- Collect data if necessary.
+
+Define hypotheses.
+
+- How can each problem be addressed. What would be the outcome of an initiative?
+
+Define experiments to validate hypotheses.
+
+Review & report in order to maximize learning.
+
+
+
+### Template 2: Desired States
+
+Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state. 
+
+- Emphasize the *problem* with the current state.
+- The desired state is not necessarily a *target*, but rather an *idealistic outcome*. 
+
+This template focusses on the range of outcomes and <u>excludes how to reach them</u>. This avoids the overhead of up-front planning, and reduces the risk of plans becoming outdated.
 
 The template:
 
@@ -155,7 +189,7 @@ The template:
 # Theme A
 
 Current State
-> What is currently lacking. 
+> What is currently lacking.
 
 Desired State
 > What outcome is envisioned.
@@ -164,7 +198,7 @@ Desired State
 # Theme B
 
 Current State
-> What is currently lacking. Link to Current design
+> What is currently lacking. Link to the current design.
 
 Desired State
 > What outcome is envisioned. Read more here.
@@ -174,7 +208,7 @@ Desired State
 
 
 
-### Template 2
+### Template 3: Portfolio
 
 This is again based on categories or themes, but this template emphasizes the option pool. The shape of the visualisation (when zoomed out) gives an indication of the amount of focus.
 

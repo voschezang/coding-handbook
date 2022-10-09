@@ -142,7 +142,7 @@ Changing a process or adapting a new technology may disrupt a system. In order t
 
 A few examples:
 
-- Agility: *The introduction of an [MRP](https://en.wikipedia.org/wiki/Material_requirements_planning) system will improve estimation and planning. Previously these calculations were done manually, which was time-consuming and thus expensive. As a result, this was done in large batches. Due to their large impact, these batches were verified thoroughly and changing them was forbidden.*
+- Agility: *The introduction of an [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) system will improve estimation and planning. Previously these calculations were done manually, which was time-consuming and thus expensive. As a result, this was done in large batches. Due to their large impact, these batches were verified thoroughly and changing them was forbidden.*
 - Inventory: *Due to slow switchovers, production of a specific product is done in large batches. We compete on price by providing discounts based on the size of batches. In order to control delivery times, we have to maintain a high inventory in every region.*
 - Efficiency: *This communication technology will allow us to communicate (or ship) within hours. Currently there is no awareness of the quantitive state of our different production centers. Hence, we don't know the exact demand of each state. This uncertainty was countered by a strategy of over-production: i.e. by maximizing resource utilization.*
 
