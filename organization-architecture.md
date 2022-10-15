@@ -51,23 +51,6 @@ Bureaucracy limits innovation
 
 ## Tradeoffs
 
-### Fundamental Tradeoffs
-
-For the following groups, a system can never excel in all items per group.
-
-**Independence or Consistency**
-One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways. However, independence is associated with [redundancy](http://yosefk.com/blog/redundancy-vs-dependencies-which-is-worse.html). It comes at the cost of consistency.
-
-**Efficiency or Flexibility**
-A second pair of properties is efficiency and flexibility. They are (to some extend) negatively correlated; optimizing for efficiency limits flexibility.
-
-This relates to [the bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in data science; you can either optimize for a specific situation or adapt to many different situations.
-
-**Consistency, Availability, Partitioning**
-See [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).
-
-
-
 ### Organizations
 
 * Organization workflow: waterfall, agile, or anarchy.

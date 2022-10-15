@@ -35,6 +35,7 @@ E.g.
 - A static mapping of identities to resources. E.g. a whitelist.
 - Outsource authorization to an [IDP](https://en.wikipedia.org/wiki/Identity_provider). 
     - E.g. [Oauth](https://en.wikipedia.org/wiki/OAuth), where access is delegated from a user to a client application - without actually sharing the user's private credentials.
+- Use a public channel to send a notification (an event). Then let the server initiate a response.
 
 
 

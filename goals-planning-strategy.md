@@ -155,20 +155,23 @@ Individually, each projects may seem valuable. The challenge is to maintain a ba
 
 This is especially useful w.r.t technical work that is not visible to end users. Although it is valuable, it can be easily be postponed without affecting promises to stakeholders.
 
-### Template 1: Awareness
 
-Awareness of the current landscape is a prerequisite of planning. This template focusses on understanding a complex landscape. It's based on the [scientific method](https://en.wikipedia.org/wiki/Scientific_method).
 
-Observe *signals.* 
+### Template 1: Signals & Underlying Problems
 
-- Which problems are clearly visible. What is causing these? Why haven't these been solved before? 
-- Collect data if necessary.
+Awareness of the current landscape is a prerequisite of planning. This template focusses on understanding a complex landscape. It's based on the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). It results in two lists: signals and problems.
 
-Define hypotheses.
+**Workflow**
 
-- How can each problem be addressed. What would be the outcome of an initiative?
+1. Observe **signals**. Which problems are clearly visible. E.g. red flags, pain points or obstacles.
+2. Determine the **underlying problems**. Do this based on hypotheses.
+    1. What is causing these signals? Why haven't they been addressed before? 
+    2. Collect data if necessary.
 
-Define experiments to validate hypotheses.
+Based on this, it is possible to:
+
+- Define experiments to verify hypotheses.
+- Choose initiatives that address these problems.
 
 Review & report in order to maximize learning.
 

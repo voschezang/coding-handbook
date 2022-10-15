@@ -1,44 +1,24 @@
 ## Types of Software Domains
 
-- Application, System: Development, Architecture
+Any specific system usually has a balance between domain-oriented components and generic (facilitating) components.
 
-- Marketing, Sales
-- Strategy, Roadmap
+An application usually relies on libraries and [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service), [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) or [IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service) components.
 
+Types:
 
-
-
-
-By scale
-
-- Hardware (CPU, GPU, FPGA)
-- Hardware (Embedded, Desktop, Mobile, Web)
+- Hardware type: CPU, GPU, FPGA
+- Hardware context: embedded, desktop, mobile, web, web-app
 - Application Development (individual components)
-- Application Architecture (e.g. distributed monolith)
-- System Architecture
-- Infra (within a datacenter)
-- Infra (multiple datacenters)
-- Infra (Public/Private Cloud)
+- Application Architecture: e.g. a distributed monolith
+- System Architecture: e.g. microservices
+- Infrastructure (within a datacenter or using multiple datacenters)
 
 
 
-Application Development (and Operations)
+Software can be managed at different levels.
 
-- Embedded
-- Enterprise: optimize a *specific* but complex process
-- High Performance (e.g. data pipelines)
-- Gaming
-- Mobile
-- Web
-
-
-
-Management
-
-- Platform/internal tech; master this
-- Product; then deliver value to customers
-- Process; complement the above by continuously improving process
-- People; from personal being (of colleagues and teams), to maximizing potential
-
-
+- **Platform**/internal technology: this should usually be stable.
+- **Product**: deliver value to customers.
+- **Process**: complement the above by continuously improving.
+- **People**: from personal well-being (of colleagues and teams), to maximizing potential.
 

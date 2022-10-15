@@ -38,6 +38,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Context switching isn't free.
 * Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
 * Nobody ever got fired for buying IBM.
+* Being poor is expensive. Limited access to resources prohibits the use long-term investments.
 
 
 

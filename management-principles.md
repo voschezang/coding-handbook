@@ -136,6 +136,8 @@ Also see [goals and strategy](goals-planning-strategy.md).
 
 ## Collaboration
 
+**Focus**
+
 Reaching consensus on what *needs* to be done is easier than reaching consensus on what *can* be done.
 
 Determine whether a team needs to **adjust** or whether it needs to **change**. Two different approaches can be:
@@ -147,13 +149,24 @@ Make sure there is regular reflection, both on the level of individuals and the 
 
 
 
-Make goals and problems **visible**. E.g. using a scrum or kanban board, milestones. Dashboards, alerts, red/green builds. This incentivizes us to think about them (and re-think our approach).
+Make goals and problems **visible**. E.g. using Scrum or Kanban boards, milestones, dashboards, alerts, red/green builds. This incentivizes attention and reflection (and re-think our approach).
+
+
+
+**Role Assignment**
+
+There exist multiple models for [role and responsibility assignment](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix). A few fundamental roles:
+
+- Accountable for the end-result.
+- Responsible for execution.
+- Consulted. E.g. providing consultancy or support.
+- Informed. Following along.
 
 
 
 **Persistence**
 
-One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective.
+One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](goals-planning-strategy.md).
 
 
 

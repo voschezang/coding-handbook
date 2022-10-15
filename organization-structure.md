@@ -16,6 +16,10 @@ The optimal structure of an organization is highly dependent on the domain and s
 
 
 
+### Tradeoffs
+
+#### Control and Power
+
 The structure of **control** (power) of an organization can vary between being completely centralized or completely distributed. Communication can vary from being *command*-based to being *event*-based. Furthermore, requests and demands can be output-based or outcome-based.
 
 Two patterns:
@@ -26,6 +30,23 @@ Two patterns:
 In addition, the communication can happen *synchronously* - with blocking messages - or *asynchronously*.
 
 
+
+#### Information
+
+**Availability or Consistency**
+The flow of information is restricted by at least one of three properties. See [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).
+
+- Consistency. Whether newly retrieved information is up-to-date.
+- Availability. Whether any request for information is satisfied immediately. Or, how soon a request is satisfied (latency).
+- Partition tolerance. How well the system will continue to function in case of component or connection failures.
+
+**Independence or Consistency**
+One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways. However, independence is associated with [redundancy](http://yosefk.com/blog/redundancy-vs-dependencies-which-is-worse.html). It comes at the cost of consistency.
+
+**Efficiency or Flexibility**
+These are (to some extend) negatively correlated. Optimizing for efficiency limits flexibility.
+
+This relates to [the bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in data science; you can either optimize for a specific situation or adapt to many different situations.
 
 ### Goals
 
