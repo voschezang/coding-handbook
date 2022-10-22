@@ -58,7 +58,7 @@ Decoupling of producer and consumer services can be done using adapters.
 
 - **Pipeline**. A sequence of calls, which makes up a long-lived process. The initiator has insight into the internal stages of the pipeline.
 - Synchronous. A traditional client-server setup.
-    
+  
 - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
 
 
