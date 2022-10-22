@@ -166,7 +166,7 @@ Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are 
 
 - Lead time
 - Deployment frequency (to customer)
-- Mean time to recovery/restore (MTTR)
+- Mean time to repair/recovery/restore ([MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair))
 - Change fail percentage
 
 

@@ -18,6 +18,25 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 
 
 
+Requirements can be separated into critical and non-critical ones. See [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method).
+
+- *Must* have. Critical requirements.
+- *Should* have. Functionality that is desired, but that could be replaced by alternative solutions.
+- *Could* have. Desirable, but only if time and resources permit.
+- *Won't* have. Explicitly excluded from the current scope.
+
+
+
+**Functional and non-functional requirements (NFR)**
+
+[Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).
+
+- They are designed to be satisfiable. I.e. one can (in theory) verify that they are met. E.g. using a metric or proof.
+
+[Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g.a system should be user-friendly and maintainable.
+
+
+
 ## Specification of Tasks
 
 Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.

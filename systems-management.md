@@ -16,7 +16,7 @@ The relevant components in a system are called **resources**. This may include h
 
 ## External View
 
-The behaviour of a system can be understood by studying its inputs and outputs. This model is agnostic about the inner workings of the system.  Long-term objectives are usually difficult to quantify. In practice, one can use a short-term metric as a proxy for the real objective. Two common options are *movement* (associated with energy) or *profit* (associated with money).
+The behaviour of a system can be understood by studying its [inputs and outputs](https://en.wikipedia.org/wiki/IPO_model). This model is agnostic about the inner workings of the system.  Long-term objectives are usually difficult to quantify. In practice, one can use a short-term metric as a proxy for the real objective. E.g. *movement* (associated with energy) or *profit* (associated with money).
 
 The flow of value through a system can be drawn from left to right, whereas the resulting flow of money goes to the opposite direction.
 

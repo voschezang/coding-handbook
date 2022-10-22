@@ -141,80 +141,18 @@ A template is an abstract recipe or skeleton, that prescribes a basic structure.
 
 ## System Patterns
 
-Design patterns for applications and systems. See also [organization structure](organization-structure.md).
+Design patterns for applications and systems. See also [organization structure](organization-structure.md) and [communication patterns](communication-patterns.md).
 
 
 
-### Communication Patterns
+### Integration styles
 
-There are [four](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns) major, well-known integration styles, which all involve sending data over a communication channel. The next section "messaging" involves messaging in the broad sense.
-
-**Messaging**
-Messages can:
-
-- Include data or be merely notifications.
-- Be *pushed* or *pulled*.
-
-This can involve different types of components
-
-- A channel over which messages are send.
-- A queue (or buffer) where messages are stored.
-- A client and a server. A client initiates a request and the server returns a response. E.g. a traditional HTTP server.
-
-Operations on a messages can be:
-
-- Transparent, i.e. a passthrough.
-    - A logger or wiretap.
-- Routing or filtering. Forwarding messages to specific destinations.
-- Transformation.
-    - Combining groups of messages. E.g. a splitter or aggregator.
-    - Changing individual messages. E.g. the payload or structure (headers).
-
-
-
-#### Abstractions
-
-**Fundamental level**
-
-- **Producer-consumer**. One-to-one (point-to-point) messaging. An abstraction of the client-server relationship. A consumer (client) consumes a *service*, which is provided by the producer (server).
-    - The client-server roles can be reversed, e.g. in case of *callbacks*.
-    - A gateway, hub or bridge can decouple the consumers and the providers from each other. The gateway contains proxies that represent the original provider service.
-- **Publisher-subscriber**. One-to-many messaging. E.g. using a message or event bus.
-    - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
-    - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
-
-**Applied level**
-
-- **Façade**. A simplified representation that hides the complexity of the internal systems. A mediation layer provides access.
-
-- **Pipeline**. A sequence of calls, which makes up a long-lived process. The initiator has insight into the internal stages of the pipeline.
-
-    - Synchronous. A traditional client-server setup.
-
-    - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
-
-<img src="img/facade-pattern.png" alt="facade-pattern" style="width:40%;" />
-
-
-
-<img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:80%;" />
-
-
-
-**Component level**
-
-![communication-patterns-messaging](img/communication-patterns-messaging.png)
-
-
-
-**Integration styles**
-
-Four standard categories:
+[Four](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns) standard categories:
 
 - API/RPC calls. Share both data and process. Simple & intuitive (aka function calls).
-    - Slow, high communication overhead.
-- Messaging. Fast, light-weight, allowing non-blocking communication.
-    - Defining the smallest event can be nontrivial, as it is shared by multiple systems. Steep learning curve.
+    - Relatively slow, high communication overhead.
+- Messaging. Fast, light-weight, non-blocking communication.
+    - Defining the smallest event can be nontrivial, as it is shared by multiple systems. It has a steep learning curve.
     - Potential ownership problem. It requires a shared communication bus.
 - FTP. Simple & universal. Just data, no commands.
     - Lacking synchronous communication. No consistency or timeline management.
@@ -227,7 +165,9 @@ In addition, a provider of a service can expose client libraries and pipeline te
 
 
 
-**Model: Repository interface processor**
+### Models
+
+**Repository interface processor**
 
 A domain-driven method to model a system.
 
@@ -262,7 +202,7 @@ Standard structures
 **Adapter**
 E.g. a power-plug.
 
-- A method to simulate a *target* interface by placing an *adapter* in front an *adaptee*, to allow it to be used by a client that expects the target interface.
+- A method to simulate a *target* interface (the *adaptee*) by placing an *adapter* in front of it. This allows it to be used by a client that is expects the target interface.
 
     - The adapter can be implemented using either composition or inheritance.
     - Usually a one-to-one mapping.
@@ -319,12 +259,6 @@ For systems:
 
 
 
-
-
-
-
-
-
 ### Examples
 
 ##### Composition Inheritance Decorator
@@ -363,10 +297,6 @@ def run(intro: F,
         outro: F):
   ..
 ```
-
-
-
-
 
 
 

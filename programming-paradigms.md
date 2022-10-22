@@ -54,10 +54,3 @@
   * `update(State, Event) -> State` is a (pure) function.
 
 
-
-
-
-
-
-
-

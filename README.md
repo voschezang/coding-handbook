@@ -6,20 +6,20 @@ This is a collection of guidelines and ideas related to software engineering and
 
 Programming Languages & software design.
 
-* [Style-Guide](style-guide.md) - a prescriptive guide for programming (low level).
-* [Programming-Patterns](programming-patterns.md) - common programming, application and system architecture patterns.
-    * [Functional-Programming-Patterns](programming-patterns-functional.md) - mathematical and functional programming patterns.
-    * [Programming-Paradigms](programming-paradigms.md) - a comparison of OOP and FP.
+- [Style-Guide](style-guide.md) - a prescriptive guide for programming (low level).
+- [Programming-Patterns](programming-patterns.md) - common programming, application and system architecture patterns.
+    - [Functional-Programming-Patterns](programming-patterns-functional.md) - mathematical and functional programming patterns.
+    - [Programming-Paradigms](programming-paradigms.md) - a comparison of OOP and FP.
 
-* [Domain-Driven-Design](domain-driven-design.md) - examples of DDD using OOP and FP.
-* [Language-Specification](language-spec.md) - this can be implemented as a library or a new language.
+- [Domain-Driven-Design](domain-driven-design.md) - examples of DDD using OOP and FP.
+- [Language-Specification](language-spec.md) - this can be implemented as a library or a new language.
 
 Software Industry
 
-* [Quotes](quotes.md) - to contemplate (high level).
-* [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
-* [Software Engineering](software-engineering.md) - what is involves.
-* [Product Management](product-management) - ideas about Product.
+- [Quotes](quotes.md) - to contemplate (high level).
+- [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
+- [Software Engineering](software-engineering.md) - what is involves.
+- [Product Management](product-management) - ideas about Product.
 
 Management & Systems &  Organizations
 
@@ -30,10 +30,8 @@ Management & Systems &  Organizations
 - Project Management & Planning.
 
     - [Goals/Planning/Strategy](goals-planning-strategy.md) - choosing goals and strategies.
-
     - [Product Management](product-management) - handling *multiple* projects.
     - [Project Management](project-management) - handling a *single* project.
-
     - [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
 
 General
@@ -64,4 +62,4 @@ E.g. a goal can be short-term and precise, or long-term but vague.
 
 
 
-Definition of *anti-pattern*: a commonly used bad solution to some problem. Possibly just an indicator, signaling a deeper issue.
+Definition of *anti-pattern*: a commonly used, bad solution to a problem. Possibly just an indicator, signaling a deeper issue.
