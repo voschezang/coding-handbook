@@ -154,8 +154,3 @@ Principles
 3. Separate, transcendence. Exceed tradition. Find new ways
 
 
-
-
-
-
-

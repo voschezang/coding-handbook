@@ -272,4 +272,3 @@ Local interaction and changes are generally much easier than non local ones.
 ![communication-patterns](img/communication-patterns.png)
 
 
-
