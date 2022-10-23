@@ -79,18 +79,23 @@ By definition, the internal components in a systems are either directly or indir
 
 See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). Based on events, activities and choices.
 
-**Sequence flows and communication flows**
-
+<details>
+<summary><b>Sequence flows and communication flows</b></summary>
+<br>
 <img src="img/bpmp-simple.png" alt="bpmp-simple" style="width:80%;" />
+</details>
 
-**Ownership**
-
+<details>
+<summary><b>Ownership</b></summary>
+<br>
 <img src="img/bpmp-ownership.png" alt="bpmp-ownership" style="width:80%;" />
+</details>
 
-**Responsibility**
-
+<details>
+<summary><b>Responsibility</b></summary>
+<br>
 <img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:80%;" />
-
+</details>
 
 
 ### Single Chains
