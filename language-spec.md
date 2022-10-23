@@ -93,7 +93,7 @@ Note that functions, mappings and relations are similar.
 
 #### Rotation
 
-Rotate `f`<sup>`n`</sup>`(x) = x`
+Rotate `f`<sup>`n`</sup>`(x) = x` for a given number `n`.
 
 [Double negation](https://en.wikipedia.org/wiki/Double_negation)
 

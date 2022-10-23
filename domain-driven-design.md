@@ -4,7 +4,7 @@
 
 ## Overview
 
-Domain-driven design (DDD) embraces the uncertainty of business terminology. It is centered around domain objects, which are made as explicit as possible to minimize ambiguity. Domain objects are expected to change often, while adapters can be functionally static. Moreover, adapters are designed to be replaceable.
+[Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design) (DDD) embraces the uncertainty of business terminology. It is centered around domain objects, which are made as explicit as possible to minimize ambiguity. Domain objects are expected to change often, while adapters can be functionally static. Moreover, adapters are designed to be replaceable.
 
 A typical example is to encapsulate strings. Instead of using raw strings, it's possible to define a custom type or class (e.g. `Username(string)`) which contains its own logic.
 

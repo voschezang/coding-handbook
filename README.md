@@ -47,7 +47,7 @@ Other
 
 From abstract theory to application within a domain.
 
-- [Communication Patterns](communication-patterns.md) > [Programming Patterns](programming-patterns.md)
+- [Communication Patterns](communication-patterns.md) > [Programming Patterns](programming-patterns.md) > [Programming Paradigms](programming-paradigms.md)
 - [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management)
 - [Systems Management](systems-management.md) > [Organization Structure](organization-structure.md) > [Organization Architecture](organization-architecture.md)
 
