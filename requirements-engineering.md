@@ -92,6 +92,8 @@ How **success** is going to be measured
 
 - What metrics will be used to track progress?
 
+What **dependencies** are there?
+
 
 
 ### Template: TODO Lists

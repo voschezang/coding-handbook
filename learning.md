@@ -96,7 +96,14 @@ Visualize-Stabilize-Optimize. First you have to find the right challenge (e.g. t
 
 - The long-term version of this is [PDCA](https://en.wikipedia.org/wiki/PDCA).
 
+#### Agile
 
+Context: uncertain, ever-changing environments. IT can never be fast enough.
+
+1. Formalize work. Make it explicit. Vizualize it.
+2. Focus. Manage flow by managing WIP.
+3. Feedback loops. Relate performance to some goal or outcome.
+4. Reflect & Improve. Iterate.
 
 #### DevOps
 
@@ -152,5 +159,4 @@ Principles
 1. Obey. Follow traditions, learn fundamentals, heuristics, proverbs.
 2. Digress. Break with tradition.
 3. Separate, transcendence. Exceed tradition. Find new ways
-
 

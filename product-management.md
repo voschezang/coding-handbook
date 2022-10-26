@@ -88,6 +88,7 @@ How to summarize a specific product team.
     - Boundary: Are there any other contracts or in/out-bound connections?
     - Context: Where are the products and services used?
 - People. The team, stakeholders, customers and users.
+- Dependencies and relations.
 - Team Goals - and how they relate to departmental goals.
     - What problems are customers currently facing?
     - What problems is the team or product facing?
