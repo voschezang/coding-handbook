@@ -1,6 +1,6 @@
 # Project Management
 
-This document is about refining and implementing an assignment. Such an assignment can be for example a project or user-story. See also [product-management](product-management.md)  [management principles](management-principles.md) and [requirements-engineering](requirements-engineering.md).
+This document is about refining and implementing an assignment. Such an assignment can be for example a project or user-story. See also [wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), [product-management](product-management.md)  [management principles](management-principles.md) and [requirements-engineering](requirements-engineering.md).
 
 [toc]
 

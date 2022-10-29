@@ -22,22 +22,29 @@ E.g.
     - The secret does not have to be send directly. Alternatives include:
         - A *hash* of the secret.
         - Proof by solving a numerical puzzle, using the secret.
-- Proof of access to a private, external resource. E.g. an email account, a network, or a key.
-- A reference to a trusted server. E.g. [certificates](https://en.wikipedia.org/wiki/Public_key_certificate) that are signed by a [certificate authority (CA)](https://en.wikipedia.org/wiki/Certificate_authority).
+    - Security can be strengthened through introducing MFA (see below).
+- Proof of access to a private external resource. E.g. an email account, a network, a key or card.
+- A an assertion that is provided by a trusted server: an *identity provider* ([IDP](https://en.wikipedia.org/wiki/Identity_provider)).
+    - [Certificates](https://en.wikipedia.org/wiki/Public_key_certificate) that are signed by a [certificate authority (CA)](https://en.wikipedia.org/wiki/Certificate_authority).
+    - Short-lived tokens. E.g. [JWT](https://en.wikipedia.org/wiki/JSON_Web_Token).
+
 
 
 
 **Authorization**
 
-[Specifying](https://en.wikipedia.org/wiki/Authorization) access rights or privileges to resources. Variants include:
+[Specifying](https://en.wikipedia.org/wiki/Authorization) access rights or privileges to resources. I.e. granting access to resources. Variants include:
 
 - Unrestricted access. E.g. for unidentified (anonymous) users.
 - A static mapping of identities to resources. E.g. a whitelist.
-- Outsource authorization to an [IDP](https://en.wikipedia.org/wiki/Identity_provider). 
+- Outsource authorization to an [IDP](https://en.wikipedia.org/wiki/Identity_provider).
     - E.g. [Oauth](https://en.wikipedia.org/wiki/OAuth), where access is delegated from a user to a client application - without actually sharing the user's private credentials.
 - Use a public channel to send a notification (an event). Then let the server initiate a response.
 
 
+
+**Single Sign-On (SSO)**
+An authentication scheme that allows a user to log in with a single ID to different independent systems.
 
 
 **Multi-factor Authentication (MFA)**

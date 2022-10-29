@@ -2,7 +2,7 @@
 
 [toc]
 
-This document contains patterns that show up in system and application architecture. Paradigms for programming langues can be found [here](programming-paradigmes.md).
+This document contains patterns that show up in system and application architecture. Paradigms for programming langues can be found [here](programming-paradigmes.md). See also [design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/).
 
 ## Introduction
 

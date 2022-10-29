@@ -183,6 +183,7 @@ Ofter there is a need for a balance between the two. Too much orchestration can 
         - End-user results are emergent. Changing the system may have side-effects.
     - Messages (data) are broadcasted. They are asynchronous (non-blocking).
     - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
+    - See the [Saga](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga) pattern.
 
 
 
@@ -270,5 +271,4 @@ Local interaction and changes are generally much easier than non local ones.
 
 
 ![communication-patterns](img/communication-patterns.png)
-
 
