@@ -114,6 +114,55 @@ Avoid or resolve ambiguity.
 
 ## Templates
 
+**Product-team: Table of Contents**
+
+Note that this is optimized for a single product-team. In practice other teams should be taken into account.
+
+```markdown
+# {Team Name}:
+
+## {Product Name} (Public documentation)
+(User-oriented)
+- Overview. Summary and links.
+	- Product Description. Lists of features.
+	- List of services that complement this product.
+	- Contact information.
+- FAQ. Links to guides.
+- "Components". The interface should be consistent/long-living, while the inner structure may change more often.
+- How-to guides.
+- Tuturials.
+- Wiki / reference.
+
+
+## Internal documentation
+Designed for internal use by team members.
+- Technical product/platform setup and configuration.
+	- Functional designs. E.g. architectural designs.
+	- Inventory/resources
+		- Repositories. Configuration and code.
+		- Infrastructure, pipelines
+	- Dependencies
+- Planning / Strategy.
+	- Signals, (candidates for) initiatives, goals.
+	- Desired/targets states.
+		- Links to product backlogs and departmental backlogs.
+- Contacts.
+	- Team members and stakeholders.
+	- Dependencies.
+- Runbooks. Guides that are explicitly maintained.
+	- Operations and support tasks.
+		- Way of working.
+- Ad-hoc guides. Historical guides that do not have to maintained.
+	- Meeting Notes.
+		- Past decisions and initiatives.    
+		- RCA's.
+- Archive. Deprecated pages.
+```
+
+
+
+### Systems
+
 To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems-management.md).
 
 

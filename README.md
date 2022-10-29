@@ -39,7 +39,7 @@ Other
 
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Modeling](modeling.md) - theory about models.
-- [Learning](learning.md) - theory about learning & change.
+- [Learning](learning.md) - theory about change and improvement.
 
 
 

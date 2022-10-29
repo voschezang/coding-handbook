@@ -29,7 +29,7 @@ These phases can vary; them may take hours or years and they can be done by the 
 3. Design
 4. Development
 5. Testing
-6. Operations, support
+6. Operations, support, maintenance
 7. Lifecycle management
 
 The following are related, but are usually delegated to other people:

@@ -53,8 +53,6 @@ Other patterns
 
 
 
-
-
 ## Organizational Learning
 
 An optimal learning environment has:
