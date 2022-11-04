@@ -38,8 +38,6 @@ The following are related, but are usually delegated to other people:
 - Sales
 - HR
 
-
-
 ## Software methods
 
 ### Stability
@@ -48,44 +46,41 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
 - Visibility, Transparency, Traceability
 
-    - Clear [documentation](documentation.md). An explanation from high to low level and including relevant assumptions.
-        - This can be complemented by "How-to" guides.
-    - Ensure that there is up-to-date documentation that is clear and covers both the components and the interactions of the system.
-    - [Observability](https://en.wikipedia.org/wiki/Observability).  Two definitions
-        - Being able to infer the state of a system based on its outputs.
-        - Being able to see inside the system: distributed tracing.
-    - (predictive) monitoring and alerting.
-        - Based on service level objectives (SLO) and indicators (SLI).
-    - Application performance measurement (APM)
+  - Clear [documentation](documentation.md). An explanation from high to low level and including relevant assumptions.
+    - This can be complemented by "How-to" guides.
+  - Ensure that there is up-to-date documentation that is clear and covers both the components and the interactions of the system.
+  - [Observability](https://en.wikipedia.org/wiki/Observability).  Two definitions
+    - Being able to infer the state of a system based on its outputs.
+    - Being able to see inside the system: distributed tracing.
+  - (predictive) monitoring and alerting.
+    - Based on service level objectives (SLO) and indicators (SLI).
+  - Application performance measurement (APM)
 
 - Software Quality
 
-    - Code quality, decent code coverage. Good unit-tests and complementing integration tests.
-        - Multiple levels of testing. E.g. `unit, system, functional, performance`.
-        - Representative tests. E.g. a sandbox-environment that is effectively equivalent to the production-environment.
+  - Code quality, decent code coverage. Good unit-tests and complementing integration tests.
+    - Multiple levels of testing. E.g. `unit, system, functional, performance`.
+    - Representative tests. E.g. a sandbox-environment that is effectively equivalent to the production-environment.
 
-    - Clear documentation and specification; from high to low level, including relevant assumptions.
-        - This allows obsolete code to be more easily removed, eventually reducing the entropy of a codebase.
+  - Clear documentation and specification; from high to low level, including relevant assumptions.
+    - This allows obsolete code to be more easily removed, eventually reducing the entropy of a codebase.
 
 - Automation.
 
 - Good software, system and organizational architecture.
 
-    - Teams that are in control of their own application. Without agency they cannot realistically be accountable.
+  - Teams that are in control of their own application. Without agency they cannot realistically be accountable.
 
-    - A third-party should not be able to change the application outside the control of the team itself. Consider hair triggers and safety caps.
+  - A third-party should not be able to change the application outside the control of the team itself. Consider hair triggers and safety caps.
 
-        - ` You build it you run it.`
+    - `You build it you run it.`
 
-    -  The team should be able (authorized) to block the release of a change they don't support.
-    
-    
-    - The team should be able (authorized) to block the release of a change they don't support.
-    - Communication between teams and departments. Both personal and using proper APIs.
+  - The team should be able (authorized) to block the release of a change they don't support.
+
+  - The team should be able (authorized) to block the release of a change they don't support.
+  - Communication between teams and departments. Both personal and using proper APIs.
 
 - Risk management. E.g. thread modeling. See [management principles](management-principles.md).
-
-
 
 **Tips / Habits**
 
@@ -95,11 +90,9 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 - Take time every to reflect and question your way of working.
 - Go to bed early.
 
-
-
 ### Maintainability
 
->  Most time is spend on maintenance, rather than development of new software.
+> Most time is spend on maintenance, rather than development of new software.
 
 Change is inevitable in software engineering. It can be caused by:
 
@@ -109,8 +102,6 @@ Change is inevitable in software engineering. It can be caused by:
 - More information that is available. E.g. after learning.
 
 See [programming-paradigms](programming-paradigms.md).
-
-
 
 ### Clean Code
 
@@ -123,11 +114,7 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 
 - Separation between [commands and queries](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation) should be the norm. Only combine them by exception, for good reasons.
 
-
-
 See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.md](style-guide.md).
-
-
 
 ### Testing
 
@@ -136,14 +123,14 @@ See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.m
 The term testing is usually used for "checks". A distinction can be made based on the role of requirements.
 
 - No requirements: Testing. E.g. `observing, exploring, experimenting`.
-    - Learn something new. Do research. This is inherently unpredictable. Techniques to improve consistency are:
-        - Time-boxes. Zoom in and out.
-    - Black box: study the different inputs and outputs of a system.
-    - White box: study the inner systems.
+  - Learn something new. Do research. This is inherently unpredictable. Techniques to improve consistency are:
+    - Time-boxes. Zoom in and out.
+  - Black box: study the different inputs and outputs of a system.
+  - White box: study the inner systems.
 - Requirements: Checking.
-    - Verification and validation based on pre-specified requirements
-        - This can often be **automated**
-    - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
+  - Verification and validation based on pre-specified requirements
+    - This can often be **automated**
+  - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
 
 In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.
 
@@ -160,8 +147,6 @@ Rely on unit-tests (checks) to verify that requirements or specifications are me
 **Anti-pattern**
 Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are slow, unmaintainable and too sensitive.
 
-
-
 ### Other Metrics
 
 - Lead time
@@ -169,26 +154,20 @@ Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are 
 - Mean time to repair/recovery/restore ([MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair))
 - Change fail percentage
 
-
-
 Biased metrics
 
 - Lines of code (LOC): incentive to produce boilerplate code and to never deprecate code
 - Velocity: incentive to increase bulk sizes, preference for large, risky projects
 - Utilization: incentive for silo's, status quo and efficiency (rather than innovating)
 
-
-
 ## Software Quality
 
 Two types
 
 - External software quality; visible to users.
-    - Users are directly impacted by this.
-- Internal software quality; invisible to users. 
-    - Users are indirectly impacted by this, through lead time..
-
-
+  - Users are directly impacted by this.
+- Internal software quality; invisible to users.
+  - Users are indirectly impacted by this, through lead time..
 
 ### Technical Debt
 
@@ -197,10 +176,10 @@ Technical debt is an investment. It is risky, especially when the aggregate debt
 In order to reduct risk, technical debt can be made implicit.
 
 - Document imperfect implementations.
-    - In code. E.g.:
-        - `raise NotImplementedError`
-        - Comments: `TODO, FIXME, SMELL`
-    - In external documentation
+  - In code. E.g.:
+    - `raise NotImplementedError`
+    - Comments: `TODO, FIXME, SMELL`
+  - In external documentation
 
 Types
 
@@ -208,8 +187,8 @@ Types
 
 - Missing functionality.
 
-    - Low quality, sensitivity to small perturbations. E.g. special characters.
-    - Outdated software.
+  - Low quality, sensitivity to small perturbations. E.g. special characters.
+  - Outdated software.
 
 - Lack of documentation.
 
@@ -217,10 +196,10 @@ Types
 
 - Unnecessary complexity.
 
-    - Higher learning curve.
-        - Increased onboarding time
+  - Higher learning curve.
+    - Increased onboarding time
 
-    - Risk of bugs, inconsistencies, unexpected behaviour
+  - Risk of bugs, inconsistencies, unexpected behaviour
 
 - Bad interfaces. This may result in lot's of duplicate code.
 
@@ -239,22 +218,18 @@ Addition
 
 [DevOps](quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
 
-
-
 **Traditional Paradigms**
 
 With minimal collaboration, roles could be distributed as follows. The alternative would be a cross-functional team.
 
 - Architect: designs theoretical systems. Facilitate decision making.
 - Developer: turns requirements into code.
-    - Senior: write interfaces. Coach others. Take ownership. Adapt.
-    - Junior: write implementations. Follow instructions. Experiment.
-    
+  - Senior: write interfaces. Coach others. Take ownership. Adapt.
+  - Junior: write implementations. Follow instructions. Experiment.
+
 - Tester: turns code into bug-reports.
 - PO: manage product and stakeholders, requests features.
 - Scrum master: process management, coaching, HR.
-
-
 
 ## Ways of working
 
@@ -271,7 +246,7 @@ The [structure of teams](organization-structure.md) and departments has a great 
     4. `Outcome = Output`
 2. Agile
     1. Designed to be *fast* and to be resilient to *changing requirements* (due to customers, markets or technology).
-    2. Objectives (outcomes) drive discovery which drives development. 
+    2. Objectives (outcomes) drive discovery which drives development.
     3. Collaborative decision making. Empowered cross-functional teams.
     4. `Outcome > Output`
 
@@ -279,7 +254,7 @@ The [structure of teams](organization-structure.md) and departments has a great 
 
 The ability to inspect and adapt; to be able to create or adjust your own process. This is done by:
 
-- Focussing on value streams (towards the customer) instead of resource efficiency. 
+- Focussing on value streams (towards the customer) instead of resource efficiency.
 - Eliminating waste, e.g. inventory or unreleased software.
 - Minimizing lead time per feature. This can greatly reduce risk.
 - Having goals that are guiding rather leading. Defer uncertain decisions unless there is a good reason not to.
@@ -287,26 +262,19 @@ The ability to inspect and adapt; to be able to create or adjust your own proces
 A few frameworks for small or decentralized organizations:
 
 1. [Scrum](scrum-guide.md): sprinting to a goal, MVP-first. Limit total WIP (number of tasks/features).
-2. Kanban: continuously improving. Limit WIP per phase (e.g. `dev, review, test, release `).
+2. Kanban: continuously improving. Limit WIP per phase (e.g. `dev, review, test, release`).
 3. The hacker way: no deadlines, no fixed teams, no synchronization.
-
-
 
 Notes
 
--  Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does come at the cost of being flexible. You cannot optimize for everything.
+- Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does come at the cost of being flexible. You cannot optimize for everything.
 - If the full strategy is decided top-down then the agility of development teams is limited.
-
-
 
 **Anti-pattern**
 
-- FrAgile: Agile teams without authority to overcome bureaucratic impediments. 
+- FrAgile: Agile teams without authority to overcome bureaucratic impediments.
 - Product-oriented teams in a project-oriented (management or bureaucratic) environment.
 - Feature factory. A focus on *delivering* new functionality rather than *solving* long-term customer problems (quantity over quality). This can result in high WIP.
-
-
-
 
 ### Integration & Delivery
 
@@ -318,19 +286,15 @@ The rate of integration directly affects the tome to receive and act upon feedba
 - Days or weeks. E.g. short-lived feature branches.
 - Months or years. E.g. working in parallel branches.
 
-
-
 **Risk.** Changes can impact stability. Risk mitigation can be done by these two strategies:
 
 - Separation by demographic. E.g. [canary releases](https://martinfowler.com/bliki/CanaryRelease.html) where software is released gradually. In case of risk materialization, this will limit the impact to users and it will allow developers to address issues immediately.
-    - This increases the time-to-market, similar to the concept of a one-by-one production flow.
-    - This incentivizes good metrics that track not just quality but also market-fit - and outcomes.
-    - This embraces learning. The early customer-feedback allows plans to be re-adjusted before sunk costs make it practically impossible.
+  - This increases the time-to-market, similar to the concept of a one-by-one production flow.
+  - This incentivizes good metrics that track not just quality but also market-fit - and outcomes.
+  - This embraces learning. The early customer-feedback allows plans to be re-adjusted before sunk costs make it practically impossible.
 - Separation by non-production environments. E.g. [DTAP](https://en.wikipedia.org/wiki/Development,_testing,_acceptance_and_production).
-    - This introduces safety barriers at the (potential) cost of time-to-market.
-    - There is a risk falling for the sunk cost fallacy. Once something has passed through multiple time-consuming or expensive stages, it becomes politically difficult to cancel.
-
-
+  - This introduces safety barriers at the (potential) cost of time-to-market.
+  - There is a risk falling for the sunk cost fallacy. Once something has passed through multiple time-consuming or expensive stages, it becomes politically difficult to cancel.
 
 **Release train.** The main goal is to improve predictability of software releasees. Optimize for a certain release size at fixed intervals. The train consists of stages that first add or integrate software and then a number of filters that don't add functionality but instead protect the end-product from faulty changes being introduced. Once a stage fails the release is cancelled and the work is deferred to the next scheduled release date, thus increasing inventory. Different stages can be picked up either by multiple specialized teams or by a single cross-functional team.
 
@@ -339,30 +303,21 @@ This pattern has some downsides:
 - It requires a high level of synchronization between teams and components.
 - It may create an incentive to build a "feature factory", with a bias for LOC or number of features, over customer value.
 
-
-
-
-
-
 ### Collaboration
 
 The typical method of specifying work in a development team is based on user- or tech-**stories**. The assignee or owner of a story will try to either finish the story quickly or assign resources such that the story  doesn't take unnecessary long.
 
 On a daily basis there can be a *standup*, which is a briefing that covers at least any deviations from the planning and optionally some relevant updates. This meeting will go over either (1) all tasks that are *in progress* or (2) all team members. The former has the advantage of identifying any tasks that are blocked.
 
-
-
 **Levels of collaboration in a team**
 
-The ratio of number of (independent) stories versus team members affects the average lead time of stories. In addition, it affect the level of awareness of each other's work. Note that these results are affected by other factors as well. E.g. the amount of informal communication between colleagues. 
+The ratio of number of (independent) stories versus team members affects the average lead time of stories. In addition, it affect the level of awareness of each other's work. Note that these results are affected by other factors as well. E.g. the amount of informal communication between colleagues.
 
 A few types of team collaboration:
 
 - **Silo's**. One person works on one story. This optimizes for *utilization*. This can be efficient, but there is a risk of long waiting time due to asynchronous reviews.  If there is a need for reviews, then stories tend to be on hold disproportionally often. Each person may defer the reviewing of other people's work as soon as they have time for it. Hence there is an incentivize for workers to start new tasks, whenever other tasks are blocked. This increases work-in-progress, and it results in more context switching. Both of these decreases lead time.
-- **Pairing** and mobbing. The team is split up and each sub-group works together on a single story. This optimizes for *quality* and *lead time* of the stories with the highest priority. Lower priority stories are started later. This requires an explicit prioritization, which has organizational implications. Deferring 
+- **Pairing** and mobbing. The team is split up and each sub-group works together on a single story. This optimizes for *quality* and *lead time* of the stories with the highest priority. Lower priority stories are started later. This requires an explicit prioritization, which has organizational implications. Deferring
 - **Swarming**. This is an extreme version of pairing. This optimizes for *speed*. A large group focusses on a single task and drops everything else. For example, fixing a major production issue as soon as possible.
-
-
 
 **Reviews**
 
@@ -370,9 +325,9 @@ Usually there is a need for reviews before code can be integrated. In general:
 
 - Large, infrequent reviews are efficient but inflexible. Reviewing them properly is time-consuming - and thus may be postponed. If reviewers find problems then it's either too late, or it would cause significant rework. This reduces quality.
 - Small, frequent reviews improve quality. However, they can also be disruptive.
-    - Continuous reviews are less disruptive as they avoid context switching. However, they do require synchronization.
+  - Continuous reviews are less disruptive as they avoid context switching. However, they do require synchronization.
 
-This seems to imply a tradeoff between quality and throughput. However, these two are intertwined. Low quality may cause rework, which in turn will decrease throughput. 
+This seems to imply a tradeoff between quality and throughput. However, these two are intertwined. Low quality may cause rework, which in turn will decrease throughput.
 
 The ideal way to achieve both quality and throughput is through *fast* reviews. This would require:
 
@@ -380,8 +335,6 @@ The ideal way to achieve both quality and throughput is through *fast* reviews. 
 - High availability. This improves the waiting time before a review starts.
 
 This puts a restriction on the amount of work in progress.
-
-
 
 ## Programming productivity
 
@@ -391,8 +344,6 @@ This puts a restriction on the amount of work in progress.
 2. `vi`/`vim` commands: manipulating text files
 4. `grep`, `sed`, regular expressions: quickly writing queries for and through files). E.g. to search through log-files.
 
-
-
 **Tools**
 
 1. Version control (e.g. `git`). Usually using [multiple repositories](https://danluu.com/monorepo/).
@@ -400,18 +351,15 @@ This puts a restriction on the amount of work in progress.
 3. An advanced editor (IDE).
 4. CI/CD pipelines.
 
-
-
 An IDE could:
 
 - Predict compilation errors
 - Predict runtime errors
 - Visualize test coverage (both individual lines and variable-ranges)
 - Refactor:
-    - Flip branches.
-    - (Un)Negate statements.
-    - Convert between [CNF](https://en.wikipedia.org/wiki/Conjunctive_normal_form) and [DNF](https://en.wikipedia.org/wiki/Disjunctive_normal_form).
-    - Extract/encapsulate variables.
-    - Generate tests.
-    - Inline functions.
-
+  - Flip branches.
+  - (Un)Negate statements.
+  - Convert between [CNF](https://en.wikipedia.org/wiki/Conjunctive_normal_form) and [DNF](https://en.wikipedia.org/wiki/Disjunctive_normal_form).
+  - Extract/encapsulate variables.
+  - Generate tests.
+  - Inline functions.
