@@ -143,9 +143,9 @@ Decisions are made and forwarded according to a [chain of command](https://en.wi
 
 
 
-[Power](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) in organizations can follow several patterns. Based on the flow of information, the following categories can be distinguished.
+[Power](https://scholar.google.nl/scholar?hl=nl&as_sdt=0%2C5&q=+A+typology+of+organisational+cultures+-+Westrum&btnG=) in organizations can follow several patterns. Based on the flow of information, the following categories can be distinguished.
 
-- **Authoritative** (pathological): chain of command. Based on personal need. 
+- **Authoritative** (pathological): chain of command. Based on power and personal need.
     - Hide information from competitors. Suppress risks. Associated with scapegoating.
 
 - **Bureaucratic**: rule-oriented. Based on departmental need. Ensure fairness through equal rules.
@@ -153,6 +153,8 @@ Decisions are made and forwarded according to a [chain of command](https://en.wi
 
 - **Generative**: performance-oriented. Welcome inquiry and support global improvements, even if they are disruptive.
     - Shared responsibility. Associated with learning and sharing.
+
+
 
 
 

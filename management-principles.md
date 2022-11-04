@@ -226,6 +226,17 @@ Typical solutions: ship orders in increments, vertical integration, store resour
 
 
 
+**Stakeholder management (managing up)**
+
+> Ask for advice, not for feedback
+
+Ascertain:
+
+- Their goals, their expectations
+- How they want to be kept in the loop
+- Be transparent. Share challenges.
+
+
 **Expectation management**
 
 - Under-promise (and over-deliver) to stakeholders. Avoid uncertainty and build trust.

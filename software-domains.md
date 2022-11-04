@@ -1,10 +1,10 @@
-## Types of Software Domains
+## Software Domains
 
 Any specific system usually has a balance between domain-oriented components and generic (facilitating) components.
 
 An application usually relies on libraries and [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service), [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) or [IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service) components.
 
-Types:
+**Types**
 
 - Hardware type: CPU, GPU, FPGA
 - Hardware context: embedded, desktop, mobile, web, web-app
@@ -15,7 +15,7 @@ Types:
 
 
 
-Software can be managed at different levels.
+Software can be managed at different **levels**.
 
 - **Platform**/internal technology: this should usually be stable.
 - **Product**: deliver value to customers.
@@ -24,7 +24,7 @@ Software can be managed at different levels.
 
 
 
-
+## Related Domains
 
 Similar to these [architectural pattern examples](https://en.wikipedia.org/wiki/Architectural_pattern#Examples).
 

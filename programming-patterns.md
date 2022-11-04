@@ -114,7 +114,7 @@ Unlike traditional inheritance, these objects can be defined dynamically, at run
 A few variants of this are the strategy pattern and the factory pattern.
 
 **Hook**
-Always call a user-definable method before (or after) a given operation.
+Call a user-definable method before (or after) a given operation. Note that this introduces some coupling between the operation and the given method.
 
 **Provider-consumer**
 One-to-one (point-to-point) messaging, where a service is provided by one party and consumed by another one.
