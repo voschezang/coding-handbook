@@ -13,16 +13,12 @@ An application usually relies on libraries and [SaaS](https://en.wikipedia.org/w
 - System Architecture: e.g. microservices
 - Infrastructure (within a datacenter or using multiple datacenters)
 
-
-
 Software can be managed at different **levels**.
 
 - **Platform**/internal technology: this should usually be stable.
 - **Product**: deliver value to customers.
 - **Process**: complement the above by continuously improving.
 - **People**: from personal well-being (of colleagues and teams), to maximizing potential.
-
-
 
 ## Related Domains
 
@@ -41,8 +37,6 @@ Similar to these [architectural pattern examples](https://en.wikipedia.org/wiki/
 | Systems Theory                                               | System Design                                                | *(Design of)* [Organizations](organization-structure.md)     | Business administration,<br />Enterprise application integration,<br />Enterprise architecture |
 | Systems Theory                                               | System Design                                                | <u>Software</u> Design                                       | [DDD](domain-driven-design.md)                               |
 | ?                                                            | [Requirements Engineering](requirements-engineering.md),<br />[Systems Management](systems-management.md),<br />Goal Setting | [Management Principles](management-principles)<br />[Goals/Planning/Strategy](goals-planning-strategy.md) | [Product Management](product-management),<br />[Project Management](project-management),<br />Business Operations |
-
-
 
 <table>
 <thead><tr><th>Fundamental Theory</th><th>Emergent Theory</th><th>Applied to a domain</th><th>Applied to the real world</th></tr></thead>
@@ -78,5 +72,3 @@ Similar to these [architectural pattern examples](https://en.wikipedia.org/wiki/
   </tr>
 </tbody>
 </table>
-
-

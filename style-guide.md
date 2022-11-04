@@ -11,8 +11,9 @@ See [documentation](documentation.md).
 
 ## Design
 
-- Code should not be clever. Designs should be as simple as possible, but not simpler.
+* Code should not be clever. Designs should be as simple as possible, but not simpler.
   * Solutions may be [insightful](https://www.hillelwayne.com/post/cleverness/) but be careful with assumptions and constraints.
+
 * First solve the problem (e.g. proof that specification is correct), then write code.
 * *Low* level code changes more often than *high* level code.
   * A change in an interface requires a change in the implementation but not the vice versa.

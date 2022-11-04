@@ -8,15 +8,13 @@ Typical requirements include time- and cost-bounds, and a *scope*. In theory, on
 
 - **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
 - **Output**-based. This leaves some freedom on the implementation side.  If risk materialize, either time or cost would have to be let go.
-    - The bias on building something incentivizes over-engineering.
+  - The bias on building something incentivizes over-engineering.
 - **Outcome**-based. This focusses on solving a (user-centric) problem, with minimal effort. It incentivizes building the right thing, rather than something.
-    - There is an incentive to solve the underlying problem, rather than the initially suggested problem. This can be uncomfortable.
+  - There is an incentive to solve the underlying problem, rather than the initially suggested problem. This can be uncomfortable.
 
 In complex contexts, there is structural *uncertainty*. During execution of a task, more information will be discovered. The plan has to be adjusted when the initial requirements become outdated. The main challenge here is to choose whether to adjust the scope, the end date, or find another solution.
 
 A (in)direct result of the scope is **impact**. E.g. the effect of the initiative on a metric such as revenue. This usually  easier to measure than outcomes.
-
-
 
 Requirements can be separated into critical and non-critical ones. See [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method).
 
@@ -25,8 +23,6 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 - *Could* have. Desirable, but only if time and resources permit.
 - *Won't* have. Explicitly excluded from the current scope.
 
-
-
 **Functional and non-functional requirements (NFR)**
 
 [Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).
@@ -34,8 +30,6 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 - They are designed to be satisfiable. I.e. one can (in theory) verify that they are met. E.g. using a metric or proof.
 
 [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g.a system should be user-friendly and maintainable.
-
-
 
 ## Specification of Tasks
 
@@ -50,7 +44,7 @@ Before closing a task an appropriate review should be done to validate whether i
 **Why** the need for change:
 
 - What problem does this task tackle?
-    - Why does this need to be done now?
+  - Why does this need to be done now?
 - What is the underlying problem?
 
 **What** is going to happen:
@@ -59,19 +53,16 @@ Before closing a task an appropriate review should be done to validate whether i
 - *Goal*:  What is the <u>target</u> condition? Use acceptance criteria. Make this user-centric.
 - *Proposal*: What is the proposed solution?
 - *Outcome*: To what higher-level goal does this task relate?
-    - What are the next steps?
+  - What are the next steps?
 
 **How** to implement the change:
 
 - Input:
-    - What are the (rough) sub-tasks that are involved?
-    - What is the minimal scope of the task?
+  - What are the (rough) sub-tasks that are involved?
+  - What is the minimal scope of the task?
 
 - Outcome:
-    - Refer to the acceptance criteria.
-
-
-
+  - Refer to the acceptance criteria.
 
 #### Larger Task
 
@@ -94,8 +85,6 @@ How **success** is going to be measured
 
 What **dependencies** are there?
 
-
-
 ### Template: TODO Lists
 
 Listing everything that's valuable can lead to an impractical number of items. Instead, classify the tasks. Then make the top priority task explicit.
@@ -112,11 +101,7 @@ By importance:
 - Should do.
 - Must do.
 
-
-
 ## Estimation
-
-
 
 ### Story Points
 
@@ -124,15 +109,13 @@ The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/ph
 
 - Incentive to write smaller stories, s.t. they more easily fit in the next sprint.
 - Make estimations less subjective, e.g. by combining multiple (independent) estimations.
-    - Use the abstraction "complexity" to make estimations less personal.
-    - Stimulate discussion about the story itself and the number of points assigned to it. Talk about complexity.
+  - Use the abstraction "complexity" to make estimations less personal.
+  - Stimulate discussion about the story itself and the number of points assigned to it. Talk about complexity.
 - Estimate or report on team-capacity and/or productivity per sprint.
-    - Show that the team works hard and consistently. Identify struggling teams.
+  - Show that the team works hard and consistently. Identify struggling teams.
 - Shared value between the team and higher management. Improve reporting towards management.
-    - Create burndown charts.
+  - Create burndown charts.
 - Make (reasonable) commitments to motivate team members. Improve prioritization.
-
-
 
 **Alternatives**
 

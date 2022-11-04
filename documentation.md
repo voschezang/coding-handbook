@@ -10,8 +10,6 @@ Functions of writing
 - Now: deconstructing, exploring
 - Future events: delegating
 
-
-
 **Types of documentation**
 
 Documentation should not only be written for a specific audience, but it should also have a specific [functionality](https://documentation.divio.com/).
@@ -26,13 +24,9 @@ Documentation should not only be written for a specific audience, but it should 
 - Tutorials and explanations are educational and thus suitable for learning.
 - How-to guides and references are informational and more suitable for work.
 
-
-
 **Maintaining Documentation**
 
-This is even harder than writing good documentation. A standard way to maintain high quality is to continuously update documentation. Whenever an aspect of the subject is changed, ensure that the result is reflected in the documentation. 
-
-
+This is even harder than writing good documentation. A standard way to maintain high quality is to continuously update documentation. Whenever an aspect of the subject is changed, ensure that the result is reflected in the documentation.
 
 ## Structure
 
@@ -46,32 +40,26 @@ Documentation (and visualizations) can be created at different [levels of detail
     2. Components and the relations between them. What the responsibilities are.
 3. Inner workings of a given component.
 
-
-
 **Ordering**
 
 Explanations can be top-down (high level first) or bottom-up (low level first).
 
 - The first is intuitive, but requires the repeated use concepts that are not well-defined (yet).
-    - Start with *What* and *Why* instead of the *How*.
+  - Start with *What* and *Why* instead of the *How*.
 - The second allows you to start from fundamental principles, but requires a bit up-front investment from the reader
-    - There is a risk of missing the global point.
-
-
+  - There is a risk of missing the global point.
 
 **Complexity**
 
 Multiple levels of documentation, ordered by level of natural language (increasing).
 
-1. Module level. 
+1. Module level.
     - Clean, clear, readable code. From high level to low level. E.g. self-explanatory variable- and file-names.
     - Inline comments and doc-strings.
     - Up-to-date, readable **tests** that act as a specification.
 2. Application level. High cohesion.
     - Self-contained repositories with a readme.
 3. System level. Relations between multiple components. E.g. a wiki.
-
-
 
 **Comments**
 
@@ -80,7 +68,7 @@ Comments are metadata. They do increase maintenance. In contrast to programming 
 A few categories:
 
 - Functional comments: `TODO`, `SMELL`
-    - These can be useful even if they are never addressed. They visualize code quality and warn contributes about missing or broken functionality.
+  - These can be useful even if they are never addressed. They visualize code quality and warn contributes about missing or broken functionality.
 
 - Documenting why vs. what.
 - Giving examples
@@ -89,13 +77,11 @@ A few categories:
 The Why consists of the following categories:
 
 - Context
-    - Negative information (what is not happening).
-    - Rationale, history
+  - Negative information (what is not happening).
+  - Rationale, history
 - Performance
 - Use-cases, side-effects
 - Tips
-
-
 
 ## Specification
 
@@ -108,9 +94,7 @@ Testable requirements. Functional or non-functional.
 
 Avoid or resolve ambiguity.
 
->  *Complicated* is just a euphemism for "scary to think about".
-
-
+> *Complicated* is just a euphemism for "scary to think about".
 
 ## Templates
 
@@ -124,9 +108,9 @@ Note that this is optimized for a single product-team. In practice other teams s
 ## {Product Name} (Public documentation)
 (User-oriented)
 - Overview. Summary and links.
-	- Product Description. Lists of features.
-	- List of services that complement this product.
-	- Contact information.
+ - Product Description. Lists of features.
+ - List of services that complement this product.
+ - Contact information.
 - FAQ. Links to guides.
 - "Components". The interface should be consistent/long-living, while the inner structure may change more often.
 - How-to guides.
@@ -137,35 +121,31 @@ Note that this is optimized for a single product-team. In practice other teams s
 ## Internal documentation
 Designed for internal use by team members.
 - Technical product/platform setup and configuration.
-	- Functional designs. E.g. architectural designs.
-	- Inventory/resources
-		- Repositories. Configuration and code.
-		- Infrastructure, pipelines
-	- Dependencies
+ - Functional designs. E.g. architectural designs.
+ - Inventory/resources
+  - Repositories. Configuration and code.
+  - Infrastructure, pipelines
+ - Dependencies
 - Planning / Strategy.
-	- Signals, (candidates for) initiatives, goals.
-	- Desired/targets states.
-		- Links to product backlogs and departmental backlogs.
+ - Signals, (candidates for) initiatives, goals.
+ - Desired/targets states.
+  - Links to product backlogs and departmental backlogs.
 - Contacts.
-	- Team members and stakeholders.
-	- Dependencies.
+ - Team members and stakeholders.
+ - Dependencies.
 - Runbooks. Guides that are explicitly maintained.
-	- Operations and support tasks.
-		- Way of working.
+ - Operations and support tasks.
+  - Way of working.
 - Ad-hoc guides. Historical guides that do not have to maintained.
-	- Meeting Notes.
-		- Past decisions and initiatives.    
-		- RCA's.
+ - Meeting Notes.
+  - Past decisions and initiatives.    
+  - RCA's.
 - Archive. Deprecated pages.
 ```
-
-
 
 ### Systems
 
 To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems-management.md).
-
-
 
 **Outside view**
 
@@ -197,9 +177,6 @@ Activities and communication
 
 <img src="img/scheduling-slack.png" alt="scheduling-slack" style="width:80%;" />
 
-
-
 **Resource Contention**
 
 <img src="img/critical-chain.png" alt="critical-chain" style="width:60%;" />
-

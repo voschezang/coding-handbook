@@ -13,27 +13,22 @@ Management *an sich* is a theoretical domain. In the real world, all there exist
 Management consists of **balances**. For example:
 
 - Learning and adjusting.
-    - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience. Based on the environment.
+  - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience. Based on the environment.
 - Focussing and diversifying.
-    - E.g. improving a process versus outsourcing a process.
+  - E.g. improving a process versus outsourcing a process.
 - Time horizon.
-    - Pursue an optimistic ideal or a realistic planning.
-    - Optimizing for the next quarter or for multiple decades.
+  - Pursue an optimistic ideal or a realistic planning.
+  - Optimizing for the next quarter or for multiple decades.
 
 See also [organization-structure](organization-structure.md) and [systems-management](systems-management.md).
 
-
-
-
 Three integral properties of management.
 
-1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge. 
+1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge.
 2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
-3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value. 
+3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value.
     1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
     2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
-
-
 
 Management consists of two main activities:
 
@@ -51,16 +46,13 @@ Hence management styles can be oriented towards (1) leadership or (2) facilitati
 
 There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
 
-
-
 **Effectiveness**
 
 The two main directions to be effective are:
 
 - Deliver (maximize) value to customer. This may require investment and innovation (change).
 - Eliminate (minimize) waste. This doesn't just demand reliability and stability, but it also requires an investment to remove obstacles.
-    - Waste is defined as "anything that isn't part of the value chain"
-
+  - Waste is defined as "anything that isn't part of the value chain"
 
 This involves
 
@@ -69,33 +61,27 @@ This involves
 
 Note that investment involves a short term cost by definition.
 
-
-
 **Measure of Success**
 
-Define a proper measure of success. Evaluate whether the assignment could be successful (outcome-based) without meeting the requirements. 
+Define a proper measure of success. Evaluate whether the assignment could be successful (outcome-based) without meeting the requirements.
 
 Typical components:
 
 - Total returns. Delivered  value rather than produced value. E.g.
-    - Profit minus expenses and inventory.
-    - Quality: high quality and low variance.
+  - Profit minus expenses and inventory.
+  - Quality: high quality and low variance.
 
-- Relative returns. Delivered value relative to the effort or cost put into the system. 
-    - Efficiency: of the system as a whole or individual components (e.g. resources). This consists of resource utilization and throughput.
+- Relative returns. Delivered value relative to the effort or cost put into the system.
+  - Efficiency: of the system as a whole or individual components (e.g. resources). This consists of resource utilization and throughput.
 
 - Agility: be able to adapt. Typical influences are lead time, batch sizes
 
-Note that measures of success can be biased by how a component is perceived. E.g. a cost center of a profit center. 
+Note that measures of success can be biased by how a component is perceived. E.g. a cost center of a profit center.
 
 - Cost world: make local improvements (cut costs), that add up linearly to a global optimum.
 - Throughput: focus on the weakest link in the critical chain.
 
-
-
 Timeline, scope and capacity are related. If one changes, then at least one of the others will too.
-
-
 
 ### Change
 
@@ -107,8 +93,6 @@ Note that these can all involve [*change*](learning.md). A typical challenge is 
     3. Culture. "inherent" values. E.g. ideals to strive for.
 2. Persuade people (direct). E.g. [transformational leadership](https://en.wikipedia.org/wiki/Transformational_leadership).
 
-
-
 **Dimensions of Change**
 
 Reaching goals usually requires change.
@@ -119,7 +103,7 @@ Reaching goals usually requires change.
 2. Locality.
     1. Optimize (all) individual components.
         1. Risk: over-production, tunnel-vision, high inventory that can become obsolete.
-    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components. 
+    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components.
         1. Risk: bias for the current goal. E.g. bias for a target market.
     3. Diversify. E.g. diversify the product line for exposure to new markets.
         1. Diversify into new markets.
@@ -129,10 +113,6 @@ Reaching goals usually requires change.
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
 Also see [goals and strategy](goals-planning-strategy.md).
-
-
-
-
 
 ## Collaboration
 
@@ -147,11 +127,7 @@ Determine whether a team needs to **adjust** or whether it needs to **change**. 
 
 Make sure there is regular reflection, both on the level of individuals and the level of teams.
 
-
-
 Make goals and problems **visible**. E.g. using Scrum or Kanban boards, milestones, dashboards, alerts, red/green builds. This incentivizes attention and reflection (and re-think our approach).
-
-
 
 **Role Assignment**
 
@@ -162,13 +138,9 @@ There exist multiple models for [role and responsibility assignment](https://en.
 - Consulted. E.g. providing consultancy or support.
 - Informed. Following along.
 
-
-
 **Persistence**
 
 One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](goals-planning-strategy.md).
-
-
 
 ### Meetings
 
@@ -179,17 +151,17 @@ A lack of **consensus** is normal, especially for complex topics. First put all 
 Best practices
 
 - Scope
-    - Make meetings specific. Limit their scope. Don't strive for a one size fits all.
-        - E.g. status checks, retrospectives, reviews and demos (either internally or public).
-    - Insect the relevance of meetings. Connect them to the actual business, e.g. using KPIs.
-    - Save out-of-scope topics for later. This avoids the problem of not taking enough time for them. They also require a context shift and this reduce focus
+  - Make meetings specific. Limit their scope. Don't strive for a one size fits all.
+    - E.g. status checks, retrospectives, reviews and demos (either internally or public).
+  - Insect the relevance of meetings. Connect them to the actual business, e.g. using KPIs.
+  - Save out-of-scope topics for later. This avoids the problem of not taking enough time for them. They also require a context shift and this reduce focus
 - Structure
-    - Use an agenda for meetings that should be prepared beforehand.
-        - This allows participants to evaluate whether each particular meeting is relevant to them.
-    - Topics based on current priority are better than following an outdated agenda
-    - A good structure doesn’t require agenda. E.g. a 1 min. round of updates doesn't require an agenda.
+  - Use an agenda for meetings that should be prepared beforehand.
+    - This allows participants to evaluate whether each particular meeting is relevant to them.
+  - Topics based on current priority are better than following an outdated agenda
+  - A good structure doesn’t require agenda. E.g. a 1 min. round of updates doesn't require an agenda.
 - Schedule time to do preparation and post-preparation.
-    - This should be roughly proportional the length of the meeting and the number of participants.
+  - This should be roughly proportional the length of the meeting and the number of participants.
 
 See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
 
@@ -211,20 +183,14 @@ Typical solutions: DevOps, product-teams.
 
 Typical solutions: ship orders in increments, vertical integration, store resources in a central location
 
-
-
 ## Management per Type
 
 **Organization Management**
- [organization-structure](organization-structure.md) 
-
-
+ [organization-structure](organization-structure.md)
 
 **Crisis management**
 
 - Dealing with risk after they've materialized.
-
-
 
 **Stakeholder management (managing up)**
 
@@ -236,24 +202,20 @@ Ascertain:
 - How they want to be kept in the loop
 - Be transparent. Share challenges.
 
-
 **Expectation management**
 
 - Under-promise (and over-deliver) to stakeholders. Avoid uncertainty and build trust.
-    - Focus on *long-term*, abstract goals. Rely on *minimal* requirements.
-    - Add in slack as a buffer against risks.
+  - Focus on *long-term*, abstract goals. Rely on *minimal* requirements.
+  - Add in slack as a buffer against risks.
 
 - Over-promise internally, in order to motivate employees.
-    - Include a *short-term* planning, that is specific. Include *full* requirements.
-    - In addition, prefer learning over blaming.
-
+  - Include a *short-term* planning, that is specific. Include *full* requirements.
+  - In addition, prefer learning over blaming.
 
 Technique:
 
 1. What do you expect?
 2. This is what you can expect. This is what we will do.
-
-
 
 **Time management**
 
@@ -265,12 +227,10 @@ Prioritize *core* activities and defer, drop or delegate (outsource) *contextual
 
 Sometimes efficiency can be improved by changing processes or technology.
 
-Time can be multiplied. 
+Time can be multiplied.
 
 - Teach others *why* and *what* instead of *how*. Empower others to do it independently.
 - Broadcasting instead of point-to-point communication. E.g. write a blog post or wiki instead of a long email.
-
-
 
 ### Process Management
 
@@ -287,8 +247,6 @@ Based on the properties of [systems](systems-management.md) the following steps 
     1. [Risk management](#Risk Management). E.g. finding optimal buffer-sizes.
     2. [Product management](product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
 
-
-
 ### Risk Management
 
 Definitions:
@@ -301,19 +259,15 @@ Definitions:
 Total Risk = threads (external) + vulnerabilities (internal)
 ```
 
-
-
 The main *prerequisite* is a certain corporate culture: Thinking in probabilities & decriminalize risk. Uncertainty should be preferred over being wrong (or overly optimistic).
 
 - Prefer mean-variance optimization over point-estimates. A typical prediction should include (un)certainty bounds. E.g. "We need at least 4 months, and it may take up to 1 year (in the worst case). We estimate a 80 % chance of finishing it in 6 to 8 months."
-    - Usually point estimate overestimate in order to compensate for uncertainty. This can result in an [increase](https://en.wikipedia.org/wiki/Parkinson's_law) in the amount of work
+  - Usually point estimate overestimate in order to compensate for uncertainty. This can result in an [increase](https://en.wikipedia.org/wiki/Parkinson's_law) in the amount of work
 
 - Express projects success not as an absolute (success or fail), but as progression (number of features delivered at end of time period).
-    - Build in slack, i.e. the flexibility to skip/add/change features during the project.
+  - Build in slack, i.e. the flexibility to skip/add/change features during the project.
 
 A secondary prerequisite is a list of assumptions. These are (usually show-stopping) risks that are delegated upwards to the employer. This reduces the change of overlooking "unthinkable" risk.
-
-
 
 **Types of Strategies**
 
@@ -327,15 +281,11 @@ A secondary prerequisite is a list of assumptions. These are (usually show-stopp
     1. Containment: decrease impact of risk when they do materialize. E.g. reserve *buffers*.*
     2. Mitigation: reduce containment cost. E.g. though insurance. This has an up-front cost, independent of whether the risk will materialize.
 
-
-
-*Given a set of independent risks, the risk exposure per risk is the product of the probability of occurrence and the cost of occurrence. A conservative *buffer* is strictly higher then the total exposure. 
+*Given a set of independent risks, the risk exposure per risk is the product of the probability of occurrence and the cost of occurrence. A conservative*buffer* is strictly higher then the total exposure.
 
 ```
 Risk Exposure = probability x materalization cost
 ```
-
-
 
 **Types of Containment Strategies**
 
@@ -344,25 +294,21 @@ Risk Exposure = probability x materalization cost
 - Monitor; collect information about the incident and the second-order effects. E.g. uncommon patterns.
 - Active Defense
 
-
-
 **Types of risks**
 
 - Planning-related:
-    - Inherent flaws in the schedule. E.g. an unrealistic, aggressive schedule
-    - Requirements inflation; an increase in requirements over the scope of the project.
-    - Ambiguity in the specification. Design decision that are deferred until implementation time.
-    - Dependencies.
+  - Inherent flaws in the schedule. E.g. an unrealistic, aggressive schedule
+  - Requirements inflation; an increase in requirements over the scope of the project.
+  - Ambiguity in the specification. Design decision that are deferred until implementation time.
+  - Dependencies.
 - Employee-related:
-    - Employee turnover.
-    - Poor productivity. E.g. due to lack of motivation, poor working conditions, problems with communication, collaboration or coordination.
+  - Employee turnover.
+  - Poor productivity. E.g. due to lack of motivation, poor working conditions, problems with communication, collaboration or coordination.
 - User-related
-    - Usability (user interaction).
+  - Usability (user interaction).
 - Context-related
-    - Adaptability (to new environments). E.g. scaling up.
-    - Supply chain / dependencies.
-
-
+  - Adaptability (to new environments). E.g. scaling up.
+  - Supply chain / dependencies.
 
 ## Miscellaneous
 
@@ -374,15 +320,11 @@ Fundamental characteristics of the world (from [Buddhism](https://en.wikipedia.o
 
 In addition, learning (adapting) takes practice. Both at the individual and organizational level.
 
-
-
 **Gaining knowledge**
 
 - Start with a prior belief, formulate, collect data (experiment), update your belief, and repeat.
 - Value [falsifiability](https://en.wikipedia.org/wiki/Falsifiability).
 - Think in probabilities. Absolute certainty should be a red flag.
-
-
 
 **Types of work**
 
@@ -397,10 +339,6 @@ There are three types of work.
     3. Changes. E.g. maintenance.
 3. Planning work. E.g. defining, refining , adjusting or changing plans.
 
-
-
-
-
 **Knowledge**
 
 Four types of knowledge
@@ -410,17 +348,11 @@ Four types of knowledge
 - Unknown knowns: hidden potential
 - Unknown unknowns: blind spots
 
-
-
 **Stability / Reliability**
 
 Single point estimates (e.g. the mean) are a poor predictor of stability. The following image shows that chaotic (random) and cyclical processes - which are fundamentally different - can have the same mean.
 
 ![plot-process-throughput](img/plot-process-throughput.png)
-
-
-
-
 
 ## References
 

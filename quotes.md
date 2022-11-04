@@ -14,19 +14,19 @@ Note that the validity of the following statements is dependent on certain *impl
     ).
 * Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
 * Mistakes are undervalued. There are a necessity for learning and they are extremely effective at creating awareness.
-    * In contrast, in art mistakes are celebrated, and are often the most memorable parts of a piece.
-    * Making many small mistakes (which can be controlled/rolled-back/compensated/negated) > making fewer big mistakes.
+  * In contrast, in art mistakes are celebrated, and are often the most memorable parts of a piece.
+  * Making many small mistakes (which can be controlled/rolled-back/compensated/negated) > making fewer big mistakes.
 * Don't let school get in the way of your education.
-    * Practice self-actualization: reaching your full potential, discovering your self and finding the meaning of life.
-    * Stop thinking in closed questions: "Is this answer correct?". Rather, ask: "What are the possible answers?".
-    * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
+  * Practice self-actualization: reaching your full potential, discovering your self and finding the meaning of life.
+  * Stop thinking in closed questions: "Is this answer correct?". Rather, ask: "What are the possible answers?".
+  * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
 * Smart does not imply wise. Wise does not imply smart.
-* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) (in contrast to e.g. retaliating strategies). 
-    * It allows interaction, and the sharing of ideas. Nurture (or invest in) the positive feedback loop: `truth => trust => reputation => attraction`.
-    * But do gradually reduce exposure to uncooperative participants.
-* It is't necessary to continue after reaching a _good enough_ point. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting).
-    * Only unicorns are perfect.
-    * Continuous improvement is better than delayed perfection.
+* A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) (in contrast to e.g. retaliating strategies).
+  * It allows interaction, and the sharing of ideas. Nurture (or invest in) the positive feedback loop: `truth => trust => reputation => attraction`.
+  * But do gradually reduce exposure to uncooperative participants.
+* It is't necessary to continue after reaching a *good enough* point. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting).
+  * Only unicorns are perfect.
+  * Continuous improvement is better than delayed perfection.
 * Think in possibilities rather than limitations.
 * Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
@@ -34,70 +34,63 @@ Note that the validity of the following statements is dependent on certain *impl
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
 * Natural developments are not inevitable.
 * Dogma is regarded by the common people as true, by the wise as false, and by rulers as useful.
-* Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects. 
-    * Context switching isn't free.
+* Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects.
+  * Context switching isn't free.
 * Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
 * Nobody ever got fired for buying IBM.
 * Being poor is expensive. Limited access to resources prohibits the use long-term investments.
 
-
-
 ### Processes
 
 * Effectiveness (doing the right thing, goal-oriented) > Efficiency (doing things right, process-oriented).
-    * Prefer messy but effective communication over efficient silos (with tunnel vision).
-    * Doing the right thing > being right.
+  * Prefer messy but effective communication over efficient silos (with tunnel vision).
+  * Doing the right thing > being right.
 * Good strategy means saying no (otherwise there would be no strategy).
 * Process = (average) intensity + consistency
-    * Good outcome > meeting the initial requirements.
-    * Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
-        * "No plan survives first contact"
+  * Good outcome > meeting the initial requirements.
+  * Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
+    * "No plan survives first contact"
 
-    * Unspoken expectations are less likely to be unambiguous than explicit ones.
+  * Unspoken expectations are less likely to be unambiguous than explicit ones.
 * Slow down to speed up. Humans were not made for constant motion.
-    * Control flow. Prioritize ([triage](https://en.wikipedia.org/wiki/Triage)) before starting new tasks. Options: `do, defer, delegate, drop`
-    * Pause. Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
-        * Busyness is correlated with laziness. E.g. not taking the time to reconsider.
+  * Control flow. Prioritize ([triage](https://en.wikipedia.org/wiki/Triage)) before starting new tasks. Options: `do, defer, delegate, drop`
+  * Pause. Take regular breaks. Take time to orient yourself and reflect. Take a step back to move forward.
+    * Busyness is correlated with laziness. E.g. not taking the time to reconsider.
 
-    * Make room to make improvements (plan in slack).
-    * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
-    * Don't jump from problems to solutions. First find the underlying causes.
+  * Make room to make improvements (plan in slack).
+  * Prioritizing too many tasks both prevents focussing and reduces the time to adjust priorities.
+  * Don't jump from problems to solutions. First find the underlying causes.
 * Change is not a solution but a process. It's a balance between relying on you [priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) and updating your [posterior](https://en.wikipedia.org/wiki/Posterior_probability).
   * Find an appropriate [learning rate](https://en.wikipedia.org/wiki/Learning_rate) or [step size](https://en.wikipedia.org/wiki/Gradient_descent) to avoid overshooting.
   * Learning requires *un*learning. Define conditions under which you would change your beliefs.
-* Value both processes and outcomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)). 
-    * Good results with bad processes have no predictive value.
+* Value both processes and outcomes (e.g. [risk-adjusted returns](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital)).
+  * Good results with bad processes have no predictive value.
 * Be input-driven rather than merely output-driven. You can control the input, but the output is a side-effect.
-    * Outcome > output.
+  * Outcome > output.
 * Blameless postmortems. Investigate *contribution* rather than attribution. Note that:
-    * There is never a single root cause. Instead, deconstruct the factors that contributed to the result.
-    * Positive intent can cause negative impact.
-        * If there was a single point of failure then that was the problem (i.e. the system).
-    * Blameless doesn't mean nameless
-        * *Nameless* postmortems imply that there is a need to hide the name.
-        * Attribution is required for learning (investigation), but it doesn't require (over-)sanctioning.
-        * Rather than suppressing blame, regulate it and challenge allegations. Decouple attribution from causality, intentionality and context.
+  * There is never a single root cause. Instead, deconstruct the factors that contributed to the result.
+  * Positive intent can cause negative impact.
+    * If there was a single point of failure then that was the problem (i.e. the system).
+  * Blameless doesn't mean nameless
+    * *Nameless* postmortems imply that there is a need to hide the name.
+    * Attribution is required for learning (investigation), but it doesn't require (over-)sanctioning.
+    * Rather than suppressing blame, regulate it and challenge allegations. Decouple attribution from causality, intentionality and context.
 * Activity does not imply achievement.
-
-
 
 ### Time to market
 
 * Solving problems > delivering more functionality.  
 * Deliver sooner, rather than faster. Average throughput > total throughput.
-    * Received value (by customer) > created value (inventory).
+  * Received value (by customer) > created value (inventory).
 * Doing nothing can be a deliberate action.
 * Being busy indicates a lack or prioritization.
-    * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
-    * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
+  * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
+  * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
 * Training can be defined as "practice by doing", but at a much slower pace. It shouldn't be rushed.
 * Before software can be reusable it first has to be usable.
 * "What one person can do in nine months, nine persons can do in one month."
 * [Solve via iteration](https://www.instagram.com/p/CP_70ppLAYC/), then get paid by repetition (scale up).
 * Adding security to software after its been made is like [adding electricity and running water to a 1000 year old castle](https://twitter.com/jackrhysider/status/1453728265244315658).
-
-
-
 
 ## Software Engineering
 
@@ -106,9 +99,9 @@ Note that the validity of the following statements is dependent on certain *impl
 * Machine learning is the art of inferring *rules* and *patterns* based on `data` and `answers`. And then predicting the future.
 * Software Architecture is a discipline. Software is never [perfect](https://en.wikipedia.org/wiki/All_models_are_wrong) or [finished](https://www.youtube.com/watch?v=lY54TmmEllY) and requirements will change.
   * Design for failure. Assume each component will break eventually.
-      * Ensure that mistakes can be restored easily.
+    * Ensure that mistakes can be restored easily.
   * Design for change. Don't assume requirements will be constant.
-* The _fourth_ problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
+* The *fourth* problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA)
 * If tests are not run periodically they will start to fail over time.
 * Not all technical debt has to be [paid off](https://www.martinfowler.com/bliki/TechnicalDebt.html); sometimes code can be simply deprecated.
@@ -117,9 +110,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Laziness incentivizes [innovation](https://en.wikipedia.org/wiki/Automation).
 * Using [branches](https://en.wikipedia.org/wiki/Branching_(version_control)) defers integration. The average age of branches is inversely related to the [continuity](https://en.wikipedia.org/wiki/Continuous_integration) of integration.
 * Choosing the right methodology < being able to adjust & experiment (as a team)
-    * If your theoretically sound methodology is not working, then switching to an entirely new method will not help you. Instead learn to adjust and experiment.
-
-
+  * If your theoretically sound methodology is not working, then switching to an entirely new method will not help you. Instead learn to adjust and experiment.
 
 ### Collaboration
 
@@ -137,8 +128,6 @@ Note that the validity of the following statements is dependent on certain *impl
 * Refinement of stories is a type of risk mitigation, where the upfront cost is independent of the materialization of risks. Hence in many cases it may feel unnecessary.
 * Retrospectives are useless if you don't want to change
 
-
-
 ### DevOps
 
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
@@ -147,12 +136,12 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
   * This requires a fast and automated build-test-deployment process. Be able to deploy 100 times per day.
 * Maximize productivity by minimizing lead time per task/item.
-    * Strive for a stable one-by-one production flow (small batches).
-        * This is more *agile* than increasing parallelization and batch sizes.
-        * Remove any bottlenecks that stand in the way of this vision.
-        * Finish the current tasks before starting new ones.
-    * Minimize the number of handovers. Optimize the process such that it requires minimal inventory.
-    * Measure and visualize both lead-time and lead-time-per-task.
+  * Strive for a stable one-by-one production flow (small batches).
+    * This is more *agile* than increasing parallelization and batch sizes.
+    * Remove any bottlenecks that stand in the way of this vision.
+    * Finish the current tasks before starting new ones.
+  * Minimize the number of handovers. Optimize the process such that it requires minimal inventory.
+  * Measure and visualize both lead-time and lead-time-per-task.
 * Take calculated risks, experiment, make mistakes (notice mistakes) and learn from them.
   * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP. Failure enables success.
   * Use local discoveries to make [global improvements](https://en.wikipedia.org/wiki/Autonomation).
@@ -160,17 +149,17 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * Focus on a single experiment at a time, to minimize outcome ambiguity (e.g. when inferring causality).
   * Risk-free projects are unworthy. Run towards risk.
 * Design (processes) for failure.
-    * Assume that all people will make mistakes and act foolish eventually.
-    * Change the environment to minimize potential errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
-    * "Let it crash". Fail fast, but in a controlled way (e.g. using circuit breakers and compartmentalization). Make failure visible instead of suppressing it. Don't let problems accumulate to a [critical state](https://en.wikipedia.org/wiki/Critical_phenomena). This prevents [cascading](https://en.wikipedia.org/wiki/Cascading_failure) failures.
+  * Assume that all people will make mistakes and act foolish eventually.
+  * Change the environment to minimize potential errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
+  * "Let it crash". Fail fast, but in a controlled way (e.g. using circuit breakers and compartmentalization). Make failure visible instead of suppressing it. Don't let problems accumulate to a [critical state](https://en.wikipedia.org/wiki/Critical_phenomena). This prevents [cascading](https://en.wikipedia.org/wiki/Cascading_failure) failures.
 * Releasing a single feature is generally better then leaving 5 ones in-progress.
 * Defer impactful decisions if they are uncertain.
-    * Use small decisions as experiments.
-    * Put new code behind feature flags and use canary deployments.
+  * Use small decisions as experiments.
+  * Put new code behind feature flags and use canary deployments.
 * Prefer automation (and alternatives) over formal processes and contracts (e.g. in risk management).
-    * If it's risky then do it more often. This forces one to address issues.
-    * If it's difficult then do it more often. Practice.
-    * If it hurts (e.g. financially), do it more often. Let the pain show.
+  * If it's risky then do it more often. This forces one to address issues.
+  * If it's difficult then do it more often. Practice.
+  * If it hurts (e.g. financially), do it more often. Let the pain show.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
   * Ideally change one thing at the same time (in a team) so you can study the results and possibly infer causality. This is also an incentive to move faster and finish tasks.
@@ -178,24 +167,20 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Rely on read-only afternoons and Fridays. Do deployments and releases during weekends.
 * Tracking *waste* [implies](https://twitter.com/allenholub/status/1515368366126551048?s=11&t=J_VW7yZv_OUITGR5Bl41yQ) that it already has been identified, but not have been addressed.
 
-
-
 ### DevOps Organizations
 
 * Design organizations to be [self-organizing](https://en.wikipedia.org/wiki/Self-organization) and resilient.
   * Minimize the amount of regulation and bureaucracy. Time spend on filling out forms is a waste.
 * Build a community.
-    * Be more than just components (e.g. departments), be interconnected.
-    * Embrace communal learning. Learn for the sake of learning. This includes teaching.
-    * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing)).
+  * Be more than just components (e.g. departments), be interconnected.
+  * Embrace communal learning. Learn for the sake of learning. This includes teaching.
+  * Incentivize organizational [awareness](https://en.wikipedia.org/wiki/Andon_(manufacturing)).
 * Improvement and innovation should be done both top-down and bottom-up.
-    * Give teams and team-members agency such that they can experiment and innovate. Don't punish good processes with bad outcomes (but learn from them).
+  * Give teams and team-members agency such that they can experiment and innovate. Don't punish good processes with bad outcomes (but learn from them).
 * Multidisciplinary teams are initially less (cost-)efficient than functional teams, but make up for this by writing better and more stable software.
 * Assuming that employees are professional and act rationally, most mistakes can be attributed to external factors. Explain events with self-interest, then [stupidity](https://en.wikipedia.org/wiki/Hanlon%27s_razor), and only then malice.
 * Hire the most expensive experts.
-    * Hiring people for the short term incentivizes them to find short term solutions.
-
-
+  * Hiring people for the short term incentivizes them to find short term solutions.
 
 ### The hacker way
 
@@ -204,15 +189,13 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * E.g. writing a story, refining it, let it wait on backlog, waiting for approval.
 * Action builds resilience. Inaction feeds [doubt](https://twitter.com/ShaneAParrish/status/1392110803919179787) and uncertainty.
 * Always ask "Why?". Ought and Musts aren't valid reasons.
-    * Never say: "Sorry, that's out of scope".
+  * Never say: "Sorry, that's out of scope".
 * Reconsider all conventions. Try to hack your own systems. Always aks yourself:
   1. How can I break or abuse this?
   2. Are there other ways to do this?
 
-
-
-
 ## Programming languages
+
 * Runtime errors are a language (design) choice.
 * Unlinke Java, C is fast.
 * Unlike Java, Python is user-friendly.

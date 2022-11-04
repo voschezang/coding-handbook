@@ -36,8 +36,6 @@ Mathematically, the behaviour of a system can be described in several [levels](h
 1. [**Velocity**](https://en.wikipedia.org/wiki/Velocity). The change of the system over time (or space).
 2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
 
-
-
 ### Inventory
 
 Based on the domain, inventory can include unfinished work, unsold items, buffer, queues, margins of safety. A common role of inventory is to contain [risk](#Risk%20Management). However, inventory has a few inherent disadvantages.
@@ -54,11 +52,9 @@ From this definition, it follows that any work that does not contribute towards 
 
 > Working on the right thing > investing (e.g. optimizing, learning) > working on the wrong thing (over-producing)
 
-As a complement to this metric, the relative performance can be defined as: `(input - output) / inventory` (where inventory is never zero). This metric highlights the cost of inventory. Beware that it doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions). 
+As a complement to this metric, the relative performance can be defined as: `(input - output) / inventory` (where inventory is never zero). This metric highlights the cost of inventory. Beware that it doesn't include absolute profit. Any comparison will have to be adjusted for scale (e.g. thousands or millions).
 
 The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
-
-
 
 #### Waste & Idle time
 
@@ -68,8 +64,6 @@ Although idle time seems wasteful, it can be a necessity. Types of idle time:
 - Idle tasks. E.g. tasks that are on hold.
 
 A third category of inefficiency are resources that are doing the "wrong" thing. E.g. producing a product that doesn't have demand.
-
-
 
 ## Internal View
 
@@ -97,7 +91,6 @@ See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). B
 <img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:80%;" />
 </details>
 
-
 ### Single Chains
 
 This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
@@ -110,22 +103,16 @@ In the ideal case, the system has a known clear [critical path](https://en.wikip
 
 Resources can be classified as being part of the critical path or not. Resources in the first category can be managed aggressively, focussing on short-term efficiency, whereas other resources can be optimized towards long-term efficiency. Dependent on the flexibility of resources, non-critical resources could even be used to aid critical resources.
 
-
-
 ### Effectiveness
 
 A chain may contain unnecessary complexity. On a map, it would look like a meandering river.
 
-
-
 Components in a system may differ from each other w.r.t. specific dimensions. E.g.
 
-- Distance to the output of the system. 
-    - From the perspective of end-users.
-    - From the perspective of the provider. E.g. the value that's [added](https://en.wikipedia.org/wiki/Value_added) in each step.
+- Distance to the output of the system.
+  - From the perspective of end-users.
+  - From the perspective of the provider. E.g. the value that's [added](https://en.wikipedia.org/wiki/Value_added) in each step.
 - Level of [commodization](https://en.wikipedia.org/wiki/Commoditization). From novelty to commodity. A product may be completely customized or it can be a commodity. The latter is generally cheaper to outsource.
-
-
 
 **Example**
 
@@ -133,15 +120,13 @@ Components of a typical retail value chain. Due to regulation, not all component
 
 <img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:70%;" />
 
-
-
 **Changing the Technology**
 
 Changing a process or adapting a new technology may disrupt a system. In order to implement the change as optimally, the system will have to be re-adjusted. In order to decide which components to adapt, ask the following questions:
 
 - What <u>limitation</u> are you tackling?
-    - What is the benefit of the new technology?
-    - How will it improve our system?
+  - What is the benefit of the new technology?
+  - How will it improve our system?
 - Which <u>rules</u> have been in place to manage this limitation? *These have to be updated...*
 - What are the <u>consequences</u> of those rules and policies? *They can go...*
 
@@ -150,8 +135,6 @@ A few examples:
 - Agility: *The introduction of an [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) system will improve estimation and planning. Previously these calculations were done manually, which was time-consuming and thus expensive. As a result, this was done in large batches. Due to their large impact, these batches were verified thoroughly and changing them was forbidden.*
 - Inventory: *Due to slow switchovers, production of a specific product is done in large batches. We compete on price by providing discounts based on the size of batches. In order to control delivery times, we have to maintain a high inventory in every region.*
 - Efficiency: *This communication technology will allow us to communicate (or ship) within hours. Currently there is no awareness of the quantitive state of our different production centers. Hence, we don't know the exact demand of each state. This uncertainty was countered by a strategy of over-production: i.e. by maximizing resource utilization.*
-
-
 
 ### Efficiency
 
@@ -163,7 +146,7 @@ Consider that there are two perspectives to view the performance of a system.
 - The operational cost of the system. This is a linear sum of all the system's components.
 - The flow of value through the system. This consists of the lead time (per item) and the total throughput.
 
-Based on these perspectives, **resource efficiency** can be measured as **resource utilization** and **resource throughput**. Note that neither are perfect metrics. Resource utilization is defined as the proportion of time that a resource is busy. The inverse of utilization is idle time. This can be spare capacity, slack, or a margin of safety in project estimations. 
+Based on these perspectives, **resource efficiency** can be measured as **resource utilization** and **resource throughput**. Note that neither are perfect metrics. Resource utilization is defined as the proportion of time that a resource is busy. The inverse of utilization is idle time. This can be spare capacity, slack, or a margin of safety in project estimations.
 
 Resources are connected to each other with **queues**. In project management this takes the form inventory or *work in progress (WIP)*.
 
@@ -171,12 +154,12 @@ Resource utilization and queue size (WIP) are interconnected. Suppose that each 
 
 In addition, there are a few important but counter-intuitive effects.
 
-- Adding spare capacity tends to [decrease](https://en.wikipedia.org/wiki/Parkinson%27s_law) resource throughput. This means that incidental delays are not compensated. 
-    - E.g. the starting slowly because there is plenty to time left.
-    - E.g. postponing completion to avoid more aggressive schedules in the future. 
-- Increasing queue sizes will increase WIP (in project management). 
-    - This will increase the amount of unfinished work, which will increase handovers, which will decrease system throughput.
-    - This will increase pressure, which will increase context switching, which will decrease system throughput.
+- Adding spare capacity tends to [decrease](https://en.wikipedia.org/wiki/Parkinson%27s_law) resource throughput. This means that incidental delays are not compensated.
+  - E.g. the starting slowly because there is plenty to time left.
+  - E.g. postponing completion to avoid more aggressive schedules in the future.
+- Increasing queue sizes will increase WIP (in project management).
+  - This will increase the amount of unfinished work, which will increase handovers, which will decrease system throughput.
+  - This will increase pressure, which will increase context switching, which will decrease system throughput.
 
 ![scheduling-slack](img/scheduling-slack.png)
 
@@ -198,7 +181,7 @@ In theory, idle time of non-bottleneck resources is perfectly fine. This can eve
 
 #### Propagation of errors
 
->  A chain is no stronger than its weakest link.
+> A chain is no stronger than its weakest link.
 
 A bottleneck or constraint can greatly impact the product of the system. This could mean either poor performance or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this. The [critical path](https://en.wikipedia.org/wiki/Critical_path_method) is defined as the longest dependent chain.
 
@@ -208,15 +191,11 @@ The only fundamental way to avoid internal bottlenecks is to *subordinate* all o
 
 Note that there can also be an external bottleneck. E.g. market demand that is lower than the capacity of the system.
 
-
-
 #### Resource Contention
 
 In the aforementioned examples all resources had a static position. However, in reality, resources can shared. In such cases, the critical chain can span over multiple projects.
 
 <img src="img/critical-chain.png" alt="critical-chain" style="width:80%;" />
-
-
 
 #### Efficiency & Optimization
 
@@ -228,13 +207,12 @@ Two fundamental types of inefficiencies are spare *capacity* (partial utilizatio
 
 There are two types of efficiency:
 
-- Efficiency of resources. Reduce spare capacity (partial resource utilization). 
-    - Measured by resource utilization, which is defined as: "The percentage of time the resource is producing something which is contributing to the main goal". This definition excludes the production of e.g. spare parts.
-    - Risks: inventory (over-production), over-stretching of resources, over-optimization (silos).
-    - Build to sell: build until capacity runs out and then sell inventory to the highest bidder.
+- Efficiency of resources. Reduce spare capacity (partial resource utilization).
+  - Measured by resource utilization, which is defined as: "The percentage of time the resource is producing something which is contributing to the main goal". This definition excludes the production of e.g. spare parts.
+  - Risks: inventory (over-production), over-stretching of resources, over-optimization (silos).
+  - Build to sell: build until capacity runs out and then sell inventory to the highest bidder.
 - Efficiency of flow (to customer). I.e. [pull-strategy](https://en.wikipedia.org/wiki/Push%E2%80%93pull_strategy), demand-oriented. Because the customer pays for the service.
-    - Build to order: pre-define a price range and only build products that are ordered.
-
+  - Build to order: pre-define a price range and only build products that are ordered.
 
 Assume that people are never [blocked](https://en.wikipedia.org/wiki/Context_switch) and [always](https://en.wikipedia.org/wiki/Parkinson's_law) busy. Focus on the flow of *tasks*; ensure that they are not blocked. If there is spare capacity, then people can be free to make improvements and learn.
 
@@ -246,8 +224,6 @@ In a *balanced* system, all resources produce exactly the right amount. There is
 - Decrease batch sizes, which decreases lead time. This increases setup time (handovers).
 
 Having inventory can effect that are not directly financial. For example, owning real estate or vehicles rather than renting them can improve work attitude.
-
-
 
 ## Runtime
 

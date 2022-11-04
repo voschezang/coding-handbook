@@ -26,7 +26,7 @@ Scrum includes of:
 
 - 5 core [values](#Values):  `commitment, focus, openness, respect, courage`
 - The [Sprint](#Sprint) and 4 formal Sprint [events](#Sprint Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
-- 3 [roles](#Roles): `Product Owner, Scrum Master, Developers `
+- 3 [roles](#Roles): `Product Owner, Scrum Master, Developers`
 - 3 [artifacts](#Artifacts), each with a commitment: `Product Backlog (Goal), Sprint Backlog (Goal), Increment (DoD)` .
 
 These are hard, *immutable* requirements. This makes scrum revolutionary, rather than evolutionary. It isn't meant to be applied gradually (e.g. [kanban](learning.md#Kanban)). Instead, it requires a radical change in many traditional ways of working.
@@ -43,7 +43,7 @@ Scrum values empiricism and lean thinking.
 
 A few concrete values:
 
-- Quality first. Do not reduce quality for the sake of reaching a deadline. The only exception to deviate from standard processes are when there is a production-incident. 
+- Quality first. Do not reduce quality for the sake of reaching a deadline. The only exception to deviate from standard processes are when there is a production-incident.
 - Self-managing teams. Don't solve problems for the team but instead empower the team to find a solution.
 - Scrum is opposed to practices of hiding problems (from managers). E.g. polishing statistics out of fear or reprisal.
 
@@ -75,8 +75,6 @@ In addition, there are a few other activities
 
 Note that delivering software can be decoupled from releasing software. Even is delivered software is not released immediately, the periodic delivery incentivizes feedback and it increases transparency, and control.
 
-
-
 ## Values
 
 Scrum values people over processes. It advocates for the following values:
@@ -88,8 +86,6 @@ Scrum values people over processes. It advocates for the following values:
 - **Courage** to work on tough problems rather than blindly following traditional practices.
 
 Teams should discover themselves how they can apply these values in practice, in their organization.
-
-
 
 ## Roles
 
@@ -104,9 +100,9 @@ Managers that spend their time firefighting. Micromanagement, PO without authori
 
 The PO is accountable for the following items, but can delegate them if desired:
 
-- Developing and communicating the product goal and strategy. 
-    - Prioritizing *new* features and deciding which *existing* features to keep.
-    - Choosing the target market.
+- Developing and communicating the product goal and strategy.
+  - Prioritizing *new* features and deciding which *existing* features to keep.
+  - Choosing the target market.
 
 - Mediation between stakeholders, customers and the development teams.
 
@@ -137,13 +133,13 @@ As the team develops itself from towards mastery of Scrum, the role of the SM ca
 Although the SM is the expert on the Scrum process, most decisions should be made by the team. The SM is a [servant leader](https://en.wikipedia.org/wiki/Servant_leadership), rather than a boss, chairman, scribe, secretary or police agent. Based on the environment, the role can manifest itself in several ways. A good SM chooses deliberately how to act.
 
 - Leading, pushing
-    - Teacher or mentor
-    - Uphold Scrum
-    - Take action. E.g. escalate a problem.
+  - Teacher or mentor
+  - Uphold Scrum
+  - Take action. E.g. escalate a problem.
 - Facilitating, showing, giving perspective
-    - Facilitator or coach
-    - Actively do nothing. Observe. E.g. let small problems reveal itself to the team.
-    - Point north
+  - Facilitator or coach
+  - Actively do nothing. Observe. E.g. let small problems reveal itself to the team.
+  - Point north
 
 ### Developers
 
@@ -155,25 +151,25 @@ The rest of the **development teams** do not have a hierarchy and are instead se
 
 The **Scrum teams** consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO. Scrum prescribes a team size of at most 10 members, unless there is a good reason to have a larger team.
 
-
-
 ## Events
 
 ### Sprint
-Sprints can be independent from the release cycle; in the ideal case releases happen multiple times per week. The focus of a sprint should be to reach the Sprint goal rather than following the initial planning; it may not be necessary to finish all work in the Sprint Backlog. If the sprint goal becomes obsolete then the PO can end the sprint prematurely. New sprints start automatically after the previous sprint has ended. 
+
+Sprints can be independent from the release cycle; in the ideal case releases happen multiple times per week. The focus of a sprint should be to reach the Sprint goal rather than following the initial planning; it may not be necessary to finish all work in the Sprint Backlog. If the sprint goal becomes obsolete then the PO can end the sprint prematurely. New sprints start automatically after the previous sprint has ended.
 
 The duration of sprints is chosen based on busines risk and synchronization with other business events. The chosen duration is fixed, but a sprint can be cancelled if the Sprint Goal has become obsolete. If there is unfinished work left in a sprint then that  may be moved over the the next sprint. If the sprint goal is not reached then the team should take it as an opportunity to learn and choose a new sprint goal in the next sprint. Hence it is not permitted to increase the length of a sprint. In addition,  reducing quality for the sake of reaching a deadline is a no-go.
 
 **Anti-pattern**
 Too little or too much overlap between sprints
 
-- Start-stop scrum; no continuity between sprints. 
+- Start-stop scrum; no continuity between sprints.
 
 - Red sprints; repeatedly having leftover work from each previous sprint.
 
 E.g. repeatedly scoping out all unfinished work at the end of the sprint to make it seem like the sprint went perfect.
 
 ### Sprint Events
+
 Sprint events are opportunities to inspect the current sprint and adapt accordingly. These events are all time-boxed, but usually they don't take up their full capacity, especially not for shorter sprints.
 
 | Event                | What to inspect?                   | What to adapt?                                 | Who attends?                | Time-box (for 1 Month) |
@@ -194,23 +190,21 @@ This is a developer-centric event that occurs daily, at the same place and time 
 Example formats:
 
 - Focus on flow of work. E.g. check each work item on the Scrum board.
-    - Risk: missing out on topics that are not on the board.
-    - Possible steps:
-        - *Which tasks moved recently?* 
-        - *Which tasks will be updated today?*
-        - *What work is blocked?*
+  - Risk: missing out on topics that are not on the board.
+  - Possible steps:
+    - *Which tasks moved recently?*
+    - *Which tasks will be updated today?*
+    - *What work is blocked?*
 - Focus on people. E.g. ask everyone for a status update.
-    - Benefit: inclusion, improve personal connections. E.g. for remote jobs.
-    - Risk: work items can get overlooked.
-    - Possible steps:
-        - *What did you do?*
-        - *What are you going to do? What do you want to do/achieve/finish today?*
-        - *Any blockers?*
+  - Benefit: inclusion, improve personal connections. E.g. for remote jobs.
+  - Risk: work items can get overlooked.
+  - Possible steps:
+    - *What did you do?*
+    - *What are you going to do? What do you want to do/achieve/finish today?*
+    - *Any blockers?*
 - Combinations
-    - Work-first. Ask for personal updates iff there are no work items.
-    - People-first. For everyone, check-in on their work items.
-
-
+  - Work-first. Ask for personal updates iff there are no work items.
+  - People-first. For everyone, check-in on their work items.
 
 **Sprint Planning**
 A sprint starts with a planning session where the Why, What and How of the current sprint are discussed. Note that these points impact each other, so it may be necessary to go back and forth between these questions.
@@ -218,14 +212,12 @@ A sprint starts with a planning session where the Why, What and How of the curre
 - Why is this sprint valuable? -> Sprint Goal
 - What can be done this sprint. -> Sprint Backlog
 - How will this be done? -> Planning
-    - E.g. split backlog items up into manageable or predictable tasks.
-    - Note that any forecast should be given under clear conditions. E.g. with the condition that the capacity will be stable and that no unforeseen events pop up.
-        - Use confidence intervals?
-
-
+  - E.g. split backlog items up into manageable or predictable tasks.
+  - Note that any forecast should be given under clear conditions. E.g. with the condition that the capacity will be stable and that no unforeseen events pop up.
+    - Use confidence intervals?
 
 **Sprint Review**
-The team informs stakeholders about their progress. A moment for stakeholders and other parties to give feedback. 
+The team informs stakeholders about their progress. A moment for stakeholders and other parties to give feedback.
 
 - This is not a validation stage of past work but rather a moment to incorporate new information into the product backlog.
 - The review should not be a sales pitch and neither should it give a demo of features that are not yet *done*. However, it can discuss progress or challenges.
@@ -239,23 +231,17 @@ It can include:
 - Current business conditions.
 - Product Backlog and progress towards Product goal.
 
-
-
 **Sprint Retrospective**
 Reflect on the last sprint with regards to individuals, interactions, processes and tools. Discuss what went well, what problems were encountered and how those problems could be solved. The [format](https://retromat.org/) the can be varied occasionally, but not too often.
 
-
-
 ## Artifacts
 
-Scrum does not prescribe [user-stories](https://www.atlassian.com/agile/project-management/user-stories) or [epics](https://www.atlassian.com/agile/project-management/epics-stories-themes), but instead uses the generic term Product Backlog Item (PBI). The flow ` idea > WIP >  delivery > release` is as follows:
+Scrum does not prescribe [user-stories](https://www.atlassian.com/agile/project-management/user-stories) or [epics](https://www.atlassian.com/agile/project-management/epics-stories-themes), but instead uses the generic term Product Backlog Item (PBI). The flow `idea > WIP >  delivery > release` is as follows:
 
 1. Product Backlog Item. The size and complexity can vary, but higher priority items should be more specific, and preferably smaller. Some teams like use a "definition of ready".
-2. *Refined* Product Backlog Item, which is clearly defined and can be explained to stakeholders. Refining should be done just-in-time rather than months in advance, to prevent waste. External dependencies should be minimized (or addressed). 
+2. *Refined* Product Backlog Item, which is clearly defined and can be explained to stakeholders. Refining should be done just-in-time rather than months in advance, to prevent waste. External dependencies should be minimized (or addressed).
 3. Items on the Sprint Backlog. PBI's are decomposed into items that take at most one day.
 4. Increment; a piece of functionality that complies with the Definition of Done (DoD). It should be a usable and may combine multiple PBIs. Increments should not be split up into multiple stages (e.g. `design, develop, test`).
-
-
 
 Some common patterns for PBIs. Lowercase letters denote preparation and uppercase letters denote a release.
 
@@ -263,8 +249,6 @@ Some common patterns for PBIs. Lowercase letters denote preparation and uppercas
 - `ABC ABC ABC`: release frequently, but without focus.
 - `aaA bbB ccC`: release less frequently, but with focus.
 - `abc abc ABC`: stack up WIP and release them after the third sprint (anti-pattern).
-
-
 
 The size or weight of PBIs is a proxy for the effort required to finish it. It can be expressed in e.g. FTE hours or complexity. If all PBIs have a comparable size then it becomes easier to predict when work is finished, even while taking into account uncertainty. In order to make accurate estimations a confidence interval based on historical data is vital.
 
@@ -275,8 +259,6 @@ The size or weight of PBIs is a proxy for the effort required to finish it. It c
 | Product Backlog (ordered list of PBIs) | Product Goal       |
 | Sprint Backlog (selection of backlog)  | Sprint Goal        |
 | Increment (finished work)              | Definition of Done |
-
-
 
 **Product Backlog**
 A single source of truth of planned work. It is prioritized by value, as defined by the PO. In practice, the preferences of individuals can play a role as well. E.g. due to affinity, skill or even optics.
@@ -290,18 +272,15 @@ The Sprint Backlog is owned by the development team. If there is demand to chang
 Note that the selection and structure of sprint backlog items influences how effective the development team can be. There is a tradeoff between high autonomy and high alignment. An example of the former would be focus on individual (personal) tasks, and an example of the latter would be focus on task with the highest priority, at the cost of context switching.
 
 **Sprint Goal**
-Having a single goal forces the team and stakeholders to accept the priority of features. It incentivizes stakeholders to align on what's the most important aspect. 
+Having a single goal forces the team and stakeholders to accept the priority of features. It incentivizes stakeholders to align on what's the most important aspect.
 
 As mentioned, reaching the sprint goal has precedence over the sprint backlog. The development team is solely responsible for the Sprint Backlog, and can change it as they see fit. If they want to adjust the Sprint Goal or the planning then they can discuss or re-negotiate it with the PO.
 
 Ideally the Sprint Goal would have been reached before the end of the sprint. In such case the team could start preparation for the next sprint, but they could also take this opportunity to invest time in longer-term goals, reflect or work on personal improvements.
 
-
-
  **Definition of Done**
 The Definition of Done (DoD) describes when an Increment is *ready* to be released to customers. It is used to ensure quality. and transparency, by providing a shared understanding. It is created by the Scrum Team. If there is a organization-wide DoD then that one must be followed as a minimum. The Dod should be equal for teams that work on the same product, but it can be complemented by team-specific *development standards*.
 
-In addition, the DoD is complemented by Acceptance Criteria of backlog items, which are more specific. 
+In addition, the DoD is complemented by Acceptance Criteria of backlog items, which are more specific.
 
 Ideally, compliance with internal or external regulation would be ensured through automated pipelines rather than manual verification.
-

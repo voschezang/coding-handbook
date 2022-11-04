@@ -15,8 +15,6 @@ Different modes of planning:
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
-
-
 **Terminology**
 
 Specific types of goals
@@ -31,10 +29,7 @@ Specific types of goals
 | Segmentation | Who                         |
 | Positioning  | Where                       |
 
-
 Note that these can be chosen for an *organization* and for each *product* within that organization.
-
-
 
 ## Map
 
@@ -42,22 +37,16 @@ A visualization of points in space. They allow you to explore routes.
 
 They give insight into the environment and into how the environment is changing.
 
-
-
 Components
 
 - Anchor. Central, stable point.
 - Legend. What does space mean
-
-
 
 Dimensions that can be used:
 
 - Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
 - Visibility to end-users.
 - Level of [commodization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.
-
-
 
 ## Roadmap
 
@@ -78,8 +67,8 @@ An hierarchy of three layers:
 A few variants:
 
 - North Star Goal: specific and measurable. A rough direction to go towards. Top of the goal/sub-goal hierarchy.
-    - Ideally this metric is consistent with your definition of success.
-    - Ideally this metric is clear to the whole organization, such that they can align.
+  - Ideally this metric is consistent with your definition of success.
+  - Ideally this metric is clear to the whole organization, such that they can align.
 - Objective, Outcome or narrative: what the ideal state would look like. A vision. This can be a condition that needs to be fulfilled.
 
 Based on this high-level goal, you can start to trace back which steps are necessary to reach it. In addition, you can setup *inputs* or metrics to track progress.
@@ -102,8 +91,6 @@ A major strategy for this is diversification. Consider multiple initiatives that
 
 A common tool to address the complexity of this area are [OKRs](https://en.wikipedia.org/wiki/OKR). Do note that this works best as a *complement* to a long-term outcome.
 
-
-
 ### Living Roadmap
 
 A roadmap becomes outdated over time due to:
@@ -124,17 +111,11 @@ A template for a one-pager roadmap. This can be complemented with external sourc
 
 In addition, it can be useful to include *anti-goals*, i.e. which activities are excluded. This makes trade-offs explicit, and forces the authors to investigate their choices.
 
-
-
 <img src="img/roadmap.png" alt="roadmap" style="width:50%;" />
-
-
 
 #### Template 2
 
 List the desired outcomes over time, using an exponential timescale. E.g. a month, quarter, year and 4 years.
-
-
 
 #### Meetings
 
@@ -145,8 +126,6 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 - Monthly strategic meeting. Decide on long-term adjustments. Prepare topics beforehand.
 - Quarterly off-site review. Take an outside-view and reflect.
 
-
-
 ## Project Portfolio
 
 Before creating a roadmap, one must choose the right projects or initiatives.
@@ -154,8 +133,6 @@ Before creating a roadmap, one must choose the right projects or initiatives.
 Individually, each projects may seem valuable. The challenge is to maintain a balanced portfolio of projects. A typical chicken-egg problem is that projects need to be prepared before they can be prioritized. Doing too much preparation increases WIP and thus reduces focus. This template attempts to avoid this by defining high level outcomes and excluding details.
 
 This is especially useful w.r.t technical work that is not visible to end users. Although it is valuable, it can be easily be postponed without affecting promises to stakeholders.
-
-
 
 ### Template 1: Signals & Underlying Problems
 
@@ -165,7 +142,7 @@ Awareness of the current landscape is a prerequisite of planning. This template 
 
 1. Observe **signals**. Which problems are clearly visible. E.g. red flags, pain points or obstacles.
 2. Determine the **underlying problems**. Do this based on hypotheses.
-    1. What is causing these signals? Why haven't they been addressed before? 
+    1. What is causing these signals? Why haven't they been addressed before?
     2. Collect data if necessary.
 
 Based on this, it is possible to:
@@ -175,14 +152,12 @@ Based on this, it is possible to:
 
 Review & report in order to maximize learning.
 
-
-
 ### Template 2: Desired States
 
-Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state. 
+Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state.
 
 - Emphasize the *problem* with the current state.
-- The desired state is not necessarily a *target*, but rather an *idealistic outcome*. 
+- The desired state is not necessarily a *target*, but rather an *idealistic outcome*.
 
 This template focusses on the range of outcomes and <u>excludes how to reach them</u>. This avoids the overhead of up-front planning, and reduces the risk of plans becoming outdated.
 
@@ -209,15 +184,11 @@ Desired State
 ...
 ```
 
-
-
 ### Template 3: Portfolio
 
 This is again based on categories or themes, but this template emphasizes the option pool. The shape of the visualisation (when zoomed out) gives an indication of the amount of focus.
 
 ![option-pyramid](img/option-pyramid.png)
-
-
 
 ## Models for Goal Setting
 
@@ -230,12 +201,7 @@ Different ways to set goals
 - Y. Required objective for Z.
 - Z. North star goal
 
-
-
 <img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
-
-
-
 
 ## Documentation
 
@@ -247,8 +213,6 @@ Summarize higher level in one-pages, but do use appendices (for details) and lin
 
 **Assumptions & Facts**
 For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
-
-
 
 ### Tools
 
@@ -269,15 +233,12 @@ In order to be effective, a the scope should be limited to a few weeks.
 **Epic**
 A collection of user stories that can be finished in at most a handful of months.
 
-
-
 ## Goals
 
 A goal should be accompanied with an *initiative* (input), *target* (output, result) and a *target condition* (objective, outcome).
 
-
-
 The **goal** itself should be skewed towards the *Why* instead of the *What*. It should be an optimistic vision or mission.
+
 - This includes a understanding of the relevant assumptions.
 - Goals that are too high lead short term optimization (trying to survive instead of investing).
 - Goal that are not high enough lead to a lack of focus.
@@ -298,7 +259,7 @@ Use metrics as a tool to track incremental progress. Expectations for metrics sh
 - Note that all metrics are flawed. They cannot be both generic and specific.
 - Optimize targets and not [the measure](https://en.wikipedia.org/wiki/Goodhart%27s_law) (avoid [perverse incientives](https://en.wikipedia.org/wiki/Perverse_incentive)).
 
-- Use different goals per timescale: `days, weeks, months, years, decades `. Relate shorter term goals to longer term goals. 
+- Use different goals per timescale: `days, weeks, months, years, decades`. Relate shorter term goals to longer term goals.
 
 **Estimating**
 
@@ -315,8 +276,6 @@ Avoid personal bias. Instead of estimating your personal work (or your team), es
 
 The optimal size of batches, number of batching steps and the size of subtasks is context-dependent. Hence it should be optimized to current conditions, in concurrence with any target conditions.
 
-
-
 **Choosing Goals**
 
 Prioritization requires de-prioritization. This is inherently difficult. A few tools that can be used are:
@@ -325,9 +284,7 @@ Prioritization requires de-prioritization. This is inherently difficult. A few t
 
 - Create a plot of the benefits as result of the effort required, for each possible goal.
 
-
-
 Defining goals
 
 - Bottom-up: First list features or desires, then define metrics.
-- Top-down: Define a desired outcome, then define metrics to track progress towards that outcome, then list immediate actions. 
+- Top-down: Define a desired outcome, then define metrics to track progress towards that outcome, then list immediate actions.
