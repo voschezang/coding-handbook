@@ -1,0 +1,59 @@
+parameters:
+    headings:
+        fundamental: Fundamental Theory
+        emergent: Emergent Theory
+        applied_to_domain: Applied to a domain
+        applied_to_real: Applied to the real world
+rows:
+    - row:
+          fundamental:
+              - Mathematical Optimization
+              - Numerical Analysis
+          emergent:
+              - Parallel Programming
+          applied_to_domain:
+              - Optimization
+          applied_to_real:
+              - High Performance Computing
+    - row:
+          fundamental:
+              - Computational Models. E.g. lambda calculus
+          emergent:
+              - Programming Patterns
+              - Enterprise Integration Patterns
+          applied_to_domain:
+              - Programming Paradigms
+          applied_to_real:
+              - Programming Languages
+              - OOP Design Patterns
+    - row:
+          fundamental:
+              - Systems Theory
+          emergent:
+              - System Design
+          applied_to_domain:
+              - (Design of) Organizations
+              - Software Design
+          applied_to_real:
+              - Business administration
+              - Domain-Driven Design
+
+parameters2:
+    headings:
+        - &fundamental Fundamental Theory
+        - &emergent Emergent Theory
+        - &applied_to_domain Applied to a domain
+        - &applied_to_real Applied to the real world
+
+rows2:
+    - row:
+          - name: *fundamental
+            value:
+                - Mathematical Optimization
+                - Numerical Analysis
+          - name: *emergent
+            value: Parallel Programming
+          - name: *applied_to_domain
+            value: Optimization
+          - name: *applied_to_real
+            value: High Performance Computing
