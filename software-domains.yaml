@@ -2,19 +2,60 @@ parameters:
     headings:
         fundamental: Fundamental Theory
         emergent: Emergent Theory
-        applied_to_domain: Applied to a domain
+        applied_to_domain: Applied to a _domain_
         applied_to_real: Applied to the real world
 rows:
     - row:
           fundamental:
+              - Math/Logic
+          emergent:
+              - Statistic
+          applied_to_domain:
+              - Data Science
+          applied_to_real:
+              - Data Engineering
+    - row:
+          fundamental:
+              - Graph Theory
+                - Information Theory
+          emergent:
+              - Network Science
+          applied_to_domain:
+              - Computer Networks
+              - Social networks
+          applied_to_real:
+              - Telecommunications network
+    - row:
+          fundamental:
+              - Information Theory
+              - Computability
+          emergent:
+              - Cryptography
+          applied_to_domain:
+              - InfoSec
+          applied_to_real:
+              - Application / Computer / Network Security
+    - row:
+          fundamental:
+              - Mathematical models
+              - Queueing theory
+          emergent:
+              - Mathematical optimization
+          applied_to_domain:
+              - Operations research
+          applied_to_real:
+              - "- Industrial engineering \n- Scheduling \n-  Supply chain management"
+              - "- ERP \n- CRM \n- BI \n- HR systems"
+    - row:
+          fundamental:
               - Mathematical Optimization
-              - Numerical Analysis
+              - Numerical analysis
           emergent:
               - Parallel Programming
           applied_to_domain:
               - Optimization
           applied_to_real:
-              - High Performance Computing
+              - High-performance computing
     - row:
           fundamental:
               - Computational Models. E.g. lambda calculus
@@ -28,32 +69,48 @@ rows:
               - OOP Design Patterns
     - row:
           fundamental:
+              - Mathematical (formal) logic _(e.g. set theory)_
+              - Computational Models _(e.g. λ-calculus)_
+          emergent:
+              - Computational Complexity
+              - Computability
+          applied_to_domain:
+              - Programming Paradigms _(e.g. FP, OOP)_
+          applied_to_real:
+              - Programming Languages _(e.g. C, Java)_
+    - row:
+          fundamental:
+              - "[Communication Patterns](communication-patterns.md)"
+          emergent:
+              - "[Programming Patterns](programming-patterns.md)"
+          applied_to_domain:
+              - <u>Enterprise</u> Integration Patterns
+              - <u>OOP</u> Design Pattern
+          applied_to_real:
+              - "[Programming Paradigms](programming-paradigms.md)"
+    - row:
+          fundamental:
               - Systems Theory
           emergent:
               - System Design
           applied_to_domain:
-              - (Design of) Organizations
+              - _(Design of)_ [Organizations](organization-structure.md)
               - Software Design
           applied_to_real:
-              - Business administration
-              - Domain-Driven Design
-
-parameters2:
-    headings:
-        - &fundamental Fundamental Theory
-        - &emergent Emergent Theory
-        - &applied_to_domain Applied to a domain
-        - &applied_to_real Applied to the real world
-
-rows2:
+              - "- Business administration \n- Enterprise application integration \n- Enterprise Architecture"
+              - Domain-Driven Design, [DDD](domain-driven-design.md)
     - row:
-          - name: *fundamental
-            value:
-                - Mathematical Optimization
-                - Numerical Analysis
-          - name: *emergent
-            value: Parallel Programming
-          - name: *applied_to_domain
-            value: Optimization
-          - name: *applied_to_real
-            value: High Performance Computing
+          fundamental:
+              - "Systems Thinking"
+          emergent:
+              - "[Systems Management](systems-management.md)"
+              - "[Requirements Engineering](requirements-engineering.md)"
+              - Goal Setting
+          applied_to_domain:
+              - "[Management Principles](management-principles)"
+              - "[Goals/Planning/Strategy](goals-planning-strategy.md)"
+              - ""
+          applied_to_real:
+              - "[Product Management](product-management)"
+              - "[Project Management](project-management)"
+              - Business Operations
