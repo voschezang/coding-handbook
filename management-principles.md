@@ -8,7 +8,11 @@ Inspired by [various sources](#References). See also [goals & strategy](goals-pl
 
 > Good management is situational
 
-Management *an sich* is a theoretical domain. In the real world, all there exists is management of a *subject*. For example: management of people or a project. The *subject* can be seen as a system. The purpose of a manager is to ensure that the system achieves it purpose - now as well as in the future. Hence, rather than merely [doing work](https://twitter.com/reinh/status/1565487105907703808) - i.e. planning or executing plans - it involves facilitation and orchestration. As a consequence, the performance of a manager is interconnected with the performance of a system.
+Management *an sich* is a theoretical domain. In the real world, one would encounter management of a *subject*. For example: management of a project or a department.
+
+This *subject* can be framed as a [theoretical system](systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
+
+At minimum, management involves alignment, facilitation and orchestration. Depending on the scale of the subject, a manager may also contribute in secondary tasks such as planning, execution and coaching. Hence the role of a manager may extend from facilitator to director.
 
 Management consists of **balances**. For example:
 
@@ -22,6 +26,8 @@ Management consists of **balances**. For example:
 
 See also [organization-structure](organization-structure.md) and [systems-management](systems-management.md).
 
+
+
 Three integral properties of management.
 
 1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge.
@@ -29,6 +35,8 @@ Three integral properties of management.
 3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value.
     1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
     2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
+
+
 
 Management consists of two main activities:
 
@@ -41,6 +49,7 @@ Management consists of two main activities:
 
     - Employees should have agency and be incentivized to be pro-active. Allow them to question everything.
     - The organization should be a community, where people interact.
+3. Ensuring the availability of resources (incl. in the future).
 
 Hence management styles can be oriented towards (1) leadership or (2) facilitation. In addition there might be a focus on a specific function, for example a product or project. The work will vary greatly dependent on the type of organization and the composition of teams.
 
@@ -67,14 +76,16 @@ Define a proper measure of success. Evaluate whether the assignment could be suc
 
 Typical components:
 
-- Total returns. Delivered  value rather than produced value. E.g.
+- Total returns. Delivered value - rather than produced value. E.g.
   - Profit minus expenses and inventory.
   - Quality: high quality and low variance.
 
 - Relative returns. Delivered value relative to the effort or cost put into the system.
   - Efficiency: of the system as a whole or individual components (e.g. resources). This consists of resource utilization and throughput.
 
-- Agility: be able to adapt. Typical influences are lead time, batch sizes
+- Agility: be able to adapt. Typical influences are lead time, batch sizes.
+    - E.g. minimize the cost of change.
+
 
 Note that measures of success can be biased by how a component is perceived. E.g. a cost center of a profit center.
 

@@ -166,6 +166,18 @@ Ofter there is a need for a balance between the two. Too much orchestration can 
 
 ### Organizational Scale
 
+#### Scaling Agile
+
+Achieving high agility of small teams is much simpler that doing it for multiple teams. A few guidelines to do this:
+
+- Scale down. Focus on the core business and outsource the rest.
+- Scale out. Divide an organization into independent, autonomous components.
+- Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
+
+
+
+#### Structure
+
 Scaling up an organization while maintaining centralized control is difficult. Components may compete with each other.
 
 There are a few phases that can be distinguished:
@@ -180,6 +192,8 @@ At certain scales, the structure incentivizes **local** optimizations due to the
 - In feature teams this can lead to diverging features. This increases duplication.
 
 ![scaling-orgs](img/scaling-orgs.png)
+
+
 
 ### Hierarchy of Components
 
