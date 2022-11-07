@@ -60,52 +60,45 @@
   </tbody>
   <tbody>
     <tr>
-      <td><p>Mathematical models</p>
-</td>
-      <td rowspan="2"><p>Mathematical optimization</p>
-</td>
-      <td rowspan="2"><p>Operations research</p>
-</td>
       <td><ul>
+<li>Mathematical models</li>
+<li>Queueing theory</li>
+</ul>
+</td>
+      <td rowspan="2"><ul>
+<li>Mathematical / Stochastic optimization</li>
+</ul>
+</td>
+      <td><p>Operations research</p>
+</td>
+      <td><p>Domains</p>
+<ul>
 <li>Industrial engineering</li>
 <li>Scheduling</li>
 <li>Supply chain management</li>
 </ul>
-</td>
-    </tr>
-    <tr>
-      <td><p>Queueing theory</p>
-</td>
-      <td><ul>
-<li>ERP</li>
-<li>CRM</li>
-<li>BI</li>
+<p>Applications</p>
+<ul>
+<li>ERP systems</li>
+<li>CRM systems</li>
+<li>BI systems</li>
 <li>HR systems</li>
 </ul>
-</td>
-    </tr>
-    <tr></tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td><p>Mathematical Optimization</p>
-</td>
-      <td rowspan="2"><p>Parallel Programming</p>
-</td>
-      <td rowspan="2"><p>Optimization</p>
-</td>
-      <td rowspan="2"><p>High-performance computing</p>
 </td>
     </tr>
     <tr>
       <td><p>Numerical analysis</p>
 </td>
+      <td><p>Parallel Programming</p>
+</td>
+      <td><p>High-performance computing</p>
+</td>
     </tr>
     <tr></tr>
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="2"><p>Computational Models. E.g. lambda calculus</p>
+      <td rowspan="2"><p>Computational Models <em>(e.g. λ-calculus)</em></p>
 </td>
       <td><p>Programming Patterns</p>
 </td>
@@ -124,9 +117,12 @@
   </tbody>
   <tbody>
     <tr>
-      <td><p>Mathematical (formal) logic <em>(e.g. set theory)</em></p>
+      <td><p>Computational Models <em>(e.g. λ-calculus)</em></p>
 </td>
-      <td><p>Computational Complexity</p>
+      <td rowspan="2"><ul>
+<li>Computability</li>
+<li>Computational Complexity</li>
+</ul>
 </td>
       <td rowspan="2"><p>Programming Paradigms <em>(e.g. FP, OOP)</em></p>
 </td>
@@ -134,9 +130,7 @@
 </td>
     </tr>
     <tr>
-      <td><p>Computational Models <em>(e.g. λ-calculus)</em></p>
-</td>
-      <td><p>Computability</p>
+      <td><p>Mathematical (formal) logic <em>(e.g. set theory)</em></p>
 </td>
     </tr>
     <tr></tr>

@@ -100,7 +100,7 @@ A roadmap becomes outdated over time due to:
 
 Hence, use a format that is resilient to change. This can be done by combining high-level and low-level descriptions.
 
-#### Template 1
+#### Template 1: Persistent Outcomes
 
 A template for a one-pager roadmap. This can be complemented with external sources.
 
@@ -113,9 +113,30 @@ In addition, it can be useful to include *anti-goals*, i.e. which activities are
 
 <img src="img/roadmap.png" alt="roadmap" style="width:50%;" />
 
-#### Template 2
 
-List the desired outcomes over time, using an exponential timescale. E.g. a month, quarter, year and 4 years.
+
+This can be accompanied with the following:
+
+- A list of initiatives. I.e. the work that needs to be done to reach a target state.
+
+- A list of desired outcomes over time, on an exponential timescale. E.g. a month, quarter, year and 4 years.
+
+#### Template 2: Goal Cascade
+
+(anti-pattern, from [here](https://cutlefish.substack.com/p/tbm-4151-why-goal-cascades-are-harmful))
+
+A hierarchy of targets that is updated every quarter.
+
+1. A few organization-wide, high level goals.
+2. Department-specific goals that contribute towards the first goals.
+3. Team-specific goals that  contribute towards the departmental goals.
+
+**Risks**
+
+- Over-simplification at the top. Reality is modeled as a tree-like graph, with independent sub-goals. This creates an incentivize for local optimization.
+- Fragile, high fluctuation in goals. Each goal is a piece of work and has to be replaced after the work has been executed.
+
+
 
 #### Meetings
 

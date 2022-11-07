@@ -37,28 +37,22 @@ rows:
               - Application / Computer / Network Security
     - row:
           fundamental:
-              - Mathematical models
-              - Queueing theory
-          emergent:
-              - Mathematical optimization
-          applied_to_domain:
-              - Operations research
-          applied_to_real:
-              - "- Industrial engineering \n- Scheduling \n-  Supply chain management"
-              - "- ERP \n- CRM \n- BI \n- HR systems"
-    - row:
-          fundamental:
-              - Mathematical Optimization
+              - " - Mathematical models \n - Queueing theory"
               - Numerical analysis
           emergent:
-              - Parallel Programming
+              - "- Mathematical / Stochastic optimization"
           applied_to_domain:
-              - Optimization
+              - Operations research
+              - Parallel Programming
           applied_to_real:
+              #   - "- Industrial engineering \n- Scheduling \n-  Supply chain management"
+              #   - "- ERP systems\n- CRM systems\n- BI systems\n- HR systems"
+              #   - ERP / CRM / BI / HR systems
+              - "Domains\n- Industrial engineering \n- Scheduling \n-  Supply chain management \n\nApplications\n- ERP systems\n- CRM systems\n- BI systems\n- HR systems"
               - High-performance computing
     - row:
           fundamental:
-              - Computational Models. E.g. lambda calculus
+              - Computational Models _(e.g. λ-calculus)_
           emergent:
               - Programming Patterns
               - Enterprise Integration Patterns
@@ -69,11 +63,10 @@ rows:
               - OOP Design Patterns
     - row:
           fundamental:
-              - Mathematical (formal) logic _(e.g. set theory)_
               - Computational Models _(e.g. λ-calculus)_
+              - Mathematical (formal) logic _(e.g. set theory)_
           emergent:
-              - Computational Complexity
-              - Computability
+              - "- Computability \n - Computational Complexity"
           applied_to_domain:
               - Programming Paradigms _(e.g. FP, OOP)_
           applied_to_real:

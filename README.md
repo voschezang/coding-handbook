@@ -41,13 +41,17 @@ Other
 - [Modeling](modeling.md) - theory about models.
 - [Learning](learning.md) - theory about change and improvement.
 
+
+
 **Relations between documents**
 
-From abstract theory to application within a domain.
+From abstract theory to application within a domain. For a full overview, see [this table](software-domains-table.md).
 
 - [Communication Patterns](communication-patterns.md) > [Programming Patterns](programming-patterns.md) > [Programming Paradigms](programming-paradigms.md)
 - [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management)
 - [Systems Management](systems-management.md) > [Organization Structure](organization-structure.md) > [Organization Architecture](organization-architecture.md)
+
+
 
 **Perspective & Generalizability of Guidelines**
 
