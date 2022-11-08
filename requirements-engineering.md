@@ -4,6 +4,8 @@ This document focusses on requirements for a single *unit* of work. Projects tha
 
 [toc]
 
+## Overview
+
 Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. This scope can be defined in different levels:
 
 - **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
@@ -23,6 +25,8 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 - *Could* have. Desirable, but only if time and resources permit.
 - *Won't* have. Explicitly excluded from the current scope.
 
+
+
 **Functional and non-functional requirements (NFR)**
 
 [Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).
@@ -31,17 +35,48 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 
 [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g.a system should be user-friendly and maintainable.
 
-## Specification of Tasks
+
+
+**Template**
+
+Testable requirements. Functional or non-functional.
+
+1. Describe behaviour of the system; how it reacts to inputs.
+    - This part may be complex, but start with an high level, treating the internals as a black box.
+2. Describe the boundaries of the system; list all inputs and outputs.
+3. Describe the purpose of the system. This may result in some non-functional requirements.
+
+Avoid or resolve ambiguity.
+
+> *Complicated* is just a euphemism for "scary to think about".
+
+
+
+## Specification
+
+### Tasks
 
 Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
 
-### Template: Tasks
-
 Before closing a task an appropriate review should be done to validate whether its purpose has been fulfilled.
 
-#### Small Tasks
+#### Template: Task Titles
 
-**Why** the need for change:
+E.g. for user-stories.
+
+What value a given feature would bring to a given *persona*. 
+
+Output-based:
+
+> As a `Persona` I want an  `action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
+
+Outcome-based:
+
+> In order to reach this `outcome`, this `component` needs this `change`.
+
+#### Template: Small Tasks
+
+**Why** the need for change. Why does a user need this:
 
 - What problem does this task tackle?
   - Why does this need to be done now?
@@ -64,7 +99,7 @@ Before closing a task an appropriate review should be done to validate whether i
 - Outcome:
   - Refer to the acceptance criteria.
 
-#### Larger Task
+#### Template: Larger Task
 
 In addition to the above:
 
@@ -89,17 +124,24 @@ What **dependencies** are there?
 
 Listing everything that's valuable can lead to an impractical number of items. Instead, classify the tasks. Then make the top priority task explicit.
 
-By time horizon:
+By **time horizon**:
 
-- Do now
-- Do sooner
-- Do later
+```markdown
+- Do now.
+- Do sooner.
+- Do later.
+```
 
-By importance:
+By **importance**:
 
+```markdown
 - Could do.
 - Should do.
 - Must do.
+- Can't do (cancelled).
+```
+
+
 
 ## Estimation
 

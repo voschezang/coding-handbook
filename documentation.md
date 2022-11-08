@@ -83,22 +83,13 @@ The Why consists of the following categories:
 - Use-cases, side-effects
 - Tips
 
-## Specification
-
-Testable requirements. Functional or non-functional.
-
-1. Describe behaviour of the system; how it reacts to inputs.
-    - This part may be complex, but start with an high level, treating the internals as a black box.
-2. Describe the boundaries of the system; list all inputs and outputs.
-3. Describe the purpose of the system. This may result in some non-functional requirements.
-
-Avoid or resolve ambiguity.
-
-> *Complicated* is just a euphemism for "scary to think about".
-
 
 
 ## Templates
+
+See also [requirements engineering](requirements-engineering.md).
+
+
 
 **Product-team: Summary**
 

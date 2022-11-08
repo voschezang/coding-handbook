@@ -315,11 +315,7 @@ This is independent of the required input effort.
 A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
 
 **User Story**
-What value a given feature would bring to a given *persona*. E.g.:
-
-> As a `Persona` I want  `an action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
-
-In order to be effective, a the scope should be limited to a few weeks.
+What value a given feature would bring to a given *persona*. See these [templates](requirements-engineering.md). 
 
 **Epic**
 A collection of user stories that can be finished in at most a handful of months.
