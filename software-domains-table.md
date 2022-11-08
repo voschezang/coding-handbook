@@ -177,27 +177,31 @@
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="3"><p>Systems Thinking</p>
-</td>
       <td><p><a href="systems-management.md">Systems Management</a></p>
 </td>
-      <td><p><a href="management-principles">Management Principles</a></p>
+      <td rowspan="3"><p><a href="management-principles">Management Principles</a></p>
 </td>
-      <td><p><a href="product-management">Product Management</a></p>
-</td>
-    </tr>
-    <tr>
-      <td><p><a href="requirements-engineering.md">Requirements Engineering</a></p>
-</td>
-      <td><p><a href="goals-planning-strategy.md">Goals/Planning/Strategy</a></p>
+      <td rowspan="3"><ul>
+<li><a href="product-management">Product Management</a></li>
+<li><a href="goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
+</ul>
 </td>
       <td><p><a href="project-management">Project Management</a></p>
 </td>
     </tr>
     <tr>
+      <td><p><a href="requirements-engineering.md">Requirements Engineering</a></p>
+</td>
+      <td><ul>
+<li>Product Discovery</li>
+<li>Product Delivery</li>
+<li>Product Strategy</li>
+</ul>
+</td>
+    </tr>
+    <tr>
       <td><p>Goal Setting</p>
 </td>
-      <td></td>
       <td><p>Business Operations</p>
 </td>
     </tr>

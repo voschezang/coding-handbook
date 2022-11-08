@@ -138,6 +138,18 @@ A hierarchy of targets that is updated every quarter.
 
 
 
+<details>
+<summary><b>Goal Structures</b></summary>
+<br>
+<p><b>Tree Structure</b> (false assumption of independence)</p>
+<img src="img/goals-tree.png" alt="goals-tree" style="width:70%;" />
+<br/><br/>
+<p><b>Complex Structure</b> (too chaotic)</p>
+<img src="img/goals-complex.png" alt="goals-complex" style="width:30%;" />
+</details>
+
+
+
 #### Meetings
 
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
@@ -224,37 +236,9 @@ Different ways to set goals
 
 <img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
-## Documentation
 
-> Use documents to recall conversations rather than having them.
 
-The goal is to externalize thinking. This helps to alignment the whole organization or team.
-
-Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](documentation.md).
-
-**Assumptions & Facts**
-For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
-
-### Tools
-
-**Narrative**
-Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
-This is independent of the required input effort.
-
-**Persona**
-A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
-
-**User Story**
-What value a given feature would bring to a given *persona*. E.g.:
-
-> As a `Persona` I want  `an action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
-
-In order to be effective, a the scope should be limited to a few weeks.
-
-**Epic**
-A collection of user stories that can be finished in at most a handful of months.
-
-## Goals
+## Choosing Goals
 
 A goal should be accompanied with an *initiative* (input), *target* (output, result) and a *target condition* (objective, outcome).
 
@@ -309,3 +293,33 @@ Defining goals
 
 - Bottom-up: First list features or desires, then define metrics.
 - Top-down: Define a desired outcome, then define metrics to track progress towards that outcome, then list immediate actions.
+
+## Documentation
+
+> Use documents to recall conversations rather than having them.
+
+The goal is to externalize thinking. This helps to alignment the whole organization or team.
+
+Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](documentation.md).
+
+**Assumptions & Facts**
+For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
+
+### Tools
+
+**Narrative**
+Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
+This is independent of the required input effort.
+
+**Persona**
+A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
+
+**User Story**
+What value a given feature would bring to a given *persona*. E.g.:
+
+> As a `Persona` I want  `an action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
+
+In order to be effective, a the scope should be limited to a few weeks.
+
+**Epic**
+A collection of user stories that can be finished in at most a handful of months.

@@ -16,6 +16,18 @@ There are a few phases that can be distinguished in a typical assignment.
   - This may include resourcing.
 - **Review** of the implementation. This includes communication to stakeholders.
 
+
+
+In order to run a project, a certain level of autonomy is required. This is a balance of supply and demand.
+
+| Demand         | Supply     |
+| -------------- | ---------- |
+| An objective   | Capability |
+| Constraints    | Resources  |
+| Accountability | Authoroty  |
+
+
+
 ### Refinement
 
 Alignment with:

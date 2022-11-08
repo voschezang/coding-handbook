@@ -94,16 +94,14 @@ rows:
               - Domain-Driven Design, [DDD](domain-driven-design.md)
     - row:
           fundamental:
-              - "Systems Thinking"
-          emergent:
               - "[Systems Management](systems-management.md)"
               - "[Requirements Engineering](requirements-engineering.md)"
               - Goal Setting
-          applied_to_domain:
+          emergent:
               - "[Management Principles](management-principles)"
-              - "[Goals/Planning/Strategy](goals-planning-strategy.md)"
-              - ""
+          applied_to_domain:
+              - "- [Product Management](product-management) \n- [Goals/Planning/Strategy](goals-planning-strategy.md)"
           applied_to_real:
-              - "[Product Management](product-management)"
               - "[Project Management](project-management)"
+              - "- Product Discovery \n- Product Delivery \n- Product Strategy"
               - Business Operations

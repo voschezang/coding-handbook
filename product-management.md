@@ -74,30 +74,18 @@ Deciding what to build, for whom, when.
 **Product Delivery**
 Building it (R&D) and delivering it (ops).
 
+**Product Teams**
 
+A product team is supposed to completely manage a single product. The team is autonomous and can take ownership, because it controls the [whole](https://en.wikipedia.org/wiki/Vertical_integration) value chain. See [this template](documentation.md#Templates).
 
-### Product Teams
+### Strategy
 
-A product team is supposed to completely manage a single product. The team is autonomous and can take ownership, because it controls the [whole](https://en.wikipedia.org/wiki/Vertical_integration) value chain.
+Product-Market Expansion Grid. Uncertainty increases from top-left to the bottom-right.
 
-**Template**
-
-How to summarize a specific product team.
-
-- Product Portfolio. E.g. the main product and any features that complement it.
-    - Boundary: Are there any other contracts or in/out-bound connections?
-    - Context: Where are the products and services used?
-- People. The team, stakeholders, customers and users.
-- Dependencies and relations.
-- Team Goals - and how they relate to departmental goals.
-    - What problems are customers currently facing?
-    - What problems is the team or product facing?
-- Planning. What is changing?
-    - Desired States. Which target conditions are desired.
-    - Initiatives. What actions can be taken to achieve these?
-    - Roadmap. When will these actions be taken?
-
-
+|                      | Existing Products  | New Products                   |
+| -------------------- | ------------------ | ------------------------------ |
+| **Existing Markets** | Market penetration | Product development            |
+| **New Markets**      | Market development | Product/Market diversification |
 
 ### Background
 
@@ -316,6 +304,9 @@ Bias for optics & complexity. Build interesting stuff tools of useful tools.
 
 **Shadow Backlog**
 Typically non-prioritized and not discussed openly.
+
+**Shadow Strategy**
+A [locally optimized, simplified version](https://twitter.com/johncutlefish/status/1574851694348750849) of a greater strategy. It may be created by ignorance or on purpose (for motivational reasons).
 
 **Zombie product**
 A product that is kept alive for political or personal reasons rather than market demand.

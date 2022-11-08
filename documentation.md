@@ -96,7 +96,31 @@ Avoid or resolve ambiguity.
 
 > *Complicated* is just a euphemism for "scary to think about".
 
+
+
 ## Templates
+
+**Product-team: Summary**
+
+```markdown
+- **Product Portfolio**. E.g. the main product and any features that complement it.
+    - Purpose. Why does this product need to exist.
+    - Boundary: Any contracts and in/out-bound connections.
+    - Context: Where are the products and services used?
+- **People**. The team, stakeholders, customers and users.
+- **Dependencies and relations**
+- **Team Goals** - and how they relate to departmental goals.
+    - Purpose.
+    - In which direction is the team moving?
+    - What problems are customers currently facing?
+    - What problems is the team or product facing?
+- **Planning**. What is changing?
+    - Desired States. What are the target conditions.
+    - Initiatives. What actions can be taken to achieve these?
+    - Roadmap. When will these actions be taken?
+```
+
+
 
 **Product-team: Table of Contents**
 
@@ -120,27 +144,40 @@ Note that this is optimized for a single product-team. In practice other teams s
 
 ## Internal documentation
 Designed for internal use by team members.
-- Technical product/platform setup and configuration.
- - Functional designs. E.g. architectural designs.
+
+**Living documentation**
+Technical product/platform setup and configuration.
+ - Functional design. E.g. architectural designs, functionality that is not yet build.
  - Inventory/resources
-  - Repositories. Configuration and code.
-  - Infrastructure, pipelines
+     - _(Overview of)_ Components.
+     - _(Overview of)_ Repositories. Configuration and code.
+     - _(Overview of)_ Infrastructure & pipelines.
+ - Components. E.g. products, tools libraries.
+   - Outside View. 
+     - Description/Purpose.
+     - Boundary. Inputs and outputs. E.g. resources and added value.
+   - Specific Runbooks. Guides that are explicitly maintained.
+ - Operations
+   - Generic operational and support tasks.
+   - Way of working. E.g. a definition of done.
  - Dependencies
-- Planning / Strategy.
+
+Planning / Strategy.
  - Signals, (candidates for) initiatives, goals.
  - Desired/targets states.
-  - Links to product backlogs and departmental backlogs.
-- Contacts.
+   - Links to product backlogs and departmental backlogs.
+
+Contacts.
  - Team members and stakeholders.
  - Dependencies.
-- Runbooks. Guides that are explicitly maintained.
- - Operations and support tasks.
-  - Way of working.
-- Ad-hoc guides. Historical guides that do not have to maintained.
+ 
+**Ad hoc documentation**
+Ad hoc guides. Historical guides that do not have to maintained.
  - Meeting Notes.
-  - Past decisions and initiatives.    
-  - RCA's.
-- Archive. Deprecated pages.
+ - Past decisions and initiatives.    
+ - RCA's.
+
+Archive. Deprecated pages.
 ```
 
 ### Systems
