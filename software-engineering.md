@@ -131,6 +131,7 @@ The term testing is usually used for "checks". A distinction can be made based o
   - Verification and validation based on pre-specified requirements
     - This can often be **automated**
   - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
+      - Strong TDD: Write a minimum failing test, write minimum code to fix the test, then refactor without introducing new behaviour.
 
 In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.
 

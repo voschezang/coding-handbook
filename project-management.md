@@ -22,9 +22,9 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 
 | Demand         | Supply     |
 | -------------- | ---------- |
-| An objective   | Capability |
+| Objective      | Capability |
 | Constraints    | Resources  |
-| Accountability | Authoroty  |
+| Accountability | Authority  |
 
 
 

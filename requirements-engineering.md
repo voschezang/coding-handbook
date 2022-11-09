@@ -127,9 +127,10 @@ Listing everything that's valuable can lead to an impractical number of items. I
 By **time horizon**:
 
 ```markdown
-- Do now.
-- Do sooner.
 - Do later.
+- Do sooner.
+- Do now.
+- Doing
 ```
 
 By **importance**:
@@ -138,6 +139,7 @@ By **importance**:
 - Could do.
 - Should do.
 - Must do.
+- Doing
 - Can't do (cancelled).
 ```
 
