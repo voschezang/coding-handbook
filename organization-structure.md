@@ -75,7 +75,17 @@ These chains can intersect, based on the types of components in an organization.
 
 ![feature-functional-teams](img/feature-functional-teams.png)
 
-### Autonomy and Alignment per Domain
+### Autonomy and Alignment
+
+Note that there are multiple paradigms that are theoretically sound. The important part is to be able to adapt at both the organizational- and the team-level.
+
+<details>
+<summary><b>Alignment &amp; Autonomy</b></summary>
+<br>
+<img src="img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
+</details>
+
+**By Domain**
 
 Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md).
 
@@ -167,6 +177,8 @@ Ofter there is a need for a balance between the two. Too much orchestration can 
 ### Organizational Scale
 
 #### Scaling Agile
+
+> Agile transformations are done by removing obstacles, rather than by enforcing change.
 
 Achieving high agility of small teams is much simpler that doing it for multiple teams. A few guidelines to do this:
 
