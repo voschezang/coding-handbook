@@ -61,6 +61,17 @@ Decoupling of producer and consumer services can be done using adapters.
 
 <img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:90%;" />
 
-### Component level
+### System Level
+
+Patterns for managing an environment of many independent services.
+
+- **Point-to-point**. Anarchy. Each connection between agents is a unique arrangement.
+- **Gateway**. A central bridge that provides a standardized interface for consumers and providers.
+- **Message bus**. A central broadcasting channel for publishers and subscribers.
+- **Service Mesh**. A ready-made network of sidecar proxies. All communication (traffic) is protected end-to-end.
+
+
 
 ![communication-patterns-messaging](img/communication-patterns-messaging.png)
+
+<img src="img/service-mesh.png" alt="service-mesh" style="width:50%;" />
