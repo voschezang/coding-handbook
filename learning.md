@@ -43,6 +43,8 @@ Other patterns
 - inspect-adapt-reflect
 - visualize-stabilize-optimize
 
+
+
 ## Organizational Learning
 
 An optimal learning environment has:
@@ -131,3 +133,14 @@ Principles
 1. Obey. Follow traditions, learn fundamentals, heuristics, proverbs.
 2. Digress. Break with tradition.
 3. Separate, transcendence. Exceed tradition. Find new ways
+
+
+
+**Teaching models - roles**
+
+[Source](https://twitter.com/andybudd/status/1557757908166877186)
+
+- Consultant: Here, let me fix that problem for you
+- Mentor: This is what I did when I had that problem
+- Advisor: Here are a few things people do to solve that problem
+- Coach: How do you think you might solve that problem?

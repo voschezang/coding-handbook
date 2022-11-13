@@ -31,24 +31,11 @@ Specific types of goals
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
-## Map
 
-A visualization of points in space. They allow you to explore routes.
 
-They give insight into the environment and into how the environment is changing.
+## Living Roadmap
 
-Components
 
-- Anchor. Central, stable point.
-- Legend. What does space mean
-
-Dimensions that can be used:
-
-- Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
-- Visibility to end-users.
-- Level of [commodization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.
-
-## Roadmap
 
 > Great outcome > meeting initial requirements.
 
@@ -56,42 +43,7 @@ Dimensions that can be used:
 
 A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
 
-> Separate goals from dreams
-
-It is great to have a long-term vision, but [good](https://en.wikipedia.org/wiki/SMART_criteria) goals are a vital complement. In addition, idealistic outcomes are often difficult to measure and quantify. Hence (sub-)goals are used as a proxy.
-
-An hierarchy of three layers:
-
-**(1) High level / long term: North Star**
-
-A few variants:
-
-- North Star Goal: specific and measurable. A rough direction to go towards. Top of the goal/sub-goal hierarchy.
-  - Ideally this metric is consistent with your definition of success.
-  - Ideally this metric is clear to the whole organization, such that they can align.
-- Objective, Outcome or narrative: what the ideal state would look like. A vision. This can be a condition that needs to be fulfilled.
-
-Based on this high-level goal, you can start to trace back which steps are necessary to reach it. In addition, you can setup *inputs* or metrics to track progress.
-
-**(3) Low-level / Short term: planning**
-
-Use a rolling window. I.e. update the following list regularly/frequently. Reflect on results periodically and update them ad-hoc, on gaining new information.
-
-1. Now: a handful of tasks that are currently worked on, and will be finished ASAP.
-2. Next: 3 tasks that will be picked up next
-3. Later: 1 task after that, and 1 task after that. However, if we learn more, then we might select one of these tasks instead.
-
-Then find a way to align with the whole organization or team...
-
-**(2) The messy middle**
-
-Long-term goals are generally stable and short-term plans can be made continuously. Everything in between is inherently messy. The "middle" is based on the current worldview, but because it is specific it will become more and more obsolete as the environment changes. Hence it has to adjusted be from time to time.
-
-A major strategy for this is diversification. Consider multiple initiatives that will help to reach your goal from different angles. Design these to be *replaceable*. Ensure that they can at least be adjusted over time. Note that this still allows focus on a single initiative at a time.
-
-A common tool to address the complexity of this area are [OKRs](https://en.wikipedia.org/wiki/OKR). Do note that this works best as a *complement* to a long-term outcome.
-
-### Living Roadmap
+**Living Roadmap**
 
 A roadmap becomes outdated over time due to:
 
@@ -100,16 +52,48 @@ A roadmap becomes outdated over time due to:
 
 Hence, use a format that is resilient to change. This can be done by combining high-level and low-level descriptions.
 
+**The messy middle**
+
+Long-term goals are generally stable and short-term plans can be made continuously. Everything in between is inherently messy. The "middle" is based on the current worldview, but because it is specific it will become more and more obsolete as the environment changes. Hence it has to adjusted be from time to time.
+
+A major strategy for this is diversification. Consider multiple initiatives that will help to reach your goal from different angles. Design these to be *replaceable*. Ensure that they can at least be adjusted over time. Note that this still allows focus on a single initiative at a time.
+
+A common tool to address the complexity of this area are [OKRs](https://en.wikipedia.org/wiki/OKR). Do note that this works best as a *complement* to a long-term outcome.
+
+**Time horizon & Scope**
+
+Time horizon ([source](https://twitter.com/nathanbaugh27/status/1554101737736519680))
+
+- Dream in years
+- Plan in months
+- Evaluate in weeks
+- Ship daily
+
+Scope
+
+- Prototype for 1x
+- Engineer for 100x
+- Build for 10x
+
+Follow up questions
+
+- What's required to cut the timeline by half?
+- What required to double the impact?
+
+
+
 #### Template 1: Persistent Outcomes
+
+>  Separate goals from dreams
 
 A template for a one-pager roadmap. This can be complemented with external sources.
 
 1. A mission or vision. A perfect outcome.
 2. North star goal. A great outcome. The minimum investment you want to make. This takes in cost and time constraints.
 3. Current state and target state.
-4. A list of next target states. Avoid a strict ordering, but do suggest a preference based on the current circumstances.
+4. A list of next target states. Avoid a strict ordering, but do include a preference based on current circumstances.
 
-In addition, it can be useful to include *anti-goals*, i.e. which activities are excluded. This makes trade-offs explicit, and forces the authors to investigate their choices.
+In addition, it may be useful to include *anti-goals*: the activities that are excluded. This makes trade-offs explicit and forces the authors to investigate their choices.
 
 <img src="img/roadmap.png" alt="roadmap" style="width:50%;" />
 
@@ -136,21 +120,20 @@ A hierarchy of targets that is updated every quarter.
 - Over-simplification at the top. Reality is modeled as a tree-like graph, with independent sub-goals. This creates an incentivize for local optimization.
 - Fragile, high fluctuation in goals. Each goal is a piece of work and has to be replaced after the work has been executed.
 
-
-
 <details>
-<summary><b>Goal Structures</b></summary>
+<summary><b>Goal Structures (Patterns)</b></summary>
 <br>
-<p><b>Tree Structure</b> (false assumption of independence)</p>
+<p><b>Tree Structure</b><br/>
+  Problem: assumption of independence is an oversimplification.</p>
 <img src="img/goals-tree.png" alt="goals-tree" style="width:70%;" />
 <br/><br/>
-<p><b>Complex Structure</b> (too chaotic)</p>
+<p><b>Complex Structure</b><br/>
+  Problem: too chaotic.</p>
 <img src="img/goals-complex.png" alt="goals-complex" style="width:30%;" />
 </details>
 
 
-
-#### Meetings
+### Meetings
 
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
 
@@ -158,6 +141,8 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 - Weekly tactical meeting. React to short-term issues.
 - Monthly strategic meeting. Decide on long-term adjustments. Prepare topics beforehand.
 - Quarterly off-site review. Take an outside-view and reflect.
+
+
 
 ## Project Portfolio
 
@@ -223,30 +208,21 @@ This is again based on categories or themes, but this template emphasizes the op
 
 ![option-pyramid](img/option-pyramid.png)
 
-## Models for Goal Setting
-
-Different ways to set goals
-
-**Legend**
-
-- A. Current state
-- B. Next target state, which will help towards Y and Z.
-- Y. Required objective for Z.
-- Z. North star goal
-
-<img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
 
 
-## Choosing Goals
 
-A goal should be accompanied with an *initiative* (input), *target* (output, result) and a *target condition* (objective, outcome).
+## Formulating a Goal
 
-The **goal** itself should be skewed towards the *Why* instead of the *What*. It should be an optimistic vision or mission.
+Goals can be used to both motivate and guide a person or organization.
+
+The goal itself should be skewed towards the *Why* instead of the *What*. It should be an optimistic vision or mission.
 
 - This includes a understanding of the relevant assumptions.
-- Goals that are too high lead short term optimization (trying to survive instead of investing).
-- Goal that are not high enough lead to a lack of focus.
+- Goals that are too optimistic lead tend to lead to short term optimization. E.g. trying to survive instead of investing in long-term solutions.
+- Goal that are not challenging enough lack a motivational effect. This may lead to a lack of focus.
+
+A goal may be accompanied with an *initiative* (input), *target* (output, result) and a *target condition* (objective, outcome) and an estimation of the *impact*.
 
 **Initiative & Target**
 
@@ -294,16 +270,33 @@ Defining goals
 - Bottom-up: First list features or desires, then define metrics.
 - Top-down: Define a desired outcome, then define metrics to track progress towards that outcome, then list immediate actions.
 
-## Documentation
-
-> Use documents to recall conversations rather than having them.
-
-The goal is to externalize thinking. This helps to alignment the whole organization or team.
-
-Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](documentation.md).
-
 **Assumptions & Facts**
 For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
+
+
+
+### Template: Choosing Sub-Goals
+
+Different ways to set goals
+
+**Legend**
+
+- A. Current state
+- B. Next target state, which will help towards Y and Z.
+- Y. Required objective for Z.
+- Z. North star goal
+
+<img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
+
+
+
+## Documentation
+
+> Use documentation to recall conversations rather than as an alternative for them.
+
+The goal of documentation is to externalize thinking. This helps with aligning the whole organization.
+
+Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](documentation.md).
 
 ### Tools
 
@@ -319,3 +312,36 @@ What value a given feature would bring to a given *persona*. See these [template
 
 **Epic**
 A collection of user stories that can be finished in at most a handful of months.
+
+**MVP**
+See [product management](product-management.md)
+
+**RFC**
+Request for comments. A scalable method to get feedback on an idea.
+
+**North Star Goal**
+A high-level, long-term goal that is used to show the direction to work towards. It should still specific and measurable. It may be complemented by shorter-term metrics.
+
+- Ideally this metric is consistent with your definition of success.
+- Ideally this metric is clear to the whole organization, such that they can align.
+
+**Output, Outcome and Impact**
+See [requirements engineering](requirements-engineering.md).
+
+### Map
+
+A visualization of points in space. They allow you to explore routes.
+
+They give insight into the environment and into how the environment is changing.
+
+Components
+
+- Anchor. Central, stable point.
+- Legend. What does space mean
+
+Dimensions that can be used:
+
+- Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
+- Visibility to end-users.
+- Level of [commoditization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.
+
