@@ -131,6 +131,16 @@ A hierarchy of targets that is updated every quarter.
   Problem: too chaotic.</p>
 <img src="img/goals-complex.png" alt="goals-complex" style="width:30%;" />
 </details>
+#### Template 3: Path
+
+Format for a pitch:
+
+1. Start with the **main** goal.
+2. Add the **path** to reach it. Cover the earlier steps in detail. Leave later steps abstract.
+3. Emphasize the flexibility of the plan by highlighting secondary **options**. Show optional paths that could be taken in case of changes to the environment.
+
+![roadmap-path](img/roadmap-path.png)
+
 
 
 ### Meetings
