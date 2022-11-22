@@ -131,6 +131,8 @@ A hierarchy of targets that is updated every quarter.
   Problem: too chaotic.</p>
 <img src="img/goals-complex.png" alt="goals-complex" style="width:30%;" />
 </details>
+
+
 #### Template 3: Path
 
 Format for a pitch:

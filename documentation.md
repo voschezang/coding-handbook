@@ -197,6 +197,10 @@ Activities and communication
 
 <img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:50%;" />
 
+**Roadmap**
+
+<img src="img/roadmap-path.png" alt="roadmap-path" style="width:70%;" />
+
 **Commoditization of Components**
 
 <img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:60%;" />
