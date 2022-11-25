@@ -137,7 +137,7 @@ A hierarchy of targets that is updated every quarter.
 
 Format for a pitch:
 
-1. Start with the **main** goal.
+1. Start with the **main** goal. Ensure that there is agreement on the end-result.
 2. Add the **path** to reach it. The steps can represent e.g. initiatives or full releases. Cover the earlier steps in detail. Leave later steps abstract if possible.
 3. Emphasize the flexibility of the plan by highlighting secondary **options**. Show optional paths that could be taken in case of changes to the environment.
 
@@ -299,6 +299,8 @@ Different ways to set goals
 - B. Next target state, which will help towards Y and Z.
 - Y. Required objective for Z.
 - Z. North star goal
+
+
 
 <img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
