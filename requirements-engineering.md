@@ -80,6 +80,8 @@ Outcome-based:
 
 **One-pager**
 
+The top-half explains the objective and purpose. The bottom-half covers the implementation.
+
 ```markdown
 # Objective
 **Why** is this relevant? **Who** will benefit from this? Why **now**?
@@ -90,11 +92,13 @@ Twofold:
 - The **complication**. The current state may be either *problematic* or contain an *opportunity*.
 
 # Question
-What can be different? What is the alternative?
+What can be different? Allow the audience to consider *alternatives* before handing them a solution.
 
 # Answer
 The proposal. An **outcome** that improves the current state.
 Ideally this is hierarchical. From a high-level vision to lower level details.
+
+------------------------------------------------------------------------------
 
 # Tasks
 The input effort. Initiatives that should be taken to reach the desired outcome.
@@ -115,7 +119,7 @@ There can be a need for a light alternative of the one-pager. E.g. when informin
 - Why & for whom
 - Context & problem (if relevant)
 - The proposal & the main deliverables
-- Any details, based on the audience. E.g. deliverables or cost
+- Any details, relevant to the specific audience. E.g. deliverables or cost
 ```
 
 
@@ -131,10 +135,9 @@ There can be a need for a light alternative of the one-pager. E.g. when informin
 **What** is going to happen:
 
 - *Context*: What it the the <u>current</u> conditions?
-- *Goal*:  What is the <u>target</u> condition? Use acceptance criteria. Make this user-centric.
-- *Proposal*: What is the proposed solution?
-- *Outcome*: To what higher-level goal does this task relate?
-  - What are the next steps?
+- *Objective*:  What is the <u>target</u> condition (outcome)? Use acceptance criteria. Make this user-centric.
+- *Proposal*: What is the proposed solution? What are the deliverables?
+- *Strategy*: To what higher-level goal does this task relate? What are the next steps?
 
 **How** to implement the change:
 
