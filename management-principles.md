@@ -203,15 +203,36 @@ Typical solutions: ship orders in increments, vertical integration, store resour
 
 - Dealing with risk after they've materialized.
 
+
+
 **Stakeholder management (managing up)**
 
 > Ask for advice, not for feedback
+
+This involves
+
+- Organizing, monitoring, improving interactions with stakeholders.
+- Discovering who your stakeholders are. Evaluating their relative importance. E.g. based on urgency, power and legitimacy.
+
+
 
 Ascertain:
 
 - Their goals, their expectations
 - How they want to be kept in the loop
 - Be transparent. Share challenges.
+
+
+
+Communication - when they make a request
+
+- Send acknowledgement
+
+- Send planning. E.g. the estimated date of the change.
+
+- Confirm success - after the change has been done.
+
+
 
 **Expectation management**
 
@@ -227,6 +248,8 @@ Technique:
 
 1. What do you expect?
 2. This is what you can expect. This is what we will do.
+
+
 
 **Time management**
 

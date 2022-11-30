@@ -74,6 +74,52 @@ Outcome-based:
 
 > In order to reach this `outcome`, this `component` needs this `change`.
 
+
+
+#### Template: Project Pitch
+
+**One-pager**
+
+```markdown
+# Objective
+**Why** is this relevant? **Who** will benefit from this? Why **now**?
+
+# Current state
+Twofold:
+- Provide the necessary **context**. Where are we now?
+- The **complication**. The current state may be either *problematic* or contain an *opportunity*.
+
+# Question
+What can be different? What is the alternative?
+
+# Answer
+The proposal. An **outcome** that improves the current state.
+Ideally this is hierarchical. From a high-level vision to lower level details.
+
+# Tasks
+The input effort. Initiatives that should be taken to reach the desired outcome.
+
+# Deliverables
+Output / result. Ideally the deliverables provide value incrementally.
+The scope and acceptance criteria may be added here at later stage.
+
+# Cost
+An estimate of the required time and resources.
+```
+
+**Abstract**
+
+There can be a need for a light alternative of the one-pager. E.g. when informing colleagues, customers or stakeholders.
+
+```markdown
+- Why & for whom
+- Context & problem (if relevant)
+- The proposal & the main deliverables
+- Any details, based on the audience. E.g. deliverables or cost
+```
+
+
+
 #### Template: Small Tasks
 
 **Why** the need for change. Why does a user need this:
@@ -98,6 +144,8 @@ Outcome-based:
 
 - Outcome:
   - Refer to the acceptance criteria.
+
+
 
 #### Template: Larger Task
 
