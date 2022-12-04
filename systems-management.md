@@ -183,9 +183,19 @@ In theory, idle time of non-bottleneck resources is perfectly fine. This can eve
 
 > A chain is no stronger than its weakest link.
 
-A bottleneck or constraint can greatly impact the product of the system. This could mean either poor performance or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from this. The [critical path](https://en.wikipedia.org/wiki/Critical_path_method) is defined as the longest dependent chain.
+A bottleneck or constraint can greatly impact the product of a system. This could result in either poor  or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from error propagation. The [critical path](https://en.wikipedia.org/wiki/Critical_path_method) is defined as the longest dependent chain.
 
-The typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only (short-term) mitigation is to decrease the velocity of each car.
+- A typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only - short-term - mitigation is to decrease the velocity of each car. This will decrease the average variance per car - which indirectly decreases the total variance. 
+
+The variance can be described by the following relation.
+
+- `Average` variance per car < `total` variance of the system < `summed` variance of each car (after taking into account the other cars).
+
+Using [Bienaymé's identity](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity), a general relation can be derived. Let `C` be a set of independent random variables. Then,
+
+<img src="img/system-variance.png" alt="system-variance" style="width:20em;" />
+
+where equality holds if the covariances are zero.
 
 The only fundamental way to avoid internal bottlenecks is to *subordinate* all other components to the main bottleneck. E.g. let the majority of components run at partial capacity; build in slack. This requires a system to have more capacity than market demand, resulting in a a tradeoff between having formation of bottlenecks and resource efficiency.
 
