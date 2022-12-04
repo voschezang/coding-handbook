@@ -10,8 +10,12 @@ Programming Languages & Software Design.
 - [Programming Patterns](programming-patterns.md) - common programming, application and system architecture patterns. This builds upon  [communication patterns](communication-patterns.md).
   - [Functional Programming Patterns](programming-patterns-functional.md) - mathematical and functional programming patterns.
   - [Programming Paradigms](programming-paradigms.md) - a comparison of OOP and FP.
+
+Theoretical computer science
+
 - [Domain-Driven-Design](domain-driven-design.md) - examples of DDD using OOP and FP.
 - [Language Specification](language-spec.md) - this can be implemented as a library or a new language.
+- [Functions and Relationships](functions-relations.md) - mathematical ones.
 
 Software Industry
 
@@ -27,7 +31,7 @@ Systems theory
 
 Management & Organizations
 
-- [Management Principles](management-principles) - a collection of domain-agnostic theories.
+- [Management Principles](management-principles.md) - a collection of domain-agnostic theories.
   - [Organization Structure](organization-structure.md) - not just application architecture.
 - Project Management & Planning
 
@@ -48,7 +52,7 @@ Other
 From abstract theory to application within a domain. For a full overview, see [this table](software-domains-table.md).
 
 - [Communication Patterns](communication-patterns.md) > [Programming Patterns](programming-patterns.md) > [Programming Paradigms](programming-paradigms.md)
-- [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management)
+- [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management.md)
 - [Systems Management](systems-management.md) > [Organization Structure](organization-structure.md) > [Organization Architecture](organization-architecture.md)
 
 

@@ -25,18 +25,30 @@ In addition, some other concepts that relates to ambiguity are:
 - Sameness. Dealing with equality.
 
 **Identity**
-This can be modeled using an identity function [`id`](https://docs.python.org/3.8/library/functions.html#id) where  `a = b` iff `id(a) == id(b)`.
+This can be modeled using an identity function [`id`](https://docs.python.org/3.8/library/functions.html#id) where  `a = b` iff `id(a) == id(b)`. Identification can be done using either identifier or a relation w.r.t. other items.
 
 **Equality**
-Direct equality. E.g. `eq(10$, 10£) == True`  (at a given date).
 
-Equality can be fuzzy. This can be modeled by adding a *bias* or lens. `eq("sky", "water", bias=is_blue) == True` .
+- Reference-based. When two references refer to the same object.
+- Value-based. 
+    - Direct equality. E.g. `eq(10$, 10£) == True`  (at a given date).
+    - When values are considered to be synonyms. E.g. `1, one, `.
+- Interpretation-based. Compare a transformation of a value.  E.g. a *bias* or lens. `eq("sky", "water", bias=is_blue) == True` .
+
+**Generality**
+Generality is the concept of referring to an arbitrary number of objects. E.g. "a typical citizen".
 
 ### Reality
 
 > Databases model not reality itself, but how reality is processed by users
 
 In addition to the inherent imperfection of models, the realism of data can be limited in other ways. Suppose there is a database filled with information. The information can be outdated, planned or falsified or completely fictional. Or the information can be limited by the knowledge of the author. Typical examples are empty database fields, or fields with a default value (e.g. `unknown`).
+
+An information system is said to *support* a certain amount of data. This means that it can properly handle this data and enforces the relevant constraints. One way to obtain this enforcement implicitly is to use specific data structures. E.g. a set that can never contain duplicate elements, or an array that contains values of the same type.
+
+See [functions and relationships](functions-relations.md).
+
+
 
 ## Example: Currency Conversion
 

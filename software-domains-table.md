@@ -179,14 +179,14 @@
     <tr>
       <td><p><a href="systems-management.md">Systems Management</a></p>
 </td>
-      <td rowspan="3"><p><a href="management-principles">Management Principles</a></p>
+      <td rowspan="3"><p><a href="management-principles.md">Management Principles</a></p>
 </td>
       <td rowspan="3"><ul>
 <li><a href="product-management">Product Management</a></li>
 <li><a href="goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 </ul>
 </td>
-      <td><p><a href="project-management">Project Management</a></p>
+      <td><p><a href="project-management.md">Project Management</a></p>
 </td>
     </tr>
     <tr>

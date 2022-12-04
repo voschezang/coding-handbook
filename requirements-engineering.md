@@ -52,6 +52,14 @@ Avoid or resolve ambiguity.
 
 
 
+## Tests & Verification
+
+- Examples *elaborate* requirements
+
+- Tests (checks) *verify* requirements
+
+
+
 ## Specification
 
 ### Tasks

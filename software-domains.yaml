@@ -98,10 +98,10 @@ rows:
               - "[Requirements Engineering](requirements-engineering.md)"
               - Goal Setting
           emergent:
-              - "[Management Principles](management-principles)"
+              - "[Management Principles](management-principles.md)"
           applied_to_domain:
               - "- [Product Management](product-management) \n- [Goals/Planning/Strategy](goals-planning-strategy.md)"
           applied_to_real:
-              - "[Project Management](project-management)"
+              - "[Project Management](project-management.md)"
               - "- Product Discovery \n- Product Delivery \n- Product Strategy"
               - Business Operations

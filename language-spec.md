@@ -65,54 +65,9 @@ Result y = x.toResult().ifSuccess(f)
   * E.g. `add(a, b) =  a + b`, with the type signature `add(Int, Int) -> Int`
   * E.g. `div(a, b) = a / b`, with the signature `div(Int, NonZeroInt) -> Float`
 
-### Properties
+See [functions and relationships](functions-relations.md).
 
-Note that functions, mappings and relations are similar.
 
-#### Functions
-
-[Commutativity](https://en.wikipedia.org/wiki/Commutative_property)  Resilience against ordering of operands
-
-`f(x, y) = f(y, x)`
-
-[Associativity](https://en.wikipedia.org/wiki/Associative_property)
-`f( g( x ) ) = g( f( x ) )`
-
-[Distributivity](https://en.wikipedia.org/wiki/Distributive_property)
-
-`f( g(x, y)) = g(f(x), f(y))`
-
-#### Rotation
-
-Rotate `f`<sup>`n`</sup>`(x) = x` for a given number `n`.
-
-[Double negation](https://en.wikipedia.org/wiki/Double_negation)
-
-`f( f( x)) = x`
-
-[Idempotence](https://en.wikipedia.org/wiki/Idempotence)
-
-`f(x) = f( f( x) )`
-
-#### Relations
-
-Relations can be one-to-one, one-to-many, or many-to-many.
-
-Instances of relationships can have attributes. E.g. the _date_ of a marriage between people.
-
-**Properties & Restrictions**
-
-Directional. `f(x, y)` does not imply that `f(y, x)`
-
-[Transitive](https://en.wikipedia.org/wiki/Transitive_relation): If `f(x) = y` and `g(y) = z` then there exists `h` s.t.  `h(x) = z`
-
-[Symmetric](https://en.wikipedia.org/wiki/Symmetric_relation): If `f(x) = y` then `f(y) = x`
-
-Antisymmetric: If `f(x) = y` then `f(y) != x`
-
-[Reflexive](https://en.wikipedia.org/wiki/Reflexive_relation): If there exists an `f` s..t `f(x) = x` for every `x`
-
-Implication (composition). If `f(x, y)` and `f(y, z)` then `f(x, z)`
 
 ## 2. Object-Oriented Programming
 
