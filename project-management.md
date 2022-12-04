@@ -18,6 +18,17 @@ There are a few phases that can be distinguished in a typical assignment.
 
 
 
+### Delegation and Specialization
+
+**Dual-track Model**
+The structure of an organizations can be reduced to a management (planning) and worker (execution) layer. These two work together to deliver value to an external customer.
+
+![plan-to-exe](img/plan-to-exe.png)
+
+
+
+#### Autonomy
+
 In order to run a project, a certain level of autonomy is required. This is a balance of supply and demand.
 
 | Demand         | Supply     |
@@ -26,7 +37,7 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 | Constraints    | Resources  |
 | Accountability | Authority  |
 
-Anti Pattern: Learned helplessness
+**Anti Pattern**: Learned helplessness
 
 ### Refinement
 

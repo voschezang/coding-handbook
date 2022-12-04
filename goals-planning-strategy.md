@@ -62,20 +62,20 @@ A common tool to address the complexity of this area are [OKRs](https://en.wikip
 
 **Time horizon & Scope**
 
-Time horizon ([source](https://twitter.com/nathanbaugh27/status/1554101737736519680))
+Time horizon ([source](https://twitter.com/nathanbaugh27/status/1554101737736519680)):
 
 - Dream in years
 - Plan in months
 - Evaluate in weeks
 - Ship daily
 
-Scope
+Scope:
 
-- Prototype for 1x
-- Engineer for 100x
-- Build for 10x
+- Prototype for `1x`
+- Engineer for `100x`
+- Build for `10x`
 
-Follow up questions
+Follow up questions:
 
 - What's required to cut the timeline by half?
 - What required to double the impact?
