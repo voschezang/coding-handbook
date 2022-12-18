@@ -236,7 +236,15 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 
 > Agile is a mindset, not a process
 
-The [structure of teams](organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with handovers, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
+The [structure of teams](organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with *handovers*, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
+
+A software development process usually consists of phases such as: `requirements, analysis, design, implementation, testing, operations`. In practice some phases can be combined, e.g. using TDD. In general, the following steps will increase quality:
+
+1. Include all the phases. At minimum, these phases are done in sequence.
+2. Adjust after obtaining new information. Go back and forth between consecutive phases.
+3. Do it twice. Iterate frequently. Strive to release "version 2". Prototype for `1x`, design for `100x`, and only then build for `10x`.
+
+
 
 **Two extremes**
 
@@ -337,6 +345,27 @@ The ideal way to achieve both quality and throughput is through *fast* reviews. 
 
 This puts a restriction on the amount of work in progress.
 
+
+
+**Scrum or Kanban board**
+
+Roles:
+
+- Transparency and visibility of the teams goals and the progress towards it.
+    - Show what is planned, in progress and finished.
+    - Ensure that priorities are aligned.
+    - Incentivize collaboration by showing what is being worked on by whom.
+- Visualize bottlenecks and blockers.
+- Accountability of the work that's being done.
+- Externalize planning. Increase resilience and decrease dependence on a single team member.
+
+It helps to avoid:
+
+- Errors related to planning and handovers.
+- Invisible bottlenecks.
+
+
+
 ## Programming productivity
 
 **Language/System Agnostic**
@@ -364,3 +393,9 @@ An IDE could:
   - Extract/encapsulate variables.
   - Generate tests.
   - Inline functions.
+
+
+
+# References
+
+[1]: Royce "Managing the development of large software systems: concepts and techniques."
