@@ -116,7 +116,11 @@ Output / result. Ideally the deliverables provide value incrementally.
 The scope and acceptance criteria may be added here at later stage.
 
 # Cost
-An estimate of the required time and resources.
+An estimate of the required time and resources. Include people and their roles.
+
+# Risks
+Unexpected problems that would disrupt the plan. Mention options to address each of them.
+Include (external) dependencies.
 ```
 
 **Abstract**

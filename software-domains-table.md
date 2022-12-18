@@ -12,16 +12,25 @@
   </tr>
   <tbody>
     <tr>
-      <td><p>Math/Logic</p>
+      <td rowspan="2"><p>Math/Logic</p>
 </td>
-      <td><p>Statistic</p>
+      <td rowspan="2"><p>Statistic</p>
 </td>
       <td><p>Data Science</p>
 </td>
       <td><p>Data Engineering</p>
 </td>
     </tr>
-    <tr></tr>
+    <tr>
+      <td><p>Risk Modeling</p>
+</td>
+      <td><ul>
+<li>Risk Management</li>
+<li>Pricing</li>
+<li>Insurance</li>
+</ul>
+</td>
+    </tr>
     <tr></tr>
   </tbody>
   <tbody>
@@ -65,9 +74,25 @@
 <li>Queueing theory</li>
 </ul>
 </td>
-      <td rowspan="2"><ul>
+      <td rowspan="3"><ul>
 <li>Mathematical / Stochastic optimization</li>
 </ul>
+</td>
+      <td><p>Academic research</p>
+</td>
+      <td><p>Disciplines</p>
+<ul>
+<li>Biology</li>
+<li>Chemistry</li>
+<li>Economics</li>
+<li>Engineering</li>
+<li>Physics</li>
+<li>Social Science</li>
+</ul>
+</td>
+    </tr>
+    <tr>
+      <td><p>Numerical analysis</p>
 </td>
       <td><p>Operations research</p>
 </td>
@@ -87,14 +112,11 @@
 </td>
     </tr>
     <tr>
-      <td><p>Numerical analysis</p>
-</td>
       <td><p>Parallel Programming</p>
 </td>
       <td><p>High-performance computing</p>
 </td>
     </tr>
-    <tr></tr>
   </tbody>
   <tbody>
     <tr>

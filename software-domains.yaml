@@ -12,8 +12,10 @@ rows:
               - Statistic
           applied_to_domain:
               - Data Science
+              - Risk Modeling
           applied_to_real:
               - Data Engineering
+              - "- Risk Management \n- Pricing \n- Insurance"
     - row:
           fundamental:
               - Graph Theory
@@ -42,12 +44,14 @@ rows:
           emergent:
               - "- Mathematical / Stochastic optimization"
           applied_to_domain:
+              - Academic research
               - Operations research
               - Parallel Programming
           applied_to_real:
               #   - "- Industrial engineering \n- Scheduling \n-  Supply chain management"
               #   - "- ERP systems\n- CRM systems\n- BI systems\n- HR systems"
               #   - ERP / CRM / BI / HR systems
+              - "Disciplines\n- Biology \n- Chemistry \n- Engineering \n- Finance \n- Physics \n- Social Science"
               - "Domains\n- Industrial engineering \n- Scheduling \n-  Supply chain management \n\nApplications\n- ERP systems\n- CRM systems\n- BI systems\n- HR systems"
               - High-performance computing
     - row:

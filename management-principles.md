@@ -12,7 +12,7 @@ Management *an sich* is a theoretical domain. In the real world, one would encou
 
 This *subject* can be framed as a [theoretical system](systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
 
-At minimum, management involves alignment, facilitation and orchestration. Depending on the scale of the subject, a manager may also contribute in secondary tasks such as planning, execution and coaching. Hence the role of a manager may extend from facilitator to director.
+At minimum, management involves alignment, communication, facilitation, orchestration and prioritization. Depending on the scale of the subject, a manager may also contribute in secondary tasks such as planning, execution and coaching. Hence the role of a manager may extend from facilitator to director.
 
 Management consists of **balances**. For example:
 
@@ -23,6 +23,7 @@ Management consists of **balances**. For example:
 - Time horizon.
   - Pursue an optimistic ideal or a realistic planning.
   - Optimizing for the next quarter or for multiple decades.
+- Delegating much but not everything.
 
 See also [organization-structure](organization-structure.md) and [systems-management](systems-management.md).
 
@@ -153,6 +154,18 @@ There exist multiple models for [role and responsibility assignment](https://en.
 
 One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](goals-planning-strategy.md).
 
+**Team Performance**
+
+Based on the Lencioni model (Five dysfunctions of a team):
+
+1. Level of **trust**. Can team members be open/vulnerable?
+2. Acknowledgement and resolution of **conflict**. Is conflict suppressed? How long does it take for issues to appear?
+3. Level of **commitment** and dedication.
+4. Acceptance and avoidance of **accountability**. Do team members hold each other accountable? Is the team being held accountable?
+5. (In)attention to - collective - **results**. Do collective goals corresponds to personal goals?
+
+
+
 ### Meetings
 
 > Lack of conflict is an indicator that the right topics aren't being addressed.
@@ -209,10 +222,13 @@ Typical solutions: ship orders in increments, vertical integration, store resour
 
 > Ask for advice, not for feedback
 
-This involves
+In general, this involves: organizing, monitoring, improving interactions and relations with stakeholders.
 
-- Organizing, monitoring, improving interactions with stakeholders.
+Specifically:
+
 - Discovering who your stakeholders are. Evaluating their relative importance. E.g. based on urgency, power and legitimacy.
+- Discovering the needs of these stakeholders. Evaluate these needs based on relevance.
+- Communicate expectations to these stakeholders.
 
 
 
@@ -224,13 +240,13 @@ Ascertain:
 
 
 
-Communication - when they make a request
+Communication - based on a request:
 
-- Send acknowledgement
+1. Send acknowledgement
+2. Send planning. E.g. the estimated date of the change.
+4. Confirm success - after the change has been done.
 
-- Send planning. E.g. the estimated date of the change.
 
-- Confirm success - after the change has been done.
 
 
 

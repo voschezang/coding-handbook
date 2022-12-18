@@ -41,7 +41,11 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 > A goal is nothing without a good system to reach it.
 
-A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure.
+A roadmap is a prototype of a strategy, rather than a list of everything that will be done. Make it flexible. Design for failure. It may contain the following components
+
+- End-goal. A vision.
+- The direction in which to move. The next step.
+- Sub-goals that help towards the end-goal. E.g. initiatives.
 
 **Living Roadmap**
 
@@ -71,9 +75,9 @@ Time horizon ([source](https://twitter.com/nathanbaugh27/status/1554101737736519
 
 Scope:
 
-- Prototype for `1x`
-- Engineer for `100x`
-- Build for `10x`
+- Prototype for `1x`. E.g. a single user.
+- Engineer for `100x`. E.g. design a system to support many users.
+- Build for `10x`. Focus on a large enough subset of users.
 
 Follow up questions:
 
@@ -86,7 +90,7 @@ Follow up questions:
 
 >  Separate goals from dreams
 
-A template for a one-pager roadmap. This can be complemented with external sources.
+A template for a one-pager roadmap. This can be complemented with external sources. Note the similarity to the "Now Next Later" roadmap.
 
 1. A mission or vision. A perfect outcome.
 2. North star goal. A great outcome. The minimum investment you want to make. This takes in cost and time constraints.
@@ -345,6 +349,8 @@ A high-level, long-term goal that is used to show the direction to work towards.
 See [requirements engineering](requirements-engineering.md).
 
 ### Map
+
+> Maps don't tell you what to do. Instead they show you your options.
 
 A visualization of points in space. They allow you to explore routes.
 
