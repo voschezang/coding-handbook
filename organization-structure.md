@@ -84,23 +84,22 @@ Note that there are multiple paradigms that are theoretically sound. The importa
 <br>
 <img src="img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
 </details>
-
 **By Domain**
 
-Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md).
+Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md). See also the  Stacey matrix model.
 
 Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
 
 1. Chaotic. *"Novel practice"*.
-    1. Act immediately, then evaluate, then respond.
+    1. Act immediately, then evaluate, then respond. [Triage](https://en.wikipedia.org/wiki/Triage).
 
 2. Complex. *"Emergent practice"*. Learn at the same pace that the environment is changing.
-    1. Probe, experiment, then evaluate, then respond
-    1. Suited for "Agile"
+    1. Probe, experiment, then evaluate, then respond.
+    1. Suited for "Agile". Focus on learning.
 
 3. Complicated. *"Good practice"*. In absence of a single best practice (golden hammer).
     1. Analyze the problem, then respond.
-    1. Suited for "Lean"
+    1. Suited for "Lean". Focus on optimization.
 
 4. Obvious. *"Best practice"*
     1. Categorize the situation by using existing models.

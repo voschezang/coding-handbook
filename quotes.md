@@ -104,6 +104,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * The *fourth* problem in software engineering is [accidental](https://en.wikipedia.org/wiki/Accident_(philosophy)#Aristotle) complexity; i.e. using the wrong types of model for a given use case.
   * E.g. a certain programming paradigm / language / framework, database model or hardware model (e.g. CPU, GPU, FPGA)
 * If tests are not run periodically they will start to fail over time.
+* Code is a liability, not an asset. Minimize the amount of code used to provide functionality (excl. other factors...).
 * Not all technical debt has to be [paid off](https://www.martinfowler.com/bliki/TechnicalDebt.html); sometimes code can be simply deprecated.
 * Assign owners/requestors to *requirements*. Who want this? Is it still relevant?
 * Timestamp everything.
@@ -111,6 +112,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Using [branches](https://en.wikipedia.org/wiki/Branching_(version_control)) defers integration. The average age of branches is inversely related to the [continuity](https://en.wikipedia.org/wiki/Continuous_integration) of integration.
 * Choosing the right methodology < being able to adjust & experiment (as a team)
   * If your theoretically sound methodology is not working, then switching to an entirely new method will not help you. Instead learn to adjust and experiment.
+* *Distributed* does not imply *decoupled*.
 
 ### Collaboration
 
@@ -132,7 +134,8 @@ Note that the validity of the following statements is dependent on certain *impl
 
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
-* DevOps is just [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). You build it, you run it.
+* DevOps is *just* [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). You build it, you run it.
+  * In order to do this successfully in a complex environment, you need to move fast and incorporate feedback.
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
   * This requires a fast and automated build-test-deployment process. Be able to deploy 100 times per day.
 * Maximize productivity by minimizing lead time per task/item.

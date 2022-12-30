@@ -8,6 +8,11 @@ Software development used to be *just* a chaotic, creative endeavour. However, g
 
 Software engineering can be described from multiple points of view. In addition, it can be done in a specific [domain](software-domains.md).
 
+Usually it consists of either:
+
+- Domain modeling. E.g. encode business logic in a spreadsheet.
+- Translating models. E.g. port a program to another language to improve performance.
+
 **Daily Work**
 From a high level, there are only three types:
 
@@ -294,6 +299,17 @@ The rate of integration directly affects the tome to receive and act upon feedba
 - [Continuous](https://en.wikipedia.org/wiki/Continuous_delivery). E.g. committing directly to the main production branch.
 - Days or weeks. E.g. short-lived feature branches.
 - Months or years. E.g. working in parallel branches.
+
+In practice, different changes may be integrated at different time scales. E.g.:
+
+- Linting (in milliseconds)
+- Local unit tests (seconds to minutes)
+- Continuous integration (minutes)
+- Continuous deployment (minutes to hours)
+- Canary releases (minutes to days)
+- Full releases
+
+
 
 **Risk.** Changes can impact stability. Risk mitigation can be done by these two strategies:
 
