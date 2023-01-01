@@ -123,6 +123,8 @@ See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.m
 
 ### Testing
 
+Also see *Integration & Delivery* below.
+
 > The entropy (complexity) of software without "good" tests can only increase. Tests allow features to be safely removed.
 
 The term testing is usually used for "checks". A distinction can be made based on the role of requirements.
@@ -220,7 +222,7 @@ Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-co
 
 Addition
 
-- Managing X: making sure X is done in a certain way or at a larger scale.
+- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](systems-management.md).
 
 [DevOps](quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
 
@@ -251,7 +253,7 @@ A software development process usually consists of phases such as: `requirements
 
 
 
-**Two extremes**
+**Two extremes: from *efficient* to *flexible***
 
 1. Waterfall. A fixed project scope, price and deadline. Future changes are expensive.
     1. Designed for *throughput* and *stability*.
@@ -283,6 +285,21 @@ Notes
 
 - Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does come at the cost of being flexible. You cannot optimize for everything.
 - If the full strategy is decided top-down then the agility of development teams is limited.
+
+
+
+**DevOps**
+
+DevOps *an sich* is similar to [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). 
+
+>  You build it, you run it.
+
+The DevOps movement goes further than this. It [emphasizes](learning.md) flow, feedback and learning. Especially the latter requires empowerment and autonomy of teams.
+
+* Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
+* Maximizing flow goes hand-in-hand with a fast, automated build-test-deployment process. E.g. to able to deploy 100 times per day.
+
+
 
 **Anti-pattern**
 

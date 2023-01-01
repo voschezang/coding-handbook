@@ -103,7 +103,20 @@ In the ideal case, the system has a known clear [critical path](https://en.wikip
 
 Resources can be classified as being part of the critical path or not. Resources in the first category can be managed aggressively, focussing on short-term efficiency, whereas other resources can be optimized towards long-term efficiency. Dependent on the flexibility of resources, non-critical resources could even be used to aid critical resources.
 
-### Effectiveness
+### Performance
+
+Improving systems can be done in a few fundamental ways. Note that these require the system to be understand up to a certain extend. Three key concepts are:
+
+0. Discovering the core purpose of the system. Different stakeholders may have varying perspectives. Aligning on this is a prerequisite of successful optimization.
+1. Value delivery. The flow from input to output. E.g. the path from development to delivery to end-users.
+2. Feedback loops. Find problems as early as possible.
+3. Learning. Adapt the system based on experience. Experiment and learn from both success and failure.
+
+ See also [learning.md](learning.md).
+
+
+
+#### Effectiveness
 
 A chain may contain unnecessary complexity. On a map, it would look like a meandering river.
 
@@ -136,7 +149,7 @@ A few examples:
 - Inventory: *Due to slow switchovers, production of a specific product is done in large batches. We compete on price by providing discounts based on the size of batches. In order to control delivery times, we have to maintain a high inventory in every region.*
 - Efficiency: *This communication technology will allow us to communicate (or ship) within hours. Currently there is no awareness of the quantitive state of our different production centers. Hence, we don't know the exact demand of each state. This uncertainty was countered by a strategy of over-production: i.e. by maximizing resource utilization.*
 
-### Efficiency
+#### Efficiency
 
 Optimizations based on the current process. This is based by adjusting components within a chain. This excludes radical changes to the chain itself.
 
@@ -167,7 +180,7 @@ In addition, there are a few important but counter-intuitive effects.
 
 Deadlines are not the only method to control pressure. Hence it can be feasible to have loosed deadlines without losing pressure or focus.
 
-#### Bottlenecks
+##### Bottlenecks
 
 Resources can be categorizes as:
 
@@ -179,7 +192,7 @@ The demand of resources is affected by queue size. Queues can be used as buffers
 
 In theory, idle time of non-bottleneck resources is perfectly fine. This can even be preferable over over-production, which will increase inventory.
 
-#### Propagation of errors
+##### Propagation of errors
 
 > A chain is no stronger than its weakest link.
 
@@ -201,13 +214,13 @@ The only fundamental way to avoid internal bottlenecks is to *subordinate* all o
 
 Note that there can also be an external bottleneck. E.g. market demand that is lower than the capacity of the system.
 
-#### Resource Contention
+##### Resource Contention
 
 In the aforementioned examples all resources had a static position. However, in reality, resources can shared. In such cases, the critical chain can span over multiple projects.
 
 <img src="img/critical-chain.png" alt="critical-chain" style="width:80%;" />
 
-#### Efficiency & Optimization
+##### Efficiency & Optimization
 
 > Resource activation does not imply resource utilization.
 

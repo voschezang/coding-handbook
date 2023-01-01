@@ -29,7 +29,7 @@ See also [organization-structure](organization-structure.md) and [systems-manage
 
 
 
-Three integral properties of management.
+**Properties**
 
 1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge.
 2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
@@ -37,9 +37,11 @@ Three integral properties of management.
     1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
     2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
 
+There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
 
 
-Management consists of two main activities:
+
+**Activities**
 
 1. Set *optimistic* goals, prioritize them and make a *realistic* planning/estimation.
     - Be great at setting expectations (e.g. to stakeholders).
@@ -52,9 +54,13 @@ Management consists of two main activities:
     - The organization should be a community, where people interact.
 3. Ensuring the availability of resources (incl. in the future).
 
-Hence management styles can be oriented towards (1) leadership or (2) facilitation. In addition there might be a focus on a specific function, for example a product or project. The work will vary greatly dependent on the type of organization and the composition of teams.
 
-There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
+
+### Performance
+
+See [systems-management](systems-management.md).
+
+
 
 **Effectiveness**
 
