@@ -36,8 +36,8 @@ Management & Organizations
 - Project Management & Planning
 
   - [Goals/Planning/Strategy](goals-planning-strategy.md) - choosing goals and strategies.
-  - [Product Management](product-management) - handling *multiple* projects.
-  - [Project Management](project-management) - handling a *single* project.
+  - [Product Management](product-management.md) - handling *multiple* projects.
+  - [Project Management](project-management.md) - handling a *single* project.
 
 Other
 
