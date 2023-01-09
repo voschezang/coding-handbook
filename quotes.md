@@ -135,6 +135,7 @@ Note that the validity of the following statements is dependent on certain *impl
 The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/Cynefin_framework) (e.g. a highly dynamic market).
 
 * You build it, you run it.
+* DevOps is primarily a social transformation.
 * DevOps is *just* [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration) with a focus on flow, CI/CD and learning.
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
 * Maximize productivity by minimizing lead time per task/item.

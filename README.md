@@ -27,7 +27,6 @@ Systems theory
 
 - [Systems Management](systems-management.md) - systems thinking.
 - [Communication Patterns](communication-patterns.md) abstract theory regarding messaging.
-- [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
 
 Management & Organizations
 
@@ -38,6 +37,7 @@ Management & Organizations
   - [Goals/Planning/Strategy](goals-planning-strategy.md) - choosing goals and strategies.
   - [Product Management](product-management.md) - handling *multiple* projects.
   - [Project Management](project-management.md) - handling a *single* project.
+  - [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
 
 Other
 
@@ -54,6 +54,7 @@ From abstract theory to application within a domain. For a full overview, see [t
 - [Communication Patterns](communication-patterns.md) > [Programming Patterns](programming-patterns.md) > [Programming Paradigms](programming-paradigms.md)
 - [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management.md)
 - [Systems Management](systems-management.md) > [Organization Structure](organization-structure.md) > [Organization Architecture](organization-architecture.md)
+- [Management Principles](management-principles.md) > (management of)  [Systems](systems-management.md) > a [Product](product-management.md) > a [Platform](platform-management) > a [Project](project-management.md)
 
 
 
