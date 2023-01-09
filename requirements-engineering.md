@@ -27,6 +27,22 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 
 
 
+**Good Outcomes**
+
+Focus on the *what* instead of the *why* (after there is alignment on the need for change).
+
+- Frame it as something positive, rather than a problem to avoid.
+- Make it specific.
+    - Add acceptance criteria. How do you know that the outcome has been reached? How will success be measured?
+- Reduce the scope to be more realistic. Link the outcome to higher order outcomes to keep it motivational.
+- Define the necessary resources.
+
+Consider the context.
+
+- Define side-effects. What will happen once this has been reached?
+
+
+
 **Functional and non-functional requirements (NFR)**
 
 [Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).
@@ -86,6 +102,8 @@ Outcome-based:
 
 #### Template: Project Pitch
 
+For a pitch, focus on the *why*. For the scope, shift to the *how*.
+
 **One-pager**
 
 The top-half explains the objective and purpose. The bottom-half covers the implementation.
@@ -129,12 +147,10 @@ There can be a need for a light alternative of the one-pager. E.g. when informin
 
 ```markdown
 - Why & for whom
-- Context & problem (if relevant)
+- Context, problem, opportunity
 - The proposal & the main deliverables
 - Any details, relevant to the specific audience. E.g. deliverables or cost
 ```
-
-
 
 #### Template: Small Tasks
 
