@@ -81,9 +81,13 @@ Note that there are multiple paradigms that are theoretically sound. The importa
 
 <details>
 <summary><b>Alignment &amp; Autonomy</b></summary>
-<br>
+<h4>Power of continuous improvement</h4>
+<p>This is a model of an organization with autonommous components. While making local optimizations, each components effectively moves in random directions. With a tiny amount of alignment (vision) the total movement of the system can be altered radically.</p>
+<img src="img/plot-random-walk.png" alt="plot-random-walk" style="width:80%;"/>
+<h4>Frameworks</h4>
 <img src="img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
 </details>
+
 **By Domain**
 
 Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md). See also the  Stacey matrix model.

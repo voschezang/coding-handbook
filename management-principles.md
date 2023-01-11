@@ -211,6 +211,14 @@ Typical solutions: ship orders in increments, vertical integration, store resour
 
 ## Management per Type
 
+Levels
+
+- Operational level. E.g. (autonomous) functional, product or feature teams.
+- Coordination level. Relations between teams.
+- Strategic level. Which directions, what priority.
+
+
+
 **Organization Management**
  [organization-structure](organization-structure.md)
 
