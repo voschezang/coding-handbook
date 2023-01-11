@@ -179,9 +179,15 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 From [goals and strategy](goals-planning-strategy.md).
 
-1. Refine the product portfolio and a range of desired outcomes.
-2. Choose a single North Star Goal and find metrics to track the progress towards it.
-3. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*. 
+Alignment.
+
+1. Refine the product portfolio and define a range of desired outcomes.
+2. Communicate this and align the organization or team.
+
+Leadership and motivation.
+
+1. Choose a single North Star Goal and find metrics to track the progress towards it.
+2. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*. 
 
 Based on this preparation, a roadmap can be setup. Then, projects can be defined, based on this roadmap. Ideally these project will only be refined *just in time* (JIT).
 

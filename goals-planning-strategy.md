@@ -35,8 +35,6 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 ## Living Roadmap
 
-
-
 > Great outcome > meeting initial requirements.
 
 > A goal is nothing without a good system to reach it.

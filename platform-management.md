@@ -6,13 +6,13 @@ It has many parallels with the business concept [franchising](https://en.wikiped
 
 See also [product management](product-management.md).
 
-
+<img src="img/platform.png" alt="platform" style="width:45%;" />
 
 **Role**
 
 The platform can range from:
 
-- An abstraction layer that enables consumers to be agnostic about providers. This reduces coupling and complexity for consumers.
+- An abstraction layer that enables consumers to be agnostic about providers. This reduces coupling and complexity for consumers. The consumer merely interacts with proxies of the original provider.
 - A utility layer that either enables providers to deliver services more easily or enables consumers to receive a higher quality of services.
 
 This may be combined with the role of a [distributor](https://en.wikipedia.org/wiki/Distribution_(marketing)) (or vendor). This inverses the direction of cash flow between the platform and providers.
@@ -23,7 +23,7 @@ Finally, investment may be made to attract either providers or consumers.
 
 **Purpose**
 
-As a product, the following goals apply:
+For any product, the following goals apply:
 
 - Deliver of value to customers.
 - Contain operating cost and reduce waste.
@@ -32,7 +32,7 @@ As a product, the following goals apply:
 This can be extend by taking into account the roles of providers and consumers.
 
 - Deliver of value directly to providers.
-- Facilitate delivery of value to consumers. E.g. ensure high availability and low latency.
+- Facilitate delivery of value to consumers. E.g. ensure high availability, low latency, low [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair).
 - Reduce the entry barrier and operating cost of providers and consumers.
 - Improve the agility of providers and consumers.
 

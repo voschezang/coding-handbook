@@ -60,8 +60,6 @@ There is a tradeoff between adapting to the current team, and seeking out employ
 
 See [systems-management](systems-management.md).
 
-
-
 **Effectiveness**
 
 The two main directions to be effective are:
@@ -74,8 +72,6 @@ This involves
 
 - Continuous improvement of purposes, people, processes.
 - Continuous discovery of value and waste.
-
-Note that investment involves a short term cost by definition.
 
 **Measure of Success**
 
