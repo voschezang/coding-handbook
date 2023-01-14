@@ -219,6 +219,14 @@ Levels
 
 
 
+Levels of assignments
+
+- Execute a plan
+- Develop a plan / find a solution to a given problem
+- Discover the right problem
+
+
+
 **Organization Management**
  [organization-structure](organization-structure.md)
 
@@ -228,7 +236,7 @@ Levels
 
 
 
-**Stakeholder management (managing up)**
+**Stakeholder management (managing up, opdrachtnemerschap)**
 
 > Ask for advice, not for feedback
 

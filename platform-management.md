@@ -13,7 +13,9 @@ See also [product management](product-management.md).
 The platform can range from:
 
 - An abstraction layer that enables consumers to be agnostic about providers. This reduces coupling and complexity for consumers. The consumer merely interacts with proxies of the original provider.
-- A utility layer that either enables providers to deliver services more easily or enables consumers to receive a higher quality of services.
+- A utility layer that either enables providers to deliver services more easily or enables consumers to receive a higher quality of services. E.g. by enforcing or providing certain security policies.
+- A centralization or governance layer that provides control over the market or [landscape](https://en.wikipedia.org/wiki/Service-oriented_architecture) of services.
+- A mediation or translation layer that provides a provider-specific interface to consumers.
 
 This may be combined with the role of a [distributor](https://en.wikipedia.org/wiki/Distribution_(marketing)) (or vendor). This inverses the direction of cash flow between the platform and providers.
 
