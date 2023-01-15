@@ -33,6 +33,14 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 
 
+Objective = What you want to achieve
+
+Key Result = That what shows whether you've achieved the objective
+
+Initiative = An action that will bring you closer to a result
+
+
+
 ## Living Roadmap
 
 > Great outcome > meeting initial requirements.
@@ -132,7 +140,12 @@ A hierarchy of targets that is updated every quarter.
 <p><b>Complex Structure</b><br/>
   Problem: too chaotic.</p>
 <img src="img/goals-complex.png" alt="goals-complex" style="width:30%;" />
+<br/><br/>
+<p><b>Double Tree Structure</b><br/>
+  Sub-goals map to multiple high-level goals.</p>
+<img src="img/goals-tree-double.png" alt="goals-tree" style="width:50%;" />
 </details>
+
 
 
 #### Template 3: Path
@@ -167,6 +180,14 @@ Before creating a roadmap, one must choose the right projects or initiatives.
 Individually, each projects may seem valuable. The challenge is to maintain a balanced portfolio of projects. A typical chicken-egg problem is that projects need to be prepared before they can be prioritized. Doing too much preparation increases WIP and thus reduces focus. This template attempts to avoid this by defining high level outcomes and excluding details.
 
 This is especially useful w.r.t technical work that is not visible to end users. Although it is valuable, it can be easily be postponed without affecting promises to stakeholders.
+
+Below are a few templates
+
+- Signals
+- Desired States
+- Option pool. A mapping from initiatives to higher-level goals.
+
+
 
 ### Template 1: Signals & Underlying Problems
 
@@ -218,11 +239,39 @@ Desired State
 ...
 ```
 
-### Template 3: Portfolio
+### Template 3: Portfolio / Option pool
+
+1. Determine & align on a *set* of core objectives. Avoid ordering this set by importance. E.g. `deliver value` now, and `contain cost`, `be agile` to be able to keep doing this in the future.
+2. Create an option pool of initiatives. Show how each initiative relates to a core objective.
+3. Compare the ROI, risk and compatibility of the initiatives.
+
+
+
+#### Visualizations
+
+**Mapping of initiatives to core objectives**
+
+<img src="img/goals-tree-double.png" alt="goals-tree" style="width:30%;" />
+
+
+
+**Comparison of Projects**
+
+Express the *cost* of each initiative or project in vertical space. Each box indicates an increment. Ideally these can be delivered to customers to generate revenue. The arrows indicate dependencies between increments.
+
+
+
+<img src="img/project-comparison.png" alt="project-comparison" style="width:60%;" />
+
+
+
+**Projects per Theme**
 
 This is again based on categories or themes, but this template emphasizes the option pool. The shape of the visualisation (when zoomed out) gives an indication of the amount of focus.
 
-![option-pyramid](img/option-pyramid.png)
+
+
+<img src="img/option-pyramid.png" alt="option-pyramid" style="width:70%;" />
 
 
 

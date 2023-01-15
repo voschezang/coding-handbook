@@ -24,6 +24,10 @@ Documentation should not only be written for a specific audience, but it should 
 - Tutorials and explanations are educational and thus suitable for learning.
 - How-to guides and references are informational and more suitable for work.
 
+- FAQs don't fall in a single class. Often they combine answers from various sources.
+
+
+
 **Maintaining Documentation**
 
 This is even harder than writing good documentation. A standard way to maintain high quality is to continuously update documentation. Whenever an aspect of the subject is changed, ensure that the result is reflected in the documentation.
