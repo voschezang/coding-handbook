@@ -61,7 +61,7 @@ The future profitability can be defined as the [expected value](https://en.wikip
 Although idle time seems wasteful, it can be a necessity. Types of idle time:
 
 - Idle resources. E.g. firefighters that aren't actively putting out fires.
-- Idle tasks. E.g. tasks that are on hold.
+- Idle tasks. E.g. tasks that are on hold or blocked.
 
 A third category of inefficiency are resources that are doing the "wrong" thing. E.g. producing a product that doesn't have demand.
 

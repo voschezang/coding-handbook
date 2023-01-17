@@ -1,5 +1,5 @@
 
-# Modelling
+# Modeling
 
 Principles of modeling, statistics and machine learning. Note that a model can be either mathematical or conceptual (e.g. a flowchart).
 
@@ -8,7 +8,6 @@ Principles of modeling, statistics and machine learning. Note that a model can b
   - Multiple models can be correct; they may provided different perspectives of the same phenomena.
 - Good models have clear boundaries.
 - There is no [free lunch](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff); making models specific to 1 dataset decreases the performance on all others (i.e. generalization).
--
   - Minimize the number of [assumptions](https://en.wikipedia.org/wiki/Occam%27s_razor) in a model. Simplicity is the greatest sophistication.
   - Distinguish between [systematic & random](https://en.wikipedia.org/wiki/Observational_error#Random_errors_versus_systematic_errors) errors. And between [sensitivity & specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity).
 - Generalization gap: performance on a test set is always worse than performance on the training set.
@@ -29,7 +28,7 @@ Experiments not require complex setups. Start simple and expand if necessary. Th
 
 1. Learn by observation. Then reflect on the observations.
 2. Iterate. Change a single  variable and measure the result. Then repeat.
-3. A/B Testing.
+3. Experiment. E.g. A/B testing.
     1. Replicate multiple environments.
     2. Change one of them and use the other one as a baseline.
     3. Compare the results.

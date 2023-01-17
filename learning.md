@@ -95,7 +95,7 @@ Context: uncertain, ever-changing environments. IT can never be fast enough.
 
 3-step improvement process
 
-![flow-3-steps](img/flow-3-steps.png)
+<img src="img/flow-3-steps.png" alt="flow-3-steps" style="width:80%;" />
 
 #### Lean
 
