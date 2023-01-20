@@ -33,11 +33,13 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 
 
-Objective = What you want to achieve
+Mission: Why does this organization we exist. A long term view.
 
-Key Result = That what shows whether you've achieved the objective
+Objective: What you want to achieve in e.g. the next quarter.
 
-Initiative = An action that will bring you closer to a result
+Key Result: That what shows whether you've achieved the objective
+
+Initiative: An action that will bring you closer to a result
 
 
 

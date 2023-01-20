@@ -67,6 +67,7 @@ The two main directions to be effective are:
 - Deliver (maximize) value to customer. This may require investment and innovation (change).
     - Now or sooner.
     - In the future or long-term. Be sustainable and be able to adapt to the environment.
+    - Do this in a happier or safer way.
 
 - Eliminate (minimize) waste. This doesn't just demand reliability and stability, but it also requires an investment to remove obstacles.
   - Waste is defined as "anything that isn't part of the value chain"

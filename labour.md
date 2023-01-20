@@ -20,6 +20,15 @@ Choosing the right objective and initiatives is a challenge in itself. See [goal
 
 
 
+**Management**
+
+Labour can be divided into *processes* and *projects*. It is done by a person or an *organization* and it involves *resources*. Often it involves [systems](systems-management.md) of various sorts. Al of these concepts may involve [management](management-principles.md).
+
+- A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
+- A [project](project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
+
+<img src="img/process-project.png" alt="process-project" style="width:70%;" />
+
 ## Assignments
 
 Initiatives can be defined as assignments or projects that are difficult in some sense. For a given a project there are two phases to consider: planning and execution. Both are [vital](https://en.wikipedia.org/wiki/Verification_and_validation) to:
