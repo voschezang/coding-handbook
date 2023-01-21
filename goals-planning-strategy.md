@@ -253,7 +253,7 @@ Desired State
 
 **Mapping of initiatives to core objectives**
 
-<img src="img/goals-tree-double.png" alt="goals-tree" style="width:30%;" />
+<img src="img/goals-tree-double.png" alt="goals-tree" style="width:40%;" />
 
 
 

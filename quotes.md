@@ -164,6 +164,7 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
   * If it's risky then do it more often. This forces one to address issues.
   * If it's difficult then do it more often. Practice.
   * If it hurts (e.g. financially), do it more often. Let the pain show.
+* ~~Automate everything~~. Automate costly and risky processes first.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.
   * Ideally change one thing at the same time (in a team) so you can study the results and possibly infer causality. This is also an incentive to move faster and finish tasks.
