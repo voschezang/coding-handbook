@@ -8,6 +8,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 * Everything is a theory and could be proven wrong.
 * Every problem seems easy after reading the solution.
+* Writing is for other people.
 * There is no such thing as absolute certainty. Even [rationality](https://en.wikipedia.org/wiki/Postmodernism) does not guarantee certainty. Pure objectivity does not exist.
 * Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation
     ) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality

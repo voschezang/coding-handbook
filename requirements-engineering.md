@@ -6,6 +6,8 @@ This document focusses on requirements for a single *unit* of work. Projects tha
 
 ## Overview
 
+Requirements are a form of [documentation](documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made.
+
 Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. This scope can be defined in different levels:
 
 - **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.

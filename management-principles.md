@@ -270,6 +270,12 @@ Communication - based on a request:
 
 
 
+Communication - based on change
+
+- Update stakeholders when new information has become available.
+- Update stakeholders periodically with the current status.
+- Display a status board that is continuously updated.
+
 
 
 **Expectation management**
@@ -294,6 +300,8 @@ Technique:
 Let the other accept your schedule. Not everything is possible, so force the client to choose explicitly. Communicate transparently.
 
 There is never enough time, but there are three ways to manage it: prioritization, efficiency and multiplication.
+
+Priority can be based on motivation, desire or purpose.
 
 Prioritize *core* activities and defer, drop or delegate (outsource) *contextual* activities.
 

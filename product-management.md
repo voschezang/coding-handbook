@@ -175,6 +175,15 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 
 
+**Tools**
+
+A few common tools are:
+
+- Product backlog. Ideas that will be worked on in the future.
+- [Kanban](https://en.wikipedia.org/wiki/Kanban_board) board. A dashboard that visualizes what is happening at the moment.
+
+
+
 **Template**
 
 From [goals and strategy](goals-planning-strategy.md).
@@ -186,20 +195,20 @@ Alignment.
 
 Leadership and motivation.
 
-1. Choose a single North Star Goal and find metrics to track the progress towards it.
-2. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*. 
-
-Based on this preparation, a roadmap can be setup. Then, projects can be defined, based on this roadmap. Ideally these project will only be refined *just in time* (JIT).
+1. Choose a single North Star Goal that is consistent.
+2. Choose an objective to focus on and find metrics (key results) to track the progress towards it.
+3. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*. 
 
 
 
 ### JIT Planning
 
-**Prioritization of future work**
-Two different methods to plan work:
+Suppose the main constraint in a team is capacity. Then there is a need to focus on the most important tasks. This can be done by either:
 
-- Sprints of 1-4 weeks. See [scrum-guide.md](scrum-guide.md). The team commits to a single short-term goal and comes up with a plan to reach it. This commitment is motivational  rather than an obligatory: left-over tasks should be seen as a possibility of improvement rather than a failure. In cross-functional teams the diversity of the work in the sprint may be taken into account.
-- No sprints, but instead use a continuously updated product backlog. Whenever a task is finished the tasks that is at the top of the backlog can be picked up. This requires a limit on the amount of work in progress. The team has more freedom and should have a high level of discipline.
+- Structured: Periodic planning sessions where work is selected and planned. E.g. week sprints in [Scrum](scrum-guide.md).
+- Ad-hoc: A WIP-limited way of working. Whenever a task is finished a new task is selected.
+
+
 
 **Prioritization of work in progress**
 Maximize flow and minimize inventory (i.e. unfinished tasks, unmerged code). Prefer finishing tasks over starting new tasks. Address blocked task immediately instead of avoiding them. Find an optimal number of tasks to work on at the same time (within a team).

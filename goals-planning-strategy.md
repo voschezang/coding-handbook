@@ -164,7 +164,9 @@ In case of technology-based projects this can be complemented with suggestions f
 
 
 
-### Meetings
+### Alignment
+
+#### Meetings
 
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
 
@@ -172,6 +174,17 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 - Weekly tactical meeting. React to short-term issues.
 - Monthly strategic meeting. Decide on long-term adjustments. Prepare topics beforehand.
 - Quarterly off-site review. Take an outside-view and reflect.
+
+
+
+#### Visualize Work
+
+Visualizing work has a few benefits:
+
+- Alignment by making progress explicit.
+- Show bottlenecks that impede flow.
+
+This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) board. Such a board consists columns such as: `to-do, doing, done`. Each column may contain cards, which represent actions or tasks. See [product management](product-management.md).
 
 
 

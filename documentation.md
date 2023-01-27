@@ -4,11 +4,17 @@
 
 ## Audience & Author
 
-Functions of writing
+> Writing is for other people
+
+Writing is a way to communicating with an audience. It has several functions:
 
 - Past events: documenting
 - Now: deconstructing, exploring
 - Future events: delegating
+
+In addition, it may serve as a tool clarify and process the author's thoughts.
+
+
 
 **Types of documentation**
 

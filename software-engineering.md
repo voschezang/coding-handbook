@@ -177,6 +177,15 @@ Two types
 - Internal software quality; invisible to users.
   - Users are indirectly impacted by this, through lead time..
 
+
+
+Code reviews
+
+- Based on the risk/impact of the work
+- Based on how "clean" the code is
+
+
+
 ### Technical Debt
 
 Technical debt is an investment. It is risky, especially when the aggregate debt is kept unchecked. The typical example is to trade in quality in order to release faster. Given that requirements usually change over time, technical debt doesn't always have to be "paid back". The tradeoff can be summarized as: "You ain't gonna need it" vs. "you're not gonna fix it later".

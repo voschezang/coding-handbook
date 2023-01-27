@@ -46,7 +46,7 @@ Labour can be divided into *processes* and *projects*. It is done by a person or
 
 Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels.
 
-1. Awareness of identity. What should our identity be?
+1. Meaning. Awareness of identity. What should our identity be?
 2. Identity. Who are we?
 3. Values. Give this identity, what do we value?
 4. Beliefs. How do these values relate to the real world.
@@ -54,11 +54,18 @@ Labour can be performed by an [organization](organization-structure.md) or [syst
 6. Behavior. What are we doing?
 7. Environment. What is outside of us?
 
+These influence decisions. For example, belief is a prerequisite for making changes - and can limit capability. E.g.
+
+```markdown
+**We      cannot do         this     here**
+_identity belief capability behavior environment_
+```
+
 
 
 **Labour Itself**
 
-Labour can occur in different [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`. 
+Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`. 
 
 It may have the following forms:
 
@@ -66,6 +73,8 @@ It may have the following forms:
 2. Development: novelty, effectiveness, build/improve an application. I.e. invest and introduce change.
 3. Operations: efficiency & quality, run a black-box application. I.e. cut cost and block change. Execute a process.
 4. Administration: consistency, manage a black-box application. Audit an executed process.
+
+*Management* of labour usually falls under operations or administration. It differentiates itself from "actual" work by distancing itself from it. E.g. through delegation or orchestration.
 
 
 
