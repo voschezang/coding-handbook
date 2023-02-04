@@ -63,6 +63,16 @@ _identity belief capability behavior environment_
 
 
 
+**Autonomous teams**
+
+A top-down approach where teams execute pre-specified plans is straightforward and works well in certain environments. Whenever teams need to adapt quickly this approach starts to fail. 
+
+- Alignment with other teams. Being aware of the greater purpose.
+- Reflection of the team itself, it's work and it's environment.
+- Adapting objectives and plans based on progress.
+
+
+
 **Labour Itself**
 
 Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`. 
@@ -105,3 +115,68 @@ Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using
 **Improvement**
 
 Change [organizational structure](organization-structure.md) and the environment. See [learning](learning.md).
+
+
+
+## Work Principles
+
+> Principles before process
+
+
+
+**`0` Zero quality layers**
+
+Instead, build-in quality and improvement into every stage or component. In organizations, let everyone improve, rather than hiring a consultant to do it for them.
+
+
+
+**`1` Focus**
+
+> Focus means saying no
+
+- Limit [WIP](https://en.wikipedia.org/wiki/Work_in_process). Focus on flow. Be inefficient. Multitasking is wasteful. Be long term patient and short term impatient.
+- Limit change-in-progress. Cognitive overhead is demanding of employees - it drains energy
+- Strive for 1 goal per timescale.
+
+
+
+**`∞` Continuous improvement**
+
+- Assume ignorance. Be ready to learn.
+
+- Design for failure. Setup experiments that can fail. Do risk management.
+- Think big and work small.
+
+
+
+**`∀` Agile**
+
+> Happy teams, happy customers
+
+Agile is not a goal in itself. Rather, increase agility in order to deliver value faster, sooner, safer and happier.
+
+- Better: quality.
+- Happier: colleagues, customers. Incl. a good level of challenge.
+- Sooner: lead time, throughput, flow efficiency.
+- Safer: risk, continuous compliance, security.
+
+
+
+**`3` The DevOps Way**
+
+1. Flow through value chain.
+2. Feedback loops. Include customer feedback.
+3. Continuous improvement.
+
+
+
+**Lean**
+
+Applicable to *complicated* rather than *complex* domains
+
+1. Focus on customer value
+2. Identify value stream, from concept to cash
+3. Flow, minimize lead time, flow efficiency
+4. Pull, don’t over produce
+5. Strive for perfection, high quality.  This is mostly for *complicated* rather than *complex* domains
+

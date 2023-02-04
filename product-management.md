@@ -75,8 +75,10 @@ Deciding what to build, for whom, when.
 Building it (R&D) and delivering it (ops).
 
 **Product Teams**
-
 A product team is supposed to completely manage a single product. The team is autonomous and can take ownership, because it controls the [whole](https://en.wikipedia.org/wiki/Vertical_integration) value chain. See [this template](documentation.md#Templates).
+
+**Positioning**
+Deliver some value to a well-defined set of customers, i.e. a target market.
 
 ### Strategy
 
@@ -86,6 +88,23 @@ Product-Market Expansion Grid. Uncertainty increases from top-left to the bottom
 | -------------------- | ------------------ | ------------------------------ |
 | **Existing Markets** | Market penetration | Product development            |
 | **New Markets**      | Market development | Product/Market diversification |
+
+Philosophy
+
+- MVP. Then iterate
+- Be insanely great (Apple).
+
+
+
+**Levels of product**
+
+- A commodity, a heterogenous product. Marketed by showing features or generic benefits.
+- A unique selling point. Solving a specific problem, for a specific market/persona.
+- Being a brand. An identity/lifestyle. Telling a story.
+
+“We understand you". That’s why you should trust us and buy our services
+
+
 
 ### Background
 

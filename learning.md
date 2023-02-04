@@ -25,7 +25,7 @@ Changes van vary from being large and disruptive, to gradual shifts.
 
 ## Practice (Context)
 
-#### Organizations & Processes
+### Organizations & Processes
 
 The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](organization-structure.md#Autonomy%20and%20Alignment%20per%20Domain).
 
@@ -34,7 +34,7 @@ The ideal learning strategy depends on the  [environment](https://en.wikipedia.o
 - Complicated: sense-analyse-respond
 - Obvious: sense-categorise-respond
 
-#### Learning
+### Learning
 
 Other patterns
 
