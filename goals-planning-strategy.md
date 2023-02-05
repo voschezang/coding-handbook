@@ -15,7 +15,7 @@ Different modes of planning:
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
-**Terminology**
+### Terminology
 
 Specific types of goals
 
@@ -33,15 +33,25 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 
 
-Mission: Why does this organization we exist. A long term view.
+#### OKR Model
 
-Objective: What you want to achieve in e.g. the next quarter.
+<img src="img/current-target-state.png" alt="current-target-state" style="width:70%;" />
 
-Key Result: That what shows whether you've achieved the objective
+**Mission**
+Why does this organization we exist. A *persistent*, long term view.
 
-Initiative: An action that will bring you closer to a result
+**Objective**
+That what you want to achieve in the next quarter or year. A *qualitative* goal that is inspirational and motivational.
 
+- A target state that differs from the current state.
 
+**Key Results**
+How you know that we have achieved the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria) and optimistic.
+
+- Target conditions that need to be satisfied in order to reach the target state.
+
+**Initiative**
+An action that will bring you closer to a result.
 
 ## Living Roadmap
 

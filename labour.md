@@ -170,7 +170,7 @@ Agile is not a goal in itself. Rather, increase agility in order to deliver valu
 
 
 
-**Lean**
+**`6σ` Lean**
 
 Applicable to *complicated* rather than *complex* domains
 
