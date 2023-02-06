@@ -211,7 +211,15 @@ Activities and communication
 
 <img src="img/goals-tree-double.png" alt="goals-tree" style="width:30%;" />
 
+
+
+<img src="img/current-target-state.png" alt="current-target-state" style="width:50%;" />
+
+
+
 <img src="img/roadmap-path.png" alt="roadmap-path" style="width:70%;" />
+
+
 
 <img src="img/project-comparison.png" alt="project-comparison" style="width:60%;" />
 

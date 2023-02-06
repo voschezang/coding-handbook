@@ -312,6 +312,21 @@ Time can be multiplied.
 - Teach others *why* and *what* instead of *how*. Empower others to do it independently.
 - Broadcasting instead of point-to-point communication. E.g. write a blog post or wiki instead of a long email.
 
+
+
+**Performance management**
+
+See [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/theory/feedback-and-performance-management/).
+
+| Type of Organization | Method                                                       |
+| -------------------- | ------------------------------------------------------------ |
+| Power-oriented       | Rewards and punishment by the boss                           |
+| Rule-oriented        | Monitor conformation to rules and roles.                     |
+| Performance-oriented | Track progress towards targets. Incentivize excellence.      |
+| Value-oriented       | Focus on team performance and collaboration and personal development. |
+
+
+
 ### Process Management
 
 Based on the properties of [systems](systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).

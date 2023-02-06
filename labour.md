@@ -8,7 +8,7 @@ This contrasts with *work*, which has a clearly defined beginning and end. This 
 
 
 
-**Purpose and Sustainability**
+### Purpose and Sustainability
 
 The purpose of any type of labour can be deconstructed in *discovery* and *delivery*. The former is both an [existential](https://en.wikipedia.org/wiki/Existentialism) question and a [validation](https://en.wikipedia.org/wiki/Verification_and_validation) of beliefs and posibilities. Delivery is more concrete, and consists of the following:
 
@@ -21,7 +21,7 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 
 
-**Objectives and Initiatives**
+### Objectives and Initiatives
 
 At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.
 
@@ -33,9 +33,21 @@ Choosing the right objective and initiatives is a challenge in itself. See [goal
 
 
 
-**Organized Labour**
+### Organized Labour
 
 Labour can be divided into *processes* and *projects*. It is done by a person or an *organization* and it involves *resources*. Often it involves of various sorts. Al of these concepts may involve [management](management-principles.md).
+
+
+
+How to run an organization.
+
+1. Set clear, time-bound objectives (see above).
+2. Ensure that the organization is working towards them.
+3. Setup periodic reflection moments at appropriate time scales. E.g. daily, bi-weekly, quarterly, yearly meetings.
+
+
+
+**Projects and processes**
 
 - A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
 - A [project](project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
@@ -43,6 +55,8 @@ Labour can be divided into *processes* and *projects*. It is done by a person or
 <img src="img/process-project.png" alt="process-project" style="width:70%;" />
 
 
+
+**Identity**
 
 Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels.
 
@@ -73,7 +87,7 @@ A top-down approach where teams execute pre-specified plans is straightforward a
 
 
 
-**Labour Itself**
+### Labour Itself
 
 Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`. 
 
