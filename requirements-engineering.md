@@ -120,7 +120,7 @@ Twofold:
 - The **complication**. The current state may be either *problematic* or contain an *opportunity*.
 
 # Question
-What can be different? Allow the audience to consider *alternatives* before handing them a solution.
+What can be different? Allow the audience to consider *alternatives* before handing them a solution. Start believing that change is possible.
 
 # Answer
 The proposal. An **outcome** that improves the current state.

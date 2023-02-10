@@ -47,16 +47,62 @@ How to run an organization.
 
 
 
-**Projects and processes**
+Cycle
+
+1. Take a step back / reflect
+2. Make or update plans. Choose a direction.
+3. Execute plans. Move forwards.
+4. Repeat
+
+
+
+**Autonomous teams**
+
+A top-down approach where teams execute pre-specified plans is straightforward and works well in certain environments. Whenever teams need to adapt quickly this approach starts to fail. 
+
+- Alignment with other teams. Being aware of the greater purpose.
+- Reflection of the team itself, it's work and it's environment.
+- Adapting objectives and plans based on progress.
+
+
+
+#### Projects and processes
 
 - A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
 - A [project](project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
 
 <img src="img/process-project.png" alt="process-project" style="width:70%;" />
 
+#### Change
+
+See [requirements-engineering](requirements-engineering.md).
 
 
-**Identity**
+
+**Proposing change**
+
+Align on the questions: *Why change? For whom? Why now?*
+
+1. **Context**. Align on the current state. What is the complication? What is the problem or opportunity? What is the context?
+2. **Question** the current state. Belief that "we" can change this soon. What can be different? Which assumptions are false?
+3. **Answers**. Propose actions to take.
+
+Then make a plan.
+
+
+
+**Planning change**
+
+Determine how to make change possible and worthwhile. Given an *objective*, consider:
+
+- The deliverables
+- The initiatives. The in input effort.
+- Estimation of the cost
+- Risks
+
+
+
+#### Identity
 
 Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels.
 
@@ -74,16 +120,6 @@ These influence decisions. For example, belief is a prerequisite for making chan
 **We      cannot do         this     here**
 _identity belief capability behavior environment_
 ```
-
-
-
-**Autonomous teams**
-
-A top-down approach where teams execute pre-specified plans is straightforward and works well in certain environments. Whenever teams need to adapt quickly this approach starts to fail. 
-
-- Alignment with other teams. Being aware of the greater purpose.
-- Reflection of the team itself, it's work and it's environment.
-- Adapting objectives and plans based on progress.
 
 
 
@@ -194,3 +230,13 @@ Applicable to *complicated* rather than *complex* domains
 4. Pull, don’t over produce
 5. Strive for perfection, high quality.  This is mostly for *complicated* rather than *complex* domains
 
+
+
+**`Δ` Think big, work small. Long term patient, short term impatient**
+
+- Think big, work small. Align on a high level and release in small increments.
+
+- Be long term patient but short term impatient. Long term: be able to see things through. Short term: focus on continuous but direct improvements.
+- Separate goals and dreams. Be impatient in reaching goals, but patient when working towards a dream.
+- Micro pessimist, macro optimist
+- Separate goals and dreams. Be impatient in reaching goals, but patient when working towards a dream.

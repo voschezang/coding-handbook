@@ -180,6 +180,8 @@ A lack of **consensus** is normal, especially for complex topics. First put all 
 
 Best practices
 
+- Alignment
+  - Ensure there is alignment on the goal of each meeting.
 - Scope
   - Make meetings specific. Limit their scope. Don't strive for a one size fits all.
     - E.g. status checks, retrospectives, reviews and demos (either internally or public).
