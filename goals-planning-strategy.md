@@ -58,7 +58,7 @@ An action that will bring you closer to a result.
 
 
 
-### Choosing Goals
+### Formulating Goals
 
 > Think big, work small
 
@@ -225,7 +225,7 @@ Visualizing work has a few benefits:
 
 This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) board. Such a board consists columns such as: `to-do, doing, done`. Each column may contain cards, which represent actions or tasks. See [product management](product-management.md).
 
-
+<img src="img/kanban-board.png" alt="kanban-board" style="width:40%;" />
 
 ## Project Portfolio
 

@@ -31,17 +31,13 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 
 **Good Outcomes**
 
-Focus on the *what* instead of the *why* (after there is alignment on the need for change).
+Given an [objective](goals-planning-strategy.md), start focussing on the *what* instead of the *why*.
 
-- Frame it as something positive, rather than a problem to avoid.
-- Make it specific.
-    - Add acceptance criteria. How do you know that the outcome has been reached? How will success be measured?
-- Reduce the scope to be more realistic. Link the outcome to higher order outcomes to keep it motivational.
-- Define the necessary resources.
+The following properties may result in requirements.
 
-Consider the context.
-
-- Define side-effects. What will happen once this has been reached?
+- Outcome or target state: Main deliverable
+- Target conditions: acceptance criteria. How will success be measured?
+- Risks and side-effects. What will happen once this has been reached?
 
 
 
