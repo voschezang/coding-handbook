@@ -6,9 +6,9 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 This contrasts with *work*, which has a clearly defined beginning and end. This [instrumental](https://en.wikipedia.org/wiki/Instrumentalism) property creates a bias towards purposefulness. [Product management](product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account. 
 
+[toc]
 
-
-### Purpose and Sustainability
+## Purpose and Sustainability
 
 The purpose of any type of labour can be deconstructed in *discovery* and *delivery*. The former is both an [existential](https://en.wikipedia.org/wiki/Existentialism) question and a [validation](https://en.wikipedia.org/wiki/Verification_and_validation) of beliefs and posibilities. Delivery is more concrete, and consists of the following:
 
@@ -21,7 +21,7 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 
 
-### Objectives and Initiatives
+## Objectives and Initiatives
 
 At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.
 
@@ -29,11 +29,11 @@ The initiative is meant to move from a *current stateI* to a *target state*. Thi
 
 <img src="img/objective-initiative.png" alt="objective-initiative" style="width:60%;" />
 
-Choosing the right objective and initiatives is a challenge in itself. See [goals](goals-planning-strategy.md).
+Choosing the right objective and initiatives is a challenge in itself. See [goals](goals-planning-strategy.md). After choosing a goal, one can specify [requirements](requirements-engineering.md).
 
 
 
-### Organized Labour
+## Organized Labour
 
 Labour can be divided into *processes* and *projects*. It is done by a person or an *organization* and it involves *resources*. Often it involves of various sorts. Al of these concepts may involve [management](management-principles.md).
 
@@ -66,7 +66,20 @@ A top-down approach where teams execute pre-specified plans is straightforward a
 
 
 
-#### Projects and processes
+**Roles in Teams**
+
+There exist multiple models for [role and responsibility assignment](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix). A few fundamental roles:
+
+- Accountable for the end-result.
+- Responsible for execution.
+- Consulted. E.g. providing consultancy or support.
+- Informed. Following along.
+
+Roles can be official and persistent, or informal and dynamic.
+
+
+
+### Projects and processes
 
 - A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
 - A [project](project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
@@ -102,6 +115,20 @@ Determine how to make change possible and worthwhile. Given an *objective*, cons
 
 
 
+**Managing change**
+
+Distinguish day-to-day activities from focus.
+
+- Health [indicators](https://en.wikipedia.org/wiki/Performance_indicator) for *business as usual*.
+- Short-term [objectives](https://en.wikipedia.org/wiki/OKR) for *change*.
+
+Visualization
+
+- Kanban or Scrum board. Show work in progress and planned work.
+- Heatmap of health indicators.
+
+
+
 #### Identity
 
 Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels.
@@ -123,7 +150,7 @@ _identity belief capability behavior environment_
 
 
 
-### Labour Itself
+## Labour Itself
 
 Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`. 
 

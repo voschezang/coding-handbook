@@ -2,7 +2,7 @@
 
 [toc]
 
-## Overview
+## Introduction
 
 > Making plans is good, withholding from updating them isn't.
 
@@ -38,20 +38,41 @@ Note that these can be chosen for an *organization* and for each *product* withi
 <img src="img/current-target-state.png" alt="current-target-state" style="width:70%;" />
 
 **Mission**
-Why does this organization we exist. A *persistent*, long term view.
+Why does this organization exist. A *persistent*, long term goal.
 
 **Objective**
-That what you want to achieve in the next quarter or year. A *qualitative* goal that is inspirational and motivational.
+That what you want to achieve in the next quarter or year. A time-bound, *qualitative* goal that is inspirational and motivational.
 
-- A target state that differs from the current state.
+- (for projects) A target state that differs from the current state.
 
 **Key Results**
-How you know that we have achieved the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria) and optimistic.
+How you know that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria) and optimistic.
 
-- Target conditions that need to be satisfied in order to reach the target state.
+- These may be time-based. E.g. the churn-rate at a given date.
+- (for projects) Target conditions that need to be satisfied in order to reach the target state.
 
 **Initiative**
 An action that will bring you closer to a result.
+
+- E.g. steps that can be taken in sequence to reach target states.
+
+
+
+### Choosing Goals
+
+> Think big, work small
+
+Criteria for good goals.
+
+- Motivation and incentives. Think big.
+    - Outcome > problem. Focus on where to go, rather than what to avoid.
+    - Chain outcomes together. Show what the current objective will make possible.
+- Make it realistic. Minimize scope.
+    - Restrict the outcome to what is in your control.
+    - Make it specific. Add conditions. Define when the goal is achieved.
+    - Consider the available resources.
+
+
 
 ## Living Roadmap
 
@@ -174,9 +195,9 @@ In case of technology-based projects this can be complemented with suggestions f
 
 
 
-### Alignment
+## Alignment
 
-#### Meetings
+### Meetings
 
 Setting up dedicated ceremonies can help to ensure regular reflection, at the right timescale. E.g. in the form of meetings:
 
@@ -187,7 +208,15 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 
 
 
-#### Visualize Work
+### Visualize
+
+#### Organization or Team Health
+
+KPI's 
+
+
+
+#### WIP
 
 Visualizing work has a few benefits:
 

@@ -14,6 +14,15 @@ A specific type of system is an *organization*, which can be defined as an inter
 
 The relevant components in a system are called **resources**. This may include human, computational and mechanical resources. The connections between components vary between domains, but are just as important.
 
+
+
+**Types of systems**
+
+- Reactive, stateless
+- Stateful, "smart" but functional. E.g. a machine or a top-down organization.
+- Ethical. Desiring a goal.
+- Generative / autopoiesis. Be able to transform or re-design it's inner structure. Self-sustainable.
+
 ## External View
 
 The behaviour of a system can be understood by studying its [inputs and outputs](https://en.wikipedia.org/wiki/IPO_model). This model is agnostic about the inner workings of the system.  Long-term objectives are usually difficult to quantify. In practice, one can use a short-term metric as a proxy for the real objective. E.g. *movement* (associated with energy) or *profit* (associated with money).

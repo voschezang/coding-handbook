@@ -156,6 +156,8 @@ There exist multiple models for [role and responsibility assignment](https://en.
 - Consulted. E.g. providing consultancy or support.
 - Informed. Following along.
 
+Roles can be official and persistent, or informal and dynamic.
+
 **Persistence**
 
 One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](goals-planning-strategy.md).
@@ -235,6 +237,8 @@ Levels of assignments
 
 **Organization Management**
  [organization-structure](organization-structure.md)
+
+
 
 **Crisis management**
 
@@ -326,6 +330,13 @@ See [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/
 | Rule-oriented        | Monitor conformation to rules and roles.                     |
 | Performance-oriented | Track progress towards targets. Incentivize excellence.      |
 | Value-oriented       | Focus on team performance and collaboration and personal development. |
+
+
+
+Goals setting - types of people
+
+- Tendency to underestimate
+- Tendency to overestimate
 
 
 
@@ -457,3 +468,4 @@ Single point estimates (e.g. the mean) are a poor predictor of stability. The fo
 - Goldrat. *The Goal*
 - DeMarco. *Peopleware*
 - Lencioni. *Death by Meeting*
+- Wodtke. *Radical Focus*

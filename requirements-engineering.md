@@ -1,12 +1,12 @@
 # Requirements Engineering
 
-This document focusses on requirements for a single *unit* of work. Projects that can be split up over multiple tasks are covered [here](product-management.md).
+This document focusses on requirements for a single *unit* of work. It assumes a given [objective](goals-planning-strategy.md). Projects that can be split up over multiple tasks are covered [here](product-management.md).
 
 [toc]
 
 ## Overview
 
-Requirements are a form of [documentation](documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made.
+Requirements are a form of [documentation](documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made. Requirements may be hierarchical - e.g. multiple deliverables within a project.
 
 Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. This scope can be defined in different levels:
 

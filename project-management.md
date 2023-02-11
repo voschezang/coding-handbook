@@ -53,21 +53,35 @@ An assignment can be broken down into sub-tasks. For both these levels there is 
 
 #### Sizing
 
-Projects can usually be split up into smaller parts that are delivered immediately - to customers. Estimating the optimal granularity *a priori* is difficult. The major benefits of small deliverables are:
+Projects can usually be split up into smaller parts that are delivered immediately - to customers. Deliverables may be released to a subset of the target market. The major benefits of small deliverables are:
 
 - Provide revenue *sooner*.
-- Allow subsequent iterations to incorporate *feedback* from customers.
-- Reduce the amount of *unused* features.
+- Be able to avoid unexpected side-effects.
+    - Learn to what extend the deliverable matches expectations.
+    - Allow subsequent iterations to incorporate *feedback* from customers.
+    - Avoid investment in *unused* features.
 
-This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](scrum-guide.md).
-
-It is especially beneficial in context with the following problems:
+This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](scrum-guide.md). It is especially beneficial in the context of the following problems:
 
 - There is uncertainty in the demand from customers. This creates a risk of building the wrong product.
 - There is uncertainty w.r.t the progress of the project. Any problems that arise might be discovered too late.
-- There are risk associated with the duration of project. E.g. when missing a deadline would be catastrophic.
+- There are risk associated with the duration or scope of project. E.g. when missing a deadline would be catastrophic.
 
-![choosing-agile](img/choosing-agile.png)
+
+
+<img src="img/choosing-agile.png" alt="choosing-agile" style="width:90%;" />
+
+
+**Example: vertical slice of an API**
+
+Suppose there is a need to build an API. This typically involves two phases
+
+1. The end-to-end flow, which covers networking and security. E.g. authentication and authorization.
+2. The set of endpoints and methods. E.g. `placeOrder, cancelOrder`.
+
+A minimal customer-oriented deliverable would include 1. and a single element of 2.
+
+
 
 **Evaluating risk and uncertainty**
 
