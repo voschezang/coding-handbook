@@ -24,15 +24,15 @@ Goals are a tools that can be used to:
 
 Specific types of goals
 
-| Term         | Meaning                     |
-| ------------ | --------------------------- |
-| Mission      | Why (Purpose)               |
-| Vision       | What                        |
-| Strategy     | How (Why, outside factors)  |
-| Tactic       | How (Why, internal factors) |
-| Roadmap      | When                        |
-| Segmentation | Who                         |
-| Positioning  | Where                       |
+| Term         | Meaning                                                      |
+| ------------ | ------------------------------------------------------------ |
+| Mission      | Why we exist (our purpose)                                   |
+| Vision       | What our ideal world (state) looks like                      |
+| Strategy     | How to achieve the mission / realize the vision (*external* factors) |
+| Tactic       | How to achieve the mission / realize the vision (*internal* factors) |
+| Roadmap      | When we deliver milestones                                   |
+| Segmentation | Who (the target market)                                      |
+| Positioning  | Where (the product stands)                                   |
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
@@ -69,7 +69,6 @@ An action that will bring you closer to a result. These should be flexible, in o
 - E.g. steps that can be taken in sequence to reach target states.
 
 **Risks**
-
 Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there is a risk of optimizing for metrics (proxies), instead than targets. This is countered by choosing new metrics (KRs) periodically and chaining them to qualitative objectives.
 
 

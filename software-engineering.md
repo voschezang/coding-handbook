@@ -12,7 +12,7 @@ Usually it consists of either:
 
 - Domain modeling. E.g. encode business logic in a spreadsheet.
 - Translating models. E.g. port a program to another language to improve performance.
-- Architecture & modeling. E.g. solution architecture, systems design.
+- Architecture & modeling. Design compute, storage and communication. E.g. solution architecture, systems design.
 
 **Daily Work**
 

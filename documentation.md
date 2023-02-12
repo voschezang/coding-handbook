@@ -216,6 +216,16 @@ System as a black box. Focus on inputs and outputs.
 
 <img src="img/system-flow-value.png" alt="system-flow-value" style="width:50%;" />
 
+#### Inside Views
+
+**Distributed systems**
+
+```markdown
+- Compute / domain logic
+- Storage / persistency
+- Communication between component and the outside.
+```
+
 **Value Chain(s)**
 
 <img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:60%;" />
