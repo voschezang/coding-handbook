@@ -12,17 +12,18 @@ Usually it consists of either:
 
 - Domain modeling. E.g. encode business logic in a spreadsheet.
 - Translating models. E.g. port a program to another language to improve performance.
+- Architecture & modeling. E.g. solution architecture, systems design.
 
 **Daily Work**
-From a high level, there are only three types:
 
-1. Planning work. E.g. requirements engineering, design, stakeholder/customer management, administration.
+1. Planning of work. E.g. [requirements engineering](requirements-engineering.md), design, stakeholder/customer management, administration.
 2. Planned work. E.g. programming, designing, having discussions, reviews, testing, research, teaching.
 3. Unplanned work. E.g. incident handling, customer support, troubleshooting.
 
 **Responsibility**
 Depending on the level of specialization of the team or department:
 
+- Developing a new product, service or component.
 - Managing a software product or service.
 - Managing a specific component in a *value chain*. E.g. software development.
 
@@ -42,6 +43,8 @@ The following are related, but are usually delegated to other people:
 - Marketing
 - Sales
 - HR
+
+See [software development cycle](software-development-cycle.md).
 
 ## Software methods
 
@@ -190,7 +193,7 @@ Code reviews
 
 Technical debt is an investment. It is risky, especially when the aggregate debt is kept unchecked. The typical example is to trade in quality in order to release faster. Given that requirements usually change over time, technical debt doesn't always have to be "paid back". The tradeoff can be summarized as: "You ain't gonna need it" vs. "you're not gonna fix it later".
 
-In order to reduct risk, technical debt can be made implicit.
+In order to reduct risk, technical debt can be made explicit.
 
 - Document imperfect implementations.
   - In code. E.g.:
@@ -247,74 +250,6 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 - Tester: turns code into bug-reports.
 - PO: manage product and stakeholders, requests features.
 - Scrum master: process management, coaching, HR.
-
-## Ways of working
-
-> Agile is a mindset, not a process
-
-The [structure of teams](organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with *handovers*, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
-
-A software development process usually consists of phases such as: `requirements, analysis, design, implementation, testing, operations`. In practice some phases can be combined, e.g. using TDD. In general, the following steps will increase quality:
-
-1. Include all the phases. At minimum, these phases are done in sequence.
-2. Adjust after obtaining new information. Go back and forth between consecutive phases.
-3. Do it twice. Iterate frequently. Strive to release "version 2". Prototype for `1x`, design for `100x`, and only then build for `10x`.
-
-
-
-**Two extremes: from *efficient* to *flexible***
-
-1. Waterfall. A fixed project scope, price and deadline. Future changes are expensive.
-    1. Designed for *throughput* and *stability*.
-    2. Requirements drive design which drives development.
-    3. Top-down decision making. Specialized (functional) teams with limited responsibility.
-    4. `Outcome = Output`
-2. Agile
-    1. Designed to be *fast* and to be resilient to *changing requirements* (due to customers, markets or technology).
-    2. Objectives (outcomes) drive discovery which drives development.
-    3. Collaborative decision making. Empowered cross-functional teams.
-    4. `Outcome > Output`
-
-**Agile**
-
-The ability to inspect and adapt; to be able to create or adjust your own process. This is done by:
-
-- Focussing on value streams (towards the customer) instead of resource efficiency.
-- Eliminating waste, e.g. inventory or unreleased software.
-- Minimizing lead time per feature. This can greatly reduce risk.
-- Having goals that are guiding rather leading. Defer uncertain decisions unless there is a good reason not to.
-
-A few frameworks for small or decentralized organizations:
-
-1. [Scrum](scrum-guide.md): sprinting to a goal, MVP-first. Limit total WIP (number of tasks/features).
-2. Kanban: continuously improving. Limit WIP per phase (e.g. `dev, review, test, release`).
-3. The hacker way: no deadlines, no fixed teams, no synchronization.
-
-Notes
-
-- Agile is a tradeoff of agility (flexibility) and efficiency. Optimizing for a given use-case does come at the cost of being flexible. You cannot optimize for everything.
-- If the full strategy is decided top-down then the agility of development teams is limited.
-
-
-
-**DevOps**
-
-DevOps *an sich* is similar to [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration). 
-
->  You build it, you run it.
-
-The DevOps movement goes further than this. It [emphasizes](learning.md) flow, feedback and learning. Especially the latter requires empowerment and autonomy of teams.
-
-* Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
-* Maximizing flow goes hand-in-hand with a fast, automated build-test-deployment process. E.g. to able to deploy 100 times per day.
-
-
-
-**Anti-pattern**
-
-- FrAgile: Agile teams without authority to overcome bureaucratic impediments.
-- Product-oriented teams in a project-oriented (management or bureaucratic) environment.
-- Feature factory. A focus on *delivering* new functionality rather than *solving* long-term customer problems (quantity over quality). This can result in high WIP.
 
 ### Integration & Delivery
 
@@ -438,6 +373,6 @@ An IDE could:
 
 
 
-# References
+## References
 
 [1]: Royce "Managing the development of large software systems: concepts and techniques."
