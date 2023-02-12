@@ -64,10 +64,19 @@ The DevOps movement goes further than this. It [emphasizes](learning.md) flow, f
 
 <img src="img/flow-3-steps.png" alt="flow-3-steps" style="width:80%;" />
 
-#### 
+
 
 **Anti-pattern**
 
 - FrAgile: Agile teams without authority to overcome bureaucratic impediments.
 - Product-oriented teams in a project-oriented (management or bureaucratic) environment.
 - Feature factory. A focus on *delivering* new functionality rather than *solving* long-term customer problems (quantity over quality). This can result in high WIP.
+
+
+
+## References
+
+- [Agile manifesto](https://agilemanifesto.org/)
+- [Heuristics](https://holub.com/heuristics/)
+
+[1]: Royce "Managing the development of large software systems: concepts and techniques."

@@ -115,12 +115,16 @@ See [programming-paradigms](programming-paradigms.md).
 
 > Design for replacement rather than reuse.
 
+> Clean interface > clean code
+
 Although there is no consensus on the definition of "clean" code, some indisputable properties are the following.
 
 - Consistency of style.
 - Meaningful variable names.
 
 - Separation between [commands and queries](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation) should be the norm. Only combine them by exception, for good reasons.
+
+- Simple interfaces for public methods.
 
 See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.md](style-guide.md).
 
@@ -370,9 +374,3 @@ An IDE could:
   - Extract/encapsulate variables.
   - Generate tests.
   - Inline functions.
-
-
-
-## References
-
-[1]: Royce "Managing the development of large software systems: concepts and techniques."

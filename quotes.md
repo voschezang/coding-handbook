@@ -121,6 +121,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * There is no universal, optimal ratio between `Dev + Ops` and `DevOps`.  Instead allow teams to move in a direction that is optimal in a specific context.
 * Parallelization of work is easy (silos), but working together is hard.
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
+* Agile is a ~~mindset~~ value system rather than a framework. Something to *apply*, rather than to *do*.
 * [Imposing](https://www.martinfowler.com/bliki/AgileImposition.html) Agile is not agile.
 * Agile at scale requires *descaling*. I.e. make components independent s.t. they can move freely.
 * Scrum does not imply agile.
