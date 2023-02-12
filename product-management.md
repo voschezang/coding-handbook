@@ -106,6 +106,14 @@ Philosophy
 
 
 
+**Marketing**
+
+- Focus, sell one idea. Kort en bondig.
+- Analogies to fuel imagination.
+- Present features as solutions
+
+
+
 ### Background
 
 **Types of Products**

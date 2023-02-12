@@ -15,6 +15,11 @@ Different modes of planning:
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
+Goals are a tools that can be used to:
+
+- Inspire and amplify performance.
+- Asses performance
+
 ### Terminology
 
 Specific types of goals
@@ -35,26 +40,37 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 #### OKR Model
 
+OKRs separate qualitative motivational goals from tangible goals. OKRs can be defined per product and target market, but also on an individual level.
+
+
+
 <img src="img/current-target-state.png" alt="current-target-state" style="width:70%;" />
 
 **Mission**
 Why does this organization exist. A *persistent*, long term goal.
 
 **Objective**
-That what you want to achieve in the next quarter or year. A time-bound, *qualitative* goal that is inspirational and motivational.
+That what you want to achieve in the next quarter or year. A time-bound, *qualitative* goal that is ambitious, inspirational and motivational.
 
 - (for projects) A target state that differs from the current state.
+- This can be an hypothesis.
 
 **Key Results**
-How you know that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria) and optimistic.
+How you know that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria). These are results of actions that you might take, not the actions themselves.
+
+- They should be so optimistic that only 60%-70% of them will be reached.
 
 - These may be time-based. E.g. the churn-rate at a given date.
 - (for projects) Target conditions that need to be satisfied in order to reach the target state.
 
 **Initiative**
-An action that will bring you closer to a result.
+An action that will bring you closer to a result. These should be flexible, in order to be able to respond to surprises.
 
 - E.g. steps that can be taken in sequence to reach target states.
+
+**Risks**
+
+Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there is a risk of optimizing for metrics (proxies), instead than targets. This is countered by choosing new metrics (KRs) periodically and chaining them to qualitative objectives.
 
 
 
@@ -71,6 +87,22 @@ Criteria for good goals.
     - Restrict the outcome to what is in your control.
     - Make it specific. Add conditions. Define when the goal is achieved.
     - Consider the available resources.
+
+In addition, ensure the following.
+
+- High awareness of the main goal, at multiple levels and time scales.
+- Urgency. E.g. by committing to deadlines.
+
+
+
+**Anti-patterns**
+
+- Give all goals the same priority. Lack of an preeminent goal.
+- Low awareness of the goal. The goal get's lost in day to day activities.
+- Lack of repetition and iteration. Switching directions without learning from past results.
+- Goals are create purely top-down. There is no consideration for local problems.
+- Goals are create purely bottom-up. It is biased to local optimization.
+- "Do the same as last year, but more efficient".
 
 
 
@@ -196,6 +228,11 @@ In case of technology-based projects this can be complemented with suggestions f
 
 
 ## Alignment
+
+**Tools**
+
+- Documentation/text/email. Very efficient one way of communication.
+- Meetings. Fast feedback in groups.
 
 ### Meetings
 

@@ -131,7 +131,7 @@ Visualization
 
 #### Identity
 
-Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels.
+Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels. Based on Bateson's pyramid.
 
 1. Meaning. Awareness of identity. What should our identity be?
 2. Identity. Who are we?

@@ -181,6 +181,31 @@ Ad hoc guides. Historical guides that do not have to maintained.
 Archive. Deprecated pages.
 ```
 
+
+
+**Periodic Status Update**
+
+Purpose: a short overview of what's changing. Can be used as preparation for a status meeting.
+
+ ```markdown
+ **Focus / Core**
+ E.g. OKRs, health indicators.
+ 
+ **Last Week / Month**
+ - The three most relevant points
+ 
+ **This Week / Month**
+ - The three most relevant points
+ 
+ **Risks**
+ Any noteworthy risks. Ranging from emergent to nightmarish.
+ 
+ **Notes**
+ Anything else that's relevant. E.g.
+ - What is the latest good news?
+ - What did we learn recently?
+ ```
+
 ### Systems
 
 To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems-management.md).
@@ -207,7 +232,13 @@ Activities and communication
 
 <img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:50%;" />
 
-**Roadmap & Planning**
+**Commoditization of Components**
+
+<img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:60%;" />
+
+### Roadmap & Planning
+
+**Goals**
 
 <img src="img/goals-tree-double.png" alt="goals-tree" style="width:30%;" />
 
@@ -223,9 +254,11 @@ Activities and communication
 
 <img src="img/project-comparison.png" alt="project-comparison" style="width:60%;" />
 
-**Commoditization of Components**
+**Kanban Board**
 
-<img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:60%;" />
+<img src="img/kanban-board.png" alt="kanban-board" style="width:30%;" />
+
+### Processes
 
 **Queues**
 
