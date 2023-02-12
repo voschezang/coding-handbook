@@ -21,7 +21,7 @@ There are a few phases that can be distinguished in a typical assignment.
 ### Delegation and Specialization
 
 **Dual-track Model**
-The structure of an organizations can be reduced to a management (planning) and worker (execution) layer. These two work together to deliver value to an external customer.
+The structure of an organizations can be reduced to a management (planning) and worker (execution) layer. These two work together to deliver value to an external customer. Usually the boundary lies between the *what* and the *how*.
 
 ![plan-to-exe](img/plan-to-exe.png)
 
