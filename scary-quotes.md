@@ -8,7 +8,9 @@
 - This reorganization will solve all of our problems.
 - Agile will safe us!
 - Agile didn't work. Instead we're going to do DevOps!
+- We've finished our ~~Agile~~ DevOps transition.
 - This is an autonomous system that requires no human intervention at all.
+- The AI has joined a religion.
 
 Programming
 
@@ -67,7 +69,8 @@ E.g. to pretend like there's a [strategy](http://strategy-madlibs.herokuapp.com/
 - AI
 - Big data
 - Blockchain
-- Cloud based
+- Containers
+- Cloud
 - Digital business
 - Digital first
 - Ecosystem

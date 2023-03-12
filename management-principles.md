@@ -41,6 +41,14 @@ There is a tradeoff between adapting to the current team, and seeking out employ
 
 
 
+It involves a few *buckets*:
+
+- Purpose (why). From existential questions to goals and alignment.
+- People (who). Motivation and trust.
+- Process (how). How the organization makes, executes and adapts plans.
+
+
+
 **Activities**
 
 1. Set *optimistic* goals, prioritize them and make a *realistic* planning/estimation.
@@ -48,10 +56,12 @@ There is a tradeoff between adapting to the current team, and seeking out employ
     - Communicate a clear vision.
     - Adapt over time. Revisit past decisions.
     - Decide what [*not*](https://en.wikipedia.org/wiki/Opportunity_cost) to do.
-2. Creating an environment where employees can reach those goals.
+2. Create (nurture) an environment where employees can reach those goals.
 
     - Employees should have agency and be incentivized to be pro-active. Allow them to question everything.
     - The organization should be a community, where people interact.
+    - Remove roadblocks.
+    - Perceive the need.
 3. Ensuring the availability of resources (incl. in the future).
 
 
@@ -131,6 +141,60 @@ Reaching goals usually requires change.
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
 Also see [goals and strategy](goals-planning-strategy.md).
+
+
+
+### Attitude
+
+
+
+Knowledge: Be a generalist
+
+> I don't know, but I'll find out
+
+
+
+Role
+
+>  Outcome > specific activities
+
+
+
+**Integrity**
+
+From Jim Dethmer
+
+- Take responsibility.
+- Feel your feelings.
+
+- Speak authentically and candidly.
+
+- Be impeccable with your agreements
+
+Effects
+
+- Withholding leads to withdrawing and rejecting
+- Revealing leads to connecting
+
+
+
+### Leadership
+
+Management often requires the skill leadership. The ability to guide and influence people.
+
+- Trust
+- Set an example
+- Show direction
+- Motivate
+
+Situational leadership - based on skill, motivation, urgency.
+
+- **Tell** people what to do.
+- **Sell** an vision to autonomous teams.
+- **Participate** in problem solving.
+- **Delegate** tasks.
+
+
 
 ## Collaboration
 
@@ -357,6 +421,8 @@ Based on the properties of [systems](systems-management.md) the following steps 
 
 ### Risk Management
 
+> Yesterday’s problem is tomorrow’s risk
+
 Definitions:
 
 - Risk: a future undesirable event and events that precede it.
@@ -367,7 +433,7 @@ Definitions:
 Total Risk = threads (external) + vulnerabilities (internal)
 ```
 
-The main *prerequisite* is a certain corporate culture: Thinking in probabilities & decriminalize risk. Uncertainty should be preferred over being wrong (or overly optimistic).
+The main *prerequisite* is a certain corporate culture: Think in probabilities & decriminalize risk. Uncertainty should be preferred over being wrong (or overly optimistic).
 
 - Prefer mean-variance optimization over point-estimates. A typical prediction should include (un)certainty bounds. E.g. "We need at least 4 months, and it may take up to 1 year (in the worst case). We estimate a 80 % chance of finishing it in 6 to 8 months."
   - Usually point estimate overestimate in order to compensate for uncertainty. This can result in an [increase](https://en.wikipedia.org/wiki/Parkinson's_law) in the amount of work

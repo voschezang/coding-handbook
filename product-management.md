@@ -82,12 +82,21 @@ Deliver some value to a well-defined set of customers, i.e. a target market.
 
 ### Strategy
 
-Product-Market Expansion Grid. Uncertainty increases from top-left to the bottom-right.
+Ansoff's matrix. Product-Market Expansion Grid. Uncertainty increases from top-left to the bottom-right.
 
 |                      | Existing Products  | New Products                   |
 | -------------------- | ------------------ | ------------------------------ |
 | **Existing Markets** | Market penetration | Product development            |
 | **New Markets**      | Market development | Product/Market diversification |
+
+[Porter's generic strategies](https://en.wikipedia.org/wiki/Porter's_generic_strategies): market and competitive advantage
+
+|                                      | Uniqueness / value                                           | Cost position                                                |
+| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Industrywide / mass scope**        | Differentiation leadership<br />(marketing, branding, quality) | Overall cost leadership<br />(economies of scale, efficiency) |
+| **Particular segment / niche scope** | Differentiation focus<br />(target/respond to specific customer needs) | Cost focus<br />(limit scope/complexity)                     |
+
+
 
 Philosophy
 
@@ -247,14 +256,13 @@ Instead of unpredictable waterfall stages,  _just_ do DevOps. Maintain a stable 
 
 ### Backlog
 
+A backlog is a list of future work and past ideas. It can range from *wish-list* to a *commitment*. It functions as:
+
+- A communication tool for a product team and its stakeholders. It shows the priority of projects relative to each other.
+- A list of commitments
+- An estimation of technical debt
+
 Also see [requirements-engineering](requirements-engineering.md).
-
-A product backlog is a both:
-
-- A list of future work.
-- A list of previous ideas.
-
-Ideally it is skewed towards the former. In addition, it can range from being a *wish-list* to a *commitment*.
 
 The items on the backlog are prioritized. Each item can be treated as a small project. [JIT planning](https://en.wikipedia.org/wiki/Lean_manufacturing) can be used to minimize over-production (of planning). This means that higher priority items can be fully formalized, while the rest of the items can be rough drafts.
 

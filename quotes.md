@@ -93,6 +93,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * [Solve via iteration](https://www.instagram.com/p/CP_70ppLAYC/), then get paid by repetition (scale up).
 * Adding security to software after its been made is like [adding electricity and running water to a 1000 year old castle](https://twitter.com/jackrhysider/status/1453728265244315658).
 * There is nothing as permanent as the temporary.
+* Continuous improvement is better than delayed perfection.
 
 ## Software Engineering
 

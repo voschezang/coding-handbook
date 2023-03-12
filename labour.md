@@ -79,6 +79,14 @@ Roles can be official and persistent, or informal and dynamic.
 
 
 
+**Modes of collaboration**
+
+- Firefighting. Try to survive.
+- Maintenance. Optimize for efficiency.
+- Balanced. Focus on effectiveness. Plan and reflect.
+
+
+
 ### Projects and processes
 
 - A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
@@ -259,6 +267,12 @@ Applicable to *complicated* rather than *complex* domains
 
 
 
+**`★` North Star**
+
+Communicate your vision. Tell your story.
+
+
+
 **`Δ` Think big, work small. Long term patient, short term impatient**
 
 - Think big, work small. Align on a high level and release in small increments.
@@ -267,3 +281,9 @@ Applicable to *complicated* rather than *complex* domains
 - Separate goals and dreams. Be impatient in reaching goals, but patient when working towards a dream.
 - Micro pessimist, macro optimist
 - Separate goals and dreams. Be impatient in reaching goals, but patient when working towards a dream.
+
+
+
+**`±` Accept uncertainty. Find out what you don't know.**
+
+Do experiments and learn.

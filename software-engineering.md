@@ -46,6 +46,16 @@ The following are related, but are usually delegated to other people:
 
 See [software development cycle](software-development-cycle.md).
 
+
+
+**Roles**
+
+- Specialist / individual contributor. A domain expert.
+- Engineering manager. Organizational structures and the work environment: e.g. teams, people, processes.
+- Technical leadership. Manage technical vision, risks, and requirements. Communicate between technical and non-technical staff and stakeholders.
+
+
+
 ## Software methods
 
 ### Stability

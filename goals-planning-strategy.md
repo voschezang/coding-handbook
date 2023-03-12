@@ -279,7 +279,7 @@ Below are a few templates
 
 
 
-### Template 1: Signals & Underlying Problems
+### Template: Signals & Underlying Problems
 
 Awareness of the current landscape is a prerequisite of planning. This template focusses on understanding a complex landscape. It's based on the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). It results in two lists: signals and problems.
 
@@ -297,9 +297,18 @@ Based on this, it is possible to:
 
 Review & report in order to maximize learning.
 
-### Template 2: Desired States
+### Template: Risks
 
-Start with a number of categories or themes. E.g. security, incident management, operations efficiency). For each one, define the current state and the desired state.
+List the major risks and estimate their exposure (probability and probability of materialization). Consider both:
+
+- Threads (external)
+- Vulnerabilities (internal)
+
+Use this to decide to invest in mitigation. See [management-principles](management-principles.md).
+
+### Template: Desired States
+
+Start with a number of categories or themes. E.g. security, incident management, operations or efficiency. For each one, define the current state and the desired state.
 
 - Emphasize the *problem* with the current state.
 - The desired state is not necessarily a *target*, but rather an *idealistic outcome*.
@@ -329,7 +338,7 @@ Desired State
 ...
 ```
 
-### Template 3: Portfolio / Option pool
+### Template: Portfolio / Option pool
 
 1. Determine & align on a *set* of core objectives. Avoid ordering this set by importance. E.g. `deliver value` now, and `contain cost`, `be agile` to be able to keep doing this in the future.
 2. Create an option pool of initiatives. Show how each initiative relates to a core objective.
