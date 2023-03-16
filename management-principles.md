@@ -182,9 +182,9 @@ Effects
 
 Management often requires leadership. It may consist of:
 
-- Vision. Show a direction. Set an example. Motivate others.
-- Execution
-- Culture. Trust.
+- Vision. Show a direction. Set an example. Motivate others. Advocate the why.
+- Execution. Facilitation. Achieve outcomes.
+- Culture. Trust. Set the tone for the team.
 
 Situational leadership - based on skill, motivation, urgency.
 
@@ -262,6 +262,92 @@ Signs of good meetings
 - The chair makes decisions, despite absence of consensus.
 
 See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
+
+
+
+#### 1:1 Meetings
+
+Scope
+
+- Align on top priorities and focus.
+- Calibrate the definition of great
+- Bidirectional feedback
+- Reflect on longer term developments
+
+Expectation management
+
+- Define a great/mediocre/bad job, in personal context
+- Advice to start with
+- Pittfals
+
+
+
+**Discovery**
+
+Identify relevant topics
+
+- What’s the best use of your time today?
+- What on top of your mind right know?
+
+Understand the other
+
+- What is the ideal outcome?
+- What is the worst case scenario?
+- What is a good action to take?
+- What’s blocking?
+
+Support
+
+- How can i help?
+- What was the most useful part of this conversation?
+
+
+
+### Feedback
+
+>  Giving feedback = disclosing hidden information about you
+
+Types
+
+- Task-specific. Frequently.
+
+    - Non-personal, local, specific to an action or event.
+    - May be send via chat.
+
+- Behavioural feedback. Thoughtfully and regularly. 
+
+    - About themes and patterns. Subjective, eye of the beholder
+
+- 360 degree feedback. From multiple angles/people.
+
+    - E.g. questionnaires.
+
+    - What is X doing well and what should X do more of? What behaviour from X bears risks?
+
+
+
+Attitude
+
+- Give compliments regularly to show your appreciation.
+- Present options over solutions. If the someone finds a solution themselves then they’ll tend to remember it better.
+- Don't say: "You must change this". Rather say: "If you change this then I would support it".
+
+
+
+Tools
+
+- Event-effect-you.
+    - Bring up an *objective* event. *"I noticed ..."*
+    - Describe the subjective effect it had - on yourself. Free of judgement. *"This caused me to feel ..."*
+    - Relate back to the other. *"Do you recognize this?"*
+- Event-effect-pause. Give the other space to accept, interpret and react.
+- Event-effect-need-request. Accept beforehand that request may be denied, unlike demands. *"I noticed .... This resulted in .... I need .... Could you ...?"*
+
+
+
+**Anti-patterns**
+
+Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
 
 
 
@@ -351,6 +437,8 @@ Communication - based on change
 
 
 **Expectation management**
+
+Ensure expectations are aligned at the beginning.
 
 - Under-promise (and over-deliver) to stakeholders. Avoid uncertainty and build trust.
   - Focus on *long-term*, abstract goals. Rely on *minimal* requirements.
