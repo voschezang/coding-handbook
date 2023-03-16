@@ -238,6 +238,8 @@ Instead, build-in quality and improvement into every stage or component. In orga
 
 > Happy teams, happy customers
 
+> Embrace change, rather than attempting to control.
+
 Agile is not a goal in itself. Rather, increase agility in order to deliver value faster, sooner, safer and happier.
 
 - Better: quality.

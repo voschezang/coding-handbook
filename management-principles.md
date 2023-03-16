@@ -180,12 +180,11 @@ Effects
 
 ### Leadership
 
-Management often requires the skill leadership. The ability to guide and influence people.
+Management often requires leadership. It may consist of:
 
-- Trust
-- Set an example
-- Show direction
-- Motivate
+- Vision. Show a direction. Set an example. Motivate others.
+- Execution
+- Culture. Trust.
 
 Situational leadership - based on skill, motivation, urgency.
 
@@ -240,28 +239,31 @@ Based on the Lencioni model (Five dysfunctions of a team):
 
 ### Meetings
 
+Goals
+
+- Discover the range of relevant options for a decision or problem.
+- Improve the relationship of the group.
+- Explore a subject and determine the right approach.
+
+
+
 > Lack of conflict is an indicator that the right topics aren't being addressed.
 
-A lack of **consensus** is normal, especially for complex topics. First put all the cards on the table, have an open discussion and consider all relevant arguments. Then let the *chair* make a decision.
+Signs of good meetings
 
-Best practices
-
-- Alignment
-  - Ensure there is alignment on the goal of each meeting.
-- Scope
-  - Make meetings specific. Limit their scope. Don't strive for a one size fits all.
-    - E.g. status checks, retrospectives, reviews and demos (either internally or public).
-  - Insect the relevance of meetings. Connect them to the actual business, e.g. using KPIs.
-  - Save out-of-scope topics for later. This avoids the problem of not taking enough time for them. They also require a context shift and this reduce focus
-- Structure
-  - Use an agenda for meetings that should be prepared beforehand.
-    - This allows participants to evaluate whether each particular meeting is relevant to them.
-  - Topics based on current priority are better than following an outdated agenda
-  - A good structure doesn’t require agenda. E.g. a 1 min. round of updates doesn't require an agenda.
-- Schedule time to do preparation and post-preparation.
-  - This should be roughly proportional the length of the meeting and the number of participants.
+- All participants feel heard.
+- A decision is made at the end.
+- Expectations have been set at the beginning of the meeting.
+- The scope is specific and appropriate.
+- There is either a good structure or a good agenda.
+- Key participants take time to do preparation and post-preparation.
+- Out-of-scope topics are saved for later. Action points are written down.
+- Apparent conflict is addressed (openly). Differences are accepted rather than suppressed.
+- The chair makes decisions, despite absence of consensus.
 
 See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
+
+
 
 ### Departments
 
