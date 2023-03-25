@@ -45,7 +45,7 @@ Other
 - [Modeling](modeling.md) - theory about models.
 - [Learning](learning.md) - theory about change and improvement.
 - [Communication Principles](communication-principles.md) - human communication.
-- [Retrospective](retrospective) - reflection exercises for groups.
+- [Retrospective](retrospective.md) - reflection exercises for groups.
 
 
 
