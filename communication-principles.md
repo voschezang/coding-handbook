@@ -1,6 +1,6 @@
 # Human Communication
 
-These models are valid for specific circumstances. E.g. professional communication in a corporate setting.
+These models are valid for specific circumstances. E.g. professional communication in a corporate setting. See also [requirements engineering](requirements-engineering.md) and [documentation](documentation.md).
 
 [toc]
 
@@ -9,7 +9,7 @@ General principles
 - "Right" communication depends on the listener.
     - Communication is context-dependent.
 - There is always communication. Even being absent or silent sends a message.
-- Human communication is extremely noisy.
+- Human communication is extremely noisy and inefficient.
 
 
 
@@ -138,7 +138,7 @@ The difference between these can be a matter of framing.
 
 ## What: Direct Messaging
 
-### Message Structure
+### Overview
 
 #### Four-sides Model
 
@@ -153,15 +153,43 @@ Aligning these aspects keeps the message pure and avoids miscommunication. Mixed
 
 
 
-### Messaging Types
-
-#### Delivering News
+#### Initiating contact / setting the state
 
 ...
 
 
 
-#### Giving Feedback & Making Requests
+### Sending Messages
+
+See also
+
+- Presenting, storytelling.
+- Deliver news
+
+
+
+#### Pitching
+
+Lead with why. Align and decide on the problem, then the solution, and only then the implementation. See [documentation](documentation.md).
+
+
+
+Intuitively people tend to use the order `what-how-why`. Instead, <u>start with why</u> to *inspire* people: `why-how-what`. E.g. Apple "think different"
+
+1. Why: In everything, we believe in challenging the status quo. In thinking differently.
+1. How: We do this by making products that are beautiful and user friendly.
+1. What: we happen to make great computers.
+
+
+
+The why can be focussed on either:
+
+- A problem. E.g. a risk or cost.
+- An opportunity. E.g. potential high returns on an investment.
+
+
+
+#### Giving Feedback
 
 > Giving feedback = disclosing information about yourself
 
@@ -200,6 +228,16 @@ Compliment sandwich. Pack criticism in between seemingly softening compliments, 
 
 
 
+### Receiving Messages
+
+See also
+
+- Handling complaints
+- Handling conflict
+- Saying no (to the idea)
+
+
+
 #### Receiving Feedback
 
 Steps
@@ -208,12 +246,6 @@ Steps
 - **Interpret**. Feel the consequences. What's the result if this this hypothesis would be true?
 - **Clarify**. Ask questions.
 - **Evaluate** whether the message is useful.
-
-
-
-See also
-
-- Handling complaints
 
 
 
