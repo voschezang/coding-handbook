@@ -44,6 +44,8 @@ Other
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Modeling](modeling.md) - theory about models.
 - [Learning](learning.md) - theory about change and improvement.
+- [Communication Principles](communication-principles.md) - human communication.
+- [Retrospective](retrospective) - reflection exercises for groups.
 
 
 
