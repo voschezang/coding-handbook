@@ -43,6 +43,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 ### Processes
 
+* Value > productivity.
 * Effectiveness (doing the right thing, goal-oriented) > Efficiency (doing things right, process-oriented).
   * Prefer messy but effective communication over efficient silos (with tunnel vision).
   * Doing the right thing > being right.
@@ -83,6 +84,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Solving problems > delivering more functionality.  
 * Deliver sooner, rather than faster. Average throughput > total throughput.
   * Received value (by customer) > created value (inventory).
+* Planning > (having) plans.
 * Doing nothing can be a deliberate action.
 * Being busy indicates a lack or prioritization.
   * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.

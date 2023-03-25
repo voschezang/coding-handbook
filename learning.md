@@ -23,6 +23,20 @@ A three-steps pattern. In general, small (fast) cycles are less disruptive.
 **Revolution vs. Evolution**
 Changes van vary from being large and disruptive, to gradual shifts.
 
+**Consicous competence**
+
+1. *Un*conscious *in*competence
+2. Conscious *in*competence
+3. Conscious competence
+4. *Un*conscious competence
+
+After this, one could go back and zoom in on specific behaviours that can be improved.
+
+- Unlearning: from 4. to 2.
+- Relearning: from 2. to 4.
+
+
+
 ## Practice (Context)
 
 ### Organizations & Processes

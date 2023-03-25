@@ -161,31 +161,19 @@ Aligning these aspects keeps the message pure and avoids miscommunication. Mixed
 
 ### Sending Messages
 
-See also
-
-- Presenting, storytelling.
-- Deliver news
+See [communication-monologues](communication-monologues.md).
 
 
 
-#### Pitching
+#### Making Requests
 
-Lead with why. Align and decide on the problem, then the solution, and only then the implementation. See [documentation](documentation.md).
+Motivation: a problem or opportunity.
 
+Steps.
 
-
-Intuitively people tend to use the order `what-how-why`. Instead, <u>start with why</u> to *inspire* people: `why-how-what`. E.g. Apple "think different"
-
-1. Why: In everything, we believe in challenging the status quo. In thinking differently.
-1. How: We do this by making products that are beautiful and user friendly.
-1. What: we happen to make great computers.
-
-
-
-The why can be focussed on either:
-
-- A problem. E.g. a risk or cost.
-- An opportunity. E.g. potential high returns on an investment.
+- Align on the **problem**. Move from my problem to our problem.
+- Align on a **solution**. Define a desired state or objective.
+- Align on a **implementation**. Find a path to reach the objective.
 
 
 
@@ -201,7 +189,7 @@ Principles
 
 
 
-Recipe.
+Steps for giving feedback. For sensitive topics or unpredictable receivers.
 
 1. **Event** (objective). Describe your observation of a signal.
 2. **Effect** on yourself (subjective). Meaning, your interpretation.
@@ -247,6 +235,56 @@ Steps
 - **Clarify**. Ask questions.
 - **Evaluate** whether the message is useful.
 
+
+
+## Background
+
+**Ambiguity**
+
+[Natural](https://en.wikipedia.org/wiki/Natural_language) language is fundamentally flawed. It is ambiguous and it's meaning dependents on context and history. Surface-level language can be deconstructed to get closer to the true (deeper) meaning.
+
+Anti-patterns & logical [fallacies](https://en.wikipedia.org/wiki/Fallacy) & [biases](https://en.wikipedia.org/wiki/Cognitive_bias):
+
+- Unspecified noun. *"This decision was made"* - by whom?
+- Unspecified verb. *"They moved"*.  - how?
+- Comparisons. *"It is better"* - what is the baseline?
+- Judgements. *"Clearly, this is true"* - by who's authority?
+- Nominalization. Using adjectives or verbs as nouns. *"The state of education "* - where are the nouns?
+- Modal operators of possibility. *"It is impossible"* - in what conditions? what stops you?
+- Modal operators of necessity. *"This should be done"* - what if? what happens if it doesn't?
+- Universal quantifiers. (Over-)generalizations. *"Always"* - what are the exceptions?
+- Complex equivalence. *"If-then"* - why does this implication hold?
+- Pressuppositions. Assumptions. What leads to you to belief that?
+- Cause and effect. Instead of attribution.
+- Mind reading. E.g. projection of ones own feelings onto someone else, assuming an intent is obvious. - how exactly do you know?
+
+
+
+**Emotions**
+
+Bottled up emotions build up and can create tension. Risks:
+
+- This tension influences conversations by “leaking through”.
+- The emotions reduce the capability for (active) listening. Truly listening requires an open mindset.
+- Risk of “explosions”.
+
+
+
+**Representational systems**
+
+- Kinesthetic - feeling
+- Auditory - hearing
+- Visual - seeing
+
+
+
+**Perspectives**
+
+First, second, third position.
+
+1. The self. I, how I see/feel/hear it.
+2. The other, with whom I interact.  How they see/hear/feel
+3. An outside view. Someone who’s not involved. “Objective”
 
 
 
