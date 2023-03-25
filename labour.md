@@ -25,6 +25,8 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.
 
+> willingness to change = current risk + opportunity - uncertainty - cost of initiative
+
 The initiative is meant to move from a *current stateI* to a *target state*. This requires a transcendence of [inertia](https://en.wikipedia.org/wiki/Newton's_laws_of_motion) - otherwise there would be no need for the initiative at all. The transcendence is made possible by [consuming](https://en.wikipedia.org/wiki/First_law_of_thermodynamics) *resources*. The promise of change may or may not be enough to obtain these.
 
 <img src="img/objective-initiative.png" alt="objective-initiative" style="width:60%;" />

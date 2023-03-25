@@ -186,12 +186,12 @@ Management often requires leadership. It may consist of:
 - Execution. Facilitation. Achieve outcomes.
 - Culture. Trust. Set the tone for the team.
 
-Situational leadership - based on skill, motivation, urgency.
+Situational leadership model. Dependent on skill, motivation, urgency.
 
-- **Tell** people what to do.
-- **Sell** an vision to autonomous teams.
-- **Participate** in problem solving.
-- **Delegate** tasks.
+1. Directing / guiding. **Tell** people what to do.
+2. Selling / coaching / explaining. **Sell** an vision to autonomous teams.
+3. Participating / facilitating. **Participate** in problem solving.
+4. Delegating / empowering / monitoring. **Delegate** tasks.
 
 
 
