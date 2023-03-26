@@ -4,10 +4,22 @@ https://retromat.org/en/
 
 [toc]
 
-## Principles
+**Principles**
 
+- Use a warmup exercise to set the mood. Manage expectations.
 - Use multiple time-boxed exercises to stimulate a good balance of going wide and going deep.
+    - Bring attention back to the group in each next section.
+- Switch between individual and group conversations.
+    - "How do you see this?"
+    - "Does anyone recognize this?"
 - Follow-up on interesting answers.
+- Reserve a brief moment at the end to reflect on the session itself.
+    - "What are your takeaways?"
+
+**Roles**
+
+- Leader / interviewer - rotating dialogues with each participant
+- Facilitating manager - steer from a distance, subtly
 
 
 

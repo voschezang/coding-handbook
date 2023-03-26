@@ -8,6 +8,24 @@ This document focusses on requirements for a single *unit* of work. It assumes a
 
 Requirements are a form of [documentation](documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made. Requirements may be hierarchical - e.g. multiple deliverables within a project.
 
+
+
+**Prerequisites**
+
+Standard factors:
+
+- A definition of the **problem** that is being addressed. This could be an opportunity.
+- The identity of the **owner** of this problem.
+- A definition of **success**.
+- **Constraints** on the solution and the process. E.g. (human) resources.
+- **Actors** such as stakeholders and partners.
+
+Based on this, list all relevant uncertainties and risks.
+
+
+
+**Scope**
+
 Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. This scope can be defined in different levels:
 
 - **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.

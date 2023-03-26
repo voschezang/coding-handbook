@@ -277,8 +277,16 @@ Scope
 Expectation management
 
 - Define a great/mediocre/bad job, in personal context
-- Advice to start with
-- Pittfals
+- Advice to start with. Pitfalls
+- Feedback. What do do more and less.
+
+Key topics
+
+- Content. The work itself.
+
+- Relation. Roles and collaboration.
+
+- Process. Meta.
 
 
 

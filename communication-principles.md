@@ -1,15 +1,14 @@
 # Human Communication
 
-These models are valid for specific circumstances. E.g. professional communication in a corporate setting. See also [requirements engineering](requirements-engineering.md) and [documentation](documentation.md).
+These models are valid for specific circumstances. E.g. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](requirements-engineering.md) and [documentation](documentation.md).
 
 [toc]
 
 General principles
 
-- "Right" communication depends on the listener.
-    - Communication is context-dependent.
-- There is always communication. Even being absent or silent sends a message.
-- Human communication is extremely noisy and inefficient.
+- "**Right**" communication depends on the listener, the environment and your history.
+- There is **always** communication. Even being absent or silent sends a message.
+- Human communication is extremely **noisy** and inefficient.
 
 
 
@@ -19,17 +18,19 @@ General principles
 
 To make communication more effective.
 
-- Optimism and trust is more productive (for collaboration) than pessimism and distrust.
+- **Optimism** and trust is more productive (for collaboration) than pessimism and distrust.
     - Most behaviour can be explained by positive intent and [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
 
 - Make reversible decisions *eagerly* and irreversible decisions *conservatively*.
-- Lazy evaluations. Collect information before stopping at a decision.
+- **Lazy** evaluations. Collect information before stopping at a decision.
     - Lead with Why, rather than How.
     - Align and decide on the problem, then the solution, and only then the implementation.
     - Allow the other to change their position.
-- Assume that there are multiple unknowns.
-- Address ambiguity and uncertainty. Call it out.
-    - Acknowledge emotions and make them explicit, rather than suppressing them
+- Embrace **uncertainty** and sensitivity.
+    - Assume that there are multiple unknowns.
+    - Address ambiguity and uncertainty. Call it out.
+    - Acknowledge emotions and make them explicit, rather than suppressing them.
+
 
 
 
@@ -48,16 +49,22 @@ Which role you are expected to take. This is determined by your history and the 
 
 
 
-**Forms of communication**
-
-- Email. Ideals for broadcasts (one-to-many). Suitable for one-directional communication such as status updates.
-- Phone call. Ideal for quick feedback.
-- Meeting. Multi-purpose. E.g. explore options, improve group relationship, determine the right approach.
-- In-person meeting. Emphasis on attitude and off-topic subjects.
-
-
-
 ## How: Behaviour
+
+Models
+
+- Communication triangle
+- Inside, outside, other side
+- Four-sided of message model
+
+Patterns
+
+- Forms / channels of communication
+- Attitude: sub-assertive, assertive, aggressive
+- Bridging - mediating - negotiating
+- Collaborative - competitive
+
+
 
 ### Models
 
@@ -92,7 +99,36 @@ Relation
 
 
 
+#### Four-sides Model
 
+Messages send from a sender to a receiver consist of [four aspects](https://en.wikipedia.org/wiki/Four-sides_model):
+
+- Factual aspect
+- Relational aspect
+- Self-revealing or self-disclosing aspect
+- Appeal. A wish or want.
+
+Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way.
+
+See [meta-communication](https://en.wikipedia.org/wiki/Meta-communication).
+
+
+
+### Patterns
+
+#### Forms of communication
+
+Channels
+
+- **Email**. Ideals for broadcasts (one-to-many). Suitable for one-directional communication such as status updates. Useful as a conversation starter, rather than a one-directional channel.
+- **Phone** call. Ideal for quick feedback.
+- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](management-principles.md)
+- **In-person** meeting. Emphasis on attitude and off-topic subjects.
+
+Specific forms
+
+- **Absence** of silence. This may send a mixed messages. It may be interpreted in many different ways.
+- **Presence** and attention. E.g. to show support.
 
 
 
@@ -134,28 +170,19 @@ The difference between these can be a matter of framing.
 | Explore needs      | Shared goal.         | Individual goals    |
 | Emphasize relation | Emphasize interests  | Emphasize positions |
 
+Framing messages allows positive and negative aspects be emphasized.
+
+| Collaboratively                                | Competently                                       |
+| ---------------------------------------------- | ------------------------------------------------- |
+| I thought X. Can you show me what I'm missing? | You are wrong.                                    |
+| I think you're right.                          | I knew that already                               |
+| I like that idea.                              | That's unrealistic. <br />That will take forever. |
+
 
 
 ## What: Direct Messaging
 
-### Overview
-
-#### Four-sides Model
-
-Messages send from a sender to a receiver consist of [four aspects](https://en.wikipedia.org/wiki/Four-sides_model):
-
-- Factual aspect
-- Relational aspect
-- Self-revealing or self-disclosing aspect
-- Appeal. A wish or want.
-
-Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way.
-
-
-
-#### Initiating contact / setting the state
-
-...
+Communication is often bi-directional and complex. It can be deconstructed into sending and receiving messages.
 
 
 
@@ -165,15 +192,21 @@ See [communication-monologues](communication-monologues.md).
 
 
 
-#### Making Requests
+#### Initiating contact / setting the state
 
-Motivation: a problem or opportunity.
+...
+
+
+
+#### Requesting Change
+
+Motivation for change: a problem or opportunity.
 
 Steps.
 
-- Align on the **problem**. Move from my problem to our problem.
-- Align on a **solution**. Define a desired state or objective.
-- Align on a **implementation**. Find a path to reach the objective.
+1. Align on the **problem**. Move from my problem to our problem.
+2. Align on a **solution**. Define a desired state or objective.
+3. Align on a **implementation**. Find a path to reach the objective.
 
 
 
@@ -212,7 +245,8 @@ Template: alternative forms.
 
 ##### Anti-patterns
 
-Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
+- Mix the event and the subjective effect. The receiver might disagree with aspects in this statement and consequently neglect the whole message.
+- Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
 
 
 
@@ -223,6 +257,14 @@ See also
 - Handling complaints
 - Handling conflict
 - Saying no (to the idea)
+
+
+
+Reacting positively.
+
+- ~~You are wrong~~ I thought X.
+
+- ~~I know that~~ I think you’re right
 
 
 
@@ -267,6 +309,20 @@ Bottled up emotions build up and can create tension. Risks:
 - This tension influences conversations by “leaking through”.
 - The emotions reduce the capability for (active) listening. Truly listening requires an open mindset.
 - Risk of “explosions”.
+
+
+
+**Events & Conflicts**
+
+Conflicts are often caused by a difference in perspective. Many perspectives can be right at the same time.
+
+An event can be deconstructed into three fundamental parts
+
+1. The **intent** of the actor.
+2. The **impact**. What happened.
+3. The **effect** this had on the other. E.g. emotionally.
+
+Incorporating these factors puts a positional argument into perspective.
 
 
 
