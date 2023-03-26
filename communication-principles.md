@@ -33,8 +33,6 @@ To make communication more effective.
 
 
 
-
-
 **Context: Relation**
 
 Which role you are expected to take. This is determined by your history and the start of the interaction.
@@ -108,9 +106,7 @@ Messages send from a sender to a receiver consist of [four aspects](https://en.w
 - Self-revealing or self-disclosing aspect
 - Appeal. A wish or want.
 
-Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way.
-
-See [meta-communication](https://en.wikipedia.org/wiki/Meta-communication).
+Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way. See [meta-communication](https://en.wikipedia.org/wiki/Meta-communication).
 
 
 
@@ -257,14 +253,6 @@ See also
 - Handling complaints
 - Handling conflict
 - Saying no (to the idea)
-
-
-
-Reacting positively.
-
-- ~~You are wrong~~ I thought X.
-
-- ~~I know that~~ I think you’re right
 
 
 
