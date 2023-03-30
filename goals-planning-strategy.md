@@ -11,6 +11,9 @@
 Different modes of planning:
 
 - Top-down. Follow a vision. Then fill in the remaining steps. Address any obstacle.
+    - Goal-oriented. Focus on a direction, with wiggle room.
+    - Breakdown of tasks into sub-tasks. Focus on output.
+
 - Bottom-up. Focus on needs. Understand the current problems. Then address them.
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
@@ -50,18 +53,20 @@ OKRs separate qualitative motivational goals from tangible goals. OKRs can be de
 Why does this organization exist. A *persistent*, long term goal.
 
 **Objective**
-That what you want to achieve in the next quarter or year. A time-bound, *qualitative* goal that is ambitious, inspirational and motivational.
+That <u>what you want</u> to achieve in the next quarter or year. A time-bound, *qualitative* goal that is ambitious, inspirational and motivational.
 
 - (for projects) A target state that differs from the current state.
 - This can be an hypothesis.
 
 **Key Results**
-How you know that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria). These are results of actions that you might take, not the actions themselves.
+<u>How you know</u> that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria). These are results of actions that you might take, not the actions themselves.
 
 - They should be so optimistic that only 60%-70% of them will be reached.
 
 - These may be time-based. E.g. the churn-rate at a given date.
 - (for projects) Target conditions that need to be satisfied in order to reach the target state.
+
+Add a confidence score for key result to track progress.
 
 **Initiative**
 An action that will bring you closer to a result. These should be flexible, in order to be able to respond to surprises.

@@ -29,11 +29,21 @@ Context
 
 **Tools**
 
-Levels for queries
+Init
 
-- Storytelling. "Describe an experience about X"
-- Improve / role-playing. A hypothetical situation. "Image X. How would you respond?"
-- ...
+- Expectation management
+    - This is what we've heard.
+    - Now we like to explore that topic.
+- Choose topics
+    - What are you good at? What's your passion?
+
+
+
+Levels for queries. Given a topic or situation X:
+
+- **Storytelling**. "Describe an experience about X"
+- Improve / role-playing. A **hypothetical situation**. "Image X. How would you respond? What is the risk of that?"
+- **Opinion**. "We (will) have a situation X. We had to choose between such and such. What do you think of that? Which conditions would change your opinion?"
 
 
 
@@ -41,7 +51,7 @@ Levels for queries
 
 Job interview
 
-- Estimate suitableness of candidate and the role.
+- Estimate suitableness of candidate and the role. Estimate the range of capabilities.
 - Determine level of knowledge, skill and experience of candidate.
 - Expectation management.
 
