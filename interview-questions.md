@@ -80,30 +80,30 @@ Then tailor the rest of the conversation towards this.
 
 ### Example Queries
 
-**Themes**
+#### Generic Themes
 
-- Project management
+- **Project** management
     - Given a new assignment/project
     - When the scope is optimistic and the resources are scarce.
     - How do you respond?
-- Requirements management
+- **Requirements** management
     - Given a new assignment/project
     - When the requirements are uncertain
     - How do you present an estimation?
-- Stakeholder management
+- **Stakeholder** management
     - Given the occurrence of unpredicted events that endanger the plan.
     - When stakeholders demand an update.
     - How do you communicate this? And how do you adjust? E.g. the plan or the goal.
-- Addressing conflict
+- Addressing **conflict**
     - Given an employee/colleague that doesn't meet agreements.
     - When they avoid responsibility.
     - How do you bring this up? And how do you resolve this?
-- Incident management
+- **Incident** management
     - Given a risk that materializes 
     - ...
-- Risk management
+- **Risk** management
     - ...
-- Resource management
+- **Resource** management
     - 
 
 
