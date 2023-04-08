@@ -218,7 +218,7 @@ Principles
 
 
 
-Steps for giving feedback. For sensitive topics or unpredictable receivers.
+Steps for giving feedback. For sensitive topics or unpredictable receivers. Ensure alignment on each level.
 
 1. **Event** (objective). Describe your observation of a signal.
 2. **Effect** on yourself (subjective). Meaning, your interpretation.

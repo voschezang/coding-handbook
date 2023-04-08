@@ -185,7 +185,7 @@ Archive. Deprecated pages.
 
 **Periodic Status Update**
 
-Purpose: give an high-level overview what's changing. Can be used as preparation for a status meeting.
+Purpose: give an high-level overview what's changing. Can be used as preparation for a status meeting. See also [feedback](communication-principles.md).
 
  ```markdown
  **Focus / Core Message**
@@ -218,8 +218,18 @@ Purpose: give an high-level overview what's changing. Can be used as preparation
 > Make it a joy to read
 
 1. Start with the core message - from a high level. E.g. a single sentence (hook).
+
 2. Then, list positive and neutral points. Be liberal in giving compliments.
-3. Finally, list negative points and risks briefly but objectively.
+
+3. Finally, list negative points and risks briefly but objectively. *Decouple* objective events from opinion and speculation.
+
+    1. Leave the solution open. Avoid converging into a single solution (tunnel-vision). E.g.:
+
+        ```markdown
+        - "I'm thinking about this ~~initiative~~ outcome."
+        - "There are at least 3 directions to change this."
+        ```
+
 
 
 

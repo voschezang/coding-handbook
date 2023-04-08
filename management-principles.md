@@ -160,6 +160,15 @@ Role
 
 
 
+Inspire
+
+>  How did you find the blueberries?
+
+- Focus on success. E.g. opportunity and potential. Use positive goals. Emphasize what went well, rather than listing countless problems.
+- Learn from experiments.
+
+
+
 **Integrity**
 
 From Jim Dethmer
@@ -239,11 +248,29 @@ Based on the Lencioni model (Five dysfunctions of a team):
 
 ### Meetings
 
-Goals
+Generic goals. Ranging from content-oriented to relation-oriented.
 
-- Discover the range of relevant options for a decision or problem.
-- Improve the relationship of the group.
-- Explore a subject and determine the right approach.
+- Discover the range of relevant **options** for a decision or problem.
+- Explore a subject and **determine** the right approach - while involving the group.
+- Improve the **relationship** of the group. Make everyone feel valued. Improve the group dynamics.
+
+
+
+Specific goals (focus)
+
+- Make a **decision** and get everyone on board. E.g. stakeholders or colleagues.
+- Share information.
+    - Convey a key **message** clearly and memorably.
+    - Invoke an **emotion**. E.g. inspiration, trust, pride, courage, empathy.
+- Provide feedback. Reflect.
+    - **Align** on definition of success.
+    - **Represent** the current state and recent changes.
+    - Explore up risks and open questions.
+    - Define next steps.
+- Strengthen **relationships**.
+    - Gain better understanding and improve trust.
+    - Culture of openness and being authentic.
+- Brainstorming. Think out of the box. Come up with novel insights.
 
 
 
@@ -251,15 +278,23 @@ Goals
 
 Signs of good meetings
 
-- All participants feel heard.
-- A decision is made at the end.
-- Expectations have been set at the beginning of the meeting.
-- The scope is specific and appropriate.
-- There is either a good structure or a good agenda.
-- Key participants take time to do preparation and post-preparation.
-- Out-of-scope topics are saved for later. Action points are written down.
-- Apparent conflict is addressed (openly). Differences are accepted rather than suppressed.
-- The chair makes decisions, despite absence of consensus.
+- Structure / scope
+
+    - Key participants take time to do preparation and post-preparation.
+    - Expectations have been set at the beginning of the meeting.
+    - There is either a good structure or a good agenda.
+    - The scope is specific and appropriate.
+    - Out-of-scope topics are saved for later. Action points are written down.
+    - A decision is made at the end.
+
+- Diversity / interaction
+
+    - The chair makes decisions, despite absence of consensus.
+    - Apparent conflict is addressed (openly). Differences are accepted rather than suppressed.
+
+    - All participants pay attention and are engaged.
+
+    - All participants feel heard / welcome.
 
 See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
 
@@ -458,8 +493,8 @@ Ensure expectations are aligned at the beginning.
 
 Technique:
 
-1. What do you expect?
-2. This is what you can expect. This is what we will do.
+1. What *do* you expect?
+2. This is what you *can* expect. This is what *we* will do.
 
 
 
@@ -499,6 +534,15 @@ Goals setting - types of people
 
 - Tendency to underestimate
 - Tendency to overestimate
+
+
+
+**Performance and Trust**
+
+|                | Low Performance    | High Performance |
+| -------------- | ------------------ | ---------------- |
+| **Low Trust**  | Poor               | Toxic / risk     |
+| **High Trust** | Growth opportunity | Optimum          |
 
 
 
@@ -628,8 +672,11 @@ Single point estimates (e.g. the mean) are a poor predictor of stability. The fo
 
 ## References
 
-- Rother. *Toyota Kata*
-- Goldrat. *The Goal*
+Books
+
 - DeMarco. *Peopleware*
+- Goldrat. *The Goal*
 - Lencioni. *Death by Meeting*
+- Rother. *Toyota Kata*
 - Wodtke. *Radical Focus*
+- Zhuo. *The Making of a Manager*

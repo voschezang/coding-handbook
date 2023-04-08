@@ -10,11 +10,10 @@
 
 Different modes of planning:
 
-- Top-down. Follow a vision. Then fill in the remaining steps. Address any obstacle.
-    - Goal-oriented. Focus on a direction, with wiggle room.
-    - Breakdown of tasks into sub-tasks. Focus on output.
-
-- Bottom-up. Focus on needs. Understand the current problems. Then address them.
+- **Top-down**. Follow a vision. Then fill in the remaining steps. Address any obstacle.
+    - Goal-oriented. Define a clear direction or **outcome**. Then work on **positioning** and make bets that will help to achieve your goals.
+    - Optimize for **point estimates**. Breakdown of tasks into sub-tasks. Focus on output.
+- **Bottom-up**. Focus on needs. Understand the current problems. Then address them. E.g. remove bottlenecks.
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
