@@ -17,7 +17,7 @@ Standard factors:
 - A definition of the **problem** that is being addressed. This could be an opportunity.
 - The identity of the **owner** of this problem.
 - A definition of **success**.
-- **Constraints** on the solution and the process. E.g. (human) resources.
+- **Constraints** on the solution and the process. E.g. deadlines or (human) resources.
 - **Actors** such as stakeholders and partners.
 
 Based on this, list all relevant uncertainties and risks.

@@ -4,23 +4,26 @@
 
 ## Introduction
 
-> Making plans is good, withholding from updating them isn't.
+> Plans are worthless, but planning is everything. Execution > strategy.
 
 > Good strategy means saying no.
 
 Different modes of planning:
 
 - **Top-down**. Follow a vision. Then fill in the remaining steps. Address any obstacle.
-    - Goal-oriented. Define a clear direction or **outcome**. Then work on **positioning** and make bets that will help to achieve your goals.
-    - Optimize for **point estimates**. Breakdown of tasks into sub-tasks. Focus on output.
+    - 🧭 Goal-oriented. Define a clear direction or **outcome**. Then work on **positioning** and make bets that will help to achieve your goals.
+    - 🎯 Optimize for **point estimates**. Breakdown of tasks into sub-tasks. Focus on output.
 - **Bottom-up**. Focus on needs. Understand the current problems. Then address them. E.g. remove bottlenecks.
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
 Goals are a tools that can be used to:
 
-- Inspire and amplify performance.
-- Asses performance
+- 💡 Inspire and amplify performance. Align on a direction.
+- 🔦 Understand performance.
+- 🚦 Asses performance or progress.
+
+
 
 ### Terminology
 
@@ -32,7 +35,7 @@ Specific types of goals
 | Vision       | What our ideal world (state) looks like                      |
 | Strategy     | How to achieve the mission / realize the vision (*external* factors) |
 | Tactic       | How to achieve the mission / realize the vision (*internal* factors) |
-| Roadmap      | When we deliver milestones                                   |
+| Roadmap      | When we deliver milestones or increments                     |
 | Segmentation | Who (the target market)                                      |
 | Positioning  | Where (the product stands)                                   |
 
@@ -41,6 +44,8 @@ Note that these can be chosen for an *organization* and for each *product* withi
 
 
 #### OKR Model
+
+> When I go forwards you go backwards - and somewhere we will meet.
 
 OKRs separate qualitative motivational goals from tangible goals. OKRs can be defined per product and target market, but also on an individual level.
 
