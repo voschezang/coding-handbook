@@ -246,6 +246,31 @@ Template: alternative forms.
 
 
 
+#### Delivering News
+
+Although this usually happens between two people a plural form is used to allow for a more generic description.
+
+1. Make **contact**. Set the stage and the tone.
+    1. Initiate the interaction, ensure that the both parties are paying attention. E.g. "We have something important to tell you".
+    2. (Optional) establish empathy. Acknowledge that there may exist strong emotions.
+
+2. **Delivery** without explanation. Deliver the core message concisely. Don't immediately start a justification or defense.
+
+3. Let the other **acknowledge** the message. 
+    1. Let the other party understand and then accept the message. 
+        1. Acknowledge the emotional reaction of the other party and attenuate it. For example, show genuine understanding, compassion. Apologize, offer reassurance or react non-verbally. 
+        2. Repeat this until the emotion or sentiment is cleared. If necessary, reiterate that the decision is final.
+
+    2. Let the other party decide when it is time to continue (with an explanation or action point). If necessary repeat the third step.
+
+4. **Explain** or justify the message or decision. Then keep acknowledging the emotional reaction and attenuate it.
+
+5. **Future**
+    1. In case of agreement or acceptance: continue with the How, start making concrete plans.
+    2. In case of rejection: offer help, ask what is necessary to reach acceptance. Re-iterate your commitment to their wellbeing.
+
+
+
 ### Receiving Messages
 
 See also
@@ -264,6 +289,29 @@ Steps
 - **Interpret**. Feel the consequences. What's the result if this this hypothesis would be true?
 - **Clarify**. Ask questions.
 - **Evaluate** whether the message is useful.
+
+
+
+#### Receiving Complaints
+
+Note that a "mistake" can be defined as an event and an emotion.
+
+1. Calm down: **come inside**
+    1. Give the other the opportunity to complain or to let out rage. Let all complaints blow past you.
+    2. Be on the same level down before discussing content
+
+2. Acknowledgement: **sit down**
+    1. Acknowledge the complaint, apologize, take responsibility.
+
+3. **Focus**. Specification and reduction: choose a beverage
+    1. Make the complaint concrete. Ask questions. Go from global/generic to local/specific.
+
+4. **Align**. commit, make a promise
+    1. Make commitment to find a solution. Note that this could merely alleviate the problem.
+
+5. **Plan**. Discuss solutions: look outside
+6. Ask/offer future collaboration.
+7. Compliment: **farewell gift**
 
 
 
