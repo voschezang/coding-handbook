@@ -66,6 +66,14 @@ It involves a few *buckets*:
 
 
 
+**General approach**
+
+- Know what *you* want
+- Know what *others* want
+- Find *ways* in which you can get it
+
+
+
 ### Performance
 
 See [systems-management](systems-management.md).

@@ -8,50 +8,158 @@
 
 > Good strategy means saying no.
 
+
+
+**Goals**
+
+Goals are a tools that can be used to:
+
+- ⭐ North star. Align on a direction.
+- 💡Enlighten. Inspire and amplify performance.
+- 🔦 Shine light on ... Understand performance.
+- 🚦 Warn. Asses performance or progress.
+
+
+
+**Planning**
+
 Different modes of planning:
 
 - **Top-down**. Follow a vision. Then fill in the remaining steps. Address any obstacle.
-    - 🧭 Goal-oriented. Define a clear direction or **outcome**. Then work on **positioning** and make bets that will help to achieve your goals.
-    - 🎯 Optimize for **point estimates**. Breakdown of tasks into sub-tasks. Focus on output.
+    - 🧭 Goal-oriented. Define a clear direction or **outcome**. 
+        - 🎲 Then work on **positioning** and make bets that will help to achieve your goals.
+    - 🎯 Optimize for **point estimates**. Breakdown tasks into concrete sub-tasks. Focus on output.
 - **Bottom-up**. Focus on needs. Understand the current problems. Then address them. E.g. remove bottlenecks.
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
 
-Goals are a tools that can be used to:
 
-- 💡 Inspire and amplify performance. Align on a direction.
-- 🔦 Understand performance.
-- 🚦 Asses performance or progress.
+
+**Types of goals**
+
+Goals do not have to be *coupled* to plans
+
+- They can be higher level and longer term.
+- They can point to an ideal state, without requiring an explicit pre-determined path to get there.
+
+**Idealistic** goals. Decouple long-term goals from plans. Direction > position.
+
+- This improves agility. More flexibility to add initiatives that will bring you closer to a goal.
+- This avoids premature optimization. First define where you want to go, before considering the limitations.
+
+**Realistic** goals. Couple short term goals with a planning. Make them [s.m.a.r.t.](https://en.wikipedia.org/wiki/SMART_criteria).
+
+- Make them realistic. Minimize scope and contain risk. Consider the available resources.
+- Make them time-bound. Ensure there is enough urgency.
 
 
 
 ### Terminology
 
-Specific types of goals
+<table>
+<tr>
+  <th><p></p></th>
+  <th><p>Type</p></th>
+  <th><p>Subtype</p></th>
+  <th><p>Meaning</p></th>
+</tr>
+<tbody>
+  <tr>
+      <td rowspan="4"><p><b>Goal</b></p></td>
+      <td rowspan="4"><p><b>Why</b></p></td>
+      <td><p>Mission</p></td>
+      <td><p>Why we exist (our purpose). Why we are investing in this.</p></td>
+  </tr>
+    <tr>
+      <td><p>Vision</p></td>
+      <td><p>Evidence or result. What our ideal world (state) looks like.</p></td>
+  </tr>
+  </tr>
+    <tr>
+      <td><p>Outcome</p></td>
+      <td><p>A specific result that you want to see.</p></td>
+  </tr>
+    <tr>
+      <td><p>Objective</p></td>
+      <td><p>A concrete goal. This can be idealistic or realistic.</p></td>
+  </tr>
+  <tr>
+      <td rowspan="2"><p><b>Approach</b></p></td>
+      <td rowspan="2"><p><b>What</b></p></td>
+      <td><p>Strategy</p></td>
+      <td><p>How to achieve the mission / realize the vision (<em>external</em> factors).</p></td>
+  </tr>
+    <tr>
+      <td><p>Tactic</p></td>
+      <td><p>How to achieve the mission / realize the vision (<em>internal</em> factors).</p></td>
+  </tr>
+  <tr>
+      <td rowspan="2"><p><b>Plan</b></p></td>
+      <td rowspan="1"><p><b>How</b></p></td>
+      <td><p>Deliverables</p></td>
+      <td><p>E.g. milestones, saga's, episodes, epics.</p></td>
+  </tr>
+    <tr>
+      <td rowspan="1"><p><b>When</b></p></td>
+      <td><p>Roadmap</p></td>
+      <td><p>When we deliver milestones or increments.</p></td>
+  </tr>
+  <tr>
+      <td rowspan="2"><p><b>Context</b></p></td>
+      <td rowspan="1"><p><b>Who</b></p></td>
+      <td><p>Segmentation</p></td>
+      <td><p>Who (the target market)</p></td>
+  </tr>
+  <tr>
+      <td rowspan="1"><p><b>Where</b></p></td>
+      <td><p>Positioning</p></td>
+      <td><p>Where (the product stands)</p></td>
+  </tr>
+</tbody>
+</table>
 
-| Term         | Meaning                                                      |
-| ------------ | ------------------------------------------------------------ |
-| Mission      | Why we exist (our purpose)                                   |
-| Vision       | What our ideal world (state) looks like                      |
-| Strategy     | How to achieve the mission / realize the vision (*external* factors) |
-| Tactic       | How to achieve the mission / realize the vision (*internal* factors) |
-| Roadmap      | When we deliver milestones or increments                     |
-| Segmentation | Who (the target market)                                      |
-| Positioning  | Where (the product stands)                                   |
+
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
 
 
-#### OKR Model
+## Models
+
+Insights
+
+- Distinguish long-term goal from actionable plans.
+- Use different models for different contexts.
+
+
+
+| Model            | Optimizes for | Ideal Time horizon |
+| ---------------- | ------------- | ------------------ |
+| North Star Model | Alignment     | Years              |
+| OKR Model        | Focus         | Months             |
+
+
+
+### North Star Model
+
+1. **North star** goal. An amazing outcome - yet far away.
+2. **Current state**. Where you are now.
+3. Next **target state(s)**. The <u>path</u> you want to take. Avoid a strict ordering, but do include a preference based on current circumstances.
+4. **Initiatives** that will bring you to the next target state.
+
+
+
+Visually:
+
+<img src="img/current-target-state.png" alt="current-target-state" style="width:70%;" />
+
+### OKR Model
 
 > When I go forwards you go backwards - and somewhere we will meet.
 
 OKRs separate qualitative motivational goals from tangible goals. OKRs can be defined per product and target market, but also on an individual level.
 
 
-
-<img src="img/current-target-state.png" alt="current-target-state" style="width:70%;" />
 
 **Mission**
 Why does this organization exist. A *persistent*, long term goal.
@@ -65,12 +173,12 @@ That <u>what you want</u> to achieve in the next quarter or year. A time-bound, 
 **Key Results**
 <u>How you know</u> that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria). These are results of actions that you might take, not the actions themselves.
 
-- They should be so optimistic that only 60%-70% of them will be reached.
+- They should be so optimistic that only 2/3 of them will be reached.
 
 - These may be time-based. E.g. the churn-rate at a given date.
 - (for projects) Target conditions that need to be satisfied in order to reach the target state.
 
-Add a confidence score for key result to track progress.
+Assign a confidence score to each key result track progress.
 
 **Initiative**
 An action that will bring you closer to a result. These should be flexible, in order to be able to respond to surprises.
@@ -82,7 +190,7 @@ Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there 
 
 
 
-### Formulating Goals
+## Formulating Goals
 
 > Think big, work small
 
@@ -103,6 +211,20 @@ In addition, ensure the following.
 
 
 
+**Dimensions**
+
+Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720).
+
+- Time-horizon. E.g. days, weeks, months, years, decades.
+- Distance to customer. Oriented towards internal tools, platforms, teams, end-users, customers.
+- Depth. E.g.
+    - Level of abstraction: conceptual or concrete (actionable).
+    - Level of detail: generic (visionary) or specific.
+    - Strictness: Guiding or focussed.
+    - Scope: Broad (holistic) or narrow.
+
+
+
 **Anti-patterns**
 
 - Give all goals the same priority. Lack of an preeminent goal.
@@ -114,7 +236,7 @@ In addition, ensure the following.
 
 
 
-## Living Roadmap
+## (Planning) Living Roadmap
 
 > Great outcome > meeting initial requirements.
 

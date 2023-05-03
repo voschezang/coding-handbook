@@ -134,7 +134,8 @@ Note that the validity of the following statements is dependent on certain *impl
 * A high level of trust (between team members) is required in order to do effective pairing.
 * Pairing is useful, but you can't expect everyone to use it to the same extend.
 * Refinement of stories is a type of risk mitigation, where the upfront cost is independent of the materialization of risks. Hence in many cases it may feel unnecessary.
-* Retrospectives are useless if you don't want to change
+* Retrospectives are useless if you don't want to change.
+* You go to war with the soldiers you have, not the soldiers you want.
 
 ### DevOps
 

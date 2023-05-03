@@ -202,6 +202,12 @@ Note: This template is ideal for abstract and technical topics. It is less suite
  **Risks**
  Any noteworthy risks. Ranging from emergent to nightmarish.
  
+ **Awareness**
+ Communicate how it is going with a team or project.
+ - People (resources)
+ - Purpose (alignment, vision)
+ - Process (quality)
+ 
  **Notes**
  Anything else that's relevant. E.g.
  - What is the latest good news?
