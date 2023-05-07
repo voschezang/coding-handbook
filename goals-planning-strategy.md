@@ -77,7 +77,7 @@ Goals do not have to be *coupled* to plans
   </tr>
     <tr>
       <td><p>Outcome</p></td>
-      <td><p>A specific result that you want to see.</p></td>
+      <td><p>A specific result that you want to see. This is oriented towards <em>impact</em>.</p></td>
   </tr>
     <tr>
       <td><p>Objective</p></td>
@@ -94,11 +94,15 @@ Goals do not have to be *coupled* to plans
       <td><p>How to achieve the mission / realize the vision (<em>internal</em> factors).</p></td>
   </tr>
   <tr>
-      <td rowspan="2"><p><b>Plan</b></p></td>
-      <td rowspan="1"><p><b>How</b></p></td>
+      <td rowspan="3"><p><b>Plan</b></p></td>
+      <td rowspan="2"><p><b>How</b></p></td>
       <td><p>Deliverables</p></td>
-      <td><p>E.g. milestones, saga's, episodes, epics.</p></td>
+      <td><p>What good results look like. E.g. milestones, saga's, episodes, epics.</p></td>
   </tr>
+  <tr>
+      <td><p>Initiatives</p></td>
+      <td><p>Specfic actions that are taken to achieve (sub-)goals.</p></td>
+	</tr>
     <tr>
       <td rowspan="1"><p><b>When</b></p></td>
       <td><p>Roadmap</p></td>
@@ -120,7 +124,14 @@ Goals do not have to be *coupled* to plans
 
 
 
+
 Note that these can be chosen for an *organization* and for each *product* within that organization.
+
+In an organization, these may be combined in a single information management system (e.g. JIRA). The challenge is to 
+
+- Organize "everything" and keep it up to date.
+- Use a limited level of detail.
+- Present different views of the same data. E.g. at different levels of abstraction and different time horizons.
 
 
 
@@ -477,7 +488,30 @@ Desired State
 
 
 
-#### Visualizations
+### Template: Matrices
+
+**Projects vs. Objectives**
+
+|                  | Objective A | Objective B | Objective C |
+| ---------------- | ----------- | ----------- | ----------- |
+| Project X        | o           |             | o           |
+| Project Y        | o           | o           |             |
+| Project Z        |             |             | o           |
+| ***Dependency*** | X, Y        | Y           | X,Z         |
+
+
+
+**Cost vs. Urgency**
+
+|                          | Not urgent | -         | Urgent    |
+| ------------------------ | ---------- | --------- | --------- |
+| **High risk / low cost** | Project X  |           |           |
+| **-**                    |            |           | Project Y |
+| **Low risk / High cost** |            | Project Z |           |
+
+
+
+### Visualizations
 
 **Mapping of initiatives to core objectives**
 
@@ -492,6 +526,14 @@ Express the *cost* of each initiative or project in vertical space. Each box ind
 
 
 <img src="img/project-comparison.png" alt="project-comparison" style="width:60%;" />
+
+
+
+**Comparison of Projects and Objectives**
+
+Decouple objectives from projects. Some projects may bring you closer to multiple objectives. Emphasize objectives that have exceptional impact or value.
+
+<img src="img/projects-objectives-comparison.png" alt="projects-objectives-comparison" style="width:90%;" />
 
 
 

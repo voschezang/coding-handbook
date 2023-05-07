@@ -248,6 +248,18 @@ Template: alternative forms.
 
 #### Delivering News
 
+**Guidelines**
+
+- Keep it simple. Don't make it bigger than it has to be. Find incremental steps / nuance.
+- Decide what the most appropriate core message should be. Make it suitable to the current working relation.
+    - Mention what you want in a addition to the news.
+- Find an appropriate moment to deliver the news. This may be in a meeting or outside of business hours.
+- Relate to the other. Ensure that the other accepts the message.
+
+
+
+**Plan**
+
 Although this usually happens between two people a plural form is used to allow for a more generic description.
 
 1. Make **contact**. Set the stage and the tone.
