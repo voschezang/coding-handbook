@@ -29,13 +29,13 @@ The behaviour of a system can be understood by studying its [inputs and outputs]
 
 The flow of value through a system can be drawn from left to right, whereas the resulting flow of money goes to the opposite direction.
 
-<img src="img/system-flow-value.png" alt="system-flow-value" style="width:70%;" />
+<img src="img/system-flow-value.png" alt="system-flow-value" style="width:60%;" />
 
 A the system can be decomposed into three mutually exclusive components. Money is used as an example, but this model does generalize to other domains.
 
 - *Input*: money moving into the system (over time). E.g. through sales, or services being delivered to customers.
 - *Output*: operational expenses (over time). The cost to turn input inventory into output
-- *Inventory*: everything else. Everything in this does not directly (currently) provide value.
+- *Inventory*: everything else. Everything in this does not directly (currently) provide value. E.g. throughput.
 
 Be careful not to make the boundary of the system too small, as it will lead to optimization of local optima. More on this [later](#Internal%20View).
 

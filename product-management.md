@@ -115,6 +115,19 @@ Philosophy
 
 
 
+**Software as a service**
+
+- [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service): the customer manages the (application) data and access to it.
+- [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service): the customer manages the application themselves.
+- [IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service): the customer manages the application and its runtime (e.g. the OS).
+
+
+
+- [B2B](https://en.wikipedia.org/wiki/Business-to-business): Sell to a business
+- [B2C](https://en.wikipedia.org/wiki/Direct-to-consumer): Sell directly to a consumer
+
+
+
 **Marketing**
 
 - Focus, sell one idea. Kort en bondig.

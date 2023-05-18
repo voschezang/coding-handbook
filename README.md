@@ -1,8 +1,12 @@
 # Coding Handbook
 
-This is a collection of guidelines and ideas related to software engineering and computer science. It is not meant to be a complete or exhaustive overview.
+This is a collection of guidelines and ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is not meant to be a complete or exhaustive overview.
 
-**Table of Contents**
+
+
+## Table of Contents
+
+**Computer Science / Software Engineering**
 
 Programming Languages & Software Design.
 
@@ -23,23 +27,30 @@ Software Industry
 - [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
 - [Software Engineering](software-engineering.md) - what is involves.
 
-Systems theory
 
+
+**Systems theory**
+
+- [Organization Structure](organization-structure.md) - not just application architecture.
 - [Systems Management](systems-management.md) - systems thinking.
-- [Communication Patterns](communication-patterns.md) abstract theory regarding messaging.
+- [Communication Patterns](communication-patterns.md) - abstract theory regarding messaging.
 
-Management & Organizations
+
+
+**Management**
 
 - [Management Principles](management-principles.md) - a collection of domain-agnostic theories.
-  - [Organization Structure](organization-structure.md) - not just application architecture.
 - Project Management & Planning
 
   - [Goals/Planning/Strategy](goals-planning-strategy.md) - choosing goals and strategies.
   - [Product Management](product-management.md) - handling *multiple* projects.
+      - [Platform Management](platform-management)
   - [Project Management](project-management.md) - handling a *single* project.
   - [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
 
-Other
+
+
+**Other**
 
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Modeling](modeling.md) - theory about models.
@@ -48,6 +59,8 @@ Other
 - [Retrospective](retrospective.md) - reflection exercises for groups.
 
 
+
+## Other
 
 **Relations between documents**
 

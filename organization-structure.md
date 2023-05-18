@@ -14,6 +14,106 @@ The optimal structure of an organization is highly dependent on the domain and s
 - A system of applications, where the components are services.
 - An ecosystem. E.g. a market
 
+
+
+**Sociotechnical systems**
+
+Often, an organization is multidisciplinary rather than mechanical. Technological decisions have social implications and vice versa. This relation is strengthened by multiple factors. For example:
+
+- Technology may be consumed by humans.
+- Technology may be developed through collaboration of multiple teams.
+- The scale of the organization in relation to a society. 
+
+All these factors should be consider in order to create a sustainable design.
+
+
+
+The purpose of an organization can be understood in terms of different parties.
+
+- Owner or **Stakeholders**: the party that profits from success of the organization
+- **Customer**: the party that pays to receive a service.
+- **Consumers**: the party that uses a service.
+- **Employees**: an intermediate party that delivers services.
+
+
+
+An organization or system can be understood from different perspectives. See [systems-management](systems-management.md).
+
+- **External** view. A mechanical view of the system as a black box with inputs and outputs.
+
+- **Contextual** view. The effect of a system on its environment.
+
+- **Internal** views.
+
+    - Functional view.
+
+    - Information or communication flow.
+    - Control flow. How decisions are made.
+    - Responsibility or ownership.
+
+
+
+**Goals**
+
+An organization may be optimized for a specific goal:
+
+- Adaptiveness, agility.
+- Community, e.g. learning [as a whole](https://en.wiktionary.org/wiki/scenius).
+- Innovation (transcend the status quo, take risks).
+- Productivity (output or outcome).
+- Quality
+- Resilience
+- Scalability
+- Stability
+- Sustainability, long-term
+
+
+
+## Structure
+
+### Value Delivery
+
+A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
+
+Ideally each component in this chain has a [clear interface](https://en.wikipedia.org/wiki/Interface_segregation_principle). See [systems-management](systems-management.md).
+
+These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit. There can be independence of decision making and independence of releasing.
+
+<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
+
+
+
+### Organizational Scale
+
+Scaling up an organization while maintaining centralized control is inherently difficult. Factors such as autonomy, alignment, control and efficiency may work against each other.
+
+Organizations may grow and adapt. There are a few phases that can be distinguished:
+
+![scale-up-out](img/scale-up-out.png)
+
+**Scaling Agile**
+
+> Agile transformations are done by removing obstacles, rather than by enforcing change.
+
+Achieving high agility of small teams is much simpler that doing it for multiple teams. A few guidelines to do this:
+
+- Scale down. Focus on the core business and outsource the rest.
+- Scale out. Divide an organization into independent, autonomous components.
+- Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
+
+
+
+**In IT organizations**
+
+At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
+
+- In functional teams this could lead to strict SLAs and slow handovers.
+- In feature teams this can lead to diverging features. This increases duplication.
+
+<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
+
+
+
 ### Tradeoffs
 
 #### Control and Power
@@ -27,53 +127,27 @@ Two patterns:
 
 In addition, the communication can happen *synchronously* - with blocking messages - or *asynchronously*.
 
-#### Information
+#### Consistency
 
-**Availability or Consistency**
+**Availability and Consistency**
 The flow of information is restricted by at least one of three properties. See [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).
 
 - Consistency. Whether newly retrieved information is up-to-date.
 - Availability. Whether any request for information is satisfied immediately. Or, how soon a request is satisfied (latency).
 - Partition tolerance. How well the system will continue to function in case of component or connection failures.
 
-**Independence or Consistency**
+**Independence and Consistency**
 One of the most impactful properties is independence. In software this comes down to modularity. Doing something in isolation and locally is generally easier than at a larger scale, with where multiple components may interact in complex ways. However, independence is associated with [redundancy](http://yosefk.com/blog/redundancy-vs-dependencies-which-is-worse.html). It comes at the cost of consistency.
 
-**Efficiency or Flexibility**
+Two related factors are *alignment* and *autonomy*.
+
+#### Efficiency and Flexibility
+
 These are (to some extend) negatively correlated. Optimizing for efficiency limits flexibility.
 
 This relates to [the bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in data science; you can either optimize for a specific situation or adapt to many different situations.
 
-### Goals
 
-An organization may be optimized for a specific goal:
-
-- Adaptiveness, agility.
-- Community, e.g. learning [as a whole](https://en.wiktionary.org/wiki/scenius).
-- Innovation (taking risks).
-- Productivity (output or outcome).
-- Quality
-- Scalability
-- Stability
-- Sustainability
-
-Real world objects should rarely be studied in isolation. The connections of an object with the outside can be categorized as follows. The overall goal of the organization should take into account the preferences of all these components - both in the short and long term.
-
-- Owner or **Stakeholders**: the party that profits from success of the organization
-- **Customer**: the party that pays to receive a service.
-- **Employees**: an intermediate party that delivers services.
-
-Note that customers and consumers are not always the same group.
-
-### Value Delivery
-
-A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
-
-Ideally each component in this chain has a [clear interface](https://en.wikipedia.org/wiki/Interface_segregation_principle). See [systems-management](systems-management.md)
-
-These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit. There can be independence of decision making and independence of releasing.
-
-![feature-functional-teams](img/feature-functional-teams.png)
 
 ### Autonomy and Alignment
 
@@ -87,7 +161,6 @@ Note that there are multiple paradigms that are theoretically sound. The importa
 <h4>Frameworks</h4>
 <img src="img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
 </details>
-
 **By Domain**
 
 Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md). See also the  Stacey matrix model.
@@ -117,9 +190,9 @@ These dimensions are intertwined and the optimum is situational. The following i
 
 ![plot-process-value-per-domain](img/plot-process-value-per-domain.png)
 
-## Relations Between Components
+## Interaction
 
-Two dimensions:
+Relations between components can be understood in terms of:
 
 - The direction of relations
 - The type of relations
@@ -175,42 +248,11 @@ Ofter there is a need for a balance between the two. Too much orchestration can 
   - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
   - See the [Saga](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga) pattern.
 
-## Types of Components
-
-### Organizational Scale
-
-#### Scaling Agile
-
-> Agile transformations are done by removing obstacles, rather than by enforcing change.
-
-Achieving high agility of small teams is much simpler that doing it for multiple teams. A few guidelines to do this:
-
-- Scale down. Focus on the core business and outsource the rest.
-- Scale out. Divide an organization into independent, autonomous components.
-- Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
 
 
+### Types of Components
 
-#### Structure
-
-Scaling up an organization while maintaining centralized control is difficult. Components may compete with each other.
-
-There are a few phases that can be distinguished:
-
-![scale-up-out](img/scale-up-out.png)
-
-**In IT organizations**
-
-At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
-
-- In functional teams this could lead to strict SLAs and slow handovers.
-- In feature teams this can lead to diverging features. This increases duplication.
-
-![scaling-orgs](img/scaling-orgs.png)
-
-
-
-### Hierarchy of Components
+#### Hierarchy of Components
 
 A large organization can consists of sub-organizations. E.g. departments, divisions, teams. It is not possible to specialize at every level without impacting cohesion, alignment and collaboration.
 
