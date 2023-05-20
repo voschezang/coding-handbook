@@ -35,12 +35,6 @@ This is a collection of guidelines and ideas surrounding software engineering. I
 </ul>
 </details>
 
-Software Industry
-
-- [Quotes](quotes.md) - to contemplate (high level).
-- [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
-- [Software Engineering](software-engineering.md) - what is involves.
-
 **Management**
 
 - [Management Principles](management-principles.md) - a collection of domain-agnostic theories.
@@ -50,6 +44,12 @@ Software Industry
     - [Platform Management](platform-management)
   - [Project Management](project-management.md) - handling a *single* project.
   - [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
+
+<b>Software Industry</b>
+
+- [Quotes](quotes.md) - to contemplate (high level).
+- [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
+- [Software Engineering](software-engineering.md) - what is involves.
 
 **Other**
 
