@@ -6,7 +6,7 @@ It has many parallels with the business concept [franchising](https://en.wikiped
 
 See also [product management](./product-management.md).
 
-<img src="img/platform.png" alt="platform" style="width:45%;" />
+<img src="../img/platform.png" alt="platform" style="width:45%;" />
 
 **Role**
 

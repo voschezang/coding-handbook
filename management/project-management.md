@@ -63,7 +63,7 @@ This is an alternative to delivering the whole project in one go - and never loo
 - There is uncertainty w.r.t the progress of the project. Any problems that arise might be discovered too late.
 - There are risk associated with the duration or scope of project. E.g. when missing a deadline would be catastrophic.
 
-<img src="img/choosing-agile.png" alt="choosing-agile" style="width:90%;" />
+<img src="../img/choosing-agile.png" alt="choosing-agile" style="width:90%;" />
 
 **Example: vertical slice of an API**
 
