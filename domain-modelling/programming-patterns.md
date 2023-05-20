@@ -2,11 +2,11 @@
 
 [toc]
 
-This document contains patterns that show up in system and application architecture. Paradigms for programming langues can be found [here](programming-paradigmes.md). See also [design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/).
+This document contains patterns that show up in system and application architecture. Paradigms for programming langues can be found [here](../programming-paradigmes.md). See also [design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/).
 
 ## Introduction
 
-Although systems architecture and application architecture are different disciplines, design patterns are relevant to everything from high-level systems to low-level applications. They do however have different implications at different levels of scale. See also [functional programming patterns](programming-patterns-functional.md).
+Although systems architecture and application architecture are different disciplines, design patterns are relevant to everything from high-level systems to low-level applications. They do however have different implications at different levels of scale. See also [functional programming patterns](../computer-language/programming-patterns-functional.md).
 
 Note that applications with many components are also systems.
 
@@ -131,7 +131,7 @@ A template is an abstract recipe or skeleton, that prescribes a basic structure.
 
 ## System Patterns
 
-Design patterns for applications and systems. See also [organization structure](organization-structure.md) and [communication patterns](communication-patterns.md).
+Design patterns for applications and systems. See also [organization structure](../systems/organization-structure.md) and [communication patterns](../systems/communication-patterns.md).
 
 ### Integration styles
 

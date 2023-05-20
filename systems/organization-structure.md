@@ -14,19 +14,15 @@ The optimal structure of an organization is highly dependent on the domain and s
 - A system of applications, where the components are services.
 - An ecosystem. E.g. a market
 
-
-
 **Sociotechnical systems**
 
 Often, an organization is multidisciplinary rather than mechanical. Technological decisions have social implications and vice versa. This relation is strengthened by multiple factors. For example:
 
 - Technology may be consumed by humans.
 - Technology may be developed through collaboration of multiple teams.
-- The scale of the organization in relation to a society. 
+- The scale of the organization in relation to a society.
 
 All these factors should be consider in order to create a sustainable design.
-
-
 
 The purpose of an organization can be understood in terms of different parties.
 
@@ -34,8 +30,6 @@ The purpose of an organization can be understood in terms of different parties.
 - **Customer**: the party that pays to receive a service.
 - **Consumers**: the party that uses a service.
 - **Employees**: an intermediate party that delivers services.
-
-
 
 An organization or system can be understood from different perspectives. See [systems-management](systems-management.md).
 
@@ -45,13 +39,11 @@ An organization or system can be understood from different perspectives. See [sy
 
 - **Internal** views. Components, relations and boundaries.
 
-    - Functional view.
+  - Functional view.
 
-    - Information or communication flow.
-    - Control flow. How decisions are made.
-    - Responsibility or ownership.
-
-
+  - Information or communication flow.
+  - Control flow. How decisions are made.
+  - Responsibility or ownership.
 
 **Goals**
 
@@ -67,13 +59,9 @@ An organization may be optimized for a specific goal:
 - Stability
 - Sustainability, long-term
 
-
-
 **Side-effects**
 
 There exist natural forces that disrupt the proper functioning of an organization. The organization adapts itself to changing circumstances. Living and complex systems naturally evolve into disorganization. Active effort has to be put into a system to maintain homeostasis. This can have the form of rules, (updated) plans or a re-organization.
-
-
 
 ## Topology
 
@@ -87,23 +75,19 @@ These chains can intersect, based on the types of components in an organization.
 
 <img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
 
-
-
 ### Organizational Scale
 
 Scaling up an organization while maintaining centralized control is inherently difficult. Factors such as autonomy, alignment, control and efficiency may work against each other.
 
 Organizations may grow and adapt. There are a few phases that can be distinguished:
 
-![scale-up-out](img/scale-up-out.png)
+![scale-up-out](../img/scale-up-out.png)
 
 Each component has a *bounded context*. This is an internal, local model. These may include
 
 - A **core** domain. The components that make this organization unique. These <u>provide</u> value.
 - **Platforms**. These are generic components that are vital for the functioning of the core domain. These <u>enable</u> value.
 - **Contextual** or supporting domains. E.g. interfaces in hexagonal architecture.
-
-
 
 **Scaling Agile**
 
@@ -115,8 +99,6 @@ Achieving high agility of small teams is much simpler that doing it for multiple
 - Scale out. Divide an organization into independent, autonomous components.
 - Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
 
-
-
 **In IT organizations**
 
 At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
@@ -125,8 +107,6 @@ At certain scales, the structure incentivizes **local** optimizations due to the
 - In feature teams this can lead to diverging features. This increases duplication.
 
 <img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
-
-
 
 ### Tradeoffs
 
@@ -161,8 +141,6 @@ These are (to some extend) negatively correlated. Optimizing for efficiency limi
 
 This relates to [the bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff) in data science; you can either optimize for a specific situation or adapt to many different situations.
 
-
-
 ### Autonomy and Alignment
 
 Note that there are multiple paradigms that are theoretically sound. The important part is to be able to adapt at both the organizational- and the team-level.
@@ -177,7 +155,7 @@ Note that there are multiple paradigms that are theoretically sound. The importa
 </details>
 **By Domain**
 
-Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](learning.md). See also the  Stacey matrix model.
+Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](../learning.md). See also the  Stacey matrix model.
 
 Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
 
@@ -202,7 +180,7 @@ There are two fundamental dimensions of of influence.
 
 These dimensions are intertwined and the optimum is situational. The following image gives an example of how the level of regulation can affect the value that is produced and delivered. Other properties with similar effects are: overstaffing and up-front planning.
 
-![plot-process-value-per-domain](img/plot-process-value-per-domain.png)
+![plot-process-value-per-domain](../img/plot-process-value-per-domain.png)
 
 ## Interaction
 
@@ -262,8 +240,6 @@ Ofter there is a need for a balance between the two. Too much orchestration can 
   - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
   - See the [Saga](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga) pattern.
 
-
-
 ### Types of Components
 
 #### Hierarchy of Components
@@ -303,7 +279,7 @@ Note that the facade and the complementing services can be either function-orien
 
 Graphically, this can look like this. The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.
 
-![org-arch](img/org-arch.png)
+![org-arch](../img/org-arch.png)
 
 There are two inherent boundaries between components. Often, each component is responsible (and optimized) for their own domain.
 
@@ -312,4 +288,4 @@ There are two inherent boundaries between components. Often, each component is r
 
 Local interaction and changes are generally much easier than non local ones.
 
-![communication-patterns](img/communication-patterns.png)
+![communication-patterns](../img/communication-patterns.png)

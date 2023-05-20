@@ -1,6 +1,6 @@
 # Software Engineering
 
-Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](product-management.md).
+Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](management/product-management.md).
 
 [toc]
 
@@ -16,7 +16,7 @@ Usually it consists of either:
 
 **Daily Work**
 
-1. Planning of work. E.g. [requirements engineering](requirements-engineering.md), design, stakeholder/customer management, administration.
+1. Planning of work. E.g. [requirements engineering](management/requirements-engineering.md), design, stakeholder/customer management, administration.
 2. Planned work. E.g. programming, designing, having discussions, reviews, testing, research, teaching.
 3. Unplanned work. E.g. incident handling, customer support, troubleshooting.
 
@@ -46,15 +46,11 @@ The following are related, but are usually delegated to other people:
 
 See [software development cycle](software-development-cycle.md).
 
-
-
 **Roles**
 
 - Specialist / individual contributor. A domain expert. E.g. specialized consultancy.
 - Engineering manager. Organizational structures and the work environment, rather than work itself: e.g. teams, people, processes.
 - Technical leadership. Manage technical vision/risks/requirements. Take responsibility for the effectiveness of a development team or department. Communicate between technical and non-technical staff and stakeholders.
-
-
 
 ## Software methods
 
@@ -98,7 +94,7 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
   - The team should be able (authorized) to block the release of a change they don't support.
   - Communication between teams and departments. Both personal and using proper APIs.
 
-- Risk management. E.g. thread modeling. See [management principles](management-principles.md).
+- Risk management. E.g. thread modeling. See [management principles](management/management-principles.md).
 
 **Tips / Habits**
 
@@ -119,7 +115,7 @@ Change is inevitable in software engineering. It can be caused by:
 - Changes in the environment, e.g. in technology.
 - More information that is available. E.g. after learning.
 
-See [programming-paradigms](programming-paradigms.md).
+See [programming-paradigms](computer-language/programming-paradigms.md).
 
 ### Clean Code
 
@@ -136,7 +132,7 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 
 - Simple interfaces for public methods.
 
-See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.md](style-guide.md).
+See also [programming-paradigms.md](computer-language/programming-paradigms.md) and [style-guide.md](computer-language/style-guide.md).
 
 ### Testing
 
@@ -155,7 +151,7 @@ The term testing is usually used for "checks". A distinction can be made based o
   - Verification and validation based on pre-specified requirements
     - This can often be **automated**
   - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
-      - Strong TDD: Write a minimum failing test, write minimum code to fix the test, then refactor without introducing new behaviour.
+    - Strong TDD: Write a minimum failing test, write minimum code to fix the test, then refactor without introducing new behaviour.
 
 In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.
 
@@ -194,14 +190,10 @@ Two types
 - Internal software quality; invisible to users.
   - Users are indirectly impacted by this, through lead time..
 
-
-
 Code reviews
 
 - Based on the risk/impact of the work
 - Based on how "clean" the code is
-
-
 
 ### Technical Debt
 
@@ -248,7 +240,7 @@ Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-co
 
 Addition
 
-- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](systems-management.md).
+- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](systems/systems-management.md).
 
 [DevOps](quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
 
@@ -283,8 +275,6 @@ In practice, different changes may be integrated at different time scales. E.g.:
 - Continuous deployment (minutes to hours)
 - Canary releases (minutes to days)
 - Full releases
-
-
 
 **Risk.** Changes can impact stability. Risk mitigation can be done by these two strategies:
 
@@ -336,16 +326,14 @@ The ideal way to achieve both quality and throughput is through *fast* reviews. 
 
 This puts a restriction on the amount of work in progress.
 
-
-
 **Scrum or Kanban board**
 
 Roles:
 
 - Transparency and visibility of the teams goals and the progress towards it.
-    - Show what is planned, in progress and finished.
-    - Ensure that priorities are aligned.
-    - Incentivize collaboration by showing what is being worked on by whom.
+  - Show what is planned, in progress and finished.
+  - Ensure that priorities are aligned.
+  - Incentivize collaboration by showing what is being worked on by whom.
 - Visualize bottlenecks and blockers.
 - Accountability of the work that's being done.
 - Externalize planning. Increase resilience and decrease dependence on a single team member.
@@ -354,8 +342,6 @@ It helps to avoid:
 
 - Errors related to planning and handovers.
 - Invisible bottlenecks.
-
-
 
 ## Programming productivity
 

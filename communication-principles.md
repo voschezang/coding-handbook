@@ -1,6 +1,6 @@
 # Human Communication
 
-These models are valid for specific circumstances. E.g. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](requirements-engineering.md) and [documentation](documentation.md).
+These models are valid for specific circumstances. E.g. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](management/requirements-engineering.md) and [documentation](documentation.md).
 
 [toc]
 
@@ -10,8 +10,6 @@ General principles
 - There is **always** communication. Even being absent or silent sends a message.
 - Human communication is extremely **noisy** and inefficient.
 
-
-
 ## Why: Attitude & Relation
 
 **Attitude**
@@ -19,19 +17,17 @@ General principles
 To make communication more effective.
 
 - **Optimism** and trust is more productive (for collaboration) than pessimism and distrust.
-    - Most behaviour can be explained by positive intent and [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
+  - Most behaviour can be explained by positive intent and [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
 
 - Make reversible decisions *eagerly* and irreversible decisions *conservatively*.
 - **Lazy** evaluations. Collect information before stopping at a decision.
-    - Lead with Why, rather than How.
-    - Align and decide on the problem, then the solution, and only then the implementation.
-    - Allow the other to change their position.
+  - Lead with Why, rather than How.
+  - Align and decide on the problem, then the solution, and only then the implementation.
+  - Allow the other to change their position.
 - Embrace **uncertainty** and sensitivity.
-    - Assume that there are multiple unknowns.
-    - Address ambiguity and uncertainty. Call it out.
-    - Acknowledge emotions and make them explicit, rather than suppressing them.
-
-
+  - Assume that there are multiple unknowns.
+  - Address ambiguity and uncertainty. Call it out.
+  - Acknowledge emotions and make them explicit, rather than suppressing them.
 
 **Context: Relation**
 
@@ -44,8 +40,6 @@ Which role you are expected to take. This is determined by your history and the 
 - Teacher.
 - Expert. Advising. Give an objective opinion.
 - Manager. Asking questions, deciding
-
-
 
 ## How: Behaviour
 
@@ -62,8 +56,6 @@ Patterns
 - Bridging - mediating - negotiating
 - Collaborative - competitive
 
-
-
 ### Models
 
 #### Communication Triangle
@@ -71,10 +63,6 @@ Patterns
 Move naturally between corners for a good, balanced conversation flow. Avoid dwelling too long on a single aspect.
 
 <img src="img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />
-
-
-
-
 
 #### Subjectivity: In/Out/Other-side
 
@@ -95,8 +83,6 @@ Relation
 
 <img src="img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
 
-
-
 #### Four-sides Model
 
 Messages send from a sender to a receiver consist of [four aspects](https://en.wikipedia.org/wiki/Four-sides_model):
@@ -108,8 +94,6 @@ Messages send from a sender to a receiver consist of [four aspects](https://en.w
 
 Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way. See [meta-communication](https://en.wikipedia.org/wiki/Meta-communication).
 
-
-
 ### Patterns
 
 #### Forms of communication
@@ -118,15 +102,13 @@ Channels
 
 - **Email**. Ideals for broadcasts (one-to-many). Suitable for one-directional communication such as status updates. Useful as a conversation starter, rather than a one-directional channel.
 - **Phone** call. Ideal for quick feedback.
-- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](management-principles.md)
+- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](management/management-principles.md)
 - **In-person** meeting. Emphasis on attitude and off-topic subjects.
 
 Specific forms
 
 - **Absence** of silence. This may send a mixed messages. It may be interpreted in many different ways.
 - **Presence** and attention. E.g. to show support.
-
-
 
 #### Communication styles
 
@@ -137,8 +119,6 @@ Specific forms
 | Taking space                                       | Giving space                                             |
 | Goal/content-oriented                              | Relation-oriented                                        |
 | Persuading, asserting, incentivizing (sanctioning) | Bridging (involving, listening, disclosing), attracting. |
-
-
 
 #### Level of assertiveness
 
@@ -151,11 +131,9 @@ Specific forms
 | Lowering boundaries | Maintaining boundaries | Going over boundaries |
 | Too agreeable       |                        | Too defensive         |
 
-
-
 #### Mediation & Negotiation
 
-The difference between these can be a matter of framing. 
+The difference between these can be a matter of framing.
 
 - Ideal behaviour: depends on the role: from collaborating to competing.
 - Find a fair deal. Mutual gain, objective criteria.
@@ -174,25 +152,17 @@ Framing messages allows positive and negative aspects be emphasized.
 | I think you're right.                          | I knew that already                               |
 | I like that idea.                              | That's unrealistic. <br />That will take forever. |
 
-
-
 ## What: Direct Messaging
 
 Communication is often bi-directional and complex. It can be deconstructed into sending and receiving messages.
-
-
 
 ### Sending Messages
 
 See [communication-monologues](communication-monologues.md).
 
-
-
 #### Initiating contact / setting the state
 
 ...
-
-
 
 #### Requesting Change
 
@@ -204,8 +174,6 @@ Steps.
 2. Align on a **solution**. Define a desired state or objective.
 3. Align on a **implementation**. Find a path to reach the objective.
 
-
-
 #### Giving Feedback
 
 > Giving feedback = disclosing information about yourself
@@ -216,8 +184,6 @@ Principles
 - Separate the observation and your interpretation. Avoid judgement.
 - Requests questions where "no" is an acceptable answer - in contrast with *demands*. When the answer is no, then empathize with the other's needs, rather than strengthening the request.
 
-
-
 Steps for giving feedback. For sensitive topics or unpredictable receivers. Ensure alignment on each level.
 
 1. **Event** (objective). Describe your observation of a signal.
@@ -227,8 +193,6 @@ Steps for giving feedback. For sensitive topics or unpredictable receivers. Ensu
 4. **Desired** effect. Definition of success. What you need.
 5. Suggestions or a **request**.
 
-
-
 Template: alternative forms.
 
 ```markdown
@@ -237,14 +201,10 @@ Template: alternative forms.
 - observation-feeling-need-request
 ```
 
-
-
 ##### Anti-patterns
 
 - Mix the event and the subjective effect. The receiver might disagree with aspects in this statement and consequently neglect the whole message.
 - Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
-
-
 
 #### Delivering News
 
@@ -252,11 +212,9 @@ Template: alternative forms.
 
 - Keep it simple. Don't make it bigger than it has to be. Find incremental steps / nuance.
 - Decide what the most appropriate core message should be. Make it suitable to the current working relation.
-    - Mention what you want in a addition to the news.
+  - Mention what you want in a addition to the news.
 - Find an appropriate moment to deliver the news. This may be in a meeting or outside of business hours.
 - Relate to the other. Ensure that the other accepts the message.
-
-
 
 **Plan**
 
@@ -268,9 +226,9 @@ Although this usually happens between two people a plural form is used to allow 
 
 2. **Delivery** without explanation. Deliver the core message concisely. Don't immediately start a justification or defense.
 
-3. Let the other **acknowledge** the message. 
-    1. Let the other party understand and then accept the message. 
-        1. Acknowledge the emotional reaction of the other party and attenuate it. For example, show genuine understanding, compassion. Apologize, offer reassurance or react non-verbally. 
+3. Let the other **acknowledge** the message.
+    1. Let the other party understand and then accept the message.
+        1. Acknowledge the emotional reaction of the other party and attenuate it. For example, show genuine understanding, compassion. Apologize, offer reassurance or react non-verbally.
         2. Repeat this until the emotion or sentiment is cleared. If necessary, reiterate that the decision is final.
 
     2. Let the other party decide when it is time to continue (with an explanation or action point). If necessary repeat the third step.
@@ -281,8 +239,6 @@ Although this usually happens between two people a plural form is used to allow 
     1. In case of agreement or acceptance: continue with the How, start making concrete plans.
     2. In case of rejection: offer help, ask what is necessary to reach acceptance. Re-iterate your commitment to their wellbeing.
 
-
-
 ### Receiving Messages
 
 See also
@@ -290,8 +246,6 @@ See also
 - Handling complaints
 - Handling conflict
 - Saying no (to the idea)
-
-
 
 #### Receiving Feedback
 
@@ -301,8 +255,6 @@ Steps
 - **Interpret**. Feel the consequences. What's the result if this this hypothesis would be true?
 - **Clarify**. Ask questions.
 - **Evaluate** whether the message is useful.
-
-
 
 #### Receiving Complaints
 
@@ -325,8 +277,6 @@ Note that a "mistake" can be defined as an event and an emotion.
 6. Ask/offer future collaboration.
 7. Compliment: **farewell gift**
 
-
-
 ## Background
 
 **Ambiguity**
@@ -348,8 +298,6 @@ Anti-patterns & logical [fallacies](https://en.wikipedia.org/wiki/Fallacy) & [bi
 - Cause and effect. Instead of attribution.
 - Mind reading. E.g. projection of ones own feelings onto someone else, assuming an intent is obvious. - how exactly do you know?
 
-
-
 **Emotions**
 
 Bottled up emotions build up and can create tension. Risks:
@@ -357,8 +305,6 @@ Bottled up emotions build up and can create tension. Risks:
 - This tension influences conversations by “leaking through”.
 - The emotions reduce the capability for (active) listening. Truly listening requires an open mindset.
 - Risk of “explosions”.
-
-
 
 **Events & Conflicts**
 
@@ -372,15 +318,11 @@ An event can be deconstructed into three fundamental parts
 
 Incorporating these factors puts a positional argument into perspective.
 
-
-
 **Representational systems**
 
 - Kinesthetic - feeling
 - Auditory - hearing
 - Visual - seeing
-
-
 
 **Perspectives**
 
@@ -390,10 +332,4 @@ First, second, third position.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
 
-
-
-
 ## References
-
-[1]: Stone	"Difficult conversations: How to Discuss What Matters Most"
-[2]: Fisher	"Getting to Yes: Negotiating Agreement Without Giving In "

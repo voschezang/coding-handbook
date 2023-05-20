@@ -14,8 +14,6 @@ name : Domain -> Codomain
 divideByTwo : Int -> Float
 ```
 
-
-
 #### Special functions
 
 | Name                | Symbol | Code                       |
@@ -24,8 +22,6 @@ divideByTwo : Int -> Float
 | Constant            | K      | `f(x) = a`                 |
 | Curry (application) | S      | `S(f, g, x) = f(x, (g(x))` |
 | Loop                | Ω      | `f(x) = {x, f(x)}`         |
-
-
 
 #### Element-based Patterns
 
@@ -47,9 +43,7 @@ A function that is [under-defined](https://wiki.haskell.org/Partial_functions), 
 **Higher Order Function**
 A function that takes another function as an input. It uses *partial application*.
 
-`f : (A -> B) -> A -> B `
-
-
+`f : (A -> B) -> A -> B`
 
 #### Chain-based Patterns
 
@@ -75,10 +69,6 @@ map : (K1, V1) > [ (K2, V2) ]
 reduce : [V2] -> [C]
 ```
 
-
-
-
-
 #### Union Types
 
 ##### Multiple Tracks
@@ -88,8 +78,6 @@ Inspired by [this analogy](https://fsharpforfunandprofit.com/rop/). A function w
 - This generalizes to `Future` types, where the result is *either* a promise or a value.
 
 In OOP languages functions tend to be able to have an implicit `Exception` return type. E.g. `DivideByZeroError`.
-
-
 
 ##### Monad
 
@@ -114,8 +102,8 @@ type Maybe x = Just x | Nothing
 Maybe.apply : (A -> Maybe A) -> Maybe A -> Maybe A
 Maybe.apply f x =
   case x of
-  	Just v -> f v -- standard application of `f` to a value `v`
-  	Nothing -> Nothing -- do nothing
+   Just v -> f v -- standard application of `f` to a value `v`
+   Nothing -> Nothing -- do nothing
 ```
 
 With a *mapping* function to apply it to multiple values.
@@ -123,7 +111,7 @@ With a *mapping* function to apply it to multiple values.
 ```haskell
 Maybe.map f values : (A -> Maybe B) -> [ Maybe A ] -> [Maybe B]
 Maybe.map f values =
-	map (bind f) values
+ map (bind f) values
 ```
 
 Note that this generalizes to an arbitrary number of states. E.g.:
@@ -134,11 +122,9 @@ type State x y = Success x | Failure y
 bind : (A -> State A B) -> State A B -> State A B
 bind f x =
   case x of
-  	Success v -> f v -- standard application of `f` to a value `v`
-  	Failure msg -> Failure msg -- pass through
+   Success v -> f v -- standard application of `f` to a value `v`
+   Failure msg -> Failure msg -- pass through
 ```
-
-
 
 For example
 
@@ -150,8 +136,6 @@ Pipeline
 ```
 
 Each stage will first check if the result is available, and then do an additional call.
-
-
 
 ##### Monoid
 
@@ -181,8 +165,6 @@ sum : Int -> Int
 i = 0
 fold sum 1,2,3 == sum( sum( sum(i, 1), 2), 3) == 6
 ```
-
-
 
 #### Multi track functions
 
@@ -225,4 +207,3 @@ def f():
   # ...
   raise Error()
 ```
-

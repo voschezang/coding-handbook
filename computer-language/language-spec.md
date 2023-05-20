@@ -65,9 +65,7 @@ Result y = x.toResult().ifSuccess(f)
   * E.g. `add(a, b) =  a + b`, with the type signature `add(Int, Int) -> Int`
   * E.g. `div(a, b) = a / b`, with the signature `div(Int, NonZeroInt) -> Float`
 
-See [functions and relationships](functions-relations.md).
-
-
+See [functions and relationships](../domain-modelling/functions-relations.md).
 
 ## 2. Object-Oriented Programming
 
@@ -77,6 +75,7 @@ Type systems can be extended with additional complexity.
   * E.g. `Tree = {id: Int, height: Int}`, with the syntactic sugar `Tree.grow()`
 
 * **Methods** are functions that can have side-effects. They are associated with a class and can be:
+
  1. A command or side-effect, e.g. `Cache.clear()`.
  2. A query, e.g. `List.length() -> Int`.
  3. Both.
