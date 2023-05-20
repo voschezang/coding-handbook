@@ -1,4 +1,3 @@
-
 # Modeling
 
 Principles of modeling, statistics and machine learning. Note that a model can be either mathematical or conceptual (e.g. a flowchart).
@@ -33,7 +32,7 @@ Experiments not require complex setups. Start simple and expand if necessary. Th
     2. Change one of them and use the other one as a baseline.
     3. Compare the results.
 
-See [learning](learning.md).
+See [learning](../learning.md).
 
 ### Sources
 

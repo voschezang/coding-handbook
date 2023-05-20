@@ -30,9 +30,9 @@ This can be modeled using an identity function [`id`](https://docs.python.org/3.
 **Equality**
 
 - Reference-based. When two references refer to the same object.
-- Value-based. 
-    - Direct equality. E.g. `eq(10$, 10£) == True`  (at a given date).
-    - When values are considered to be synonyms. E.g. `1, one, `.
+- Value-based.
+  - Direct equality. E.g. `eq(10$, 10£) == True`  (at a given date).
+  - When values are considered to be synonyms. E.g. `1, one,`.
 - Interpretation-based. Compare a transformation of a value.  E.g. a *bias* or lens. `eq("sky", "water", bias=is_blue) == True` .
 
 **Generality**
@@ -46,9 +46,7 @@ In addition to the inherent imperfection of models, the realism of data can be l
 
 An information system is said to *support* a certain amount of data. This means that it can properly handle this data and enforces the relevant constraints. One way to obtain this enforcement implicitly is to use specific data structures. E.g. a set that can never contain duplicate elements, or an array that contains values of the same type.
 
-See [functions and relationships](functions-relations.md).
-
-
+See [functions and relationships](./functions-relations.md).
 
 ## Example: Currency Conversion
 
@@ -56,7 +54,8 @@ Two type-safe implementations using FP and OOP.
 Unit-tests are excluded for brevity.
 
 1. The first FP example if brief and can easily be extended in case of future requirements.
- - It should be noted that the type conversion is a bit fuzzy. This part is language-dependent.
+
+- It should be noted that the type conversion is a bit fuzzy. This part is language-dependent.
 
 ```python
 # FP
@@ -74,8 +73,9 @@ def sumInUSD(wallet: Wallet) -> USD:
 
 2. The second OOP version is longer and more complex;
  it uses a base-class, an adapter-class, a composite-class and it uses encapsulation to hide internal states.
- - This implementation is not trivial. An alternative implementation could use an interface rather than an abstract base class.
- - The developer has to take all of this into account when designing the classes.
+
+- This implementation is not trivial. An alternative implementation could use an interface rather than an abstract base class.
+- The developer has to take all of this into account when designing the classes.
 
 ```java
 /**

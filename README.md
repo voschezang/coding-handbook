@@ -2,24 +2,29 @@
 
 This is a collection of guidelines and ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is not meant to be a complete or exhaustive overview.
 
-
-
 ## Table of Contents
 
 **Computer Science / Software Engineering**
 
-Programming Languages & Software Design.
+<details>
+<summary><b>Domain modelling</b> (of real world concepts)</summary>
+<ul style="margin: 1em;">
+<li><a href="domain-modelling/modelling.md">Modelling principles</a>.</li>
+<li><a href="domain-modelling/domain-driven-design.md">Domain-Driven-Design</a>- examples of DDD using OOP and FP.</li>
+<li><a href="domain-modelling/functions-relations.md">Functions and Relationships</a></li>
+<li><a href="domain-modelling/programming-patterns.md">Programming Patterns</a> - common programming, application and system architecture patterns.</li>
+</ul>
+</details>
 
-- [Style Guide](style-guide.md) - a prescriptive guide for programming (low level).
-- [Programming Patterns](programming-patterns.md) - common programming, application and system architecture patterns. This builds upon  [communication patterns](communication-patterns.md).
-  - [Functional Programming Patterns](programming-patterns-functional.md) - mathematical and functional programming patterns.
-  - [Programming Paradigms](programming-paradigms.md) - a comparison of OOP and FP.
-
-Theoretical computer science
-
-- [Domain-Driven-Design](domain-driven-design.md) - examples of DDD using OOP and FP.
-- [Language Specification](language-spec.md) - this can be implemented as a library or a new language.
-- [Functions and Relationships](functions-relations.md) - mathematical ones.
+<details>
+<summary><b>Computer language</b> (encoding of models)</summary>
+<ul style="margin: 1em;">
+<li><a href="computer-language/style-guide.md">Style Guide</a> - a prescriptive guide for programming (low level)</li>
+<li><a href="computer-language/language-spec.md">Language Specification</a> - this can be implemented as a library or a new language.</li>
+<li><a href="computer-language/programming-patterns-functional.md">Functional Programming Patterns</a></li>
+<li><a href="computer-language/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
+</ul>
+</details>
 
 Software Industry
 
@@ -27,38 +32,29 @@ Software Industry
 - [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
 - [Software Engineering](software-engineering.md) - what is involves.
 
-
-
 **Systems theory**
 
 - [Organization Structure](organization-structure.md) - not just application architecture.
 - [Systems Management](systems-management.md) - systems thinking.
 - [Communication Patterns](communication-patterns.md) - abstract theory regarding messaging.
 
-
-
 **Management**
 
 - [Management Principles](management-principles.md) - a collection of domain-agnostic theories.
 - Project Management & Planning
-
   - [Goals/Planning/Strategy](goals-planning-strategy.md) - choosing goals and strategies.
   - [Product Management](product-management.md) - handling *multiple* projects.
-      - [Platform Management](platform-management)
+    - [Platform Management](platform-management)
   - [Project Management](project-management.md) - handling a *single* project.
   - [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
-
-
 
 **Other**
 
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
-- [Modeling](modeling.md) - theory about models.
+- [Modeling](domain-modelling/modeling.md) - theory about models.
 - [Learning](learning.md) - theory about change and improvement.
 - [Communication Principles](communication-principles.md) - human communication.
 - [Retrospective](retrospective.md) - reflection exercises for groups.
-
-
 
 ## Other
 
@@ -66,12 +62,10 @@ Software Industry
 
 From abstract theory to application within a domain. For a full overview, see [this table](software-domains-table.md).
 
-- [Communication Patterns](communication-patterns.md) > [Programming Patterns](programming-patterns.md) > [Programming Paradigms](programming-paradigms.md)
+- [Communication Patterns](communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
 - [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management.md)
 - [Systems Management](systems-management.md) > [Organization Structure](organization-structure.md) > [Organization Architecture](organization-architecture.md)
 - [Management Principles](management-principles.md) > (management of)  [Systems](systems-management.md) > a [Product](product-management.md) > a [Platform](platform-management) > a [Project](project-management.md)
-
-
 
 **Perspective & Generalizability of Guidelines**
 
@@ -91,3 +85,11 @@ From abstract theory to application within a domain. For a full overview, see [t
 E.g. a goal can be short-term and precise, or long-term but vague.
 
 Definition of *anti-pattern*: a commonly used, bad solution to a problem. Possibly just an indicator, signaling a deeper issue.
+
+<details open>
+<summary></summary>
+<br>
+<li>
+<li><a href=""></a></li>
+</ul>
+</details>

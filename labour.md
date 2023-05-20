@@ -4,7 +4,7 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 > Labour is human activity directed at meeting necessities for self-preservation and the reproduction of the species. Because these needs cannot be satisfied once and for all, labour never really reaches an end [...] a futile but necessary activity.
 
-This contrasts with *work*, which has a clearly defined beginning and end. This [instrumental](https://en.wikipedia.org/wiki/Instrumentalism) property creates a bias towards purposefulness. [Product management](product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account. 
+This contrasts with *work*, which has a clearly defined beginning and end. This [instrumental](https://en.wikipedia.org/wiki/Instrumentalism) property creates a bias towards purposefulness. [Product management](product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account.
 
 [toc]
 
@@ -19,8 +19,6 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 <img src="img/purpose-discovery-delivery.png" alt="purpose-discovery-delivery" style="width:40%;" />
 
-
-
 ## Objectives and Initiatives
 
 At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.
@@ -33,13 +31,9 @@ The initiative is meant to move from a *current stateI* to a *target state*. Thi
 
 Choosing the right objective and initiatives is a challenge in itself. See [goals](goals-planning-strategy.md). After choosing a goal, one can specify [requirements](requirements-engineering.md).
 
-
-
 ## Organized Labour
 
 Labour can be divided into *processes* and *projects*. It is done by a person or an *organization* and it involves *resources*. Often it involves of various sorts. Al of these concepts may involve [management](management-principles.md).
-
-
 
 How to run an organization.
 
@@ -48,8 +42,6 @@ How to run an organization.
 3. Ensure that the organization is working towards them.
 4. Setup periodic reflection moments at appropriate time scales. E.g. daily, bi-weekly, quarterly, yearly meetings. Learn what needs to change to achieve success.
 
-
-
 Cycle
 
 1. Take a step back / reflect. Step outside the daily operations.
@@ -57,17 +49,13 @@ Cycle
 3. Develop and execute plans. Move forwards.
 4. Repeat.
 
-
-
 **Autonomous teams**
 
-A top-down approach where teams execute pre-specified plans is straightforward and works well in certain environments. Whenever teams need to adapt quickly this approach starts to fail. 
+A top-down approach where teams execute pre-specified plans is straightforward and works well in certain environments. Whenever teams need to adapt quickly this approach starts to fail.
 
 - Alignment with other teams. Being aware of the greater purpose.
 - Reflection of the team itself, it's work and it's environment.
 - Adapting objectives and plans based on progress.
-
-
 
 **Roles in Teams**
 
@@ -80,15 +68,11 @@ There exist multiple models for [role and responsibility assignment](https://en.
 
 Roles can be official and persistent, or informal and dynamic.
 
-
-
 **Modes of collaboration**
 
 - Firefighting. Try to survive.
 - Maintenance. Optimize for efficiency.
 - Balanced. Focus on effectiveness. Plan and reflect.
-
-
 
 ### Projects and processes
 
@@ -101,8 +85,6 @@ Roles can be official and persistent, or informal and dynamic.
 
 See [requirements-engineering](requirements-engineering.md).
 
-
-
 **Proposing change**
 
 Align on the questions: *Why change? For whom? Why now?*
@@ -113,8 +95,6 @@ Align on the questions: *Why change? For whom? Why now?*
 
 Then make a plan.
 
-
-
 **Planning change**
 
 Determine how to make change possible and worthwhile. Given an *objective*, consider:
@@ -123,8 +103,6 @@ Determine how to make change possible and worthwhile. Given an *objective*, cons
 - The initiatives. The in input effort.
 - Estimation of the cost
 - Risks
-
-
 
 **Managing change**
 
@@ -137,8 +115,6 @@ Visualization
 
 - Kanban or Scrum board. Show work in progress and planned work.
 - Heatmap of health indicators.
-
-
 
 #### Identity
 
@@ -159,11 +135,9 @@ These influence decisions. For example, belief is a prerequisite for making chan
 _identity belief capability behavior environment_
 ```
 
-
-
 ## Labour Itself
 
-Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`. 
+Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`.
 
 It may have the following forms:
 
@@ -173,8 +147,6 @@ It may have the following forms:
 4. Administration: consistency, manage a black-box application. Audit an executed process.
 
 *Management* of labour usually falls under operations or administration. It differentiates itself from "actual" work by distancing itself from it. E.g. through delegation or orchestration.
-
-
 
 ## Assignments
 
@@ -198,25 +170,19 @@ After a planning phase, the initiative is executed. Next to following the plan, 
 
 **Feedback**
 
-Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using new information. This requires observation, analysis and reflection. See [modeling](modeling.md).
+Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using new information. This requires observation, analysis and reflection. See [modeling](domain-modelling/modeling.md).
 
 **Improvement**
 
 Change [organizational structure](organization-structure.md) and the environment. See [learning](learning.md).
 
-
-
 ## Work Principles
 
 > Principles before process
 
-
-
 **`0` Zero quality layers**
 
 Instead, build-in quality and improvement into every stage or component. In organizations, let everyone improve, rather than hiring a consultant to do it for them.
-
-
 
 **`1` Focus**
 
@@ -226,16 +192,12 @@ Instead, build-in quality and improvement into every stage or component. In orga
 - Limit change-in-progress. Cognitive overhead is demanding of employees - it drains energy
 - Strive for 1 goal per timescale.
 
-
-
 **`∞` Continuous improvement**
 
 - Assume ignorance. Be ready to learn.
 
 - Design for failure. Setup experiments that can fail. Do risk management.
 - Think big and work small.
-
-
 
 **`∀` Agile**
 
@@ -250,15 +212,11 @@ Agile is not a goal in itself. Rather, increase agility in order to deliver valu
 - Sooner: lead time, throughput, flow efficiency.
 - Safer: risk, continuous compliance, security.
 
-
-
 **`3` The DevOps Way**
 
 1. Flow through value chain.
 2. Feedback loops. Include customer feedback.
 3. Continuous improvement.
-
-
 
 **`6σ` Lean**
 
@@ -270,13 +228,9 @@ Applicable to *complicated* rather than *complex* domains
 4. Pull, don’t over produce
 5. Strive for perfection, high quality.  This is mostly for *complicated* rather than *complex* domains
 
-
-
 **`★` North Star**
 
 Communicate your vision. Tell your story.
-
-
 
 **`Δ` Think big, work small. Long term patient, short term impatient**
 
@@ -286,8 +240,6 @@ Communicate your vision. Tell your story.
 - Separate goals and dreams. Be impatient in reaching goals, but patient when working towards a dream.
 - Micro pessimist, macro optimist
 - Separate goals and dreams. Be impatient in reaching goals, but patient when working towards a dream.
-
-
 
 **`±` Accept uncertainty. Find out what you don't know.**
 

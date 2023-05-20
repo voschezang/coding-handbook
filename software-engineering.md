@@ -46,15 +46,11 @@ The following are related, but are usually delegated to other people:
 
 See [software development cycle](software-development-cycle.md).
 
-
-
 **Roles**
 
 - Specialist / individual contributor. A domain expert. E.g. specialized consultancy.
 - Engineering manager. Organizational structures and the work environment, rather than work itself: e.g. teams, people, processes.
 - Technical leadership. Manage technical vision/risks/requirements. Take responsibility for the effectiveness of a development team or department. Communicate between technical and non-technical staff and stakeholders.
-
-
 
 ## Software methods
 
@@ -119,7 +115,7 @@ Change is inevitable in software engineering. It can be caused by:
 - Changes in the environment, e.g. in technology.
 - More information that is available. E.g. after learning.
 
-See [programming-paradigms](programming-paradigms.md).
+See [programming-paradigms](computer-language/programming-paradigms.md).
 
 ### Clean Code
 
@@ -136,7 +132,7 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 
 - Simple interfaces for public methods.
 
-See also [programming-paradigms.md](programming-paradigms.md) and [style-guide.md](style-guide.md).
+See also [programming-paradigms.md](computer-language/programming-paradigms.md) and [style-guide.md](computer-language/style-guide.md).
 
 ### Testing
 
@@ -155,7 +151,7 @@ The term testing is usually used for "checks". A distinction can be made based o
   - Verification and validation based on pre-specified requirements
     - This can often be **automated**
   - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
-      - Strong TDD: Write a minimum failing test, write minimum code to fix the test, then refactor without introducing new behaviour.
+    - Strong TDD: Write a minimum failing test, write minimum code to fix the test, then refactor without introducing new behaviour.
 
 In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.
 
@@ -194,14 +190,10 @@ Two types
 - Internal software quality; invisible to users.
   - Users are indirectly impacted by this, through lead time..
 
-
-
 Code reviews
 
 - Based on the risk/impact of the work
 - Based on how "clean" the code is
-
-
 
 ### Technical Debt
 
@@ -284,8 +276,6 @@ In practice, different changes may be integrated at different time scales. E.g.:
 - Canary releases (minutes to days)
 - Full releases
 
-
-
 **Risk.** Changes can impact stability. Risk mitigation can be done by these two strategies:
 
 - Separation by demographic. E.g. [canary releases](https://martinfowler.com/bliki/CanaryRelease.html) where software is released gradually. In case of risk materialization, this will limit the impact to users and it will allow developers to address issues immediately.
@@ -336,16 +326,14 @@ The ideal way to achieve both quality and throughput is through *fast* reviews. 
 
 This puts a restriction on the amount of work in progress.
 
-
-
 **Scrum or Kanban board**
 
 Roles:
 
 - Transparency and visibility of the teams goals and the progress towards it.
-    - Show what is planned, in progress and finished.
-    - Ensure that priorities are aligned.
-    - Incentivize collaboration by showing what is being worked on by whom.
+  - Show what is planned, in progress and finished.
+  - Ensure that priorities are aligned.
+  - Incentivize collaboration by showing what is being worked on by whom.
 - Visualize bottlenecks and blockers.
 - Accountability of the work that's being done.
 - Externalize planning. Increase resilience and decrease dependence on a single team member.
@@ -354,8 +342,6 @@ It helps to avoid:
 
 - Errors related to planning and handovers.
 - Invisible bottlenecks.
-
-
 
 ## Programming productivity
 
