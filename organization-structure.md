@@ -41,9 +41,9 @@ An organization or system can be understood from different perspectives. See [sy
 
 - **External** view. A mechanical view of the system as a black box with inputs and outputs.
 
-- **Contextual** view. The effect of a system on its environment.
+- **Contextual** view. The positioning of a system within its environment. Side-effects and higher-order consequences of the system.
 
-- **Internal** views.
+- **Internal** views. Components, relations and boundaries.
 
     - Functional view.
 
@@ -69,7 +69,13 @@ An organization may be optimized for a specific goal:
 
 
 
-## Structure
+**Side-effects**
+
+There exist natural forces that disrupt the proper functioning of an organization. The organization adapts itself to changing circumstances. Living and complex systems naturally evolve into disorganization. Active effort has to be put into a system to maintain homeostasis. This can have the form of rules, (updated) plans or a re-organization.
+
+
+
+## Topology
 
 ### Value Delivery
 
@@ -90,6 +96,14 @@ Scaling up an organization while maintaining centralized control is inherently d
 Organizations may grow and adapt. There are a few phases that can be distinguished:
 
 ![scale-up-out](img/scale-up-out.png)
+
+Each component has a *bounded context*. This is an internal, local model. These may include
+
+- A **core** domain. The components that make this organization unique. These <u>provide</u> value.
+- **Platforms**. These are generic components that are vital for the functioning of the core domain. These <u>enable</u> value.
+- **Contextual** or supporting domains. E.g. interfaces in hexagonal architecture.
+
+
 
 **Scaling Agile**
 

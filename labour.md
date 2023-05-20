@@ -43,18 +43,19 @@ Labour can be divided into *processes* and *projects*. It is done by a person or
 
 How to run an organization.
 
-1. Set clear, time-bound objectives (see above).
-2. Ensure that the organization is working towards them.
-3. Setup periodic reflection moments at appropriate time scales. E.g. daily, bi-weekly, quarterly, yearly meetings.
+1. Align on a stable, perpetual objective. Relate this to the different stakeholders.
+2. Set clear, time-bound objectives (see above).
+3. Ensure that the organization is working towards them.
+4. Setup periodic reflection moments at appropriate time scales. E.g. daily, bi-weekly, quarterly, yearly meetings. Learn what needs to change to achieve success.
 
 
 
 Cycle
 
-1. Take a step back / reflect
-2. Make or update plans. Choose a direction.
-3. Execute plans. Move forwards.
-4. Repeat
+1. Take a step back / reflect. Step outside the daily operations.
+2. Decide on a next objective. Choose a direction to move towards.
+3. Develop and execute plans. Move forwards.
+4. Repeat.
 
 
 

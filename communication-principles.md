@@ -68,7 +68,7 @@ Patterns
 
 #### Communication Triangle
 
-Flow: move naturally between corners.
+Move naturally between corners for a good, balanced conversation flow. Avoid dwelling too long on a single aspect.
 
 <img src="img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />
 
