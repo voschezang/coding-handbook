@@ -1,6 +1,6 @@
 # Management Principles
 
-Inspired by [various sources](#references). See also [goals & strategy](goals-planning-strategy.md).
+Inspired by [various sources](#references). See also [goals & strategy](./goals-planning-strategy.md).
 
 [toc]
 
@@ -10,7 +10,7 @@ Inspired by [various sources](#references). See also [goals & strategy](goals-pl
 
 Management *an sich* is a theoretical domain. In the real world, one would encounter management of a *subject*. For example: management of a project or a department.
 
-This *subject* can be framed as a [theoretical system](systems/systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
+This *subject* can be framed as a [theoretical system](../systems/systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
 
 At minimum, management involves alignment, communication, facilitation, orchestration and prioritization. Depending on the scale of the subject, a manager may also contribute in secondary tasks such as planning, execution and coaching. Hence the role of a manager may extend from facilitator to director.
 
@@ -25,7 +25,7 @@ Management consists of **balances**. For example:
   - Optimizing for the next quarter or for multiple decades.
 - Delegating much but not everything.
 
-See also [organization-structure](systems/organization-structure.md) and [systems-management](systems/systems-management.md).
+See also [organization-structure](../systems/organization-structure.md) and [systems-management](../systems/systems-management.md).
 
 **Properties**
 
@@ -33,7 +33,7 @@ See also [organization-structure](systems/organization-structure.md) and [system
 2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
 3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value.
     1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
-    2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](product-management.md) or people.
+    2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](./product-management.md) or people.
 
 There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
 
@@ -66,7 +66,7 @@ It involves a few *buckets*:
 
 ### Performance
 
-See [systems-management](systems/systems-management.md).
+See [systems-management](../systems/systems-management.md).
 
 **Effectiveness**
 
@@ -110,7 +110,7 @@ Timeline, scope and capacity are related. If one changes, then at least one of t
 
 ### Change
 
-Note that these can all involve [*change*](learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](systems/organization-structure.md).
+Note that these can all involve [*change*](../learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](../systems/organization-structure.md).
 
 1. [Influence](https://danluu.com/culture/) people (indirect)
     1. Incentives. Rewards and punishments for behaviour or achievements.
@@ -137,7 +137,7 @@ Reaching goals usually requires change.
 
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
-Also see [goals and strategy](goals-planning-strategy.md).
+Also see [goals and strategy](./goals-planning-strategy.md).
 
 ### Attitude
 
@@ -215,7 +215,7 @@ Roles can be official and persistent, or informal and dynamic.
 
 **Persistence**
 
-One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](goals-planning-strategy.md).
+One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](./goals-planning-strategy.md).
 
 **Team Performance**
 
@@ -273,7 +273,7 @@ Signs of good meetings
 
   - All participants feel heard / welcome.
 
-See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
+See also [goals-planning-strategy](./goals-planning-strategy.md#Meetings).
 
 #### 1:1 Meetings
 
@@ -390,7 +390,7 @@ Levels of assignments
 - Discover the right problem
 
 **Organization Management**
- [organization-structure](systems/organization-structure.md)
+ [organization-structure](../systems/organization-structure.md)
 
 **Crisis management**
 
@@ -485,7 +485,7 @@ Goals setting - types of people
 
 ### Process Management
 
-Based on the properties of [systems](systems/systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
+Based on the properties of [systems](../systems/systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
 
 1. Identify the main constraint in the system.
     1. Identify the [critical chain](https://en.wikipedia.org/wiki/Critical_path_method).
@@ -496,7 +496,7 @@ Based on the properties of [systems](systems/systems-management.md) the followin
 5. Repeat all the previous steps, until the constraint has moved *outside* of the system. Note that lifting a bottleneck may change the functioning of the whole system.
 6. Two remaining challenges are:
     1. [Risk management](#Risk Management). E.g. finding optimal buffer-sizes.
-    2. [Product management](product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
+    2. [Product management](./product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
 
 ### Risk Management
 
@@ -605,7 +605,7 @@ Four types of knowledge
 
 Single point estimates (e.g. the mean) are a poor predictor of stability. The following image shows that chaotic (random) and cyclical processes - which are fundamentally different - can have the same mean.
 
-![plot-process-throughput](img/plot-process-throughput.png)
+![plot-process-throughput](../img/plot-process-throughput.png)
 
 ## References
 

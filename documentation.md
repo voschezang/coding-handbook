@@ -91,7 +91,7 @@ The Why consists of the following categories:
 
 ## Templates
 
-See also [requirements engineering](requirements-engineering.md).
+See also [requirements engineering](management/requirements-engineering.md).
 
 **Product-team: Summary**
 

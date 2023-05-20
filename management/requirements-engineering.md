@@ -1,14 +1,12 @@
 # Requirements Engineering
 
-This document focusses on requirements for a single *unit* of work. It assumes a given [objective](goals-planning-strategy.md). Projects that can be split up over multiple tasks are covered [here](product-management.md).
+This document focusses on requirements for a single *unit* of work. It assumes a given [objective](./goals-planning-strategy.md). Projects that can be split up over multiple tasks are covered [here](./product-management.md).
 
 [toc]
 
 ## Overview
 
-Requirements are a form of [documentation](documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made. Requirements may be hierarchical - e.g. multiple deliverables within a project.
-
-
+Requirements are a form of [documentation](../documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made. Requirements may be hierarchical - e.g. multiple deliverables within a project.
 
 **Prerequisites**
 
@@ -21,8 +19,6 @@ Standard factors:
 - **Actors** such as stakeholders and partners.
 
 Based on this, list all relevant uncertainties and risks.
-
-
 
 **Scope**
 
@@ -45,19 +41,15 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 - *Could* have. Desirable, but only if time and resources permit.
 - *Won't* have. Explicitly excluded from the current scope.
 
-
-
 **Good Outcomes**
 
-Given an [objective](goals-planning-strategy.md), start focussing on the *what* instead of the *why*.
+Given an [objective](./goals-planning-strategy.md), start focussing on the *what* instead of the *why*.
 
 The following properties may result in requirements.
 
 - Outcome or target state: Main deliverable
 - Target conditions: acceptance criteria. How will success be measured?
 - Risks and side-effects. What will happen once this has been reached?
-
-
 
 **Functional and non-functional requirements (NFR)**
 
@@ -66,8 +58,6 @@ The following properties may result in requirements.
 - They are designed to be satisfiable. I.e. one can (in theory) verify that they are met. E.g. using a metric or proof.
 
 [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g.a system should be user-friendly and maintainable.
-
-
 
 **Template**
 
@@ -82,15 +72,11 @@ Avoid or resolve ambiguity.
 
 > *Complicated* is just a euphemism for "scary to think about".
 
-
-
 ## Tests & Verification
 
 - Examples *elaborate* requirements
 
 - Tests (checks) *verify* requirements
-
-
 
 ## Specification
 
@@ -104,7 +90,7 @@ Before closing a task an appropriate review should be done to validate whether i
 
 E.g. for user-stories.
 
-What value a given feature would bring to a given *persona*. 
+What value a given feature would bring to a given *persona*.
 
 Output-based:
 
@@ -113,8 +99,6 @@ Output-based:
 Outcome-based:
 
 > In order to reach this `outcome`, this `component` needs this `change`.
-
-
 
 #### Template: Project Pitch
 
@@ -192,8 +176,6 @@ There can be a need for a light alternative of the one-pager. E.g. when informin
 - Outcome:
   - Refer to the acceptance criteria.
 
-
-
 #### Template: Larger Task
 
 In addition to the above:
@@ -237,8 +219,6 @@ By **importance**:
 - Doing
 - Can't do (cancelled).
 ```
-
-
 
 ## Estimation
 

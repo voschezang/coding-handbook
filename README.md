@@ -4,8 +4,6 @@ This is a collection of guidelines and ideas surrounding software engineering. I
 
 ## Table of Contents
 
-**Computer Science / Software Engineering**
-
 <details>
 <summary><b>Domain modelling</b> (of real world concepts)</summary>
 <ul style="margin: 1em;">
@@ -35,15 +33,19 @@ This is a collection of guidelines and ideas surrounding software engineering. I
 </ul>
 </details>
 
-**Management**
-
-- [Management Principles](management-principles.md) - a collection of domain-agnostic theories.
-- Project Management & Planning
-  - [Goals/Planning/Strategy](goals-planning-strategy.md) - choosing goals and strategies.
-  - [Product Management](product-management.md) - handling *multiple* projects.
-    - [Platform Management](platform-management)
-  - [Project Management](project-management.md) - handling a *single* project.
-  - [Requirements Engineering](requirements-engineering.md) - handling a *unit* of work within a project.
+<details>
+<summary><b>Management</b> of systems, planning of work</summary>
+<ul style="margin: 1em;">
+<li><a href="management/management-principles.md">Principles</a></li>
+<ul>
+<li><a href="management/product-management.md">Product Management</a></li>
+<li><a href="management/project-management.md">Project Management</a></li>
+<li><a href="management/platform-management">Platform Management</a></li>
+</ul>
+<li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
+<li><a href="management/requirements-engineering.md">Requirements Engineering</a></li>
+</ul>
+</details>
 
 <b>Software Industry</b>
 
@@ -51,13 +53,17 @@ This is a collection of guidelines and ideas surrounding software engineering. I
 - [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
 - [Software Engineering](software-engineering.md) - what is involves.
 
+**Collaboration**
+
+- [Labour](labour.md) - work and management of work.
+- [Communication Principles](communication-principles.md) - human communication.
+- [Retrospective](retrospective.md) - reflection exercises for groups.
+
 **Other**
 
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
-- [Modeling](domain-modelling/modeling.md) - theory about models.
+- [Documentation](documentation.md).
 - [Learning](learning.md) - theory about change and improvement.
-- [Communication Principles](communication-principles.md) - human communication.
-- [Retrospective](retrospective.md) - reflection exercises for groups.
 
 ## Other
 
@@ -66,9 +72,9 @@ This is a collection of guidelines and ideas surrounding software engineering. I
 From abstract theory to application within a domain. For a full overview, see [this table](software-domains-table.md).
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
-- [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management.md)
+- [Requirements Engineering](management/requirements-engineering.md) > [Project Management](management/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/organization-structure.md) > [Organization Architecture](organization-architecture.md)
-- [Management Principles](management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](product-management.md) > a [Platform](platform-management) > a [Project](project-management.md)
+- [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](management/platform-management) > a [Project](management/project-management.md)
 
 **Perspective & Generalizability of Guidelines**
 

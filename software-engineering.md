@@ -1,6 +1,6 @@
 # Software Engineering
 
-Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](product-management.md).
+Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](management/product-management.md).
 
 [toc]
 
@@ -16,7 +16,7 @@ Usually it consists of either:
 
 **Daily Work**
 
-1. Planning of work. E.g. [requirements engineering](requirements-engineering.md), design, stakeholder/customer management, administration.
+1. Planning of work. E.g. [requirements engineering](management/requirements-engineering.md), design, stakeholder/customer management, administration.
 2. Planned work. E.g. programming, designing, having discussions, reviews, testing, research, teaching.
 3. Unplanned work. E.g. incident handling, customer support, troubleshooting.
 
@@ -94,7 +94,7 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
   - The team should be able (authorized) to block the release of a change they don't support.
   - Communication between teams and departments. Both personal and using proper APIs.
 
-- Risk management. E.g. thread modeling. See [management principles](management-principles.md).
+- Risk management. E.g. thread modeling. See [management principles](management/management-principles.md).
 
 **Tips / Habits**
 

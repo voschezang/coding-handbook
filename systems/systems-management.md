@@ -1,6 +1,6 @@
 # Systems
 
-This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../goals-planning-strategy.md).
+This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../management/goals-planning-strategy.md).
 
 [toc]
 

@@ -8,8 +8,6 @@
 
 > Good strategy means saying no.
 
-
-
 **Goals**
 
 Goals are a tools that can be used to:
@@ -19,21 +17,17 @@ Goals are a tools that can be used to:
 - 🔦 Shine light on ... Understand performance.
 - 🚦 Warn. Asses performance or progress.
 
-
-
 **Planning**
 
 Different modes of planning:
 
 - **Top-down**. Follow a vision. Then fill in the remaining steps. Address any obstacle.
-    - 🧭 Goal-oriented. Define a clear direction or **outcome**. 
-        - 🎲 Then work on **positioning** and make bets that will help to achieve your goals.
-    - 🎯 Optimize for **point estimates**. Breakdown tasks into concrete sub-tasks. Focus on output.
+  - 🧭 Goal-oriented. Define a clear direction or **outcome**.
+    - 🎲 Then work on **positioning** and make bets that will help to achieve your goals.
+  - 🎯 Optimize for **point estimates**. Breakdown tasks into concrete sub-tasks. Focus on output.
 - **Bottom-up**. Focus on needs. Understand the current problems. Then address them. E.g. remove bottlenecks.
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
-
-
 
 **Types of goals**
 
@@ -51,8 +45,6 @@ Goals do not have to be *coupled* to plans
 
 - Make them realistic. Minimize scope and contain risk. Consider the available resources.
 - Make them time-bound. Ensure there is enough urgency.
-
-
 
 ### Terminology
 
@@ -102,7 +94,7 @@ Goals do not have to be *coupled* to plans
   <tr>
       <td><p>Initiatives</p></td>
       <td><p>Specfic actions that are taken to achieve (sub-)goals.</p></td>
-	</tr>
+ </tr>
     <tr>
       <td rowspan="1"><p><b>When</b></p></td>
       <td><p>Roadmap</p></td>
@@ -122,18 +114,13 @@ Goals do not have to be *coupled* to plans
 </tbody>
 </table>
 
-
-
-
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
-In an organization, these may be combined in a single information management system (e.g. JIRA). The challenge is to 
+In an organization, these may be combined in a single information management system (e.g. JIRA). The challenge is to
 
 - Organize "everything" and keep it up to date.
 - Use a limited level of detail.
 - Present different views of the same data. E.g. at different levels of abstraction and different time horizons.
-
-
 
 ## Models
 
@@ -142,14 +129,10 @@ Insights
 - Distinguish long-term goal from actionable plans.
 - Use different models for different contexts.
 
-
-
 | Model            | Optimizes for | Ideal Time horizon |
 | ---------------- | ------------- | ------------------ |
 | North Star Model | Alignment     | Years              |
 | OKR Model        | Focus         | Months             |
-
-
 
 ### North Star Model
 
@@ -158,19 +141,15 @@ Insights
 3. Next **target state(s)**. The <u>path</u> you want to take. Avoid a strict ordering, but do include a preference based on current circumstances.
 4. **Initiatives** that will bring you to the next target state.
 
-
-
 Visually:
 
-<img src="img/current-target-state.png" alt="current-target-state" style="width:70%;" />
+<img src="../img/current-target-state.png" alt="current-target-state" style="width:70%;" />
 
 ### OKR Model
 
 > When I go forwards you go backwards - and somewhere we will meet.
 
 OKRs separate qualitative motivational goals from tangible goals. OKRs can be defined per product and target market, but also on an individual level.
-
-
 
 **Mission**
 Why does this organization exist. A *persistent*, long term goal.
@@ -210,19 +189,17 @@ Perpetual objectives or metrics that are kept stable. Any change induced by the 
 Criteria for good goals.
 
 - Motivation and incentives. Think big.
-    - Outcome > problem. Focus on where to go, rather than what to avoid.
-    - Chain outcomes together. Show what the current objective will make possible.
+  - Outcome > problem. Focus on where to go, rather than what to avoid.
+  - Chain outcomes together. Show what the current objective will make possible.
 - Make it realistic. Minimize scope.
-    - Restrict the outcome to what is in your control.
-    - Make it specific. Add conditions. Define when the goal is achieved.
-    - Consider the available resources.
+  - Restrict the outcome to what is in your control.
+  - Make it specific. Add conditions. Define when the goal is achieved.
+  - Consider the available resources.
 
 In addition, ensure the following.
 
 - High awareness of the main goal, at multiple levels and time scales.
 - Urgency. E.g. by committing to deadlines.
-
-
 
 **Dimensions**
 
@@ -231,12 +208,10 @@ Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720)
 - Time-horizon. E.g. days, weeks, months, years, decades.
 - Distance to customer. Oriented towards internal tools, platforms, teams, end-users, customers.
 - Depth. E.g.
-    - Level of abstraction: conceptual or concrete (actionable).
-    - Level of detail: generic (visionary) or specific.
-    - Strictness: Guiding or focussed.
-    - Scope: Broad (holistic) or narrow.
-
-
+  - Level of abstraction: conceptual or concrete (actionable).
+  - Level of detail: generic (visionary) or specific.
+  - Strictness: Guiding or focussed.
+  - Scope: Broad (holistic) or narrow.
 
 **Anti-patterns**
 
@@ -246,8 +221,6 @@ Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720)
 - Goals are create purely top-down. There is no consideration for local problems.
 - Goals are create purely bottom-up. It is biased to local optimization.
 - "Do the same as last year, but more efficient".
-
-
 
 ## (Planning) Living Roadmap
 
@@ -298,11 +271,9 @@ Follow up questions:
 - What's required to cut the timeline by half?
 - What required to double the impact?
 
-
-
 #### Template 1: Persistent Outcomes
 
->  Separate goals from dreams
+> Separate goals from dreams
 
 A template for a one-pager roadmap. This can be complemented with external sources. Note the similarity to the "Now Next Later" roadmap.
 
@@ -313,9 +284,7 @@ A template for a one-pager roadmap. This can be complemented with external sourc
 
 In addition, it may be useful to include *anti-goals*: the activities that are excluded. This makes trade-offs explicit and forces the authors to investigate their choices.
 
-<img src="img/roadmap.png" alt="roadmap" style="width:50%;" />
-
-
+<img src="../img/roadmap.png" alt="roadmap" style="width:50%;" />
 
 This can be accompanied with the following:
 
@@ -343,18 +312,16 @@ A hierarchy of targets that is updated every quarter.
 <br>
 <p><b>Tree Structure</b><br/>
   Problem: assumption of independence is an oversimplification.</p>
-<img src="img/goals-tree.png" alt="goals-tree" style="width:70%;" />
+<img src="../img/goals-tree.png" alt="goals-tree" style="width:70%;" />
 <br/><br/>
 <p><b>Complex Structure</b><br/>
   Problem: too chaotic.</p>
-<img src="img/goals-complex.png" alt="goals-complex" style="width:30%;" />
+<img src="../img/goals-complex.png" alt="goals-complex" style="width:30%;" />
 <br/><br/>
 <p><b>Double Tree Structure</b><br/>
   Sub-goals map to multiple high-level goals.</p>
-<img src="img/goals-tree-double.png" alt="goals-tree" style="width:50%;" />
+<img src="../img/goals-tree-double.png" alt="goals-tree" style="width:50%;" />
 </details>
-
-
 
 #### Template 3: Path
 
@@ -366,9 +333,7 @@ Format for a pitch:
 
 In case of technology-based projects this can be complemented with suggestions for **prototypes**.
 
-![roadmap-path](img/roadmap-path.png)
-
-
+![roadmap-path](../img/roadmap-path.png)
 
 ## Alignment
 
@@ -392,9 +357,7 @@ See also [management-principles](management-principles.md#Meetings).
 
 #### Organization or Team Health
 
-KPI's 
-
-
+KPI's
 
 #### WIP
 
@@ -405,7 +368,7 @@ Visualizing work has a few benefits:
 
 This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) board. Such a board consists columns such as: `to-do, doing, done`. Each column may contain cards, which represent actions or tasks. See [product management](product-management.md).
 
-<img src="img/kanban-board.png" alt="kanban-board" style="width:40%;" />
+<img src="../img/kanban-board.png" alt="kanban-board" style="width:40%;" />
 
 ## Project Portfolio
 
@@ -420,8 +383,6 @@ Below are a few templates
 - Signals
 - Desired States
 - Option pool. A mapping from initiatives to higher-level goals.
-
-
 
 ### Template: Signals & Underlying Problems
 
@@ -488,8 +449,6 @@ Desired State
 2. Create an option pool of initiatives. Show how each initiative relates to a core objective.
 3. Compare the ROI, risk and compatibility of the initiatives.
 
-
-
 ### Template: Matrices
 
 **Projects vs. Objectives**
@@ -501,8 +460,6 @@ Desired State
 | Project Z        |             |             | o           |
 | ***Dependency*** | X, Y        | Y           | X,Z         |
 
-
-
 **Cost vs. Urgency**
 
 |                          | Not urgent | -         | Urgent    |
@@ -511,45 +468,29 @@ Desired State
 | **-**                    |            |           | Project Y |
 | **Low risk / High cost** |            | Project Z |           |
 
-
-
 ### Visualizations
 
 **Mapping of initiatives to core objectives**
 
-<img src="img/goals-tree-double.png" alt="goals-tree" style="width:40%;" />
-
-
+<img src="../img/goals-tree-double.png" alt="goals-tree" style="width:40%;" />
 
 **Comparison of Projects**
 
 Express the *cost* of each initiative or project in vertical space. Each box indicates an increment. Ideally these can be delivered to customers to generate revenue. The arrows indicate dependencies between increments.
 
-
-
-<img src="img/project-comparison.png" alt="project-comparison" style="width:60%;" />
-
-
+<img src="../img/project-comparison.png" alt="project-comparison" style="width:60%;" />
 
 **Comparison of Projects and Objectives**
 
 Decouple objectives from projects. Some projects may bring you closer to multiple objectives. Emphasize objectives that have exceptional impact or value.
 
-<img src="img/projects-objectives-comparison.png" alt="projects-objectives-comparison" style="width:90%;" />
-
-
+<img src="../img/projects-objectives-comparison.png" alt="projects-objectives-comparison" style="width:90%;" />
 
 **Projects per Theme**
 
 This is again based on categories or themes, but this template emphasizes the option pool. The shape of the visualisation (when zoomed out) gives an indication of the amount of focus.
 
-
-
-<img src="img/option-pyramid.png" alt="option-pyramid" style="width:70%;" />
-
-
-
-
+<img src="../img/option-pyramid.png" alt="option-pyramid" style="width:70%;" />
 
 ## Formulating a Goal
 
@@ -612,8 +553,6 @@ Defining goals
 **Assumptions & Facts**
 For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
 
-
-
 ### Template: Choosing Sub-Goals
 
 Different ways to set goals
@@ -625,11 +564,7 @@ Different ways to set goals
 - Y. Required objective for Z.
 - Z. North star goal
 
-
-
-<img src="img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
-
-
+<img src="../img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
 ## Documentation
 
@@ -637,7 +572,7 @@ Different ways to set goals
 
 The goal of documentation is to externalize thinking. This helps with aligning the whole organization.
 
-Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](documentation.md).
+Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](../documentation.md).
 
 ### Tools
 
@@ -649,7 +584,7 @@ This is independent of the required input effort.
 A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
 
 **User Story**
-What value a given feature would bring to a given *persona*. See these [templates](requirements-engineering.md). 
+What value a given feature would bring to a given *persona*. See these [templates](requirements-engineering.md).
 
 **Epic**
 A collection of user stories that can be finished in at most a handful of months.
@@ -687,4 +622,3 @@ Dimensions that can be used:
 - Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
 - Visibility to end-users.
 - Level of [commoditization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.
-

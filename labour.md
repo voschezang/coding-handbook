@@ -4,7 +4,7 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 > Labour is human activity directed at meeting necessities for self-preservation and the reproduction of the species. Because these needs cannot be satisfied once and for all, labour never really reaches an end [...] a futile but necessary activity.
 
-This contrasts with *work*, which has a clearly defined beginning and end. This [instrumental](https://en.wikipedia.org/wiki/Instrumentalism) property creates a bias towards purposefulness. [Product management](product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account.
+This contrasts with *work*, which has a clearly defined beginning and end. This [instrumental](https://en.wikipedia.org/wiki/Instrumentalism) property creates a bias towards purposefulness. [Product management](management/product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account.
 
 [toc]
 
@@ -29,11 +29,11 @@ The initiative is meant to move from a *current stateI* to a *target state*. Thi
 
 <img src="img/objective-initiative.png" alt="objective-initiative" style="width:60%;" />
 
-Choosing the right objective and initiatives is a challenge in itself. See [goals](goals-planning-strategy.md). After choosing a goal, one can specify [requirements](requirements-engineering.md).
+Choosing the right objective and initiatives is a challenge in itself. See [goals](management/goals-planning-strategy.md). After choosing a goal, one can specify [requirements](management/requirements-engineering.md).
 
 ## Organized Labour
 
-Labour can be divided into *processes* and *projects*. It is done by a person or an *organization* and it involves *resources*. Often it involves of various sorts. Al of these concepts may involve [management](management-principles.md).
+Labour can be divided into *processes* and *projects*. It is done by a person or an *organization* and it involves *resources*. Often it involves of various sorts. Al of these concepts may involve [management](management/management-principles.md).
 
 How to run an organization.
 
@@ -77,13 +77,13 @@ Roles can be official and persistent, or informal and dynamic.
 ### Projects and processes
 
 - A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
-- A [project](project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
+- A [project](management/project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
 
 <img src="img/process-project.png" alt="process-project" style="width:70%;" />
 
 #### Change
 
-See [requirements-engineering](requirements-engineering.md).
+See [requirements-engineering](management/requirements-engineering.md).
 
 **Proposing change**
 

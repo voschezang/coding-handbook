@@ -12,7 +12,7 @@ A software development process usually consists of phases such as: `requirements
 
 **Two extremes: from *efficient* to *flexible***
 
-See [project management](project-management.md).
+See [project management](management/project-management.md).
 
 1. Waterfall. A fixed project scope, price and deadline. Future changes are expensive.
     1. Designed for *throughput* and *stability*.
