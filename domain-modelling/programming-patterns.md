@@ -131,7 +131,7 @@ A template is an abstract recipe or skeleton, that prescribes a basic structure.
 
 ## System Patterns
 
-Design patterns for applications and systems. See also [organization structure](../organization-structure.md) and [communication patterns](../communication-patterns.md).
+Design patterns for applications and systems. See also [organization structure](../systems/organization-structure.md) and [communication patterns](../systems/communication-patterns.md).
 
 ### Integration styles
 

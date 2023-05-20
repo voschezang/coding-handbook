@@ -26,17 +26,20 @@ This is a collection of guidelines and ideas surrounding software engineering. I
 </ul>
 </details>
 
+<details>
+<summary><b>Systems</b> thinking</summary>
+<ul style="margin: 1em;">
+<li><a href="systems/systems-management.md">Systems</a> Management</li>
+<li><a href="systems/organization-structure.md">Organizations</a></li>
+<li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
+</ul>
+</details>
+
 Software Industry
 
 - [Quotes](quotes.md) - to contemplate (high level).
 - [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
 - [Software Engineering](software-engineering.md) - what is involves.
-
-**Systems theory**
-
-- [Organization Structure](organization-structure.md) - not just application architecture.
-- [Systems Management](systems-management.md) - systems thinking.
-- [Communication Patterns](communication-patterns.md) - abstract theory regarding messaging.
 
 **Management**
 
@@ -62,10 +65,10 @@ Software Industry
 
 From abstract theory to application within a domain. For a full overview, see [this table](software-domains-table.md).
 
-- [Communication Patterns](communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
+- [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
 - [Requirements Engineering](requirements-engineering.md) > [Project Management](project-management.md)
-- [Systems Management](systems-management.md) > [Organization Structure](organization-structure.md) > [Organization Architecture](organization-architecture.md)
-- [Management Principles](management-principles.md) > (management of)  [Systems](systems-management.md) > a [Product](product-management.md) > a [Platform](platform-management) > a [Project](project-management.md)
+- [Systems Management](systems/systems-management.md) > [Organization Structure](systems/organization-structure.md) > [Organization Architecture](organization-architecture.md)
+- [Management Principles](management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](product-management.md) > a [Platform](platform-management) > a [Project](project-management.md)
 
 **Perspective & Generalizability of Guidelines**
 
@@ -88,8 +91,7 @@ Definition of *anti-pattern*: a commonly used, bad solution to a problem. Possib
 
 <details open>
 <summary></summary>
-<br>
-<li>
+<ul style="margin: 1em;">
 <li><a href=""></a></li>
 </ul>
 </details>

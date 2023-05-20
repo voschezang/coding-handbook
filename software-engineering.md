@@ -240,7 +240,7 @@ Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-co
 
 Addition
 
-- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](systems-management.md).
+- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](systems/systems-management.md).
 
 [DevOps](quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
 

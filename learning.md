@@ -35,13 +35,11 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 - Unlearning: from 4. to 2.
 - Relearning: from 2. to 4.
 
-
-
 ## Practice (Context)
 
 ### Organizations & Processes
 
-The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](organization-structure.md#Autonomy%20and%20Alignment%20per%20Domain).
+The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](systems/organization-structure.md#Autonomy%20and%20Alignment%20per%20Domain).
 
 - Chaotic: act-sense-respond
 - Complex: probe-sense-respond
@@ -56,8 +54,6 @@ Other patterns
 - imitate-assimilate-innovate
 - inspect-adapt-reflect
 - visualize-stabilize-optimize
-
-
 
 ## Organizational Learning
 
@@ -147,8 +143,6 @@ Principles
 1. Obey. Follow traditions, learn fundamentals, heuristics, proverbs.
 2. Digress. Break with tradition.
 3. Separate, transcendence. Exceed tradition. Find new ways
-
-
 
 **Teaching models - roles**
 

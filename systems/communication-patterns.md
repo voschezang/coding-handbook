@@ -57,7 +57,7 @@ Decoupling of producer and consumer services can be done using adapters.
   
 - Asynchronous. Messages can be collected in a [queue](https://en.wikipedia.org/wiki/Message_queue). A [scheduler](https://en.wikipedia.org/wiki/Scheduling_(computing)) may assign short-lived workers to execute tasks.
 
-![communication-patterns-applied](img/communication-patterns-applied.png)
+![communication-patterns-applied](../img/communication-patterns-applied.png)
 
 <img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:90%;" />
 
@@ -70,8 +70,6 @@ Patterns for managing an environment of many independent services.
 - **Message bus**. A central broadcasting channel for publishers and subscribers.
 - **Service Mesh**. A ready-made network of sidecar proxies. All communication (traffic) is protected end-to-end.
 
-
-
-![communication-patterns-messaging](img/communication-patterns-messaging.png)
+![communication-patterns-messaging](../img/communication-patterns-messaging.png)
 
 <img src="img/service-mesh.png" alt="service-mesh" style="width:50%;" />

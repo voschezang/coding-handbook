@@ -14,8 +14,6 @@ Writing is a way to communicating with an audience. It has several functions:
 
 In addition, it may serve as a tool clarify and process the author's thoughts.
 
-
-
 **Types of documentation**
 
 Documentation should not only be written for a specific audience, but it should also have a specific [functionality](https://documentation.divio.com/).
@@ -31,8 +29,6 @@ Documentation should not only be written for a specific audience, but it should 
 - How-to guides and references are informational and more suitable for work.
 
 - FAQs don't fall in a single class. Often they combine answers from various sources.
-
-
 
 **Maintaining Documentation**
 
@@ -93,13 +89,9 @@ The Why consists of the following categories:
 - Use-cases, side-effects
 - Tips
 
-
-
 ## Templates
 
 See also [requirements engineering](requirements-engineering.md).
-
-
 
 **Product-team: Summary**
 
@@ -120,8 +112,6 @@ See also [requirements engineering](requirements-engineering.md).
     - Initiatives. What actions can be taken to achieve these?
     - Roadmap. When will these actions be taken?
 ```
-
-
 
 **Product-team: Table of Contents**
 
@@ -181,8 +171,6 @@ Ad hoc guides. Historical guides that do not have to maintained.
 Archive. Deprecated pages.
 ```
 
-
-
 **Periodic Status Update**
 
 Purpose: give an high-level overview what's changing. Can be used as preparation for a status meeting. See also [feedback](communication-principles.md).
@@ -238,12 +226,9 @@ Note: This template is ideal for abstract and technical topics. It is less suite
         - "There are at least 3 directions to change this."
         ```
 
-
-
-
 ### Systems
 
-To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems-management.md).
+To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems/systems-management.md).
 
 **Outside view**
 
@@ -287,15 +272,9 @@ Activities and communication
 
 <img src="img/goals-tree-double.png" alt="goals-tree" style="width:30%;" />
 
-
-
 <img src="img/current-target-state.png" alt="current-target-state" style="width:50%;" />
 
-
-
 <img src="img/roadmap-path.png" alt="roadmap-path" style="width:70%;" />
-
-
 
 <img src="img/project-comparison.png" alt="project-comparison" style="width:60%;" />
 

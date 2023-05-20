@@ -1,6 +1,6 @@
 # Management Principles
 
-Inspired by [various sources](#References). See also [goals & strategy](goals-planning-strategy.md).
+Inspired by [various sources](#references). See also [goals & strategy](goals-planning-strategy.md).
 
 [toc]
 
@@ -10,7 +10,7 @@ Inspired by [various sources](#References). See also [goals & strategy](goals-pl
 
 Management *an sich* is a theoretical domain. In the real world, one would encounter management of a *subject*. For example: management of a project or a department.
 
-This *subject* can be framed as a [theoretical system](systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
+This *subject* can be framed as a [theoretical system](systems/systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
 
 At minimum, management involves alignment, communication, facilitation, orchestration and prioritization. Depending on the scale of the subject, a manager may also contribute in secondary tasks such as planning, execution and coaching. Hence the role of a manager may extend from facilitator to director.
 
@@ -25,9 +25,7 @@ Management consists of **balances**. For example:
   - Optimizing for the next quarter or for multiple decades.
 - Delegating much but not everything.
 
-See also [organization-structure](organization-structure.md) and [systems-management](systems-management.md).
-
-
+See also [organization-structure](systems/organization-structure.md) and [systems-management](systems/systems-management.md).
 
 **Properties**
 
@@ -39,15 +37,11 @@ See also [organization-structure](organization-structure.md) and [systems-manage
 
 There is a tradeoff between adapting to the current team, and seeking out employees that accept a certain management style.
 
-
-
 It involves a few *buckets*:
 
 - Purpose (why). From existential questions to goals and alignment.
 - People (who). Motivation and trust.
 - Process (how). How the organization makes, executes and adapts plans.
-
-
 
 **Activities**
 
@@ -64,28 +58,24 @@ It involves a few *buckets*:
     - Perceive the need.
 3. Ensuring the availability of resources (incl. in the future).
 
-
-
 **General approach**
 
 - Know what *you* want
 - Know what *others* want
 - Find *ways* in which you can get it
 
-
-
 ### Performance
 
-See [systems-management](systems-management.md).
+See [systems-management](systems/systems-management.md).
 
 **Effectiveness**
 
 The two main directions to be effective are:
 
 - Deliver (maximize) value to customer. This may require investment and innovation (change).
-    - Now or sooner.
-    - In the future or long-term. Be sustainable and be able to adapt to the environment.
-    - Do this in a happier or safer way.
+  - Now or sooner.
+  - In the future or long-term. Be sustainable and be able to adapt to the environment.
+  - Do this in a happier or safer way.
 
 - Eliminate (minimize) waste. This doesn't just demand reliability and stability, but it also requires an investment to remove obstacles.
   - Waste is defined as "anything that isn't part of the value chain"
@@ -109,8 +99,7 @@ Typical components:
   - Efficiency: of the system as a whole or individual components (e.g. resources). This consists of resource utilization and throughput.
 
 - Agility: be able to adapt. Typical influences are lead time, batch sizes.
-    - E.g. minimize the cost of change.
-
+  - E.g. minimize the cost of change.
 
 Note that measures of success can be biased by how a component is perceived. E.g. a cost center of a profit center.
 
@@ -121,7 +110,7 @@ Timeline, scope and capacity are related. If one changes, then at least one of t
 
 ### Change
 
-Note that these can all involve [*change*](learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](organization-structure.md).
+Note that these can all involve [*change*](learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](systems/organization-structure.md).
 
 1. [Influence](https://danluu.com/culture/) people (indirect)
     1. Incentives. Rewards and punishments for behaviour or achievements.
@@ -150,32 +139,22 @@ With this in mind, three questions can be asked: What to change? What to change 
 
 Also see [goals and strategy](goals-planning-strategy.md).
 
-
-
 ### Attitude
-
-
 
 Knowledge: Be a generalist
 
 > I don't know, but I'll find out
 
-
-
 Role
 
->  Outcome > specific activities
-
-
+> Outcome > specific activities
 
 Inspire
 
->  How did you find the blueberries?
+> How did you find the blueberries?
 
 - Focus on success. E.g. opportunity and potential. Use positive goals. Emphasize what went well, rather than listing countless problems.
 - Learn from experiments.
-
-
 
 **Integrity**
 
@@ -193,8 +172,6 @@ Effects
 - Withholding leads to withdrawing and rejecting
 - Revealing leads to connecting
 
-
-
 ### Leadership
 
 Management often requires leadership. It may consist of:
@@ -209,8 +186,6 @@ Situational leadership model. Dependent on skill, motivation, urgency.
 2. Selling / coaching / explaining. **Sell** an vision to autonomous teams.
 3. Participating / facilitating. **Participate** in problem solving.
 4. Delegating / empowering / monitoring. **Delegate** tasks.
-
-
 
 ## Collaboration
 
@@ -252,8 +227,6 @@ Based on the Lencioni model (Five dysfunctions of a team):
 4. Acceptance and avoidance of **accountability**. Do team members hold each other accountable? Is the team being held accountable?
 5. (In)attention to - collective - **results**. Do collective goals corresponds to personal goals?
 
-
-
 ### Meetings
 
 Generic goals. Ranging from content-oriented to relation-oriented.
@@ -262,25 +235,21 @@ Generic goals. Ranging from content-oriented to relation-oriented.
 - Explore a subject and **determine** the right approach - while involving the group.
 - Improve the **relationship** of the group. Make everyone feel valued. Improve the group dynamics.
 
-
-
 Specific goals (focus)
 
 - Make a **decision** and get everyone on board. E.g. stakeholders or colleagues.
 - Share information.
-    - Convey a key **message** clearly and memorably.
-    - Invoke an **emotion**. E.g. inspiration, trust, pride, courage, empathy.
+  - Convey a key **message** clearly and memorably.
+  - Invoke an **emotion**. E.g. inspiration, trust, pride, courage, empathy.
 - Provide feedback. Reflect.
-    - **Align** on definition of success.
-    - **Represent** the current state and recent changes.
-    - Explore up risks and open questions.
-    - Define next steps.
+  - **Align** on definition of success.
+  - **Represent** the current state and recent changes.
+  - Explore up risks and open questions.
+  - Define next steps.
 - Strengthen **relationships**.
-    - Gain better understanding and improve trust.
-    - Culture of openness and being authentic.
+  - Gain better understanding and improve trust.
+  - Culture of openness and being authentic.
 - Brainstorming. Think out of the box. Come up with novel insights.
-
-
 
 > Lack of conflict is an indicator that the right topics aren't being addressed.
 
@@ -288,25 +257,23 @@ Signs of good meetings
 
 - Structure / scope
 
-    - Key participants take time to do preparation and post-preparation.
-    - Expectations have been set at the beginning of the meeting.
-    - There is either a good structure or a good agenda.
-    - The scope is specific and appropriate.
-    - Out-of-scope topics are saved for later. Action points are written down.
-    - A decision is made at the end.
+  - Key participants take time to do preparation and post-preparation.
+  - Expectations have been set at the beginning of the meeting.
+  - There is either a good structure or a good agenda.
+  - The scope is specific and appropriate.
+  - Out-of-scope topics are saved for later. Action points are written down.
+  - A decision is made at the end.
 
 - Diversity / interaction
 
-    - The chair makes decisions, despite absence of consensus.
-    - Apparent conflict is addressed (openly). Differences are accepted rather than suppressed.
+  - The chair makes decisions, despite absence of consensus.
+  - Apparent conflict is addressed (openly). Differences are accepted rather than suppressed.
 
-    - All participants pay attention and are engaged.
+  - All participants pay attention and are engaged.
 
-    - All participants feel heard / welcome.
+  - All participants feel heard / welcome.
 
 See also [goals-planning-strategy](goals-planning-strategy.md#Meetings).
-
-
 
 #### 1:1 Meetings
 
@@ -331,8 +298,6 @@ Key topics
 
 - Process. Meta.
 
-
-
 **Discovery**
 
 Identify relevant topics
@@ -352,30 +317,26 @@ Support
 - How can i help?
 - What was the most useful part of this conversation?
 
-
-
 ### Feedback
 
->  Giving feedback = disclosing hidden information about you
+> Giving feedback = disclosing hidden information about you
 
 Types
 
 - Task-specific. Frequently.
 
-    - Non-personal, local, specific to an action or event.
-    - May be send via chat.
+  - Non-personal, local, specific to an action or event.
+  - May be send via chat.
 
-- Behavioural feedback. Thoughtfully and regularly. 
+- Behavioural feedback. Thoughtfully and regularly.
 
-    - About themes and patterns. Subjective, eye of the beholder
+  - About themes and patterns. Subjective, eye of the beholder
 
 - 360 degree feedback. From multiple angles/people.
 
-    - E.g. questionnaires.
+  - E.g. questionnaires.
 
-    - What is X doing well and what should X do more of? What behaviour from X bears risks?
-
-
+  - What is X doing well and what should X do more of? What behaviour from X bears risks?
 
 Attitude
 
@@ -383,24 +344,18 @@ Attitude
 - Present options over solutions. If the someone finds a solution themselves then they’ll tend to remember it better.
 - Don't say: "You must change this". Rather say: "If you change this then I would support it".
 
-
-
 Tools
 
 - Event-effect-you.
-    - Bring up an *objective* event. *"I noticed ..."*
-    - Describe the subjective effect it had - on yourself. Free of judgement. *"This caused me to feel ..."*
-    - Relate back to the other. *"Do you recognize this?"*
+  - Bring up an *objective* event. *"I noticed ..."*
+  - Describe the subjective effect it had - on yourself. Free of judgement. *"This caused me to feel ..."*
+  - Relate back to the other. *"Do you recognize this?"*
 - Event-effect-pause. Give the other space to accept, interpret and react.
 - Event-effect-need-request. Accept beforehand that request may be denied, unlike demands. *"I noticed .... This resulted in .... I need .... Could you ...?"*
-
-
 
 **Anti-patterns**
 
 Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
-
-
 
 ### Departments
 
@@ -428,26 +383,18 @@ Levels
 - Coordination level. Relations between teams.
 - Strategic level. Which directions, what priority.
 
-
-
 Levels of assignments
 
 - Execute a plan
 - Develop a plan / find a solution to a given problem
 - Discover the right problem
 
-
-
 **Organization Management**
- [organization-structure](organization-structure.md)
-
-
+ [organization-structure](systems/organization-structure.md)
 
 **Crisis management**
 
 - Dealing with risk after they've materialized.
-
-
 
 **Stakeholder management (managing up, opdrachtnemerschap)**
 
@@ -461,15 +408,11 @@ Specifically:
 - Discovering the needs of these stakeholders. Evaluate these needs based on relevance.
 - Communicate expectations to these stakeholders.
 
-
-
 Ascertain:
 
 - Their goals, their expectations
 - How they want to be kept in the loop
 - Be transparent. Share challenges.
-
-
 
 Communication - based on a request:
 
@@ -477,15 +420,11 @@ Communication - based on a request:
 2. Send planning. E.g. the estimated date of the change.
 4. Confirm success - after the change has been done.
 
-
-
 Communication - based on change
 
 - Update stakeholders when new information has become available.
 - Update stakeholders periodically with the current status.
 - Display a status board that is continuously updated.
-
-
 
 **Expectation management**
 
@@ -504,8 +443,6 @@ Technique:
 1. What *do* you expect?
 2. This is what you *can* expect. This is what *we* will do.
 
-
-
 **Time management**
 
 Let the other accept your schedule. Not everything is possible, so force the client to choose explicitly. Communicate transparently.
@@ -523,8 +460,6 @@ Time can be multiplied.
 - Teach others *why* and *what* instead of *how*. Empower others to do it independently.
 - Broadcasting instead of point-to-point communication. E.g. write a blog post or wiki instead of a long email.
 
-
-
 **Performance management**
 
 See [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/theory/feedback-and-performance-management/).
@@ -536,14 +471,10 @@ See [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/
 | Performance-oriented | Track progress towards targets. Incentivize excellence.      |
 | Value-oriented       | Focus on team performance and collaboration and personal development. |
 
-
-
 Goals setting - types of people
 
 - Tendency to underestimate
 - Tendency to overestimate
-
-
 
 **Performance and Trust**
 
@@ -552,11 +483,9 @@ Goals setting - types of people
 | **Low Trust**  | Poor               | Toxic / risk     |
 | **High Trust** | Growth opportunity | Optimum          |
 
-
-
 ### Process Management
 
-Based on the properties of [systems](systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
+Based on the properties of [systems](systems/systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
 
 1. Identify the main constraint in the system.
     1. Identify the [critical chain](https://en.wikipedia.org/wiki/Critical_path_method).

@@ -1,6 +1,6 @@
 # Systems
 
-This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](goals-planning-strategy.md).
+This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../goals-planning-strategy.md).
 
 [toc]
 
@@ -13,8 +13,6 @@ Anything can be described as a system, but the level of uncertainty and control 
 A specific type of system is an *organization*, which can be defined as an interdependent set of components that work together towards a common goal. The alignment, autonomy and coordination of these components complicates the path to the goal.
 
 The relevant components in a system are called **resources**. This may include human, computational and mechanical resources. The connections between components vary between domains, but are just as important.
-
-
 
 **Types of systems**
 
@@ -121,9 +119,7 @@ Improving systems can be done in a few fundamental ways. Note that these require
 2. Feedback loops. Find problems as early as possible.
 3. Learning. Adapt the system based on experience. Experiment and learn from both success and failure.
 
- See also [learning.md](learning.md).
-
-
+ See also [learning.md](../learning.md).
 
 #### Effectiveness
 
@@ -183,7 +179,7 @@ In addition, there are a few important but counter-intuitive effects.
   - This will increase the amount of unfinished work, which will increase handovers, which will decrease system throughput.
   - This will increase pressure, which will increase context switching, which will decrease system throughput.
 
-![scheduling-slack](img/scheduling-slack.png)
+![scheduling-slack](../img/scheduling-slack.png)
 
 **Caveat**
 
@@ -207,7 +203,7 @@ In theory, idle time of non-bottleneck resources is perfectly fine. This can eve
 
 A bottleneck or constraint can greatly impact the product of a system. This could result in either poor  or unstable performance. Mathematically speaking, the variance of a system is [equal](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity) to the sum of the variance of each individual component and the covariances between them. This means that systems with highly dependent (correlated) components suffer from error propagation. The [critical path](https://en.wikipedia.org/wiki/Critical_path_method) is defined as the longest dependent chain.
 
-- A typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only - short-term - mitigation is to decrease the velocity of each car. This will decrease the average variance per car - which indirectly decreases the total variance. 
+- A typical example of this is traffic congestion. It is caused by a combination of high utilization and high variance. Counter-intuitively, the only - short-term - mitigation is to decrease the velocity of each car. This will decrease the average variance per car - which indirectly decreases the total variance.
 
 The variance can be described by the following relation.
 
@@ -261,4 +257,4 @@ Having inventory can effect that are not directly financial. For example, owning
 
 For projects that have a fixed set of requirement and a minimum input effort, the expected time until completion often has the following pattern. For uncertain projects the tail is more pronounced.
 
-![plot-expected-completion-time](img/plot-expected-completion-time.png)
+![plot-expected-completion-time](../img/plot-expected-completion-time.png)

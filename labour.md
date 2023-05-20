@@ -118,7 +118,7 @@ Visualization
 
 #### Identity
 
-Labour can be performed by an [organization](organization-structure.md) or [system](systems-management.md). An organization may define itself on different levels. Based on Bateson's pyramid.
+Labour can be performed by an [organization](systems/organization-structure.md) or [system](systems/systems-management.md). An organization may define itself on different levels. Based on Bateson's pyramid.
 
 1. Meaning. Awareness of identity. What should our identity be?
 2. Identity. Who are we?
@@ -174,7 +174,7 @@ Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using
 
 **Improvement**
 
-Change [organizational structure](organization-structure.md) and the environment. See [learning](learning.md).
+Change [organizational structure](systems/organization-structure.md) and the environment. See [learning](learning.md).
 
 ## Work Principles
 
