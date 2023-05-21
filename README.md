@@ -1,6 +1,6 @@
 # Coding Handbook
 
-This is a collection of guidelines and ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is not meant to be a complete or exhaustive overview.
+This is a diverse collection of ideas surrounding software engineering and IT. It features ideas related to computer science, systems theory, management and human behaviour. It is meant to be continuously updated, rather than to be completed.
 
 ## Table of Contents
 

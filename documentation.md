@@ -248,7 +248,7 @@ System as a black box. Focus on inputs and outputs.
 
 **Value Chain(s)**
 
-<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:60%;" />
+<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:70%;" />
 
 **Functional view**
 

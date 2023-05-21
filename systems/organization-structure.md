@@ -89,6 +89,8 @@ Each component has a *bounded context*. This is an internal, local model. These 
 - **Platforms**. These are generic components that are vital for the functioning of the core domain. These <u>enable</u> value.
 - **Contextual** or supporting domains. E.g. interfaces in hexagonal architecture.
 
+
+
 **Scaling Agile**
 
 > Agile transformations are done by removing obstacles, rather than by enforcing change.
@@ -99,6 +101,8 @@ Achieving high agility of small teams is much simpler that doing it for multiple
 - Scale out. Divide an organization into independent, autonomous components.
 - Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
 
+
+
 **In IT organizations**
 
 At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
@@ -106,7 +110,11 @@ At certain scales, the structure incentivizes **local** optimizations due to the
 - In functional teams this could lead to strict SLAs and slow handovers.
 - In feature teams this can lead to diverging features. This increases duplication.
 
-<img src="../img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
+
+
+### Relations & Interaction
+
+
 
 ### Tradeoffs
 
@@ -190,6 +198,14 @@ Relations between components can be understood in terms of:
 - The type of relations
 
 ### Type of relations
+
+Information can be send in the form of commands, events or requests. It can be send one-to-one or broadcasted.
+
+<img src="../img/relationship-types.png" alt="relationship-types" style="width:90%;" />
+
+
+
+#### Power
 
 Decisions are made and forwarded according to a [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy). This power structure may be:
 
