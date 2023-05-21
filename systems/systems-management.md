@@ -27,7 +27,7 @@ The behaviour of a system can be understood by studying its [inputs and outputs]
 
 The flow of value through a system can be drawn from left to right, whereas the resulting flow of money goes to the opposite direction.
 
-<img src="img/system-flow-value.png" alt="system-flow-value" style="width:60%;" />
+<img src="../img/system-flow-value.png" alt="system-flow-value" style="width:60%;" />
 
 A the system can be decomposed into three mutually exclusive components. Money is used as an example, but this model does generalize to other domains.
 
@@ -102,11 +102,11 @@ See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). B
 
 This model reduces the system down to direct connections. There are two types: sequential and parallel chains.
 
-<img src="img/seq-par-chain.png" alt="seq-par-chain" style="width:60%;" />
+<img src="../img/seq-par-chain.png" alt="seq-par-chain" style="width:60%;" />
 
 In the ideal case, the system has a known clear [critical path](https://en.wikipedia.org/wiki/Critical_path_method). This is the longest dependent chain. In case of multiple chains with the same length the variance can be taken into account. Only in case of equivalence the classification can be made arbitrarily. Optimizations of components in the critical chain are likely to contribute to the global optimum, whereas all other optimizations are merely local.
 
-<img src="img/composite-chain.png" alt="composite-chain" style="width:80%;" />
+<img src="../img/composite-chain.png" alt="composite-chain" style="width:80%;" />
 
 Resources can be classified as being part of the critical path or not. Resources in the first category can be managed aggressively, focussing on short-term efficiency, whereas other resources can be optimized towards long-term efficiency. Dependent on the flexibility of resources, non-critical resources could even be used to aid critical resources.
 
@@ -136,7 +136,7 @@ Components in a system may differ from each other w.r.t. specific dimensions. E.
 
 Components of a typical retail value chain. Due to regulation, not all components can be outsourced.
 
-<img src="img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:70%;" />
+<img src="../img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:70%;" />
 
 **Changing the Technology**
 
@@ -211,7 +211,7 @@ The variance can be described by the following relation.
 
 Using [Bienaymé's identity](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity), a general relation can be derived. Let `C` be a set of independent random variables. Then,
 
-<img src="img/system-variance.png" alt="system-variance" style="width:20em;" />
+<img src="../img/system-variance.png" alt="system-variance" style="width:20em;" />
 
 where equality holds if the covariances are zero.
 
@@ -223,7 +223,7 @@ Note that there can also be an external bottleneck. E.g. market demand that is l
 
 In the aforementioned examples all resources had a static position. However, in reality, resources can shared. In such cases, the critical chain can span over multiple projects.
 
-<img src="img/critical-chain.png" alt="critical-chain" style="width:80%;" />
+<img src="../img/critical-chain.png" alt="critical-chain" style="width:80%;" />
 
 ##### Efficiency & Optimization
 

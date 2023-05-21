@@ -42,7 +42,7 @@ Operations on a messages can be:
   - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
   - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
 
-<img src="img/communication-patterns-broadcasting.png" alt="communication-patterns-broadcasting" style="width:80%;" />
+<img src="../img/communication-patterns-broadcasting.png" alt="communication-patterns-broadcasting" style="width:80%;" />
 
 ### Applied level: Adapters
 
@@ -59,7 +59,7 @@ Decoupling of producer and consumer services can be done using adapters.
 
 ![communication-patterns-applied](../img/communication-patterns-applied.png)
 
-<img src="img/pipeline-pattern.png" alt="pipeline-pattern" style="width:90%;" />
+<img src="../img/pipeline-pattern.png" alt="pipeline-pattern" style="width:90%;" />
 
 ### System Level
 
@@ -72,4 +72,4 @@ Patterns for managing an environment of many independent services.
 
 ![communication-patterns-messaging](../img/communication-patterns-messaging.png)
 
-<img src="img/service-mesh.png" alt="service-mesh" style="width:50%;" />
+<img src="../img/service-mesh.png" alt="service-mesh" style="width:50%;" />

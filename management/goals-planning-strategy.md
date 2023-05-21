@@ -621,4 +621,5 @@ Dimensions that can be used:
 
 - Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
 - Visibility to end-users.
+- Dependencies. Needs of end-users.
 - Level of [commoditization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.

@@ -73,7 +73,7 @@ Ideally each component in this chain has a [clear interface](https://en.wikipedi
 
 These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit. There can be independence of decision making and independence of releasing.
 
-<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
+<img src="../img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
 
 ### Organizational Scale
 
@@ -106,7 +106,7 @@ At certain scales, the structure incentivizes **local** optimizations due to the
 - In functional teams this could lead to strict SLAs and slow handovers.
 - In feature teams this can lead to diverging features. This increases duplication.
 
-<img src="img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
+<img src="../img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
 
 ### Tradeoffs
 
@@ -149,9 +149,9 @@ Note that there are multiple paradigms that are theoretically sound. The importa
 <summary><b>Alignment &amp; Autonomy</b></summary>
 <h4>Power of continuous improvement</h4>
 <p>This is a model of an organization with autonommous components. While making local optimizations, each components effectively moves in random directions. With a tiny amount of alignment (vision) the total movement of the system can be altered radically.</p>
-<img src="img/plot-random-walk.png" alt="plot-random-walk" style="width:80%;"/>
+<img src="../img/plot-random-walk.png" alt="plot-random-walk" style="width:80%;"/>
 <h4>Frameworks</h4>
-<img src="img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
+<img src="../img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
 </details>
 **By Domain**
 
