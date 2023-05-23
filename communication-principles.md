@@ -267,7 +267,7 @@ Note that a "mistake" can be defined as an event and an emotion.
 2. Acknowledgement: **sit down**
     1. Acknowledge the complaint, apologize, take responsibility.
 
-3. **Focus**. Specification and reduction: choose a beverage
+3. **Focus**. Specification and reduction. Reduce chaos: choose a beverage
     1. Make the complaint concrete. Ask questions. Go from global/generic to local/specific.
 
 4. **Align**. commit, make a promise

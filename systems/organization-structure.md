@@ -199,7 +199,7 @@ Relations between components can be understood in terms of:
 
 ### Type of relations
 
-Information can be send in the form of commands, events or requests. It can be send one-to-one or broadcasted.
+Information can be send in the form of commands, events or requests. It can be send one-to-one or broadcasted. The information can be part of the core domain, it may support the core domain, or it can be generic.
 
 <img src="../img/relationship-types.png" alt="relationship-types" style="width:90%;" />
 

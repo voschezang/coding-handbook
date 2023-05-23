@@ -182,6 +182,20 @@ Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there 
 
 Perpetual objectives or metrics that are kept stable. Any change induced by the current set OKRs should not degrade these.
 
+#### Guide
+
+How to design OKRs, given an initial idea.
+
+1. Exploration
+    1. Define the problem space and the desired state.
+    2. List realistic and unrealistic goals.
+    3. List potential initiatives that are realistic
+2. Exploitation
+    1. Narrow down the objective. 
+    2. Deconstruct the desired state into key results.
+
+
+
 ## Formulating Goals
 
 > Think big, work small

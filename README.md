@@ -1,6 +1,6 @@
 # Coding Handbook
 
-This is a diverse collection of ideas surrounding software engineering and IT. It features ideas related to computer science, systems theory, management and human behaviour. It is meant to be continuously updated, rather than to be completed.
+This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant to be continuously updated, rather than to be completed.
 
 ## Table of Contents
 
@@ -23,15 +23,16 @@ This is a diverse collection of ideas surrounding software engineering and IT. I
 <li><a href="computer-language/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
 </ul>
 </details>
-
 <details>
 <summary><b>Systems</b> thinking</summary>
 <ul style="margin: 1em;">
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/organization-structure.md">Organizations</a></li>
+<li><a href="systems/teams.md">Teams</a> - structure and effectiveness</li>
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
 </details>
+
 
 <details>
 <summary><b>Management</b> of systems, planning of work</summary>
@@ -56,8 +57,9 @@ This is a diverse collection of ideas surrounding software engineering and IT. I
 **Collaboration**
 
 - [Labour](labour.md) - work and management of work.
+- [Creativity](creativity.md) - exercises for brainstorming.
+- [Retrospective](retrospective.md) - exercises for reflection for groups.
 - [Communication Principles](communication-principles.md) - human communication.
-- [Retrospective](retrospective.md) - reflection exercises for groups.
 
 **Other**
 

@@ -76,6 +76,9 @@ A product team is supposed to completely manage a single product. The team is au
 **Positioning**
 Deliver some value to a well-defined set of customers, i.e. a target market.
 
+**Interface**
+E.g. a GUI, CLI or API. Any interface has to consider the *user*, the *content* shown to the user, and the *context* in which it is shown.
+
 ### Strategy
 
 Ansoff's matrix. Product-Market Expansion Grid. Uncertainty increases from top-left to the bottom-right.
@@ -96,6 +99,8 @@ Philosophy
 
 - MVP. Then iterate
 - Be insanely great (Apple).
+
+## Other
 
 **Levels of product**
 
