@@ -46,3 +46,47 @@ Combining multiple authentication methods.
 
 **Conditional access**
 Grant access requests [based on](https://learn.microsoft.com/en-us/azure/architecture/framework/security/design-identity-authentication) the requestors' trust level and the target resources' sensitivity.
+
+
+
+## Encryption
+
+### Symmetric cryptography
+
+Use a *shared* key to encrypt and decrypt messages. This key is known only to the sender and the receiver.
+
+```python
+# simple symmetric encoding
+msg = 1010
+key = 1111
+
+def encode(msg, key):
+    # Encode `msg` using binary addition
+    return msg + key
+
+def decode(msg, key):
+    return msg - key
+
+# a sender can encode a msg using the shared key
+encoded_msg = encode(msg, key) # 0101
+
+# a receiver can decode the msg using the shared key
+decoded_msg = decode(encoded_msg, key) # 1010
+```
+
+
+
+### Asymmetric cryptography
+
+Use a *public* and a *private key*. The public key is derived from the private key, based on a chosen algorithm. Ideally this algorithm is expensive to reverse engineer.
+
+The message receiver shares the public key with the sender. The sender then uses this key to encrypt their message. The receiver can decrypt this message using their private key.
+
+
+
+
+
+
+
+
+
