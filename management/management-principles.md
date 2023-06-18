@@ -426,6 +426,14 @@ Communication - based on change
 - Update stakeholders periodically with the current status.
 - Display a status board that is continuously updated.
 
+Managing up
+
+- My problem
+- What I tried
+- What would you do if you were me?
+
+
+
 **Expectation management**
 
 Ensure expectations are aligned at the beginning.

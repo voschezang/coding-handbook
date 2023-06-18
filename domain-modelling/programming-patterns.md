@@ -233,7 +233,7 @@ For systems:
 
 ### Examples
 
-##### Composition Inheritance Decorator
+#### Composition Inheritance Decorator
 
 ```py
 class CompositionExample:
@@ -251,7 +251,7 @@ class DecoratorExample(SuperClass):
   
 ```
 
-##### Template Method
+#### Template Method
 
 ```py
 # Using inheritance to overrride methods
