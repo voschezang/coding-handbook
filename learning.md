@@ -4,6 +4,30 @@
 
 ## Principles
 
+Types
+
+- Bottom-up
+- Top-down
+
+
+
+**Bottom-up & top-down learning**
+
+Extremes of the spectrum
+
+- Build guidelines from the ground up, based on experience.
+- Imagine an ideal model, then test it in the real world.
+
+Comparison
+
+|                         | Bottom-up                  | Top-down                                  |
+| ----------------------- | -------------------------- | ----------------------------------------- |
+| **Start with**          | Repetition (practice)      | Deep understanding (theory)               |
+| **Then, continue with** | Reflection                 | Apply knowledge, verify theoretical model |
+| **Focus on**            | Likelihood                 | Certainty, perfection (idealism)          |
+| **Aim for**             | Get to 80% ASAP            | Get to 100%, eventually                   |
+| **Reasoning**           | Generalization (induction) | Logical inference (deduction)             |
+
 **Mindset**
 
 - Practice & Repetition. Listening (observing) and reflection.
@@ -152,3 +176,16 @@ Principles
 - Mentor: This is what I did when I had that problem
 - Advisor: Here are a few things people do to solve that problem
 - Coach: How do you think you might solve that problem?
+
+
+
+## Asking Good Questions
+
+Remove "self"
+
+- "How do *I* do X" → "*Who* knows how to do X?"
+
+Deconstruct implications
+
+- "How can I do X better?" → "What does *better* mean?"
+
