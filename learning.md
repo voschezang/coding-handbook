@@ -4,11 +4,6 @@
 
 ## Principles
 
-Types
-
-- Bottom-up
-- Top-down
-
 
 
 **Bottom-up & top-down learning**
@@ -20,13 +15,13 @@ Extremes of the spectrum
 
 Comparison
 
-|                         | Bottom-up                  | Top-down                                  |
-| ----------------------- | -------------------------- | ----------------------------------------- |
-| **Start with**          | Repetition (practice)      | Deep understanding (theory)               |
-| **Then, continue with** | Reflection                 | Apply knowledge, verify theoretical model |
-| **Focus on**            | Likelihood                 | Certainty, perfection (idealism)          |
-| **Aim for**             | Get to 80% ASAP            | Get to 100%, eventually                   |
-| **Reasoning**           | Generalization (induction) | Logical inference (deduction)             |
+|                         | Bottom-up                  | Top-down                                    |
+| ----------------------- | -------------------------- | ------------------------------------------- |
+| **Start with**          | Repetition (practice)      | Deep understanding (theory)                 |
+| **Then, continue with** | Reflection                 | Apply knowledge, verify a theoretical model |
+| **Focus on**            | Likelihood                 | Certainty, perfection (idealism)            |
+| **Aim for**             | Get to 80% ASAP            | Get to 100%, eventually                     |
+| **Reasoning**           | Generalization (induction) | Logical inference (deduction)               |
 
 **Mindset**
 
@@ -176,6 +171,12 @@ Principles
 - Mentor: This is what I did when I had that problem
 - Advisor: Here are a few things people do to solve that problem
 - Coach: How do you think you might solve that problem?
+
+**Zones**
+
+- Comfort zone. Easy, stable, safe.
+- Growth zone. Alive, anticipation, challenge, excitement.
+- Panic zone. Anxiety, stress, fear, tension.
 
 
 

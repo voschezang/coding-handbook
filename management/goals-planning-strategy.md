@@ -122,7 +122,7 @@ In an organization, these may be combined in a single information management sys
 - Use a limited level of detail.
 - Present different views of the same data. E.g. at different levels of abstraction and different time horizons.
 
-
+![goals-to-plans](../img/goals-to-plans.png)
 
 **Separation of roles**
 
@@ -135,8 +135,6 @@ Metrics
 
 - Confidence levels for OKRs. Change-oriented
 - Health indicators. BAU-oriented.
-
-<img src="../img/goals-to-plans.png" alt="goals-to-plans" style="width:40%;" />
 
 
 

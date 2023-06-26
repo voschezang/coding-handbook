@@ -60,6 +60,19 @@ Patterns
 
 #### Communication Triangle
 
+**Definition**
+
+Communication consists of more than a message (content). Two pillars are necessary in order to communicate a message: *process* and *relation*.
+
+- Process (form). In what ways is communication expected to take place. Any etiquette and formalities.
+- Relation. How the parties relate to each other. How they feel about each other. Incl. their history and any power dynamics.
+
+A fourth component is *context*. This affects the meaning of each point.
+
+
+
+**Conversation Flow**
+
 Move naturally between corners for a good, balanced conversation flow. Avoid dwelling too long on a single aspect.
 
 <img src="img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />

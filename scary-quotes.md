@@ -30,6 +30,8 @@ Technical debt
 
 - I’ll make a ticket
 
+- We'll fix it later
+
 - We’ll write the tests afterwards
 - If you have expert developers you don't need to waste time on unit tests.
 - We might as well do Y while we do X
