@@ -6,11 +6,9 @@
 
 - Metrics in the real world are often *nonbinary*. They may be fully continuous or categorical.
 - They may span over multiple dimensions
-    - Dimensions may be correlated or uncorrelated. E.g.
-        - The *performance* of an algorithm may be correlated to *complexity*.
-        - *Messiness* can be correlated to *creativeness*.
-
-
+  - Dimensions may be correlated or uncorrelated. E.g.
+    - The *performance* of an algorithm may be correlated to *complexity*.
+    - *Messiness* can be correlated to *creativeness*.
 
 ## Distributions (Statistics)
 
@@ -27,17 +25,13 @@ Many probabilistic processes are [ergodic](https://en.wikipedia.org/wiki/Ergodic
 
 - In such processes, anything that can happen [will happen](https://en.wikipedia.org/wiki/Murphy's_law) (eventually).
 
-
-
 **Equilibria**
 
 Long-term stable distributions (but not necessarily without tension).
 
 - Uniform, 50-50. Equally sized components. Typically self-organizing, but up to a certain boundary. A large deviation may disrupt the balance.
 - Skewed: majority-minority. E.g. Microsoft and Apple market shares.
-    - Size-effects make it difficult for the majority party to conquer the whole.
-
-
+  - Size-effects make it difficult for the majority party to conquer the whole.
 
 ## Growth
 
@@ -48,9 +42,7 @@ Growth of populations.
 - Hyperbolic: nonlinear increase in size.
 - Logistic: diminishing returns.
 
-![plot-ODE-growth](img/plot-ODE-growth.png)
-
-
+![plot-ODE-growth](../img/plot-ODE-growth.png)
 
 **Compounding**
 
@@ -58,9 +50,7 @@ Exponential growth can result in strong compounding.
 
 - This shows how powerful continuous improvement can be.
 
-![plot-compounding](img/plot-compounding.png)
-
-
+![plot-compounding](../img/plot-compounding.png)
 
 ### Queueing Theory
 
@@ -74,11 +64,7 @@ Utilization is the relative amount of time that a resource is busy (i.e. not idl
 
 > Mean lead time =  number of items in the system / mean arrival rate (of items)
 
-
-
-[Kingma's formula](https://en.wikipedia.org/wiki/Kingman's_formula) predicts that given certain constraints, full system utilization results in infinite lead time. 
-
-
+[Kingma's formula](https://en.wikipedia.org/wiki/Kingman's_formula) predicts that given certain constraints, full system utilization results in infinite lead time.
 
 ## Game Theory
 
@@ -89,19 +75,11 @@ In the real world, agents are always constrained.
 - Bounded rationality: asymmetric information causes agents to act sub-optimally.
 - Limited influence over environment.
 
-
-
 ## Entropy
 
-![plot-entropy-complexity](img/plot-entropy-complexity.png)
-
-
-
-
+![plot-entropy-complexity](../img/plot-entropy-complexity.png)
 
 ## Series
-
-
 
 **Statistics**
 A random variable (r.v.) `X` can be approximated in several levels of detail, which are called *moments*.
@@ -111,8 +89,6 @@ A random variable (r.v.) `X` can be approximated in several levels of detail, wh
 2. [Skewness](https://en.wikipedia.org/wiki/Skewness) or asymmetry.
 3. [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis) or tailed-ness.
 
-
-
 **Taylor Series**
 [Taylor series](https://en.wikipedia.org/wiki/Taylor_series). Knowing all higher order derivatives at a certain point `f(x)` allows you to infer the whole function `f(x+a)`.
 
@@ -121,8 +97,6 @@ In physics, the following terms are used:
 0. **Position**. The current state of the system
 1. [**Velocity**](https://en.wikipedia.org/wiki/Velocity). The change of the system over time (or space).
 2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
-
-
 
 **Fourier Series**
 [Fourier series](https://en.wikipedia.org/wiki/Fourier_series).
