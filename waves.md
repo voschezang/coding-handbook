@@ -38,9 +38,17 @@ Waves that are in tune produce an distinct or characteristic output (when superi
 
 `f(x) = Σ A sin(f x + φ)` for each amplitude `A` and frequency `f`.
 
+
+
+Arbitrary or unrelated frequencies product **noise**.
+
 ![plot-waves-random](img/plot-waves-random.png)
 
+Frequencies that are in tune produce a **sawtooth** wave.
+
 ![plot-waves-saw](img/plot-waves-saw.png)
+
+Frequencies with alternating phases produce a **square**-shaped wave.
 
 ![plot-waves-square](img/plot-waves-square.png)
 
@@ -50,11 +58,14 @@ Waves that are in tune produce an distinct or characteristic output (when superi
 
 [Lissajous](https://en.wikipedia.org/wiki/Lissajous_curve) curve
 
-<img src="https://voschezang.github.io/img/Sine.mov" alt="Lissajous" style="width:50%;" />
+<video width="500" controls autoplay>
+  <source src="https://voschezang.github.io/img/Sine.mov">
+  <a href="https://voschezang.github.io/img/Sine.mov"> sine.mov</a>
+</video>
 
 
 
-#### Colorg
+#### Color
 
 Using color to show the amplitude of a two-dimensional wave.
 
@@ -80,7 +91,13 @@ See also [holography](https://github.com/voschezang/Holographic-Projector-Simula
 
 #### Vibrating Membrane
 
-![Drum](https://voschezang.github.io/Scientific-Computing-Models/img/set-3/Membrane-cond-1_(3d).mp4)
+<video controls autoplay>
+  <source src="https://voschezang.github.io/Scientific-Computing-Models/img/set-3/Membrane-cond-1_(3d).mp4">
+  <a href="https://voschezang.github.io/Scientific-Computing-Models/img/set-3/Membrane-cond-1_(3d).mp4"> drum.mp4</a>
+</video>
+
+
+
 
 ### Non-linear Systems
 
@@ -104,9 +121,16 @@ Growth of two populations. Their growth is inversely related.
 
 [Gray-scott](https://en.wikipedia.org/wiki/Reaction-diffusion_system)
 
-![Reaction-diffusion multi](https://voschezang.github.io/Scientific-Computing-Models/img/set-2/Gray-Scott_sq%20jet.mp4)
+<video width="320" controls autoplay>
+  <source src="https://voschezang.github.io/Scientific-Computing-Models/img/set-2/Gray-Scott_sq%20jet.mp4">
+  <a href="https://voschezang.github.io/Scientific-Computing-Models/img/set-2/Gray-Scott_sq%20jet.mp4">gray-scott-jet.mp4</a>
+</video>
 
-![Reaction-diffusion single](https://voschezang.github.io/Scientific-Computing-Models/img/set-2/Gray-Scott_sq%20pink.mp4)
+<video width="320" controls autoplay>
+  <source src="https://voschezang.github.io/Scientific-Computing-Models/img/set-2/Gray-Scott_sq%20pink.mp4">
+  <a href="https://voschezang.github.io/Scientific-Computing-Models/img/set-2/Gray-Scott_sq%20pink.mp4">gray-scott.mp4</a>
+</video>
+
 
 [Navy-Stokes](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 
