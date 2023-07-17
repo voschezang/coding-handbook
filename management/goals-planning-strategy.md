@@ -152,10 +152,11 @@ Insights
 
 ### North Star Model
 
-1. **North star** goal. An amazing outcome - yet far away.
-2. **Current state**. Where you are now.
-3. Next **target state(s)**. The <u>path</u> you want to take. Avoid a strict ordering, but do include a preference based on current circumstances.
-4. **Initiatives** that will bring you to the next target state.
+1. North star **goal**. An amazing outcome - yet far away.
+2. North star **metric**. A proxy to measure progress. E.g. daily active users, weekly viewing hours.
+3. **Current state**. Where you are now.
+4. Next **target state(s)**. The <u>path</u> you want to take. Avoid a strict ordering, but do include a preference based on current circumstances.
+5. **Initiatives** that will bring you to the next target state.
 
 Visually:
 

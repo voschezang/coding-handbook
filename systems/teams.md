@@ -50,7 +50,20 @@ For teams and departments
 
 
 
-## Health Indicators
+## Health & Performance
+
+**Properties of a successful team**
+
+The strongest signal is when you can feel that the team is happy or productive. Specific signals are
+
+- The team has recently made contributions;
+- The team delivers value;
+- The team collaborates and interacts;
+- The team works in harmony.
+
+
+
+### Health Indicators
 
 Models that provide insight and can be used to predict effectiveness.
 

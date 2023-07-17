@@ -1,6 +1,6 @@
 # Human Communication
 
-These models are valid for specific circumstances. E.g. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](management/requirements-engineering.md) and [documentation](documentation.md).
+These models are valid for specific circumstances. E.g. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../management/requirements-engineering.md) and [documentation](../documentation.md).
 
 [toc]
 
@@ -69,13 +69,11 @@ Communication consists of more than a message (content). Two pillars are necessa
 
 A fourth component is *context*. This affects the meaning of each point.
 
-
-
 **Conversation Flow**
 
 Move naturally between corners for a good, balanced conversation flow. Avoid dwelling too long on a single aspect.
 
-<img src="img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />
+<img src="../img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />
 
 #### Subjectivity: In/Out/Other-side
 
@@ -94,7 +92,7 @@ Relation
 - Transparency: from inside to outside.
 - Feedback: from other to outside.
 
-<img src="img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
+<img src="../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
 
 #### Four-sides Model
 
@@ -115,7 +113,7 @@ Channels
 
 - **Email**. Ideals for broadcasts (one-to-many). Suitable for one-directional communication such as status updates. Useful as a conversation starter, rather than a one-directional channel.
 - **Phone** call. Ideal for quick feedback.
-- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](management/management-principles.md)
+- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](../management/management-principles.md)
 - **In-person** meeting. Emphasis on attitude and off-topic subjects.
 
 Specific forms
@@ -171,7 +169,7 @@ Communication is often bi-directional and complex. It can be deconstructed into 
 
 ### Sending Messages
 
-See [communication-monologues](communication-monologues.md).
+See [communication-monologues](../communication-monologues.md).
 
 #### Initiating contact / setting the state
 
@@ -344,5 +342,3 @@ First, second, third position.
 1. The self. I, how I see/feel/hear it.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
-
-## References

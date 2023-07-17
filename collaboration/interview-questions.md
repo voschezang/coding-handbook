@@ -1,51 +1,49 @@
 # Interviews
 
-This is focussed on job interviews. Also see [communication](communication.md).
+This is focussed on job interviews. Also see [communication](../communication.md).
 
 [toc]
 
 ## Principles
 
->  The interview should be a conversation rather than an exam.
+> The interview should be a conversation rather than an exam.
 
 Preparation & way of working
+
 - Make notes and revisit them afterwards
 - Prepare creative questions, personalized to the other party
 - Ask for references: both of the employee and the employer.
 
 During interview/conversation
+
 - Ask open questions (why, what, how,...)
 - Don't fire-and-forget, instead pause (and elaborate) on each question.
 - React to answers, come up with two counter-questions
 
 Intro
+
 - What do you want to talk about?
 - What do expect?
 
 Context
+
 - Understand the other's motivation, passion, drives, desires.
-
-
 
 **Tools**
 
 Init
 
 - Expectation management
-    - This is what we've heard.
-    - Now we like to explore that topic.
+  - This is what we've heard.
+  - Now we like to explore that topic.
 - Choose topics
-    - What are you good at? What's your passion?
-
-
+  - What are you good at? What's your passion?
 
 Levels for queries. Given a topic or situation X:
 
 - **Storytelling**. "Describe an experience about X"
 - Improve / role-playing. A **hypothetical situation**. "Image X. How would you respond? What is the risk of that?"
 - **Opinion**. "We (will) have a situation X. We had to choose between such and such. What do you think of that? Which conditions would change your opinion?"
-
-
 
 **Purpose**
 
@@ -54,8 +52,6 @@ Job interview
 - Estimate suitableness of candidate and the role. Estimate the range of capabilities.
 - Determine level of knowledge, skill and experience of candidate.
 - Expectation management.
-
-
 
 ### Practice
 
@@ -76,37 +72,35 @@ Ask the interviewer at the beginning:
 
 Then tailor the rest of the conversation towards this.
 
-
-
 ### Example Queries
 
 #### Generic Themes
 
 - **Project** management
-    - Given a new assignment/project
-    - When the scope is optimistic and the resources are scarce.
-    - How do you respond?
+  - Given a new assignment/project
+  - When the scope is optimistic and the resources are scarce.
+  - How do you respond?
 - **Requirements** management
-    - Given a new assignment/project
-    - When the requirements are uncertain
-    - How do you present an estimation?
+  - Given a new assignment/project
+  - When the requirements are uncertain
+  - How do you present an estimation?
 - **Stakeholder** management
-    - Given the occurrence of unpredicted events that endanger the plan.
-    - When stakeholders demand an update.
-    - How do you communicate this? And how do you adjust? E.g. the plan or the goal.
+  - Given the occurrence of unpredicted events that endanger the plan.
+  - When stakeholders demand an update.
+  - How do you communicate this? And how do you adjust? E.g. the plan or the goal.
 - Addressing **conflict**
-    - Given an employee/colleague that doesn't meet agreements.
-    - When they avoid responsibility.
-    - How do you bring this up? And how do you resolve this?
+  - Given an employee/colleague that doesn't meet agreements.
+  - When they avoid responsibility.
+  - How do you bring this up? And how do you resolve this?
 - **Incident** management
-    - Given a risk that materializes 
-    - ...
+  - Given a risk that materializes
+  - ...
 - **Risk** management
-    - ...
+  - ...
+
 - **Resource** management
-    - 
 
-
+    -
 
 ### Example Questions
 
@@ -174,7 +168,7 @@ Then tailor the rest of the conversation towards this.
   - Have you made unpopular decisions? What happened?
   - How was the group dynamic in your previous team(s)?
   - What is a risk you regret not taking? Why?
-      - What did you learn about yourself?
+    - What did you learn about yourself?
 - Non-standard
   - What is the weight/length/cost/range of X?
   - Teach me something in 1 minute.

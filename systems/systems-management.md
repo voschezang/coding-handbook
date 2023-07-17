@@ -63,6 +63,19 @@ As a complement to this metric, the relative performance can be defined as: `(in
 
 The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
 
+
+
+**Goodhart's law**
+
+> When a measure becomes a target, it ceases to be a good measure.
+
+Suppose that any metrics is imperfect w.r.t a given goal. Then, optimizing for a metric would result in side-effect. These may be adverse to the original goal.
+
+- Faster feedback loops accelerate this. They tend to increase the rate of learning at the risk of local optimization.
+- Slower feedback loops are less precise but more stable.
+
+
+
 #### Waste & Idle time
 
 Although idle time seems wasteful, it can be a necessity. Types of idle time:

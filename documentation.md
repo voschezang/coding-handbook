@@ -173,7 +173,7 @@ Archive. Deprecated pages.
 
 **Periodic Status Update**
 
-Purpose: give an high-level overview what's changing. Can be used as preparation for a status meeting. See also [feedback](communication-principles.md).
+Purpose: give an high-level overview what's changing. Can be used as preparation for a status meeting. See also [feedback](collaboration/communication-principles.md).
 
 Note: This template is ideal for abstract and technical topics. It is less suited for personal, emotional or sensitive topics.
 

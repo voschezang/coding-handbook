@@ -1,8 +1,12 @@
 # Coding Handbook
 
-This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant to be continuously updated, rather than to be completed.
+This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document.
+
+
 
 ## Table of Contents
+
+Models
 
 <details>
 <summary><b>Domain modelling</b> (of real world concepts)</summary>
@@ -23,8 +27,12 @@ This is a diverse collection of ideas surrounding software engineering. It featu
 <li><a href="computer-language/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
 </ul>
 </details>
+
+
+Systems
+
 <details>
-<summary><b>Systems</b> thinking</summary>
+<summary><b>Systems thinking</b></summary>
 <ul style="margin: 1em;">
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/organization-structure.md">Organizations</a></li>
@@ -32,7 +40,6 @@ This is a diverse collection of ideas surrounding software engineering. It featu
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
 </details>
-
 
 <details>
 <summary><b>Management</b> of systems, planning of work</summary>
@@ -48,24 +55,44 @@ This is a diverse collection of ideas surrounding software engineering. It featu
 </ul>
 </details>
 
-<b>Software Industry</b>
+<details>
+<summary><b>Collaboration</b> (and communication)</summary>
+<ul style="margin: 1em;">
+<li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
+<li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
+<li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
+</ul>
+</details>
+
+
+**Software Industry**
 
 - [Quotes](quotes.md) - to contemplate (high level).
 - [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
 - [Software Engineering](software-engineering.md) - what is involves.
 
-**Collaboration**
 
-- [Labour](labour.md) - work and management of work.
+
+**Intelligence**
+
 - [Creativity](creativity.md) - exercises for brainstorming.
-- [Retrospective](retrospective.md) - exercises for reflection for groups.
-- [Communication Principles](communication-principles.md) - human communication.
+- [Learning](learning.md) - theory about change and improvement.
+
+
+
+**Math**
+
+- [Models](math/models.md) - mathematical models.
+- [Waves](math/waves.md) - periodic processes.
+
+
 
 **Other**
 
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Documentation](documentation.md).
-- [Learning](learning.md) - theory about change and improvement.
+
+
 
 ## Other
 
