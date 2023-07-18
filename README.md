@@ -60,7 +60,8 @@ Technological
 <li>Software <a href="software-industry/software-development-cycle.md">Development Cycle</a>.</li>
 </ul>
 </details>
-**▼ Math**
+
+▼ **Math**
 
 - [Models](math/models.md) - mathematical models.
 - [Waves](math/waves.md) - periodic processes.
@@ -76,7 +77,8 @@ Social
 <li><a href="systems/teams.md">Teams</a> - structure and effectiveness</li>
 </ul>
 </details>
-**▼ Intelligence** (and thinking)
+
+▼ **Intelligence** (and thinking)
 
 - [Creativity](intelligence/creativity.md) - exercises for brainstorming.
 - [Learning](intelligence/learning.md) - theory about change and improvement.

@@ -27,7 +27,7 @@ At minimum, labour requires the selection of an *objective* and an *initiative* 
 
 The initiative is meant to move from a *current stateI* to a *target state*. This requires a transcendence of [inertia](https://en.wikipedia.org/wiki/Newton's_laws_of_motion) - otherwise there would be no need for the initiative at all. The transcendence is made possible by [consuming](https://en.wikipedia.org/wiki/First_law_of_thermodynamics) *resources*. The promise of change may or may not be enough to obtain these.
 
-<img src="../img/objective-initiative.png" alt="objective-initiative" style="width:60%;" />
+<img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
 
 Choosing the right objective and initiatives is a challenge in itself. See [goals](../management/goals-planning-strategy.md). After choosing a goal, one can specify [requirements](../management/requirements-engineering.md).
 

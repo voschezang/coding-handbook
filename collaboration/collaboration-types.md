@@ -2,8 +2,6 @@
 
 [toc]
 
-
-
 ## Conversations
 
 ### Difficult Conversations
@@ -60,4 +58,8 @@ Types of emotional conversations ([NVC](https://en.wikipedia.org/wiki/Nonviolent
 - Self-empathy. Noticing the thoughs and feelings of the self - without judgement.
 - Receiving empathically. Connecting with the other. Immersing fully with the other - without interpreting or understanding them.
 - Expressing honestly. By default, this would involve an observation, feeling, need AND a request. See [communication](communication.md)
+
+
+
+### Conflict
 

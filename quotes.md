@@ -81,12 +81,11 @@ Note that the validity of the following statements is dependent on certain *impl
 
 ### Time to market
 
-* Solving problems > delivering more functionality.  
+* Solving problems > delivering more functionality.
 * Deliver sooner, rather than faster. Average throughput > total throughput.
   * Received value (by customer) > created value (inventory).
 * Planning > (having) plans.
-* Doing nothing can be a deliberate action.
-* Being busy indicates a lack or prioritization.
+* Prioritization & focus.
   * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
   * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
 * Training can be defined as "practice by doing", but at a much slower pace. It shouldn't be rushed.
@@ -96,6 +95,17 @@ Note that the validity of the following statements is dependent on certain *impl
 * Adding security to software after its been made is like [adding electricity and running water to a 1000 year old castle](https://twitter.com/jackrhysider/status/1453728265244315658).
 * There is nothing as permanent as the temporary.
 * Continuous improvement is better than delayed perfection.
+
+### Paradoxes
+
+- Simple is harder then complex.
+- Doing nothing can be a deliberate action.
+- Actual imposters don't get imposter syndrome.
+- Being busy is not caused by a lack of time.
+- Procrastination is not a time management problem.
+- Minimize work to maximize outcomes.
+
+
 
 ## Software Engineering
 

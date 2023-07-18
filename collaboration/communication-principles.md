@@ -1,6 +1,6 @@
 # Human Communication
 
-These models are valid for specific circumstances. E.g. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../management/requirements-engineering.md) and [documentation](../documentation.md).
+These models are valid for specific circumstances. I.e. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../management/requirements-engineering.md) and [documentation](../documentation.md).
 
 [toc]
 
@@ -82,6 +82,16 @@ Move naturally between corners for a good, balanced conversation flow. Avoid dwe
 
 <img src="../img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />
 
+**Perspectives**
+
+First, second, third position.
+
+1. The self. I, how I see/feel/hear it.
+2. The other, with whom I interact.  How they see/hear/feel
+3. An outside view. Someone who’s not involved. “Objective”
+
+
+
 #### State of Mind
 
 Attention can be directed towards auditory, kinesthetic or visual senses. It can be focused internally or externally. This table excludes the senses taste and smell.
@@ -97,6 +107,8 @@ Attention can be directed towards auditory, kinesthetic or visual senses. It can
 The mind is influenced by thoughts, feelings, behaviour and external influences. The estimation to what extend this is manageable influences the physiological response (e.g. stress).
 
 <img src="../img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
+
+
 
 #### Subjectivity: In/Out/Other-side
 
@@ -117,6 +129,8 @@ Relation
 
 <img src="../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
 
+
+
 #### Four-sides Model
 
 Messages send from a sender to a receiver consist of [four aspects](https://en.wikipedia.org/wiki/Four-sides_model):
@@ -131,6 +145,30 @@ Messages send from a sender to a receiver consist of [four aspects](https://en.w
 
 
 Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way. See [meta-communication](https://en.wikipedia.org/wiki/Meta-communication).
+
+
+
+#### Subjective Events
+
+Events have subjective effects. This can create tension and conflict. Merely understanding the nature of such conflict can resolve it. Multiple perspectives can be right at the same time.
+
+An event can be deconstructed into three fundamental parts:
+
+1. The **intent** of the actor.
+2. The **impact**. What happened.
+3. The **effect** this had on the other. E.g. emotionally.
+
+<img src="../img/intent-impact-effect.png" alt="intent-impact-effect" style="width:40%;" />
+
+Incorporating these factors puts a *positional* argument into perspective.
+
+E.g.
+
+- A positional argument may have the form: "Why did you do this to me?!" "I didn't! I wanted to do that!"
+
+- Deconstructing the positions into an *effect* and an *intent* shows that both perspective are right, at the same time.
+
+
 
 ### Patterns
 
@@ -169,26 +207,31 @@ Specific forms
 | Lowering boundaries | Maintaining boundaries | Going over boundaries |
 | Too agreeable       |                        | Too defensive         |
 
-#### Mediation & Negotiation
+#### Bridging, Mediating, Negotiating
 
 The difference between these can be a matter of framing.
 
 - Ideal behaviour: depends on the role: from collaborating to competing.
 - Find a fair deal. Mutual gain, objective criteria.
 
-| Bridging           | Mediation            | Negotiation         |
-| ------------------ | -------------------- | ------------------- |
-| Learn and relate   | Mutual gain. Win-win | Zero-sum game       |
-| Explore needs      | Shared goal.         | Individual goals    |
-| Emphasize relation | Emphasize interests  | Emphasize positions |
+|      |          | Bridging         | Mediation            | Negotiation         |
+| ---- | -------- | ---------------- | -------------------- | ------------------- |
+| Why  | Purpose  | Explore needs    | Shared goal.         | Individual goals    |
+| What | End-goal | Learn and relate | Mutual gain. Win-win | Zero-sum game       |
+| How  | Emphasis | Relation         | Interests            | Emphasize positions |
 
 Framing messages allows positive and negative aspects be emphasized.
 
-| Collaboratively                                | Competently                                       |
-| ---------------------------------------------- | ------------------------------------------------- |
-| I thought X. Can you show me what I'm missing? | You are wrong.                                    |
-| I think you're right.                          | I knew that already                               |
-| I like that idea.                              | That's unrealistic. <br />That will take forever. |
+| Collaboratively                                  | Competently                                                  |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| I think you're right.                            | I knew that already                                          |
+| I like that idea.                                | That's unrealistic. <br />That will take forever.<br />I can't do that. |
+| I thought X. Can you show me what I'm missing?   | You are wrong.                                               |
+| I see some challenges. How would you approach X? | X is a blocker.                                              |
+
+**Addressing Conflict**
+
+- Don't offer a compromise too soon. First aim for a shared understanding of both perspectives. Ensure that the other party understands your problem. Move away from a negotiation-oriented conversation to an open, learning conversation.
 
 
 
@@ -221,31 +264,7 @@ Bottled up emotions build up and can create tension. Risks:
 - The emotions reduce the capability for (active) listening. Truly listening requires an open mindset.
 - Risk of “explosions”.
 
-**Events & Conflicts**
 
-Conflicts are often caused by a difference in perspective. Many perspectives can be right at the same time.
-
-An event can be deconstructed into three fundamental parts
-
-1. The **intent** of the actor.
-2. The **impact**. What happened.
-3. The **effect** this had on the other. E.g. emotionally.
-
-Incorporating these factors puts a positional argument into perspective.
-
-**Representational systems**
-
-- Kinesthetic - feeling
-- Auditory - hearing
-- Visual - seeing
-
-**Perspectives**
-
-First, second, third position.
-
-1. The self. I, how I see/feel/hear it.
-2. The other, with whom I interact.  How they see/hear/feel
-3. An outside view. Someone who’s not involved. “Objective”
 
 
 

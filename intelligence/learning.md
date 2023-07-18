@@ -4,7 +4,16 @@
 
 ## Principles
 
-**Understanding**
+### Building Models
+
+**Models**
+
+|                              | A Priori            | Evidence-based                                     |
+| ---------------------------- | ------------------- | -------------------------------------------------- |
+| **Application** (Real world) | Inference           | Comparison, intuition, random sampling (anecdotes) |
+| **Theory** (Ideal world)     | Fundamental / logic | Rational analysis                                  |
+
+**Thinking**
 
 Conceptual and visual thinking. Associative and linear thinking.
 
@@ -14,6 +23,32 @@ Conceptual and visual thinking. Associative and linear thinking.
 | **Categorization**    | Definitions, negation                                   | Similarity                                                   |
 | **Collect knowledge** | Sequentially, linear                                    | Emergent                                                     |
 | **Inference**         | [Binary](https://en.wikipedia.org/wiki/Boolean_algebra) | [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) |
+
+
+
+### Applying Models
+
+**Decision making**
+
+|            | Abstraction-based                      | Example-based               |
+| ---------- | -------------------------------------- | --------------------------- |
+| Observing  | Fundamentals, deconstruct observations | Remember interpretations    |
+| Evaluation | Self-reflection. Evaluate models       | Free of judgement           |
+| Prediction | Inference                              | Compare, translate examples |
+
+**Reasoning**
+
+|                        | Internal                     | External                      |
+| ---------------------- | ---------------------------- | ----------------------------- |
+| **Method**             | Fundamentals                 | Comparisons & interpretations |
+| **Awareness**          | Self-aware. Self-reflection. | Automatic. Auto-pilot.        |
+| **Locus of attention** | Internal memories.           | The present, the world.       |
+| **Speed**              | Slow.                        | Fast.                         |
+| **Mental models**      | Question models              | Apply models                  |
+
+
+
+### Updating models
 
 **Bottom-up & top-down learning**
 
@@ -43,30 +78,11 @@ Risks of top-down learning
 - Procrastination.
 - Overly critical.
 
-See <https://en.wikipedia.org/wiki/Learning_styles>
+See [learning styles](https://en.wikipedia.org/wiki/Learning_styles)
 
-|                              | A Priori            | Evidence-based                                     |
-| ---------------------------- | ------------------- | -------------------------------------------------- |
-| **Application** (Real world) | Inference           | Comparison, intuition, random sampling (anecdotes) |
-| **Theory** (Ideal world)     | Fundamental / logic | Rational analysis                                  |
 
-**Decision making**
 
-|            | Abstraction-based                      | Example-based               |
-| ---------- | -------------------------------------- | --------------------------- |
-| Observing  | Fundamentals, deconstruct observations | Remember interpretations    |
-| Evaluation | Self-reflection. Evaluate models       | Free of judgement           |
-| Prediction | Inference                              | Compare, translate examples |
-
-**Reasoning**
-
-|                        | Internal                     | External                      |
-| ---------------------- | ---------------------------- | ----------------------------- |
-| **Method**             | Fundamentals                 | Comparisons & interpretations |
-| **Awareness**          | Self-aware. Self-reflection. | Automatic. Auto-pilot.        |
-| **Locus of attention** | Internal memories.           | The present, the world.       |
-| **Speed**              | Slow.                        | Fast.                         |
-| **Mental models**      | Question models              | Apply models                  |
+### Other
 
 **Attitude**
 
@@ -104,6 +120,8 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 
 - Unlearning: from 4. to 2.
 - Relearning: from 2. to 4.
+
+
 
 ## Practice (Context)
 
@@ -228,6 +246,8 @@ Principles
 - Comfort zone. Easy, stable, safe.
 - Growth zone. Alive, anticipation, challenge, excitement.
 - Panic zone. Anxiety, stress, fear, tension.
+
+
 
 ## Asking Good Questions
 
