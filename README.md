@@ -56,9 +56,9 @@ Technological
 <ul style="margin: 1em;">
 <li>Mathematical <a href="math/models.md">Models</a>.</li>
 <li><a href="math/waves.md">Waves</a> (periodic processes).</li>
+<li><a href="math/signal-processing.md">Signal Processing</a> (sinoids).</li>
 </ul>
 </details>
-
 <details>
 <summary>Practice: <b>Software Industry</b></summary>
 <ul style="margin: 1em;">
@@ -72,23 +72,23 @@ Technological
 Social
 
 <details>
-<summary>Theory: <b>Intelligence</b> (and thinking)</summary>
+<summary>Theory: <b>Intelligence</b> (and reasoning)</summary>
 <ul style="margin: 1em;">
 <li><a href="intelligence/creativity.md">Creativity</a> (exercises for brainstorming).</li>
 <li><a href="intelligence/learning.md">Learning</a> (change and improvement).</li>
 </ul>
 </details>
-
 <details>
 <summary>Practice: <b>Collaboration</b> (and communication)</summary>
 <ul style="margin: 1em;">
-<li>Discovery (understanding)</li>
+<li>Communication</li>
 <ul style="margin: 1em;">
   <li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
+  <li><a href="collaboration/messaging.md">Messaging</a> (verbally or non-verbally).</li>
   <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
   <li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
 </ul>
-<li>Delivery</li>
+<li>Creating value</li>
 <ul style="margin: 1em;">
   <li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
   <li><a href="systems/organization.md">Organization</a> (identity)</li>
@@ -96,6 +96,7 @@ Social
 </ul>
 </ul>
 </details>
+
 
 Other
 
@@ -105,7 +106,21 @@ Other
 
 
 
+
+
 ## Other
+
+**Templates and exercises**
+
+- Interactive
+    - [Retrospective](collaboration/retrospective.md) exercises.
+    - [Brainstorming](intelligence/creativity.md#Prompts) prompts.
+    - [Interview questions](collaboration/interview-questions.md).
+
+- Documentation
+    - [Documentation](documentation.md#Templates) templates.
+    - [Requirements engineering](management/requirements-engineering.md).
+
 
 **Relations between documents**
 
