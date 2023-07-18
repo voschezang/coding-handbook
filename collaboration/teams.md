@@ -1,4 +1,4 @@
-# Collaboration & Teams
+# Teams
 
 [toc]
 

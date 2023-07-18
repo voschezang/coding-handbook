@@ -7,7 +7,7 @@ This is a diverse collection of ideas surrounding software engineering. It featu
 Models
 
 <details>
-<summary><b>Domain modelling</b> (of real world concepts)</summary>
+<summary>Theory: <b>Domain modelling</b> (of real world concepts)</summary>
 <ul style="margin: 1em;">
 <li><a href="domain-modelling/modelling.md">Modelling principles</a>.</li>
 <li><a href="domain-modelling/domain-driven-design.md">Domain-Driven-Design</a>- examples of DDD using OOP and FP.</li>
@@ -16,7 +16,7 @@ Models
 </ul>
 </details>
 <details>
-<summary><b>Computer language</b> (encoding of models)</summary>
+<summary>Practice: <b>Computer language</b> (encoding of models)</summary>
 <ul style="margin: 1em;">
 <li><a href="computer-language/style-guide.md">Style Guide</a> - a prescriptive guide for programming (low level)</li>
 <li><a href="computer-language/language-spec.md">Language Specification</a> - this can be implemented as a library or a new language.</li>
@@ -28,7 +28,7 @@ Models
 Systems
 
 <details>
-<summary><b>Systems thinking</b></summary>
+<summary>Theory: <b>Systems thinking</b></summary>
 <ul style="margin: 1em;">
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/organization-structure.md">Organizations</a></li>
@@ -36,7 +36,7 @@ Systems
 </ul>
 </details>
 <details>
-<summary><b>Management</b> of systems, planning of work</summary>
+<summary>Practice: <b>Management</b> of systems, planning of work</summary>
 <ul style="margin: 1em;">
 <li><a href="management/management-principles.md">Principles</a></li>
 <ul>
@@ -52,7 +52,15 @@ Systems
 Technological
 
 <details>
-<summary><b>Software Industry</b></summary>
+<summary>Theory: <b>Math</b></summary>
+<ul style="margin: 1em;">
+<li>Mathematical <a href="math/models.md">Models</a>.</li>
+<li><a href="math/waves.md">Waves</a> (periodic processes).</li>
+</ul>
+</details>
+
+<details>
+<summary>Practice: <b>Software Industry</b></summary>
 <ul style="margin: 1em;">
 <li><a href="software-industry/security.md">Security</a>.</li>
 <li>Software <a href="software-industry/software-engineering.md">Engineering</a>.</li>
@@ -61,27 +69,33 @@ Technological
 </ul>
 </details>
 
-▼ **Math**
-
-- [Models](math/models.md) - mathematical models.
-- [Waves](math/waves.md) - periodic processes.
-
 Social
 
 <details>
-<summary><b>Collaboration</b> (and communication)</summary>
+<summary>Theory: <b>Intelligence</b> (and thinking)</summary>
 <ul style="margin: 1em;">
-<li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
-<li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
-<li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
-<li><a href="systems/teams.md">Teams</a> - structure and effectiveness</li>
+<li><a href="intelligence/creativity.md">Creativity</a> (exercises for brainstorming).</li>
+<li><a href="intelligence/learning.md">Learning</a> (change and improvement).</li>
 </ul>
 </details>
 
-▼ **Intelligence** (and thinking)
-
-- [Creativity](intelligence/creativity.md) - exercises for brainstorming.
-- [Learning](intelligence/learning.md) - theory about change and improvement.
+<details>
+<summary>Practice: <b>Collaboration</b> (and communication)</summary>
+<ul style="margin: 1em;">
+<li>Discovery (understanding)</li>
+<ul style="margin: 1em;">
+  <li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
+  <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
+  <li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
+</ul>
+<li>Delivery</li>
+<ul style="margin: 1em;">
+  <li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
+  <li><a href="systems/organization.md">Organization</a> (identity)</li>
+  <li><a href="systems/teams.md">Teams</a> (structure and effectiveness)</li>
+</ul>
+</ul>
+</details>
 
 Other
 
