@@ -29,7 +29,7 @@ Scrum includes of:
 - 3 [roles](#roles): `Product Owner, Scrum Master, Developers`
 - 3 [artifacts](#artifacts), each with a commitment: `Product Backlog (Goal), Sprint Backlog (Goal), Increment (DoD)` .
 
-These are hard, *immutable* requirements. This makes scrum revolutionary, rather than evolutionary. It isn't meant to be applied gradually (e.g. [kanban](learning.md#Kanban)). Instead, it requires a radical change in many traditional ways of working.
+These are hard, *immutable* requirements. This makes scrum revolutionary, rather than evolutionary. It isn't meant to be applied gradually (e.g. [kanban](../intelligence/learning.md#Kanban)). Instead, it requires a radical change in many traditional ways of working.
 
 ### How
 
@@ -89,7 +89,7 @@ Teams should discover themselves how they can apply these values in practice, in
 
 ## Roles
 
-A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](systems/organization-structure.md).
+A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](../systems/organization-structure.md).
 
 Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
 

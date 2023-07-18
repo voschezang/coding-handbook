@@ -217,7 +217,7 @@ Leadership and motivation.
 
 Suppose the main constraint in a team is capacity. Then there is a need to focus on the most important tasks. This can be done by either:
 
-- Structured: Periodic planning sessions where work is selected and planned. E.g. week sprints in [Scrum](../scrum-guide.md).
+- Structured: Periodic planning sessions where work is selected and planned. E.g. week sprints in [Scrum](../collaboration/scrum-guide.md).
 - Ad-hoc: A WIP-limited way of working. Whenever a task is finished a new task is selected.
 
 **Prioritization of work in progress**

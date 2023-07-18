@@ -57,7 +57,7 @@ Projects can usually be split up into smaller parts that are delivered immediate
   - Allow subsequent iterations to incorporate *feedback* from customers.
   - Avoid investment in *unused* features.
 
-This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](../scrum-guide.md). It is especially beneficial in the context of the following problems:
+This is an alternative to delivering the whole project in one go - and never looking back. This iterative way of working is considered to be [*agile*](../collaboration/scrum-guide.md). It is especially beneficial in the context of the following problems:
 
 - There is uncertainty in the demand from customers. This creates a risk of building the wrong product.
 - There is uncertainty w.r.t the progress of the project. Any problems that arise might be discovered too late.

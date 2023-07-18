@@ -52,7 +52,7 @@ For teams and departments
 
 ## Health & Performance
 
-**Properties of a successful team**
+### Properties of a successful team
 
 The strongest signal is when you can feel that the team is happy or productive. Specific signals are
 
@@ -60,6 +60,30 @@ The strongest signal is when you can feel that the team is happy or productive. 
 - The team delivers value;
 - The team collaborates and interacts;
 - The team works in harmony.
+
+
+
+### Optimizing Performance
+
+Performance evaluation / reflection / planning for autonomous teams
+
+- Not a replacement for one-on-one performance evaluations with a manager
+- Growth mindset, learn how to help each other
+- Team performance > individual performance
+
+
+
+Phases
+
+- Discovery
+    - What can we expect? / Where are we now?
+    - Objectives. What should we expect? What do we want to achieve in the next quarter?
+    - Results. Which results will show that we've reached these objectives?
+    - What are the obstacles?
+- Delivery
+    - Develop a plan to reach these results.
+        - E.g. how do we distribute work
+    - And/or how to do this in the future.
 
 
 

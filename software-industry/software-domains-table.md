@@ -159,13 +159,13 @@
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="2"><p><a href="communication-patterns.md">Communication Patterns</a></p>
+      <td rowspan="2"><p><a href="../communication-patterns.md">Communication Patterns</a></p>
 </td>
-      <td rowspan="2"><p><a href="programming-patterns.md">Programming Patterns</a></p>
+      <td rowspan="2"><p><a href="../programming-patterns.md">Programming Patterns</a></p>
 </td>
       <td><p><u>Enterprise</u> Integration Patterns</p>
 </td>
-      <td rowspan="2"><p><a href="programming-paradigms.md">Programming Paradigms</a></p>
+      <td rowspan="2"><p><a href="../programming-paradigms.md">Programming Paradigms</a></p>
 </td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@
 </td>
       <td rowspan="2"><p>System Design</p>
 </td>
-      <td><p><em>(Design of)</em> <a href="organization-structure.md">Organizations</a></p>
+      <td><p><em>(Design of)</em> <a href="../organization-structure.md">Organizations</a></p>
 </td>
       <td><ul>
 <li>Business administration</li>
@@ -192,27 +192,27 @@
     <tr>
       <td><p>Software Design</p>
 </td>
-      <td><p>Domain-Driven Design, <a href="domain-driven-design.md">DDD</a></p>
+      <td><p>Domain-Driven Design, <a href="../domain-driven-design.md">DDD</a></p>
 </td>
     </tr>
     <tr></tr>
   </tbody>
   <tbody>
     <tr>
-      <td><p><a href="systems-management.md">Systems Management</a></p>
+      <td><p><a href="../systems-management.md">Systems Management</a></p>
 </td>
-      <td rowspan="3"><p><a href="management-principles.md">Management Principles</a></p>
+      <td rowspan="3"><p><a href="../management-principles.md">Management Principles</a></p>
 </td>
       <td rowspan="3"><ul>
-<li><a href="product-management">Product Management</a></li>
-<li><a href="goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
+<li><a href="../product-management">Product Management</a></li>
+<li><a href="../goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 </ul>
 </td>
-      <td><p><a href="project-management.md">Project Management</a></p>
+      <td><p><a href="../project-management.md">Project Management</a></p>
 </td>
     </tr>
     <tr>
-      <td><p><a href="requirements-engineering.md">Requirements Engineering</a></p>
+      <td><p><a href="../requirements-engineering.md">Requirements Engineering</a></p>
 </td>
       <td><ul>
 <li>Product Discovery</li>

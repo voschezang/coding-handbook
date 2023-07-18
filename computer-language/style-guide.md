@@ -26,7 +26,7 @@ See [documentation](../documentation.md).
 
 ## Tests
 
-See [testing](../software-engineering.md#Testing)
+See [testing](../software-industry/software-engineering.md#Testing)
 
 * Strive towards a single unit-test per test, rather than a single assertion per test.
 * Always uint-test regexes.

@@ -110,7 +110,7 @@ Timeline, scope and capacity are related. If one changes, then at least one of t
 
 ### Change
 
-Note that these can all involve [*change*](../learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](../systems/organization-structure.md).
+Note that these can all involve [*change*](../intelligence/learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](../systems/organization-structure.md).
 
 1. [Influence](https://danluu.com/culture/) people (indirect)
     1. Incentives. Rewards and punishments for behaviour or achievements.
@@ -431,8 +431,6 @@ Managing up
 - My problem
 - What I tried
 - What would you do if you were me?
-
-
 
 **Expectation management**
 

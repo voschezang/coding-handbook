@@ -2,8 +2,6 @@
 
 This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document.
 
-
-
 ## Table of Contents
 
 Models
@@ -17,7 +15,6 @@ Models
 <li><a href="domain-modelling/programming-patterns.md">Programming Patterns</a> - common programming, application and system architecture patterns.</li>
 </ul>
 </details>
-
 <details>
 <summary><b>Computer language</b> (encoding of models)</summary>
 <ul style="margin: 1em;">
@@ -28,7 +25,6 @@ Models
 </ul>
 </details>
 
-
 Systems
 
 <details>
@@ -36,11 +32,9 @@ Systems
 <ul style="margin: 1em;">
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/organization-structure.md">Organizations</a></li>
-<li><a href="systems/teams.md">Teams</a> - structure and effectiveness</li>
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
 </details>
-
 <details>
 <summary><b>Management</b> of systems, planning of work</summary>
 <ul style="margin: 1em;">
@@ -55,40 +49,41 @@ Systems
 </ul>
 </details>
 
+Technological
+
+<details>
+<summary><b>Software Industry</b></summary>
+<ul style="margin: 1em;">
+<li><a href="software-industry/security.md">Security</a>.</li>
+<li>Software <a href="software-industry/software-engineering.md">Engineering</a>.</li>
+<li>Software <a href="software-industry/software-domains.md">Domains</a>.</li>
+<li>Software <a href="software-industry/software-development-cycle.md">Development Cycle</a>.</li>
+</ul>
+</details>
+**▼ Math**
+
+- [Models](math/models.md) - mathematical models.
+- [Waves](math/waves.md) - periodic processes.
+
+Social
+
 <details>
 <summary><b>Collaboration</b> (and communication)</summary>
 <ul style="margin: 1em;">
 <li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
 <li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
 <li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
+<li><a href="systems/teams.md">Teams</a> - structure and effectiveness</li>
 </ul>
 </details>
+**▼ Intelligence** (and thinking)
 
+- [Creativity](intelligence/creativity.md) - exercises for brainstorming.
+- [Learning](intelligence/learning.md) - theory about change and improvement.
 
-**Software Industry**
+Other
 
 - [Quotes](quotes.md) - to contemplate (high level).
-- [Organization Architecture](organization-architecture.md) - tradeoffs encountered in organizations.
-- [Software Engineering](software-engineering.md) - what is involves.
-
-
-
-**Intelligence**
-
-- [Creativity](creativity.md) - exercises for brainstorming.
-- [Learning](learning.md) - theory about change and improvement.
-
-
-
-**Math**
-
-- [Models](math/models.md) - mathematical models.
-- [Waves](math/waves.md) - periodic processes.
-
-
-
-**Other**
-
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Documentation](documentation.md).
 
@@ -98,7 +93,7 @@ Systems
 
 **Relations between documents**
 
-From abstract theory to application within a domain. For a full overview, see [this table](software-domains-table.md).
+From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
 - [Requirements Engineering](management/requirements-engineering.md) > [Project Management](management/project-management.md)
@@ -124,9 +119,3 @@ E.g. a goal can be short-term and precise, or long-term but vague.
 
 Definition of *anti-pattern*: a commonly used, bad solution to a problem. Possibly just an indicator, signaling a deeper issue.
 
-<details open>
-<summary></summary>
-<ul style="margin: 1em;">
-<li><a href=""></a></li>
-</ul>
-</details>

@@ -63,8 +63,6 @@ As a complement to this metric, the relative performance can be defined as: `(in
 
 The future profitability can be defined as the [expected value](https://en.wikipedia.org/wiki/Expected_value) of the first metric: `E[input] - E[output] - E[inventory]`. Naturally, the [risk-adjusted return](https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital) is obtained by dividing this metric by the variance (or some other proxy for risk).
 
-
-
 **Goodhart's law**
 
 > When a measure becomes a target, it ceases to be a good measure.
@@ -73,8 +71,6 @@ Suppose that any metrics is imperfect w.r.t a given goal. Then, optimizing for a
 
 - Faster feedback loops accelerate this. They tend to increase the rate of learning at the risk of local optimization.
 - Slower feedback loops are less precise but more stable.
-
-
 
 #### Waste & Idle time
 
@@ -132,7 +128,7 @@ Improving systems can be done in a few fundamental ways. Note that these require
 2. Feedback loops. Find problems as early as possible.
 3. Learning. Adapt the system based on experience. Experiment and learn from both success and failure.
 
- See also [learning.md](../learning.md).
+ See also [learning.md](../intelligence/learning.md).
 
 #### Effectiveness
 

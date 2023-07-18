@@ -1,12 +1,12 @@
 # Software Engineering
 
-Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](management/product-management.md).
+Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](../management/product-management.md).
 
 [toc]
 
 ## Overview
 
-Software engineering can be described from multiple points of view. In addition, it can be done in a specific [domain](software-domains.md).
+Software engineering can be described from multiple points of view. In addition, it can be done in a specific [domain](./software-domains.md).
 
 Usually it consists of either:
 
@@ -16,7 +16,7 @@ Usually it consists of either:
 
 **Daily Work**
 
-1. Planning of work. E.g. [requirements engineering](management/requirements-engineering.md), design, stakeholder/customer management, administration.
+1. Planning of work. E.g. [requirements engineering](../management/requirements-engineering.md), design, stakeholder/customer management, administration.
 2. Planned work. E.g. programming, designing, having discussions, reviews, testing, research, teaching.
 3. Unplanned work. E.g. incident handling, customer support, troubleshooting.
 
@@ -44,7 +44,7 @@ The following are related, but are usually delegated to other people:
 - Sales
 - HR
 
-See [software development cycle](software-development-cycle.md).
+See [software development cycle](./software-development-cycle.md).
 
 **Roles**
 
@@ -60,7 +60,7 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 
 - Visibility, Transparency, Traceability
 
-  - Clear [documentation](documentation.md). An explanation from high to low level and including relevant assumptions.
+  - Clear [documentation](../documentation.md). An explanation from high to low level and including relevant assumptions.
     - This can be complemented by "How-to" guides.
   - Ensure that there is up-to-date documentation that is clear and covers both the components and the interactions of the system.
   - [Observability](https://en.wikipedia.org/wiki/Observability).  Two definitions
@@ -94,7 +94,7 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
   - The team should be able (authorized) to block the release of a change they don't support.
   - Communication between teams and departments. Both personal and using proper APIs.
 
-- Risk management. E.g. thread modeling. See [management principles](management/management-principles.md).
+- Risk management. E.g. thread modeling. See [management principles](../management/management-principles.md).
 
 **Tips / Habits**
 
@@ -115,7 +115,7 @@ Change is inevitable in software engineering. It can be caused by:
 - Changes in the environment, e.g. in technology.
 - More information that is available. E.g. after learning.
 
-See [programming-paradigms](computer-language/programming-paradigms.md).
+See [programming-paradigms](../computer-language/programming-paradigms.md).
 
 ### Clean Code
 
@@ -132,7 +132,7 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 
 - Simple interfaces for public methods.
 
-See also [programming-paradigms.md](computer-language/programming-paradigms.md) and [style-guide.md](computer-language/style-guide.md).
+See also [programming-paradigms.md](../computer-language/programming-paradigms.md) and [style-guide.md](../computer-language/style-guide.md).
 
 ### Testing
 
@@ -240,9 +240,9 @@ Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-co
 
 Addition
 
-- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](systems/systems-management.md).
+- Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](../systems/systems-management.md).
 
-[DevOps](quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
+[DevOps](../quotes.md): vertical integration of development, operations and more. A single team that builds and runs an application or service.
 
 **Traditional Paradigms**
 

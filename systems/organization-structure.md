@@ -89,8 +89,6 @@ Each component has a *bounded context*. This is an internal, local model. These 
 - **Platforms**. These are generic components that are vital for the functioning of the core domain. These <u>enable</u> value.
 - **Contextual** or supporting domains. E.g. interfaces in hexagonal architecture.
 
-
-
 **Scaling Agile**
 
 > Agile transformations are done by removing obstacles, rather than by enforcing change.
@@ -101,8 +99,6 @@ Achieving high agility of small teams is much simpler that doing it for multiple
 - Scale out. Divide an organization into independent, autonomous components.
 - Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
 
-
-
 **In IT organizations**
 
 At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
@@ -110,11 +106,7 @@ At certain scales, the structure incentivizes **local** optimizations due to the
 - In functional teams this could lead to strict SLAs and slow handovers.
 - In feature teams this can lead to diverging features. This increases duplication.
 
-
-
 ### Relations & Interaction
-
-
 
 ### Tradeoffs
 
@@ -157,13 +149,14 @@ Note that there are multiple paradigms that are theoretically sound. The importa
 <summary><b>Alignment &amp; Autonomy</b></summary>
 <h4>Power of continuous improvement</h4>
 <p>This is a model of an organization with autonommous components. While making local optimizations, each components effectively moves in random directions. With a tiny amount of alignment (vision) the total movement of the system can be altered radically.</p>
-<img src="../img/plot-random-walk.png" alt="plot-random-walk" style="width:80%;"/>
+<img src="../img/plot-random-walk.png" alt="plot-random-walk" style="width:90%;"/>
 <h4>Frameworks</h4>
 <img src="../img/plot-alignment-autonomy.png" alt="plot-alignment-autonomy" />
 </details>
+
 **By Domain**
 
-Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](../learning.md). See also the  Stacey matrix model.
+Organizations cannot be studied properly without taking into account the domain in which they live. See [learning](../intelligence/learning.md). See also the  Stacey matrix model.
 
 Four [*domains*](https://en.wikipedia.org/wiki/Cynefin_framework) ordered by structure are:
 
@@ -202,8 +195,6 @@ Relations between components can be understood in terms of:
 Information can be send in the form of commands, events or requests. It can be send one-to-one or broadcasted. The information can be part of the core domain, it may support the core domain, or it can be generic.
 
 <img src="../img/relationship-types.png" alt="relationship-types" style="width:90%;" />
-
-
 
 #### Power
 

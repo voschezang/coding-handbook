@@ -156,10 +156,15 @@ Society
 - Hearth rate (seconds)
 - Neural oscillation (ms)
 
+Engineering
+
+- [AC](https://en.wikipedia.org/wiki/Alternating_current) (Hz)
+- [Clock rate](https://en.wikipedia.org/wiki/Clock_rate) (GHz)
+
 Physics
 
 - Sound (ms)
-- Electromagnetic radiation, e.g. light (λ)
+- [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation), e.g. light (λ)
 - Particle radiation (α, β)
 
 ### Unstable systems

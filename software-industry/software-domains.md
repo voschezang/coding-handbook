@@ -20,10 +20,8 @@ Software can be managed at different **levels**.
 - **Process**: complement the above by continuously improving.
 - **People**: from personal well-being (of colleagues and teams), to maximizing potential.
 
-
-
 ## Related Domains
 
 Similar to these [architectural pattern examples](https://en.wikipedia.org/wiki/Architectural_pattern#Examples).
 
-See [table](software-domains-table.md).
+See [table](./software-domains-table.md).

@@ -174,7 +174,7 @@ Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using
 
 **Improvement**
 
-Change [organizational structure](../systems/organization-structure.md) and the environment. See [learning](../learning.md).
+Change [organizational structure](../systems/organization-structure.md) and the environment. See [learning](../intelligence/learning.md).
 
 ## Work Principles
 
