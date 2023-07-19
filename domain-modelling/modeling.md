@@ -19,6 +19,16 @@ Principles of modeling, statistics and machine learning. Note that a model can b
 - If an event is observed frequently, then analogies can help.
 - If a process is novel, but the inner process is understood, then it can be beneficial to start with fundamentals.
 
+**Scientific method**
+
+Repeatedly
+
+- Explore. Observe. Do research. 
+- Come up with an hypothesis. Make falsifiable predictions
+- Test the hypothesis with experiments.
+- Analyze the results.
+- Report findings and share them freely.
+
 ## Learning
 
 > Learning revolves around revising your opinions.

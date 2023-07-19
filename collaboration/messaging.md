@@ -8,11 +8,11 @@ Communication is often bi-directional and complex. It can be deconstructed into 
 
 See [communication-monologues](../communication-monologues.md).
 
-#### Initiating contact / setting the state
+### Initiating contact / setting the state
 
 ...
 
-#### Requesting Change
+### Requesting Change
 
 Motivation for change: a problem or opportunity.
 
@@ -22,7 +22,7 @@ Steps.
 2. Align on a **solution**. Define a desired state or objective.
 3. Align on a **implementation**. Find a path to reach the objective.
 
-#### Giving Feedback
+### Giving Feedback
 
 > Giving feedback = disclosing information about yourself
 
@@ -49,12 +49,12 @@ Template: alternative forms.
 - observation-feeling-need-request
 ```
 
-##### Anti-patterns
+#### Anti-patterns
 
 - Mix the event and the subjective effect. The receiver might disagree with aspects in this statement and consequently neglect the whole message.
 - Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
 
-#### Delivering News
+### Delivering News
 
 **Guidelines**
 
@@ -97,7 +97,7 @@ See also
 - Handling conflict
 - Saying no (to the idea)
 
-#### Receiving Feedback
+### Receiving Feedback
 
 Steps
 
@@ -106,7 +106,7 @@ Steps
 - **Clarify**. Ask questions.
 - **Evaluate** whether the message is useful.
 
-#### Receiving Complaints
+### Receiving Complaints
 
 Note that a "mistake" can be defined as an event and an emotion.
 

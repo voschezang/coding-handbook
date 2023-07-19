@@ -7,6 +7,7 @@ The following statements are patterns of [drift](https://www.merriam-webster.com
 **Self**
 
 * People tend to acknowledge past personal growth but underestimate or disregard [future personal growth](https://en.wikipedia.org/wiki/End-of-history_illusion). I.e. the idea that the current state and circumstances are constant until the end of history.
+* People tend to [overestimate](predictive irrationality) desires when needful and underestimate desires when satisfied.
 * People tend to explain (attribute) positive and negative events [differently](https://en.wikipedia.org/wiki/Self-serving_bias).
   * [Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion) is rational in case of diminishing returns.
 * We (individuals and organizations) overestimate what we can do in a year and [underestimate](https://en.wikipedia.org/wiki/Roy_Amara) what we can do in ten years.

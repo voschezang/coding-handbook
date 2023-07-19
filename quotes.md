@@ -13,6 +13,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation
     ) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality
     ).
+* Language is restrictive. It allows concepts to be expressed, but in a biased way.
 * Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
 * Mistakes are undervalued. There are a necessity for learning and they are extremely effective at creating awareness.
   * In contrast, in art mistakes are celebrated, and are often the most memorable parts of a piece.
@@ -99,11 +100,12 @@ Note that the validity of the following statements is dependent on certain *impl
 ### Paradoxes
 
 - Simple is harder then complex.
+- Minimize work to maximize outcomes.
 - Doing nothing can be a deliberate action.
 - Actual imposters don't get imposter syndrome.
 - Being busy is not caused by a lack of time.
 - Procrastination is not a time management problem.
-- Minimize work to maximize outcomes.
+- The past does not exist (in the present)
 
 
 

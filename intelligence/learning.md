@@ -17,12 +17,12 @@
 
 Conceptual and visual thinking. Associative and linear thinking.
 
-|                       | Conceptual (Word, Facts)                                | Visual / Spatial                                             |
-| --------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| **Type**              | Analytical                                              | Associations                                                 |
-| **Categorization**    | Definitions, negation                                   | Similarity                                                   |
-| **Collect knowledge** | Sequentially, linear                                    | Emergent                                                     |
-| **Inference**         | [Binary](https://en.wikipedia.org/wiki/Boolean_algebra) | [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) |
+|                       | Conceptual (Word, Facts)                                | Visual / Spatial                                             | Subconscious              |
+| --------------------- | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------- |
+| **Type**              | Analytical                                              | Associations                                                 | Intuition                 |
+| **Categorization**    | Definitions, negation                                   | Similarity                                                   | Outside of language       |
+| **Collect knowledge** | Sequentially, linear                                    | Emergent                                                     | Letting go of assumptions |
+| **Inference**         | [Binary](https://en.wikipedia.org/wiki/Boolean_algebra) | [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) | -                         |
 
 
 
@@ -38,13 +38,13 @@ Conceptual and visual thinking. Associative and linear thinking.
 
 **Reasoning**
 
-|                        | Internal                     | External                      |
-| ---------------------- | ---------------------------- | ----------------------------- |
-| **Method**             | Fundamentals                 | Comparisons & interpretations |
-| **Awareness**          | Self-aware. Self-reflection. | Automatic. Auto-pilot.        |
-| **Locus of attention** | Internal memories.           | The present, the world.       |
-| **Speed**              | Slow.                        | Fast.                         |
-| **Mental models**      | Question models              | Apply models                  |
+|                        | Internal                     | External                      | Instinct              |
+| ---------------------- | ---------------------------- | ----------------------------- | --------------------- |
+| **Method**             | Fundamentals                 | Comparisons & interpretations | Intuition             |
+| **Awareness**          | Self-aware. Self-reflection. | Automatic. Auto-pilot.        | Instinct, unconscious |
+| **Locus of attention** | Internal memories.           | The present, the world.       | Broad                 |
+| **Speed**              | Slow.                        | Fast.                         | Medium                |
+| **Mental models**      | Question models              | Apply models                  | No preconceptions     |
 
 
 
@@ -59,13 +59,13 @@ Extremes of the spectrum
 
 Comparison
 
-|                         | Bottom-up                  | Top-down                                    |
-| ----------------------- | -------------------------- | ------------------------------------------- |
-| **Start with**          | Repetition (practice)      | Deep understanding (theory)                 |
-| **Then, continue with** | Reflection                 | Apply knowledge, verify a theoretical model |
-| **Focus on**            | Likelihood                 | Certainty, perfection (idealism)            |
-| **Aim for**             | Get to 80% ASAP            | Get to 100%, eventually                     |
-| **Reasoning**           | Generalization (induction) | Logical inference (deduction)               |
+|                         | Bottom-up                  | Top-down                                    | Intuitive                      |
+| ----------------------- | -------------------------- | ------------------------------------------- | ------------------------------ |
+| **Start with**          | Repetition (practice)      | Deep understanding (theory)                 | Clean slate                    |
+| **Then, continue with** | Reflection                 | Apply knowledge, verify a theoretical model | Avoid language, preconceptions |
+| **Focus on**            | Likelihood                 | Certainty, perfection (idealism)            | Exploration, questioning       |
+| **Aim for**             | Get to 80% ASAP            | Get to 100%, eventually                     | Flow                           |
+| **Reasoning**           | Generalization (induction) | Logical inference (deduction)               | Intuition                      |
 
 Risks of bottom-up learning
 
@@ -79,6 +79,10 @@ Risks of top-down learning
 - Overly critical.
 
 See [learning styles](https://en.wikipedia.org/wiki/Learning_styles)
+
+
+
+The exception to this is learning like a child would. Being open-minded, without preconceptions or judgement. Moving with a feeling of wonder, using intuition.
 
 
 
@@ -143,6 +147,8 @@ Other patterns
 - inspect-adapt-reflect
 - visualize-stabilize-optimize
 
+
+
 ## Organizational Learning
 
 An optimal learning environment has:
@@ -205,6 +211,8 @@ Principles
 4. Pull, don’t over produce
 5. Strive for perfection, high quality.  This is mostly for *complicated* rather than *complex* domains
 
+
+
 ## Learning Models
 
 [Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) model combined with the [conscious competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) model.
@@ -258,3 +266,11 @@ Remove "self"
 Deconstruct implications
 
 - "How can I do X better?" → "What does *better* mean?"
+
+Question the origin
+
+- "How did you come to that question?"
+
+Mirror questions
+
+- "What do you think/feel about it?"
