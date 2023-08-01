@@ -170,7 +170,7 @@ After a planning phase, the initiative is executed. Next to following the plan, 
 
 **Feedback**
 
-Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using new information. This requires observation, analysis and reflection. See [modeling](../domain-modelling/modeling.md).
+Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using new information. This requires observation, analysis and reflection. See [modeling](../intelligence/modelling.md).
 
 **Improvement**
 

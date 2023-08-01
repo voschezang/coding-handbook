@@ -190,11 +190,12 @@ Specific forms
 
 - Ideal behaviour: switch between these based on context and need.
 
-| Pushing                                            | Pulling                                                  |
-| -------------------------------------------------- | -------------------------------------------------------- |
-| Taking space                                       | Giving space                                             |
-| Goal/content-oriented                              | Relation-oriented                                        |
-| Persuading, asserting, incentivizing (sanctioning) | Bridging (involving, listening, disclosing), attracting. |
+| Pushing                                                      | Pulling                                                  |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| Taking space                                                 | Giving space                                             |
+| Goal/content-oriented                                        | Relation-oriented                                        |
+| Persuading (reasoning), asserting, incentivizing (sanctioning) | Bridging (involving, listening, disclosing), attracting. |
+| Objectivity. Facts, events.                                  | Subjective experience of the other. Needs, emotions.     |
 
 #### Level of assertiveness
 

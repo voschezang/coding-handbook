@@ -9,7 +9,6 @@ Models
 <details>
 <summary>Theory: <b>Domain modelling</b> (of real world concepts)</summary>
 <ul style="margin: 1em;">
-<li><a href="domain-modelling/modelling.md">Modelling principles</a>.</li>
 <li><a href="domain-modelling/domain-driven-design.md">Domain-Driven-Design</a>- examples of DDD using OOP and FP.</li>
 <li><a href="domain-modelling/functions-relations.md">Functions and Relationships</a></li>
 <li><a href="domain-modelling/programming-patterns.md">Programming Patterns</a> - common programming, application and system architecture patterns.</li>
@@ -76,6 +75,7 @@ Social
 <ul style="margin: 1em;">
 <li><a href="intelligence/creativity.md">Creativity</a> (exercises for brainstorming).</li>
 <li><a href="intelligence/learning.md">Learning</a> (change and improvement).</li>
+<li><a href="intelligence/modelling.md">Models</a> and modelling principles.</li>
 </ul>
 </details>
 <details>
@@ -97,30 +97,24 @@ Social
 </ul>
 </details>
 
-
 Other
 
 - [Quotes](quotes.md) - to contemplate (high level).
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Documentation](documentation.md).
 
-
-
-
-
 ## Other
 
 **Templates and exercises**
 
 - Interactive
-    - [Retrospective](collaboration/retrospective.md) exercises.
-    - [Brainstorming](intelligence/creativity.md#Prompts) prompts.
-    - [Interview questions](collaboration/interview-questions.md).
+  - [Retrospective](collaboration/retrospective.md) exercises.
+  - [Brainstorming](intelligence/creativity.md#Prompts) prompts.
+  - [Interview questions](collaboration/interview-questions.md).
 
 - Documentation
-    - [Documentation](documentation.md#Templates) templates.
-    - [Requirements engineering](management/requirements-engineering.md).
-
+  - [Documentation](documentation.md#Templates) templates.
+  - [Requirements engineering](management/requirements-engineering.md).
 
 **Relations between documents**
 
@@ -149,4 +143,3 @@ From abstract theory to application within a domain. For a full overview, see [t
 E.g. a goal can be short-term and precise, or long-term but vague.
 
 Definition of *anti-pattern*: a commonly used, bad solution to a problem. Possibly just an indicator, signaling a deeper issue.
-

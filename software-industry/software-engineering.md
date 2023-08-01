@@ -349,14 +349,16 @@ It helps to avoid:
 
 1. Blind, fast typing, muscle memory. Typing without conscious thinking.
 2. `vi`/`vim` commands: manipulating text files
-4. `grep`, `sed`, regular expressions: quickly writing queries for and through files). E.g. to search through log-files.
+3. `grep`, `sed`, regular expressions: quickly writing queries for and through files). E.g. to search through log-files.
+4. Auto-completion and (AI-based) text-prediction.
 
 **Tools**
 
 1. Version control (e.g. `git`). Usually using [multiple repositories](https://danluu.com/monorepo/).
 2. A simple editor with syntax highlighting, syntax checking, type checking, linting, etc.
-3. An advanced editor (IDE).
-4. CI/CD pipelines.
+3. Context-aware (intelligent) text prediction.
+4. An advanced editor (IDE).
+5. CI/CD pipelines.
 
 An IDE could:
 

@@ -4,6 +4,8 @@
 
 ## Conversations
 
+
+
 ### Difficult Conversations
 
 Three categories of "difficult" conversations:
@@ -63,3 +65,4 @@ Types of emotional conversations ([NVC](https://en.wikipedia.org/wiki/Nonviolent
 
 ### Conflict
 
+...

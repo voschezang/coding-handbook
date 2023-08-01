@@ -1,12 +1,88 @@
 # Learning
 
+See also [modeling](modeling.md).
+
 [toc]
 
-## Principles
+## Overview
+
+Learning is facilitated by [models](modelling.md). Learning is the process of updating these models.
+
+- As humans, we use [mental models](#Mental Models) to make sense of the world.
+
+
+
+**Learning Types**
+
+> Learning revolves around revising your opinions.
+
+Experiments not require complex setups. Start simple and expand if necessary. Three types:
+
+1. Learn by observation. Then reflect on the observations.
+2. Iterate. Change a specific variable and measure the effect. Then repeat.
+3. Experiment. E.g. A/B testing.
+    1. Replicate multiple environments.
+    2. Change one of them and use the other one as a baseline.
+    3. Compare the results.
+
+
+
+This can be one in a formal way. See [scientific method](#Scientific Method).
+
+
+
+## Scientific Method
+
+> Science consists of making falsifiable predictions.
+
+Broadly, the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) consists of a prior belief, a conjecture (hypothesis), and an experiment. Specifically:
+
+1. **Problem statement** or observation. Explore. Do research.
+2. **Hypothesis**. A falsifiable prediction. Use *induction* to predict a hypothetical situation. Make a generalization based on an observation. These can range from analogies, causal inferences, syllogisms.
+3. **Experiment**. Design an experiment to test the hypothesis. Use *deduction* to ensure that conclusions are valid; both in terms of syntax and semantics. This may be done with either a formal or a natural language. A inherent challenge is to maximize the likelihood `P(E | H)`.
+4. **Analyze**. Observe the results and compare them to the *predicted* results. `P(H | E)`
+5. **Conclude**. Draw conclusions without over-generalizing.
+6. **Report** findings and share them freely. Facilitate other researchers to replicate the experiments.
+
+
+
+There are parallels with [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference).
+
+- The problem statement is the prior `P(H)`: the probability that the hypothesis `H` is true.
+- The hypothesis and the experiment are the likelihood `P(X | H)`: the probability of observing the predicted result `X`, if the hypothesis would be true.
+- The conclusion is the posterior `P(H | X`): the probability that the hypothesis is true, given the observation.
+
+
+
+In practice, it my be impossible to proof that an hypothesis is true. Instead, a combination of experiments can be setup to disprove or reject any alternative hypothesis.
+
+
+
+💭 **Philosophy**
+
+Philosophy is related to science. It is not strictly part of science, because it questions science itself and even our own existence and [objectivity](https://en.wikipedia.org/wiki/Objectivity_and_subjectivity) itself. 
+
+- It also covers ethics, which is grounded on [subjective experience](https://en.wikipedia.org/wiki/Philosophical_zombie). See [personhood](https://en.wikipedia.org/wiki/Personhood).
+
+
+
+🔨 **Engineering**
+
+Engineering differs from science in its purpose. It's about solving problems rather than discovering truth. It involves production on top of learning. Reliability is considered sufficient, rather than seeing absolute truth.
+
+
+
+🎨 **Art**
+
+> L'art pour l'art.
+
+Art differs from engineering in its purpose. It's about creation itself. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility.
+
+
+
+## Mental Models
 
 ### Building Models
-
-**Models**
 
 |                              | A Priori            | Evidence-based                                     |
 | ---------------------------- | ------------------- | -------------------------------------------------- |
@@ -49,6 +125,14 @@ Conceptual and visual thinking. Associative and linear thinking.
 
 
 ### Updating models
+
+Phases (similar to the scientific method).
+
+- Observe. Collect data.
+- Experiment. Gather data. Test hypotheses.
+- Analyze / translate / generalize. Synthesize.
+
+
 
 **Bottom-up & top-down learning**
 
@@ -127,28 +211,6 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 
 
 
-## Practice (Context)
-
-### Organizations & Processes
-
-The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](../systems/organization-structure.md#Autonomy%20and%20Alignment%20per%20Domain).
-
-- Chaotic: act-sense-respond
-- Complex: probe-sense-respond
-- Complicated: sense-analyse-respond
-- Obvious: sense-categorise-respond
-
-### Learning
-
-Other patterns
-
-- plan-do-check-act
-- imitate-assimilate-innovate
-- inspect-adapt-reflect
-- visualize-stabilize-optimize
-
-
-
 ## Organizational Learning
 
 An optimal learning environment has:
@@ -213,6 +275,30 @@ Principles
 
 
 
+
+
+## Practice (Context)
+
+### Organizations & Processes
+
+The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](../systems/organization-structure.md#Autonomy%20and%20Alignment%20per%20Domain).
+
+- Chaotic: act-sense-respond
+- Complex: probe-sense-respond
+- Complicated: sense-analyse-respond
+- Obvious: sense-categorise-respond
+
+### Learning
+
+Other patterns
+
+- plan-do-check-act
+- imitate-assimilate-innovate
+- inspect-adapt-reflect
+- visualize-stabilize-optimize
+
+
+
 ## Learning Models
 
 [Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) model combined with the [conscious competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) model.
@@ -258,6 +344,12 @@ Principles
 
 
 ## Asking Good Questions
+
+In teaching: see [socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning).
+
+
+
+**Tools**
 
 Remove "self"
 

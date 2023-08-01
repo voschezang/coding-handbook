@@ -597,6 +597,29 @@ Different ways to set goals
 
 <img src="../img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
+## Making Choices
+
+How to make choices. Be informed, open-minded and align expectations.
+
+**Be informed**
+
+- Know the range of choices that are available to a given situation.
+- Estimate the cost of each relevant option.
+    - Incl. the cost of doing nothing.
+- Estimate the consequences of each relevant option.
+
+In addition, evaluate the reliability and consistency of this information.
+
+- Consider the parties involved. E.g. stakeholders, users, customers employees.
+- Know who to contact to learn more.
+
+**Be comfortable**
+
+- Set a baseline choice or worst-case scenario. Accept that this may may be realized.
+- Update your expectations.
+
+
+
 ## Documentation
 
 > Use documentation to recall conversations rather than as an alternative for them.
