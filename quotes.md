@@ -6,15 +6,9 @@
 
 Note that the validity of the following statements is dependent on certain *implicit* and *explicit* assumptions. Additionally they are biased towards software engineering.
 
-* Everything is a theory and could be proven wrong.
 * Every problem seems easy after reading the solution.
 * Writing is for other people.
 * There is no such thing as absolute certainty. Even [rationality](https://en.wikipedia.org/wiki/Postmodernism) does not guarantee certainty. Pure objectivity does not exist.
-* Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation
-    ) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality
-    ).
-* Language is restrictive. It allows concepts to be expressed, but in a biased way.
-* Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
 * Mistakes are undervalued. There are a necessity for learning and they are extremely effective at creating awareness.
   * In contrast, in art mistakes are celebrated, and are often the most memorable parts of a piece.
   * Making many small mistakes (which can be controlled/rolled-back/compensated/negated) > making fewer big mistakes.
@@ -22,27 +16,39 @@ Note that the validity of the following statements is dependent on certain *impl
   * Practice self-actualization: reaching your full potential, discovering your self and finding the meaning of life.
   * Stop thinking in closed questions: "Is this answer correct?". Rather, ask: "What are the possible answers?".
   * Too often, theories are told as absolute truths (or even laws) only to be revised years later.
-* Smart does not imply wise. Wise does not imply smart.
+* Dogma is regarded by the common people as true, by the wise as false, and by rulers as useful.
+* Think in possibilities rather than limitations.
+* Smart does not imply wise (or intelligent). Wise does not imply smart.
 * A culture of trust has the highest [payoff](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) (in contrast to e.g. retaliating strategies).
   * It allows interaction, and the sharing of ideas. Nurture (or invest in) the positive feedback loop: `truth => trust => reputation => attraction`.
   * But do gradually reduce exposure to uncooperative participants.
-* It is't necessary to continue after reaching a *good enough* point. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting).
-  * Only unicorns are perfect.
-  * Continuous improvement is better than delayed perfection.
-* Think in possibilities rather than limitations.
 * Be wary of [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost), [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), false [dilemma's](https://en.wikipedia.org/wiki/False_dilemma), generalizations and other [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). Cutting your losses may be more effective than optimizing your wins.
 * When explaining phenomena, consider [all types of causes](https://en.wikipedia.org/wiki/Four_causes) and place them in the [dimensions](https://de.wikipedia.org/wiki/Attributionstheorien) `internal-external, stable-unstable, global-local`.
 * If you don't want your product to be criticized, just give it a positive name: e.g. be *agile*, be smart, use *clean* code.
-* "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
 * Natural developments are not inevitable.
-* Dogma is regarded by the common people as true, by the wise as false, and by rulers as useful.
-* Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects.
-  * Context switching isn't free.
-* Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
 * Nobody ever got fired for buying IBM.
-* Being poor is expensive. Limited access to resources prohibits the use long-term investments.
 
-### Processes
+### Models & Language
+
+- Everything is a theory and could be proven wrong.
+- Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality).
+- Language is restrictive. It allows concepts to be expressed, but in a biased way.
+- Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
+
+### Quality / Value
+
+* Assembly of Japanese bicycle [require](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) great peace of mind.
+* [Quality](https://en.wikipedia.org/wiki/Aesthetics) cannot be defined, but we all know what it is.
+* Being poor is expensive. Limited access to resources prohibits the use long-term investments.
+* Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
+* "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
+* Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects.
+    * Context switching isn't free.
+* It is't necessary to continue after reaching a *good enough* point. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting).
+    * Only unicorns are perfect.
+    * Continuous improvement is better than delayed perfection.
+
+### Processes / Output
 
 * Value > productivity.
 * Effectiveness (doing the right thing, goal-oriented) > Efficiency (doing things right, process-oriented).

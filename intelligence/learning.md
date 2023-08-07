@@ -345,11 +345,7 @@ Other patterns
 
 ## Asking Good Questions
 
-In teaching: see [socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning).
-
-
-
-**Tools**
+**Tools / Deconstruction**
 
 Remove "self"
 
@@ -366,3 +362,23 @@ Question the origin
 Mirror questions
 
 - "What do you think/feel about it?"
+
+
+
+**In Coaching**
+
+- Oppurtunity > blame. What tools do you need to succeed? ~~Why did you fail?~~
+
+
+
+**In Teaching**
+
+See [socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning).
+
+- Origin. *Could you explain that further? What do you base that on?*
+- Assumptions. *Is that always true? What would need to happen for that to change?*
+- Evidence. *Could this evidence be incomplete?*
+- Perspectives. *What alternatives are there? Who beliefs otherwise?*
+- Implications / consequences. *If X, then what about Y? What's the effect on Z?*
+- Reflect. *What makes this question important? Why is it useful?*
+

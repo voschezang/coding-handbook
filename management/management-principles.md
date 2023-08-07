@@ -108,6 +108,18 @@ Note that measures of success can be biased by how a component is perceived. E.g
 
 Timeline, scope and capacity are related. If one changes, then at least one of the others will too.
 
+**In business**
+
+Components
+
+- Increase revenue, now and in the future.
+- Protect revenue, in the future.
+- Reduce cost, now and in the future.
+- Avoid cost, now and in the future.
+- Increase leverage (eg platforms, automation), in the future.
+
+
+
 ### Change
 
 Note that these can all involve [*change*](../intelligence/learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](../systems/organization-structure.md).

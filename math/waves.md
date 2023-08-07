@@ -22,6 +22,12 @@ Waves with unrelated frequencies produce *noise*.
   - Longitudinal wave. Through a different medium?
   - Transverse wave.
 
+**Fractals**
+
+Geometric patterns that exhibit self-similarity. They repeat a pattern over different time-scales. E.g. a snowflake.
+
+
+
 ## Simulations
 
 ### Traveling Waves
@@ -142,7 +148,7 @@ Ecology
 - Predator-prey cycles (years)
 - Animal reproduction cycle (seconds - years)
 
-Society
+Humanity
 
 - Civilizations, empires, cities (centuries)
 - Corporate organizations (decades)
@@ -167,6 +173,8 @@ Physics
 - [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation), e.g. light (λ)
 - Particle radiation (α, β)
 
+
+
 ### Unstable systems
 
 See [critical points](https://en.wikipedia.org/wiki/Critical_phenomena), [self-organized criticality](https://en.wikipedia.org/wiki/Self-organized_criticality).
@@ -177,3 +185,4 @@ See [critical points](https://en.wikipedia.org/wiki/Critical_phenomena), [self-o
 - Forest fires
 - Avalanches
 - Lightning / blizzards
+- Pendulum / swing set
