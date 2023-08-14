@@ -1,6 +1,6 @@
 # Learning
 
-See also [modeling](modeling.md).
+See also [knowledge](knowledge.md) and [modeling](modeling.md).
 
 [toc]
 
@@ -25,58 +25,7 @@ Experiments not require complex setups. Start simple and expand if necessary. Th
     2. Change one of them and use the other one as a baseline.
     3. Compare the results.
 
-
-
-This can be one in a formal way. See [scientific method](#Scientific Method).
-
-
-
-## Scientific Method
-
-> Science consists of making falsifiable predictions.
-
-Broadly, the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) consists of a prior belief, a conjecture (hypothesis), and an experiment. Specifically:
-
-1. **Problem statement** or observation. Explore. Do research.
-2. **Hypothesis**. A falsifiable prediction. Use *induction* to predict a hypothetical situation. Make a generalization based on an observation. These can range from analogies, causal inferences, syllogisms.
-3. **Experiment**. Design an experiment to test the hypothesis. Use *deduction* to ensure that conclusions are valid; both in terms of syntax and semantics. This may be done with either a formal or a natural language. A inherent challenge is to maximize the likelihood `P(E | H)`.
-4. **Analyze**. Observe the results and compare them to the *predicted* results. `P(H | E)`
-5. **Conclude**. Draw conclusions without over-generalizing.
-6. **Report** findings and share them freely. Facilitate other researchers to replicate the experiments.
-
-
-
-There are parallels with [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference).
-
-- The problem statement is the prior `P(H)`: the probability that the hypothesis `H` is true.
-- The hypothesis and the experiment are the likelihood `P(X | H)`: the probability of observing the predicted result `X`, if the hypothesis would be true.
-- The conclusion is the posterior `P(H | X`): the probability that the hypothesis is true, given the observation.
-
-
-
-In practice, it my be impossible to proof that an hypothesis is true. Instead, a combination of experiments can be setup to disprove or reject any alternative hypothesis.
-
-
-
-💭 **Philosophy**
-
-Philosophy is related to science. It is not strictly part of science, because it questions science itself and even our own existence and [objectivity](https://en.wikipedia.org/wiki/Objectivity_and_subjectivity) itself. 
-
-- It also covers ethics, which is grounded on [subjective experience](https://en.wikipedia.org/wiki/Philosophical_zombie). See [personhood](https://en.wikipedia.org/wiki/Personhood).
-
-
-
-🔨 **Engineering**
-
-Engineering differs from science in its purpose. It's about solving problems rather than discovering truth. It involves production on top of learning. Reliability is considered sufficient, rather than seeing absolute truth.
-
-
-
-🎨 **Art**
-
-> L'art pour l'art.
-
-Art differs from engineering in its purpose. It's about creation itself. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility.
+This can be done in a formal way. See [scientific method](knowledge.md#Scientific Method).
 
 
 

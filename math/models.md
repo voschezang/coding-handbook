@@ -1,14 +1,25 @@
 # Mathematical models
 
+See [modelling](../intelligence/modelling.md).
+
 [toc]
 
 ## Spectra & Dimensions
 
-- Metrics in the real world are often *nonbinary*. They may be fully continuous or categorical.
-- They may span over multiple dimensions
-  - Dimensions may be correlated or uncorrelated. E.g.
-    - The *performance* of an algorithm may be correlated to *complexity*.
-    - *Messiness* can be correlated to *creativeness*.
+Values can be:
+
+- Discrete
+    - Binary
+    - Categorical
+
+- Continuous
+
+They may span over multiple dimensions
+- Dimensions may be correlated or uncorrelated. E.g.
+  - The *performance* of an algorithm may be correlated to *complexity*.
+  - *Messiness* can be correlated to *creativeness*.
+
+
 
 ## Distributions (Statistics)
 
@@ -99,4 +110,4 @@ In physics, the following terms are used:
 2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
 
 **Fourier Series**
-[Fourier series](https://en.wikipedia.org/wiki/Fourier_series).
+[Fourier series](https://en.wikipedia.org/wiki/Fourier_series).	
