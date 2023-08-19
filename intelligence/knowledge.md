@@ -94,3 +94,16 @@ Challenges
 - The number of possible hypotheses is infinite. Science does not prescribe how to choose or select the right hypothesis. There is an *art* to thinking outside the box and coming up with novel hypotheses.
 
 
+
+## Value
+
+Facts vary in terms of value. This depends on
+
+- Generalization. In what conditions are they true?
+- Triviality or novelty. How obvious are they? How consistent are they with the status quo? 
+- [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail?
+
+Suppose someone recorded the result of 5 coin tosses. If the head-tail ratio was balanced this would be a low-value fact. If the ratio was skewed they the value would be higher, as it provides novel information about the coin.
+
+
+

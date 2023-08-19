@@ -27,6 +27,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * If you don't want your product to be criticized, just give it a positive name: e.g. be *agile*, be smart, use *clean* code.
 * Natural developments are not inevitable.
 * Nobody ever got fired for buying IBM.
+* Self-discipline is the willingness to be uncomfortable.
 
 ### Models & Language
 
@@ -39,6 +40,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 * Assembly of Japanese bicycle [require](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) great peace of mind.
 * [Quality](https://en.wikipedia.org/wiki/Aesthetics) cannot be defined, but we all know what it is.
+* Stylized products [look](https://en.wikipedia.org/wiki/Fa%C3%A7ade) like they're made with care.
 * Being poor is expensive. Limited access to resources prohibits the use long-term investments.
 * Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.

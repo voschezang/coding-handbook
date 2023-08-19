@@ -73,6 +73,7 @@ Social
 <details>
 <summary>Theory: <b>Intelligence</b> (and reasoning)</summary>
 <ul style="margin: 1em;">
+<li><a href="intelligence/knowledge.md">Knowledge</a> (and truth).</li>
 <li><a href="intelligence/creativity.md">Creativity</a> (exercises for brainstorming).</li>
 <li><a href="intelligence/learning.md">Learning</a> (change and improvement).</li>
 <li><a href="intelligence/modelling.md">Models</a> and modelling principles.</li>
@@ -96,6 +97,7 @@ Social
 </ul>
 </ul>
 </details>
+
 
 Other
 
