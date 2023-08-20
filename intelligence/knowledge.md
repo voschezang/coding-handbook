@@ -16,6 +16,10 @@ Philosophy is related to science. It is not strictly part of science, because it
 
 - It also covers ethics, which is grounded on [subjective experience](https://en.wikipedia.org/wiki/Philosophical_zombie). See [personhood](https://en.wikipedia.org/wiki/Personhood).
 
+> Philosophy is fundamentally destabilizing.
+
+This is unlike science, which attempts to provide structure and predictability.
+
 
 
 🔨 **Engineering**
@@ -42,7 +46,7 @@ Scientific models can be interpreted as *conventions*. They are chosen out conve
 
 Sciences attempts to discover objective knowledge: truth. It can start with various approaches.
 
-- A priori knowledge and [formal systems](https://en.wikipedia.org/wiki/Formal_system). Inference based on first principles (axioms). Developing a model that is internally consistent.
+- A priori knowledge and [formal systems](https://en.wikipedia.org/wiki/Formal_system). Inference based on first principles (axioms). Developing a model that is internally consistent. See [specification](https://en.wikipedia.org/wiki/Algebraic_specification).
 - Falsifiable hypotheses, repeatable experiments and peer-reviews. Incrementally update beliefs about the physical world.
 
 Both lead to models that are *true* in certain conditions. The generality of such models may vary. Difficulties arise when multiple valid models (seemingly) conflict with each other. One example is euclidean [geometry](https://en.wikipedia.org/wiki/Geometry) and non-euclidean geometry.
@@ -62,6 +66,59 @@ def map(x, y):
 Another example would be numeral systems. E.g. decimal digits `1,2,3`, binary digits `0, 1, 10, 11` and tally systems `I, II, III`.
 
 In general, one could define an arbitrary number of consistent models and morphisms. One can only speculate which ones are absolutely true and which ones exists "in the real world".
+
+
+
+### Semantics
+
+[Syntax](https://en.wikipedia.org/wiki/Syntax) does not imply [semantics](https://en.wikipedia.org/wiki/Semantics). It is possible to define a coherent model without any relation the "real" world.
+
+In software development this implies that the meaning of domain code is defined externally.
+
+
+
+### Value
+
+**Facts**
+
+Facts vary in terms of value. This depends on
+
+- Generalization. In what conditions are they true?
+- Triviality or novelty. How obvious are they? How consistent are they with the status quo? 
+- [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail?
+
+Suppose someone recorded the result of 5 coin tosses. If the head-tail ratio was balanced this would be a low-value fact. If the ratio was skewed they the value would be higher, as it provides novel information about the coin.
+
+
+
+**Value**
+
+The concept value can be divided into objective and subjective value. 
+
+1. The former is universal. It can be described as "quality". It may be measured objectively, e.g. in terms of accuracy, consistency or reliability. It is not necessarily unbiassed, as objects can be seen through different lenses, that each emphasize different qualities.
+2. The latter relates to a specific subject (person). As subjects, humans have feelings of delight and aversion towards different objects. In some cases this feelings may be shared within a culture or population. The boundary between objective and subjective value is not trivial. For example, the term *common sense* hints to universality, while describing a subjective mind.
+
+*Beauty* is a feature that relates to both types. Next to The following components contribute to it:
+
+- Contrast. Complexity / richness. Tension + release. Harmony, dissonance and resolution.
+- Uniqueness. Difference with the status quo. Novelty.
+- Cohesion. The audience's ability to understand (recognize) the signal.
+- Sensitivity. Resilience to change.
+
+Products that contain exclusively objective value are neglected in some way. E.g. an art piece that is locked up in a vault and forgotten about.
+
+
+
+<img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:40%;" />
+
+
+
+### Deconstruction
+
+A few typical ways to 
+
+- Reductionism or classicism. Decompose (understand) objects in terms of (atomic) components. Focus on the objective/real world: scientific properties.
+- Romanticism. Appreciate objects in relation to their environment. Emphasize subjectivity. Go beyond science.
 
 
 
@@ -92,18 +149,4 @@ Challenges
 
 - In practice, it my be impossible to proof that an hypothesis is true. Instead, a combination of experiments can be setup to disprove or reject any alternative hypothesis.
 - The number of possible hypotheses is infinite. Science does not prescribe how to choose or select the right hypothesis. There is an *art* to thinking outside the box and coming up with novel hypotheses.
-
-
-
-## Value
-
-Facts vary in terms of value. This depends on
-
-- Generalization. In what conditions are they true?
-- Triviality or novelty. How obvious are they? How consistent are they with the status quo? 
-- [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail?
-
-Suppose someone recorded the result of 5 coin tosses. If the head-tail ratio was balanced this would be a low-value fact. If the ratio was skewed they the value would be higher, as it provides novel information about the coin.
-
-
 

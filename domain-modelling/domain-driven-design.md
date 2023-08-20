@@ -8,6 +8,18 @@
 
 A typical example is to encapsulate strings. Instead of using raw strings, it's possible to define a custom type or class (e.g. `Username(string)`) which contains its own logic.
 
+
+
+**Types, properties, relations**
+
+- A *type* is a classification of an *instance* of an object.
+- A *property* is a characteristic or quality of an object: either a type or an instance.
+- Relations are properties that apply to multiple objects.
+
+More about relations [here](functions-relations.md).
+
+
+
 ### Ambiguity
 
 In the real world, objects can be ambiguous.
