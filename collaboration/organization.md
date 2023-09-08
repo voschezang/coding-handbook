@@ -2,7 +2,7 @@
 
 This can be a corporate organization or a society. See also [organization structure](../systems/organization-structure.md).
 
-
+[toc]
 
 ## Identity
 

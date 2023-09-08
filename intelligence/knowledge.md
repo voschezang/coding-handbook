@@ -69,7 +69,7 @@ In general, one could define an arbitrary number of consistent models and morphi
 
 
 
-### Semantics
+**Semantics**
 
 [Syntax](https://en.wikipedia.org/wiki/Syntax) does not imply [semantics](https://en.wikipedia.org/wiki/Semantics). It is possible to define a coherent model without any relation the "real" world.
 
@@ -77,33 +77,67 @@ In software development this implies that the meaning of domain code is defined 
 
 
 
+### Statements & Facts
+
+Statements consist of the following.
+
+- A couple of *things* `a, b` (i.e. objects), of *types* `A, B`.
+- A *relation* between them. E.g. `a ∝ b`.
+- A context `Γ` under which the statement is made.
+
+The **value** of a statement depends on the following.
+
+- Truthfulness. An objective lens.
+    - Claimed objectiveness. Is the statement necessarily true?
+        - A *fact* is a statement that is claimed to be true.
+
+    - Generalization. In what conditions is the statement applicable?
+
+- Usefulness. A subjective lens.
+    - How useful is this statement, to a subject?
+
+- News. The relation between other (previous) statements.
+    - Triviality or novelty. How obvious are they? How consistent are they with the status quo? 
+    - [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail?
+
+
+Suppose someone recorded the result of 5 coin tosses. If the head-tail ratio was balanced this would be a low-value fact. If the ratio was skewed they the value of this fact would be higher, as it provides novel information about the coin.
+
+The **meaning** of a statement is oriented towards a subject. It relates the statements to the experience of a subject.
+
+- *Syntax* is the internal structure of a language or statement. Ideally it is consistent.
+
+- *Semantics* is the meaning of a statement. It maps it to an external world (w.rt. the language). E.g. the world as it is experienced by subjects.
+
+
+
+**Generalization** levels. From generic to specific.
+
+1. Eternal. In every universe.
+2. Universal. In this whole universe.
+3. General. In principe/theory.
+4. Typical. The majority of cases that are expected to be observed.
+5. Often. Multiple times.
+6. Sometimes.
+7. In this case.
+
+
+
 ### Value
-
-**Facts**
-
-Facts vary in terms of value. This depends on
-
-- Generalization. In what conditions are they true?
-- Triviality or novelty. How obvious are they? How consistent are they with the status quo? 
-- [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail?
-
-Suppose someone recorded the result of 5 coin tosses. If the head-tail ratio was balanced this would be a low-value fact. If the ratio was skewed they the value would be higher, as it provides novel information about the coin.
-
-
-
-**Value**
 
 The concept value can be divided into objective and subjective value. 
 
-1. The former is universal. It can be described as "quality". It may be measured objectively, e.g. in terms of accuracy, consistency or reliability. It is not necessarily unbiassed, as objects can be seen through different lenses, that each emphasize different qualities.
+1. The former is universal. It can be described as "quality". It may be measured objectively, e.g. in terms of accuracy, consistency durability or reliability. It is not necessarily unbiassed, as objects can be seen through different lenses, that each emphasize different qualities.
 2. The latter relates to a specific subject (person). As subjects, humans have feelings of delight and aversion towards different objects. In some cases this feelings may be shared within a culture or population. The boundary between objective and subjective value is not trivial. For example, the term *common sense* hints to universality, while describing a subjective mind.
 
-*Beauty* is a feature that relates to both types. Next to The following components contribute to it:
+*Beauty* is a feature that relates to both types. The following components contribute to it:
 
 - Contrast. Complexity / richness. Tension + release. Harmony, dissonance and resolution.
 - Uniqueness. Difference with the status quo. Novelty.
-- Cohesion. The audience's ability to understand (recognize) the signal.
+- Cohesion. Unity. The audience's ability to understand (recognize) the signal.
 - Sensitivity. Resilience to change.
+
+*Excellence* is a more objectively-oriented feature. Living up to a potential. Being effective. The term is not contingent on an observer.
 
 Products that contain exclusively objective value are neglected in some way. E.g. an art piece that is locked up in a vault and forgotten about.
 
@@ -113,11 +147,51 @@ Products that contain exclusively objective value are neglected in some way. E.g
 
 
 
+### Materialism
+
+Material and immaterial objects.
+
+- Material world. Things (objects) that can be measured. [Mass](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence) or energy. Structures that can change, decay or perish.
+    - Properties of objects.
+    - Relations between objects. E.g. the [four](https://en.wikipedia.org/wiki/Fundamental_interaction) physical forces.
+    - Universal constants (in our universe). E.g. the speed of light, π, *e*, *h*.
+    - Impermanent structures. E.g. organisms, companies, nations.
+- Immaterial world. Structures that have an eternal aspect.
+    - Conceptual structures. Eternal structures.
+        - Algebra's. Formal systems. Set theory. Category theory.
+        - Numbers. Geometry. Calculus. Statistics.
+    - Conventions. These are chosen, out of convenience rather that necessity or universality. They are brought into existence by historic events: by being defined by a subject. Their syntactic meaning is persistent, but their semantic meaning is contingent upon subjects.
+        - E.g. the metric system, natural language.
+    - Emergent structures. Knowledge.
+        - Opinions. They emerge and can be communicated, but they do not exist in a specific place.
+
+
+
+Plato's dualism
+
+- Forms. Concepts or ideals. Similar to [type classes](https://en.wikipedia.org/wiki/Type_class). Eternal structures that cannot not exist. E.g. the concept *horseness*.
+    - Higher forms: forms of concepts.
+    - Lower forms: forms of phenomena.
+- Particulars. Instances of a form. E.g. physical objects. They exist contingently in the natural world, both epistemically and ontologically. E.g. a *specific horse*.
+
+
+
+Material objects can be understood from different [perspectives](https://en.wikipedia.org/wiki/Four_causes) or causes.
+
+- Formal perspective. The class of an object. E.g. the type of dog (breed).
+- Material perspective. What the object is made of. E.g. living cells, DNA.
+- Origin. How the structure has come into existence. E.g. birth.
+- Purpose. Why the object exists.
+
+
+
 ### Deconstruction
 
 A few typical ways to 
 
 - Reductionism or classicism. Decompose (understand) objects in terms of (atomic) components. Focus on the objective/real world: scientific properties.
+    - The tendency to break down structures may create a bias for oversimplification and tunnel vision. E.g. exclude non-material properties.
+
 - Romanticism. Appreciate objects in relation to their environment. Emphasize subjectivity. Go beyond science.
 
 

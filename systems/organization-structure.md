@@ -209,14 +209,21 @@ Decisions are made and forwarded according to a [chain of command](https://en.wi
 
 [Power](https://scholar.google.nl/scholar?hl=nl&as_sdt=0%2C5&q=+A+typology+of+organisational+cultures+-+Westrum&btnG=) in organizations can follow several patterns. Based on the flow of information, the following categories can be distinguished.
 
-- **Authoritative** (pathological): chain of command. Based on power and personal need.
-  - Hide information from competitors. Suppress risks. Associated with scapegoating.
+1. **Authoritative**: Strive for <u>power</u>. Follow chain of command. Compete for individual gain.
+2. **Bureaucratic**: Ensure fairness and resilience through <u>rules</u>. Maintain the status quo. Adhere to rules and policies.
+3. **Generative**: Strive for group performance. Be pragmatic.
+4. **Idealistic**: Prioritize ideals and values over individuals. Shared (higher) purpose.
 
-- **Bureaucratic**: rule-oriented. Based on departmental need. Ensure fairness through equal rules.
-  - Narrow responsibility. Local improvements. Associated with seeking justice
+These categories have the following properties.
 
-- **Generative**: performance-oriented. Welcome inquiry and support global improvements, even if they are disruptive.
-  - Shared responsibility. Associated with learning and sharing.
+|                                  | Oriented             | Success                                            | Responsibility       | Scale                         | Risks                                                        |
+| -------------------------------- | -------------------- | -------------------------------------------------- | -------------------- | ----------------------------- | ------------------------------------------------------------ |
+| **Authoritative** (pathological) | Power-oriented       | (Individual) Power.                                | Chain of command.    | Limited                       | Hide information from competitors. Suppress risks.           |
+| **Bureaucratic**                 | Rule-oriented        | Fairness, protection. Sometimes scale, efficiency. | Narrow, but explicit | Global                        | Slow, difficult to adapt. Bias for status quo. Lack of individual freedom. |
+| **Generative**                   | Performance-oriented | Effectiveness, outcomes.                           | Shared               | Global, but unstable          | Disruptive, unstable. Bias for metrics.                      |
+| **Idealistic**                   | Value-oriented       | Following ideals.                                  | Shared               | Global, but limited cohesion. | Idealism over realism.                                       |
+
+
 
 ### Direction of relations
 

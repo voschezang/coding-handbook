@@ -358,7 +358,8 @@ It helps to avoid:
 1. Blind, fast typing, muscle memory. Typing without conscious thinking.
 2. `vi`/`vim` commands: manipulating text files
 3. `grep`, `sed`, regular expressions: quickly writing queries for and through files). E.g. to search through log-files.
-4. Auto-completion and (AI-based) text-prediction.
+4. Auto-completion.
+5. (AI-based) text-prediction.
 
 **Tools**
 

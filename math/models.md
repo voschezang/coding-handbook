@@ -19,6 +19,23 @@ They may span over multiple dimensions
   - The *performance* of an algorithm may be correlated to *complexity*.
   - *Messiness* can be correlated to *creativeness*.
 
+<img src="../img/models-categories.png" alt="models-categories" style="width:70%;" />
+
+If a value is unity:
+
+- Change the perspective.
+
+If a value is binary:
+
+- Question whether neither or both options can be true.
+- Find a third category
+
+If a value is categorical:
+
+- Find steps that fall in between categories.
+
+
+
 
 
 ## Distributions (Statistics)

@@ -31,6 +31,14 @@ This can be done in a formal way. See [scientific method](knowledge.md#Scientifi
 
 ## Mental Models
 
+Rigidity. Worldviews.
+
+- Dualisms. Binary, black-white, left-right, us-them, good-bad.
+- Holism. Unity, cohesion. Idealistic.
+- Zen. Both singular and plural. Multiple correct models. Free of rigid rules.
+
+
+
 ### Building Models
 
 |                              | A Priori            | Evidence-based                                     |
@@ -121,18 +129,6 @@ The exception to this is learning like a child would. Being open-minded, without
 
 ### Other
 
-**Attitude**
-
-- Problem-oriented. Aware of risks, consequences. Understanding of root cause.
-
-- Solution-oriented. Imagine change and improvement.
-
-**Mindset**
-
-- Practice & Repetition. Listening (observing) and reflection.
-
-- Growth mindset. Now you don't know, but you can learn and change.
-
 **Tension-release**
 Push & pull. Similar to a dialogue, there should be a two-way interaction. Cross boundaries shortly, then step back and reflect. This allows you to maintain flow.
 
@@ -157,6 +153,66 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 
 - Unlearning: from 4. to 2.
 - Relearning: from 2. to 4.
+
+
+
+## Attitude & Mindset
+
+**Attitude**
+
+- Problem-oriented. Aware of risks, consequences. Understanding of root cause.
+
+- Solution-oriented. Imagine change and improvement.
+
+**Mindset**
+
+- Practice & Repetition. Listening (observing) and reflection.
+
+- Growth mindset. Now you don't know, but you can learn and change.
+
+**T-shaping**
+
+|          | Specialist         | Generalist                   |
+| -------- | ------------------ | ---------------------------- |
+| Focus    | Single domain      | Between domains              |
+| Scope    | Bounded            | Unbounded                    |
+| Goal     | Mastery everything | Increase learning rate       |
+| Attitude | Expertise          | Beginner's mind, open minded |
+
+**Beginner's mind**
+
+Attitude
+
+- Motivated: eager to learn.
+- Optimism: ready to learn.
+- Open minded: no assumptions. Feeling of wonder.
+- Aware of ignorance, limited skill.
+- Present. Focussed on learning the next step, rather than a far-away end goal.
+- Free, no rigid, predefined plan.
+
+The more you know, the more questions arise.
+
+Increase rate of learning, rather than finishing learning.
+
+Build models that generalize to other domains, add to increase your pace of learning.
+
+**Zen mind**
+
+Eager, present, paying attention. Here and now. Being, rather than recalling, imagining, thinking or controlling.
+
+- Seeing, rather than looking
+
+- Listening, rather than hearing
+
+- Noticing, rather than accepting
+
+
+
+**Peace of mind**
+
+Learn optimally by doing it in an environment where you have peace of mind.
+
+Avoid boredom.
 
 
 
@@ -331,3 +387,17 @@ See [socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning).
 - Implications / consequences. *If X, then what about Y? What's the effect on Z?*
 - Reflect. *What makes this question important? Why is it useful?*
 
+
+
+**Mu**
+
+Mu is a rejection to a given binary question. It is defined as "not true and not false".
+
+- In science, *mu* answers suggest that there is more to the question. They form a basis to continue investigating.
+- Moreover, they suggest that the initial question / hypothesis is somehow lacking - that it originates from a limited perspective.
+
+
+
+## References
+
+- R. M. Pirsing. *Zen and the Art of Motorcycle Maintenance.*
