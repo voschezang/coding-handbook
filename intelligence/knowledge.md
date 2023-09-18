@@ -8,7 +8,34 @@ This document discusses knowledge, truth and beliefs.
 
 Science attempts to organize knowledge. It relates to the following domains.
 
- 
+| Domain            | Quality (Emphasis)     | Bias                  | Artifact                    |
+| ----------------- | ---------------------- | --------------------- | --------------------------- |
+| Art               | Beauty                 | Imitation             | Text, paintings, sculptures |
+| Engineering       | Production, usefulness | Efficiency            | Products                    |
+| Humanities        | Subjectivity           | Cultural              | Stories                     |
+| Philosophy        | Theoretical knowledge  | Questioning, idealism | History of philosophy       |
+| (Natural) Science | Objective knowledge    | Facts, truth          | Papers                      |
+
+
+
+
+ 📖 **Science**
+
+The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) focusses on acquiring knowledge through experiments and publications. It consists of making falsifiable [predictions](https://en.wikipedia.org/wiki/Hypothesis) and attempts to make generalizations. It can be split up into natural, formal, social and applied science.
+
+- It is biased towards physical objects and their measurable properties. It tends to de-emphasize subjective experience.
+- Science, and especially the subject-object split has clear limits. The boundary includes the following: 
+    - In mathematics. [Axioms of mathematics](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems).
+    - In physics. The [standard model](https://en.wikipedia.org/wiki/Elementary_particle) and [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity). [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity). [Dark matter](https://en.wikipedia.org/wiki/Dark_matter).
+    - Before physics. [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics).
+    - Subjectivity: [aesthetics](https://en.wikipedia.org/wiki/Aesthetics) and [morality](https://en.wikipedia.org/wiki/Morality).
+- It does describe fundamental parts of reality incredibly accurately.
+    - [Waves and particles](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality). [Motion](https://en.wikipedia.org/wiki/Motion). [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics).
+    - [Forces of nature](https://en.wikipedia.org/wiki/Fundamental_interaction).
+    - [Mathematics](https://en.wikipedia.org/wiki/Mathematics): [Logic](https://en.wikipedia.org/wiki/Logic), [statistics](https://en.wikipedia.org/wiki/Statistics).
+
+
+
 
 💭 **Philosophy**
 
@@ -33,6 +60,12 @@ Engineering differs from science in its purpose. It's about solving problems rat
 > L'art pour l'art.
 
 Art differs from engineering in its purpose. It's about creation itself. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility.
+
+
+
+❤️ **Humanities**
+
+Explore the human condition: experience and beliefs. Language, culture and society.
 
 
 
@@ -111,7 +144,11 @@ The **meaning** of a statement is oriented towards a subject. It relates the sta
 
 
 
-**Generalization** levels. From generic to specific.
+#### Generalization Levels
+
+> Everywhere in the universe ≠ in every universe.
+
+From generic to specific.
 
 1. Eternal. In every universe.
 2. Universal. In this whole universe.
@@ -126,6 +163,8 @@ The **meaning** of a statement is oriented towards a subject. It relates the sta
 ### Value
 
 The concept value can be divided into objective and subjective value. 
+
+**Subjective & objective value**
 
 1. The former is universal. It can be described as "quality". It may be measured objectively, e.g. in terms of accuracy, consistency durability or reliability. It is not necessarily unbiassed, as objects can be seen through different lenses, that each emphasize different qualities.
 2. The latter relates to a specific subject (person). As subjects, humans have feelings of delight and aversion towards different objects. In some cases this feelings may be shared within a culture or population. The boundary between objective and subjective value is not trivial. For example, the term *common sense* hints to universality, while describing a subjective mind.
@@ -144,6 +183,14 @@ Products that contain exclusively objective value are neglected in some way. E.g
 
 
 <img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:40%;" />
+
+**Dynamic and static value**
+
+Another dimension to view value is dynamic and static value. The distinction has parallels with [establishment](https://en.wikipedia.org/wiki/The_Establishment) and [avant-garde](https://en.wikipedia.org/wiki/Avant-garde).
+
+- The dynamic component emphasizes *change* (novelty). It explains why experience decays after repetition.
+
+- The static component emphasizes structure and tradition.
 
 
 

@@ -196,9 +196,15 @@ Increase rate of learning, rather than finishing learning.
 
 Build models that generalize to other domains, add to increase your pace of learning.
 
+**Clear mind**
+
+- Single, clear purpose.
+- No attachment. E.g. to tradition.
+- No racing thoughts.
+
 **Zen mind**
 
-Eager, present, paying attention. Here and now. Being, rather than recalling, imagining, thinking or controlling.
+Eager, present, *paying* attention. Here and now. Being, rather than recalling, imagining, thinking or controlling.
 
 - Seeing, rather than looking
 
