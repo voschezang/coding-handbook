@@ -29,12 +29,13 @@ If a value is binary:
 
 - Question whether neither or both options can be true.
 - Find a third category
+    - Question whether there really is a single dimension.
+        - E.g. focus on X or de-focus. E.g. in organizations: focussing on specialization (efficiency) vs focussing on features (quality) vs focussing on simplicity.
+
 
 If a value is categorical:
 
 - Find steps that fall in between categories.
-
-
 
 
 
