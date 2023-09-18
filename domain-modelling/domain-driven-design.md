@@ -50,6 +50,8 @@ This can be modeled using an identity function [`id`](https://docs.python.org/3.
 **Generality**
 Generality is the concept of referring to an arbitrary number of objects. E.g. "a typical citizen".
 
+
+
 ### Reality
 
 > Databases model not reality itself, but how reality is processed by users
@@ -60,7 +62,107 @@ An information system is said to *support* a certain amount of data. This means 
 
 See [functions and relationships](./functions-relations.md).
 
-## Example: Currency Conversion
+
+
+## Examples
+
+
+
+### IaC / Architecture
+
+An example of the infrastructure configuration for a [CQRS](https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation) system.
+
+```yaml
+domain: # model / behaviour
+├── apps:
+│   ├── identity: # identity management
+│   │   └── start/stop/status.yml
+│   ├── keyvault: # secret management
+│   │   └── start/stop/status.yml
+│   ├── command: # write service
+│   │   └── start/stop/status.yml
+│   └── query: # read service
+│       └── start/stop/status.yml
+├── components:
+│   ├── storage
+│   └── webserver
+└── system:
+    ├── start.yml
+    ├── status.yml
+    ├── stop.yml
+    └── update.yml
+ops: # user-interface
+├── start.yml
+├── status.yml
+├── stop.yml
+└── update.yml
+inventory: # i.e. repository
+├── acc
+├── dev
+├── prd
+└── tst
+roles: # adapters
+├── firewall
+├── identity
+├── keyvault
+└── router
+```
+
+
+
+### Web API
+
+An example of a web service that stores customer data and addresses.
+
+```yml
+domain: # model
+├── address
+├── contract
+└── customer
+routes: # user-interface / API
+├── address:
+│   └── create.yml
+├── contract:
+│   └── create.yml
+└── customer:
+    └── create.yml
+repository: # persistency layer
+├── cassandra
+└── postgresql
+adapters:
+└── cdn
+```
+
+
+
+### Web API
+
+A  [hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) is an intuitive approach to combine domain-driven design (DDD) into a real-world application.
+
+A major component is the Adaptor pattern. All contextual logic is outsourced, allowing the inner code to focus on the core domain.
+
+E.g.
+
+```sh
+App
+├── CoreBusiness.java # Domain Logic
+├── Adapters # Adapters for external dependencies (libraries or APIs)
+│   ├── AnalyticsApp.java
+│   └── PartnerAPI.java
+├── Repository
+│   ├── Repository.java # Abstraction for internal databases
+│   └── Internal
+│       ├── Inventory.java
+│       ├── Order.java
+│       └── UserAccount.java
+└── Service # User-Centric APIs
+    ├── ExternalRestAPI.java
+    └── InternalRestAPI.java
+```
+
+
+
+### Currency Conversion
 
 Two type-safe implementations using FP and OOP.
 Unit-tests are excluded for brevity.
@@ -146,31 +248,7 @@ class Wallet // composite pattern
 
 Because the two implementations are [comparable](https://en.wikipedia.org/wiki/Isomorphism), one could be used to generate the other.
 
-## Architecture
 
-A  [hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) is an intuitive approach to combine domain-driven design (DDD) into a real-world application.
-
-A major component is the Adaptor pattern. The idea is to outsource all contextual logic, allowing the inner code to focus on the core domain.
-
-E.g.
-
-```sh
-$ tree
-App
-├── CoreBusiness.java # Domain Logic
-├── DependencyAdapter # Adapters for external dependencies (libraries or APIs)
-│   ├── AnalyticsApp.java
-│   └── PartnerAPI.java
-├── Repository
-│   ├── Repository.java # Abstraction for internal databases
-│   └── Internal
-│       ├── Inventory.java
-│       ├── Order.java
-│       └── UserAccount.java
-└── Service # User-Centric APIs
-    ├── ExternalRestAPI.java
-    └── InternalRestAPI.java
-```
 
 ## References
 
