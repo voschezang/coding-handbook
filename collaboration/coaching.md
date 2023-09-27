@@ -2,6 +2,8 @@
 
 Coaching is about providing a soundboard, through questioning. It's oriented towards potential and results. It starts with the preferences of the coachee. They are for example responsible for choosing objectives.
 
+See also [goals](../activity/goals.md), [purpose](activity/purpose.md).
+
 [toc]
 
 ## Overview
@@ -30,12 +32,18 @@ Coaching is not limited to planning and goal-setting. It may range from:
 Coaching is **result**-oriented. This means:
 
 - Start with a desired result, based on the preference of the coachee. Note that desires may change over time.
-- Focus on core desires rather than fears
+- Optimism rather than pessimism.
+    - Explore core desires rather than fears.
+    - Focus on potential. Explore options rather than obstacles.
+    - Emphasize what is possible, instead of what is not.
+    - Emphasize what worked well over failures.
 - Practical steps rather than theory and analysis.
-- Let the coachee come up with solutions. Then explore these.
+    - Don't over-analyze problems
+
 - End conversations with an action point.
-- Don't over-analyze problems
-- Don't provide solutions.
+- Let the coachee come up with solutions. Then explore these.
+    - Don't provide solutions.
+
 
 
 
@@ -50,12 +58,14 @@ Necessary conditions.
     - Request approval when approaching boundaries. E.g. for personal questions, giving suggestions.
 - Agreement on the coach-coachee relation. 
 - Sessions
-    - Intake session to align expectations and set an initial objective.
+    - Intake session to align expectations and set an initial objective. Check the expectations with respect to coaching itself.
     - Repeated conversational sessions that end with action points.
 
 
 
-## Power dynamics
+## Context
+
+### Power dynamics
 
 Coaching requires confidentiality. Avoid conflicting interests.
 
@@ -67,13 +77,28 @@ Coach as a middlemen, between the employee and manager.
 
 
 
-## Supporting roles
+### Supporting roles
 
-Coaching focusses on the intersection of the subject and a context. E.g. an organization.
+Differences between coaching, mentoring and consulting.
 
-Mentoring focusses on the intersection of the subject and a domain. E.g. a sport or craft.
+
+
+Differences in focus:
+
+- Coaching: intersection of the subject and a *context*. E.g. an organization.
+
+- Mentoring: intersection of the subject and a *domain*. E.g. a sport or craft.
 
 <img src="../img/coach-mentor-goals.png" alt="coach-mentor-goals" style="width:40%;" />
+
+
+
+Differences in problem solving:
+
+- Coaching: Help the subject to solve a problem.
+    - Or, challenge the obstacle itself.
+- Mentor: Show alternative approaches to a problem.
+- Consultancy: Provide *a* solution for a problem.
 
 
 
@@ -106,28 +131,82 @@ For coaching conversations
 
 ### Templates
 
+#### Grow model
+
 [GROW](https://en.wikipedia.org/wiki/GROW_model) model.
 
 <img src="../img/conversation-model-grow.png" alt="conversation-model-grow" style="width:60%;" />
 
 
 
-**Conversation Flow**
+#### Conversation Flow
 
-Initially the ambition might not be clear.
+Initially the ambition might not be clear. Facilitate the coachee to discover it.
+
+**Flow**
+
+After making contact, sitting down and small talk, continue to a deeper conversation.
 
 - Start with the **context**. Learn about the environment.
 - This often touches certain perceived **obstacles**. Listen to these, but do not dwell on them. Put them into perspective, challenge them or look past them. Explore what is possible.
-- To look past obstacles it can help to moving the focus to either a **competency** or personal **value**. Emphasize these and explore how they can contribute to the coachee.
+- To look past obstacles it can help to moving the focus to either a **competency** or personal **value**. Emphasize these and explore how they can contribute to the coachee. Explore capabilities.
 - Move back and forth to topics based on intuition. Zoom in and out by exploring (future) **ambition**.
 - Eventually, move towards concrete, alternative **behaviour** that could help.
 - Let the conversation end with action points. Check whether these match the preferences of the coachee.
+
+
 
 <img src="../img/conversation-model.png" alt="conversation-model" style="width:70%;" />
 
 
 
-These topics focus attention on different aspects of life. They help to associate and dissociate.
+**Side stepping**
+
+> Read between the lines.
+
+Pay attention to topics that are significant or that bring up emotions. These are keys to underlying factors. Be mindful of non-verbal clues.
+
+- Linger on these topics. Avoid rushing a conversation. Dare to pause and be silent.
+- Given a topic such as an event, consider both the resulting *behaviour* and the *experience* (feeling).
+    - Effect: "How did that affect you?"
+    - Behaviour: *"How did you react?"*
+    - Feeling: *"How do you feel about that?"*
+- Link these topics to the ambition. Explore how they relate to the ambition.
+
+
+
+**Active listening**
+
+Listen actively. Recognize the other. Be fully empathetic. Put yourself in the other's shoes, without judging.
+
+- Note that communication is bidirectional. Be mindful of your own appearance (incl. nonverbal communication).
+
+Tools
+
+- Focussing
+    - E.g. repeat a significant phrase. Address a relevant (nonverbal) signal.
+- Exploring. This is useful when the other is sending multiple or mixed messages.
+    - Summarize what was said.
+    - Involving. Ask open questions.
+    - Check assumptions.
+
+
+
+**Values**
+
+Typical values, categorized by direction:
+
+- Integrity. Respect, fairness, justice. Transparency, honesty.
+- Autonomy, independence, liberty.
+- Self-actualitzation, creativity, challenge, purpose. Dynamic lifestyle.
+- Social-economic position. E.g. status, influence, wealth. Static lifestyle. 
+- Security, safety.
+
+
+
+**Associating and dissociating**
+
+Different topics focus attention on different aspects of life. They help to associate and dissociate.
 
 
 
@@ -154,16 +233,18 @@ Purpose: zoom in towards core values and motivation.
 
 **Qualities & Allergies**
 
-Purpose: understand extreme forms of behaviour.
+Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md).
 
 ```markdown
 List of
 
-- Quality
+- Quality (a trait)
   - Pitfalls of the quality. When there is too much of the quality.
   - Challenge: how to overcome the pittfall.
   - Allergy: the opposite of the quality.
 ```
+
+<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="width:60%;" />
 
 **Needs (Maslow)**
 

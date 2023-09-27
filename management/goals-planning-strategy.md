@@ -1,52 +1,16 @@
-# Goals & Strategy
+# Strategy & Planning
+
+Making plans, following plans and updating plans.
+
+Also see [goals](../activity/goals.md).
 
 [toc]
-
-## Introduction
 
 > Plans are worthless, but planning is everything. Execution > strategy.
 
 > Good strategy means saying no.
 
-**Goals**
-
-Goals are a tools that can be used to:
-
-- ⭐ North star. Align on a direction.
-- 💡Enlighten. Inspire and amplify performance.
-- 🔦 Shine light on ... Understand performance.
-- 🚦 Warn. Asses performance or progress.
-
-**Planning**
-
-Different modes of planning:
-
-- **Top-down**. Follow a vision. Then fill in the remaining steps. Address any obstacle.
-  - 🧭 Goal-oriented. Define a clear direction or **outcome**.
-    - 🎲 Then work on **positioning** and make bets that will help to achieve your goals.
-  - 🎯 Optimize for **point estimates**. Breakdown tasks into concrete sub-tasks. Focus on output.
-- **Bottom-up**. Focus on needs. Understand the current problems. Then address them. E.g. remove bottlenecks.
-
-The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
-
-**Types of goals**
-
-Goals do not have to be *coupled* to plans
-
-- They can be higher level and longer term.
-- They can point to an ideal state, without requiring an explicit pre-determined path to get there.
-
-**Idealistic** goals. Decouple long-term goals from plans. Direction > position.
-
-- This improves agility. More flexibility to add initiatives that will bring you closer to a goal.
-- This avoids premature optimization. First define where you want to go, before considering the limitations.
-
-**Realistic** goals. Couple short term goals with a planning. Make them [s.m.a.r.t.](https://en.wikipedia.org/wiki/SMART_criteria).
-
-- Make them realistic. Minimize scope and contain risk. Consider the available resources.
-- Make them time-bound. Ensure there is enough urgency.
-
-### Terminology
+## Terminology
 
 <table>
 <tr>
@@ -150,6 +114,8 @@ Insights
 | North Star Model | Alignment     | Years              |
 | OKR Model        | Focus         | Months             |
 
+
+
 ### North Star Model
 
 1. North star **goal**. An amazing outcome - yet far away.
@@ -161,6 +127,8 @@ Insights
 Visually:
 
 <img src="../img/current-target-state.png" alt="current-target-state" style="width:70%;" />
+
+
 
 ### OKR Model
 
@@ -213,46 +181,6 @@ How to design OKRs, given an initial idea.
 
 
 
-## Formulating Goals
-
-> Think big, work small
-
-Criteria for good goals.
-
-- Motivation and incentives. Think big.
-  - Outcome > problem. Focus on where to go, rather than what to avoid.
-  - Chain outcomes together. Show what the current objective will make possible.
-- Make it realistic. Minimize scope.
-  - Restrict the outcome to what is in your control.
-  - Make it specific. Add conditions. Define when the goal is achieved.
-  - Consider the available resources.
-
-In addition, ensure the following.
-
-- High awareness of the main goal, at multiple levels and time scales.
-- Urgency. E.g. by committing to deadlines.
-
-**Dimensions**
-
-Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720).
-
-- Time-horizon. E.g. days, weeks, months, years, decades.
-- Distance to customer. Oriented towards internal tools, platforms, teams, end-users, customers.
-- Depth. E.g.
-  - Level of abstraction: conceptual or concrete (actionable).
-  - Level of detail: generic (visionary) or specific.
-  - Strictness: Guiding or focussed.
-  - Scope: Broad (holistic) or narrow.
-
-**Anti-patterns**
-
-- Give all goals the same priority. Lack of an preeminent goal.
-- Low awareness of the goal. The goal get's lost in day to day activities.
-- Lack of repetition and iteration. Switching directions without learning from past results.
-- Goals are create purely top-down. There is no consideration for local problems.
-- Goals are create purely bottom-up. It is biased to local optimization.
-- "Do the same as last year, but more efficient".
-
 ## (Planning) Living Roadmap
 
 > Great outcome > meeting initial requirements.
@@ -302,6 +230,8 @@ Follow up questions:
 - What's required to cut the timeline by half?
 - What required to double the impact?
 
+
+
 #### Template 1: Persistent Outcomes
 
 > Separate goals from dreams
@@ -322,6 +252,8 @@ This can be accompanied with the following:
 - A list of initiatives. I.e. the work that needs to be done to reach a target state.
 
 - A list of desired outcomes over time, on an exponential timescale. E.g. a month, quarter, year and 4 years.
+
+
 
 #### Template 2: Goal Cascade
 
@@ -354,6 +286,7 @@ A hierarchy of targets that is updated every quarter.
 <img src="../img/goals-tree-double.png" alt="goals-tree" style="width:50%;" />
 </details>
 
+
 #### Template 3: Path
 
 Format for a pitch:
@@ -365,6 +298,8 @@ Format for a pitch:
 In case of technology-based projects this can be complemented with suggestions for **prototypes**.
 
 ![roadmap-path](../img/roadmap-path.png)
+
+
 
 ## Alignment
 
@@ -384,13 +319,15 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 
 See also [management-principles](management-principles.md#Meetings).
 
+
+
 ### Visualize
 
 #### Organization or Team Health
 
 KPI's
 
-#### WIP
+#### Work in Progress (WIP)
 
 Visualizing work has a few benefits:
 
@@ -400,6 +337,8 @@ Visualizing work has a few benefits:
 This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) board. Such a board consists columns such as: `to-do, doing, done`. Each column may contain cards, which represent actions or tasks. See [product management](product-management.md).
 
 <img src="../img/kanban-board.png" alt="kanban-board" style="width:40%;" />
+
+
 
 ## Project Portfolio
 
@@ -414,6 +353,8 @@ Below are a few templates
 - Signals
 - Desired States
 - Option pool. A mapping from initiatives to higher-level goals.
+
+
 
 ### Template: Signals & Underlying Problems
 
@@ -433,6 +374,8 @@ Based on this, it is possible to:
 
 Review & report in order to maximize learning.
 
+
+
 ### Template: Risks
 
 List the major risks and estimate their exposure (probability and probability of materialization). Consider both:
@@ -441,6 +384,8 @@ List the major risks and estimate their exposure (probability and probability of
 - Vulnerabilities (internal)
 
 Use this to decide to invest in mitigation. See [management-principles](management-principles.md).
+
+
 
 ### Template: Desired States
 
@@ -474,11 +419,15 @@ Desired State
 ...
 ```
 
+
+
 ### Template: Portfolio / Option pool
 
 1. Determine & align on a *set* of core objectives. Avoid ordering this set by importance. E.g. `deliver value` now, and `contain cost`, `be agile` to be able to keep doing this in the future.
 2. Create an option pool of initiatives. Show how each initiative relates to a core objective.
 3. Compare the ROI, risk and compatibility of the initiatives.
+
+
 
 ### Template: Matrices
 
@@ -498,6 +447,8 @@ Desired State
 | **High risk / low cost** | Project X  |           |           |
 | **-**                    |            |           | Project Y |
 | **Low risk / High cost** |            | Project Z |           |
+
+
 
 ### Visualizations
 
@@ -523,79 +474,7 @@ This is again based on categories or themes, but this template emphasizes the op
 
 <img src="../img/option-pyramid.png" alt="option-pyramid" style="width:70%;" />
 
-## Formulating a Goal
 
-Goals can be used to both motivate and guide a person or organization.
-
-The goal itself should be skewed towards the *Why* instead of the *What*. It should be an optimistic vision or mission.
-
-- This includes a understanding of the relevant assumptions.
-- Goals that are too optimistic lead tend to lead to short term optimization. E.g. trying to survive instead of investing in long-term solutions.
-- Goal that are not challenging enough lack a motivational effect. This may lead to a lack of focus.
-
-A goal may be accompanied with an *initiative* (input), *target* (output, result) and a *target condition* (objective, outcome) and an estimation of the *impact*.
-
-**Initiative & Target**
-
-Global optima are usually unknown in advance.
-
-- Initially the target condition can be be a vague *challenge*. Missing details can be filled step by step, after reflection and experimentation. In fact, it is inevitable that you find new information when moving forward.
-- Define the minimum amount of work that is required to reach an outcome and start there.
-
-- Beware of changing the target condition to fit the current state.
-
-**Metrics**
-
-Use metrics as a tool to track incremental progress. Expectations for metrics should be ambitious but not impossible.
-
-- Note that all metrics are flawed. They cannot be both generic and specific.
-- Optimize targets and not [the measure](https://en.wikipedia.org/wiki/Goodhart%27s_law) (avoid [perverse incientives](https://en.wikipedia.org/wiki/Perverse_incentive)).
-
-- Use different goals per timescale: `days, weeks, months, years, decades`. Relate shorter term goals to longer term goals.
-
-**Estimating**
-
-Reasoning with probabilities and large numbers is harder than reasoning with small, discrete numbers
-
-- `1 out of 8` is more intuitive than `12.5%`.
-- Conglomerations are easier than continua and numeric values.
-
-- Predict complexity of a tasks by the estimating the number of subtasks
-
-Avoid personal bias. Instead of estimating your personal work (or your team), estimate what an other or similar person/team could achieve.
-
-**Flow of Work**
-
-The optimal size of batches, number of batching steps and the size of subtasks is context-dependent. Hence it should be optimized to current conditions, in concurrence with any target conditions.
-
-**Choosing Goals**
-
-Prioritization requires de-prioritization. This is inherently difficult. A few tools that can be used are:
-
-- Select a single goal, that is absolutely necessary. E.g. address (or identify) the main constraint.
-
-- Create a plot of the benefits as result of the effort required, for each possible goal.
-
-Defining goals
-
-- Bottom-up: First list features or desires, then define metrics.
-- Top-down: Define a desired outcome, then define metrics to track progress towards that outcome, then list immediate actions.
-
-**Assumptions & Facts**
-For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
-
-### Template: Choosing Sub-Goals
-
-Different ways to set goals
-
-**Legend**
-
-- A. Current state
-- B. Next target state, which will help towards Y and Z.
-- Y. Required objective for Z.
-- Z. North star goal
-
-<img src="../img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
 ## Making Choices
 
@@ -628,6 +507,8 @@ The goal of documentation is to externalize thinking. This helps with aligning t
 
 Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](../documentation.md).
 
+
+
 ### Tools
 
 **Narrative**
@@ -657,6 +538,8 @@ A high-level, long-term goal that is used to show the direction to work towards.
 
 **Output, Outcome and Impact**
 See [requirements engineering](requirements-engineering.md).
+
+
 
 ### Map
 

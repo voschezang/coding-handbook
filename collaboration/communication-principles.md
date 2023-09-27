@@ -164,9 +164,21 @@ Incorporating these factors puts a *positional* argument into perspective.
 
 E.g.
 
-- A positional argument may have the form: "Why did you do this to me?!" "I didn't! I wanted to do that!"
+- A positional argument may have the form: "Why did you do *this* to me?!" "I didn't! I wanted to do *that*!"
 
 - Deconstructing the positions into an *effect* and an *intent* shows that both perspective are right, at the same time.
+
+
+
+#### Core Quality Quadrant: Personal Qualities & Risks
+
+> Each allergy signifies an underlying quality
+
+For each *quality* or trait, there is an extreme which usually has adverse effects. This presents a *risk*. Often, the behaviour associated with addressing this risk is the reverse of the quality. Behaving in the opposite direction of the initial quality is *challenging*.
+
+The extreme side of the challenge may conflict with the initial quality. This is the *allergy*.
+
+<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="width:60%;" />
 
 
 
@@ -186,9 +198,11 @@ Specific forms
 - **Absence** of silence. This may send a mixed messages. It may be interpreted in many different ways.
 - **Presence** and attention. E.g. to show support.
 
+
+
 #### Communication styles
 
-- Ideal behaviour: switch between these based on context and need.
+- Ideal behaviour: switch between these based on context and need. Take space and give it back (welcome space).
 
 | Pushing                                                      | Pulling                                                  |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
@@ -197,16 +211,22 @@ Specific forms
 | Persuading (reasoning), asserting, incentivizing (sanctioning) | Bridging (involving, listening, disclosing), attracting. |
 | Objectivity. Facts, events.                                  | Subjective experience of the other. Needs, emotions.     |
 
+
+
 #### Level of assertiveness
 
 - Ideal behaviour: find a balance based on each other's boundaries.
 
-| Sub-assertive       | Assertive              | Aggressive            |
-| ------------------- | ---------------------- | --------------------- |
-| Indirect            | Direct + respect       | Direct - respect      |
-| Relation > goal     | Relation + goal        | Goal > relation       |
-| Lowering boundaries | Maintaining boundaries | Going over boundaries |
-| Too agreeable       |                        | Too defensive         |
+|                                      | Sub-assertive                     | Assertive                       | Aggressive                    |
+| ------------------------------------ | --------------------------------- | ------------------------------- | ----------------------------- |
+| Balance between directness, respect. | Indirect                          | Direct + respect                | Direct - respect              |
+| Balance between relation, goal.      | Relation > goal                   | Relation + goal                 | Goal > relation               |
+| Boundaries                           | Lowering boundaries               | Maintaining boundaries          | Going over boundaries         |
+| Flexibility                          | Too agreeable                     | Authentic. In line with desire. | Too defensive                 |
+| Behaviour                            | Too careful (slow)                | Attentive. Reconsidering.       | Too eager (fast)              |
+| Responsibility                       | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
+
+
 
 #### Bridging, Mediating, Negotiating
 

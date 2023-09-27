@@ -1,10 +1,8 @@
 # Labour
 
-This document presents a liberal taxonomy of labour, work and management. It is inspired by from various fields, for example [systems science](https://en.wikipedia.org/wiki/Systems_science) and [business administration](https://en.wikipedia.org/wiki/Business_administration). Labour can be defined as ([src](https://en.wikipedia.org/wiki/Work_(human_activity))):
+This document presents a liberal taxonomy of labour, work and management. It is inspired by from various fields, for example [systems science](https://en.wikipedia.org/wiki/Systems_science) and [business administration](https://en.wikipedia.org/wiki/Business_administration).
 
-> Labour is human activity directed at meeting necessities for self-preservation and the reproduction of the species. Because these needs cannot be satisfied once and for all, labour never really reaches an end [...] a futile but necessary activity.
-
-This contrasts with *work*, which has a clearly defined beginning and end. This [instrumental](https://en.wikipedia.org/wiki/Instrumentalism) property creates a bias towards purposefulness. [Product management](../management/product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account.
+[Product management](../management/product-management.md) often focusses on delivering value to a customer. The interests of employees, citizens and climate should also be taken into account.
 
 [toc]
 
