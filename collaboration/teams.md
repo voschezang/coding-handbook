@@ -2,6 +2,125 @@
 
 [toc]
 
+## Health & Performance
+
+### Intuition
+
+#### Properties of a successful team
+
+The strongest signal is when you can feel that the team is happy or productive. Specific signals are:
+
+- The team has recently made contributions;
+- The team delivers value;
+- The team collaborates and interacts;
+- The team works in harmony.
+
+
+
+### Optimizing Performance
+
+Performance evaluation / reflection / planning for autonomous teams
+
+Note: not a replacement for one-on-one performance evaluations with a manager
+
+Attitude
+
+- Growth mindset, learn how to help each other
+- Team performance > individual performance
+
+
+
+Phases
+
+- Discovery
+    - What can we expect? / Where are we now?
+    - Objectives. What should we expect? What do we want to achieve in the next quarter?
+    - Results. Which results will show that we've reached these objectives?
+    - What are the obstacles?
+- Delivery
+    - Develop a plan to reach these results.
+        - E.g. how do we distribute work
+    - And/or how to do this in the future.
+
+
+
+### Health Indicators
+
+Perspectives
+
+- Breakdown by activity: making plans, following plans and adapting plans.
+
+- Breakdown by context: team view, functional view, strategic view.
+
+
+
+For a typical software development team, this could result in the following metrics.
+
+|                     | Quality                  | Resilience                                   |
+| ------------------- | ------------------------ | -------------------------------------------- |
+| **Human view**      | Team dynamics and health | Ability to deal with setbacks.               |
+| **Functional view** | Daily operation          | Ability to deal with disruption.             |
+| **Strategic view**  | Planning & execution     | Ability to adapt.                            |
+| **Strategic view**  | Ability to plan ahead    | Consistency over time                        |
+| **Execution view**  | Quality of projects      | Predictability. E.g. lead time of increments |
+
+The following table depicts a visual interpretation.
+
+- Similar columns are placed next to each other to highlight possible correlation.
+- The column *expected* is filled in optimistically.
+
+| Perspective         | Metric                       | Expected                              | Currently                                | Recently                                 | Historically                             |
+| ------------------- | ---------------------------- | ------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| **Human view**      | Team health                  | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:green">good</span>    | <span style="color:green">good</span>    |
+|                     | Resilience                   | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:green">good</span>    |
+| **Functional view** | Unplanned operations         | <span style="color:green">good</span> | <span style="color:green">good</span>    | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       |
+|                     | Standard operations          | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> |
+| **Strategic view**  | Planning                     | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:orange">medium</span> |
+| **Execution**       | Lead time of increments      | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:orange">medium</span> |
+|                     | Quality of finished projects | <span style="color:green">good</span> | <span style="color:green">good</span>    | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> |
+
+
+
+#### Models
+
+Models that provide insight and can be used to predict effectiveness.
+
+
+
+Lencioni model (five dysfunctions of a team)
+
+1. Absence of **trust**. Can team members be open/vulnerable?
+2. Fear of **conflict**. Is conflict suppressed?
+3. Lack of **commitment**. Dedication.
+4. Avoidance of **accountability**. Do team members hold each other accountable?
+5. Inattention to - collective - **results**. Versus local/personal results.
+
+
+
+Google model. [src](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+- **Psychological safety** – Feeling able to take risks without feeling insecure or embarrassed.
+- **Dependability** – Being able to count on each other to deliver high-quality work on time.
+- **Structure & clarity** – Having clear goals, roles, and plans for each member and the group as a whole.
+- **Meaning of work** – Working on something personally important to each team member.
+- **Impact of work** – The belief that the work being done matters.
+
+
+
+T7 Model of Team Effectiveness
+
+- Internal factors
+    - Task executed successfully
+    - Thrust: common purpose
+    - Trust in each other
+    - Talent - collective skills
+    - Teaming - operate effectively
+- External factors
+    - Team leader fit
+    - Team support from the organization
+
+
+
 ## Way of Working
 
 For teams and departments
@@ -47,81 +166,4 @@ For teams and departments
 - Importance of commitments.
 - Ambition of commitments: optimistic or realistic.
 - Accountability of commitments.
-
-
-
-## Health & Performance
-
-### Properties of a successful team
-
-The strongest signal is when you can feel that the team is happy or productive. Specific signals are
-
-- The team has recently made contributions;
-- The team delivers value;
-- The team collaborates and interacts;
-- The team works in harmony.
-
-
-
-### Optimizing Performance
-
-Performance evaluation / reflection / planning for autonomous teams
-
-- Not a replacement for one-on-one performance evaluations with a manager
-- Growth mindset, learn how to help each other
-- Team performance > individual performance
-
-
-
-Phases
-
-- Discovery
-    - What can we expect? / Where are we now?
-    - Objectives. What should we expect? What do we want to achieve in the next quarter?
-    - Results. Which results will show that we've reached these objectives?
-    - What are the obstacles?
-- Delivery
-    - Develop a plan to reach these results.
-        - E.g. how do we distribute work
-    - And/or how to do this in the future.
-
-
-
-### Health Indicators
-
-Models that provide insight and can be used to predict effectiveness.
-
-
-
-Lencioni model (five dysfunctions of a team)
-
-1. Absence of **trust**. Can team members be open/vulnerable?
-2. Fear of **conflict**. Is conflict suppressed?
-3. Lack of **commitment**. Dedication.
-4. Avoidance of **accountability**. Do team members hold each other accountable?
-5. Inattention to - collective - **results**. Versus local/personal results.
-
-
-
-Google model. [src](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
-
-- **Psychological safety** – Feeling able to take risks without feeling insecure or embarrassed.
-- **Dependability** – Being able to count on each other to deliver high-quality work on time.
-- **Structure & clarity** – Having clear goals, roles, and plans for each member and the group as a whole.
-- **Meaning of work** – Working on something personally important to each team member.
-- **Impact of work** – The belief that the work being done matters.
-
-
-
-T7 Model of Team Effectiveness
-
-- Internal factors
-    - Task executed successfully
-    - Thrust: common purpose
-    - Trust in each other
-    - Talent - collective skills
-    - Teaming - operate effectively
-- External factors
-    - Team leader fit
-    - Team support from the organization
 
