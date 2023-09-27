@@ -2,6 +2,8 @@
 
 For brainstorming, out-of-the-box thinking, problem solving, etc.
 
+Tags: `template`
+
 
 
 **Flow**
@@ -24,6 +26,10 @@ Tension-release cycle for flow states
 | Long term                | What will it look like in 1000 days.                       | A year from now.      |
 | Extreme case             | What would need to be done to reach 10x improvement.       |                       |
 | Worst case               | What would be a nightmarish result. How would that happen. | Bankruptcy in 1 week. |
+
+When struck
+
+> Who would know how to approach this?
 
 
 

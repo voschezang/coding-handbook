@@ -279,7 +279,7 @@ As mentioned, reaching the sprint goal has precedence over the sprint backlog. T
 Ideally the Sprint Goal would have been reached before the end of the sprint. In such case the team could start preparation for the next sprint, but they could also take this opportunity to invest time in longer-term goals, reflect or work on personal improvements.
 
  **Definition of Done**
-The Definition of Done (DoD) describes when an Increment is *ready* to be released to customers. It is used to ensure quality. and transparency, by providing a shared understanding. It is created by the Scrum Team. If there is a organization-wide DoD then that one must be followed as a minimum. The Dod should be equal for teams that work on the same product, but it can be complemented by team-specific *development standards*.
+The Definition of Done (DoD) describes when an Increment is *ready* to be released to customers. It's a contract between the development team and stakeholders that ensure quality. It is created by the Scrum Team. If there is a organization-wide DoD then that one must be followed as a minimum. The Dod should be equal for teams that work on the same product, but it can be complemented by team-specific *development standards*.
 
 In addition, the DoD is complemented by Acceptance Criteria of backlog items, which are more specific.
 

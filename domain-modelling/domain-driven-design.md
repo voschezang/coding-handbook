@@ -135,7 +135,7 @@ adapters:
 
 
 
-### Web API
+### Web API (Java)
 
 A  [hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) is an intuitive approach to combine domain-driven design (DDD) into a real-world application.
 

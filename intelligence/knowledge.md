@@ -4,7 +4,20 @@ This document discusses knowledge, truth and beliefs.
 
 [toc]
 
-## Domains
+
+
+## Overview
+
+Representation
+
+- Directly, using language and [models.](modelling.md)
+- Indirectly. Embedded into physical structures or behaviour. E.g. [genes](https://en.wikipedia.org/wiki/Genetics) or [rituals](https://en.wikipedia.org/wiki/Ritual).
+
+Knowledge begins with similarity. It recognizes structures and patterns.
+
+
+
+### Domains
 
 Science attempts to organize knowledge. It relates to the following domains.
 
@@ -125,13 +138,12 @@ The **value** of a statement depends on the following.
         - A *fact* is a statement that is claimed to be true.
 
     - Generalization. In what conditions is the statement applicable?
-
 - Usefulness. A subjective lens.
     - How useful is this statement, to a subject?
-
 - News. The relation between other (previous) statements.
-    - Triviality or novelty. How obvious are they? How consistent are they with the status quo? 
-    - [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail?
+    - Triviality or novelty. How obvious are they? *"Eureka!"*
+    - Plausibility. How consistent are they with the status quo? Does it conform to to the cultural scheme? *"That's insane!"*
+    - [Surprisal](https://en.wikipedia.org/wiki/Entropy_(information_theory)) value. How much information does it entail? *"Unbelievable!"*
 
 
 Suppose someone recorded the result of 5 coin tosses. If the head-tail ratio was balanced this would be a low-value fact. If the ratio was skewed they the value of this fact would be higher, as it provides novel information about the coin.
@@ -157,78 +169,6 @@ From generic to specific.
 5. Often. Multiple times.
 6. Sometimes.
 7. In this case.
-
-
-
-### Value
-
-The concept value can be divided into objective and subjective value. 
-
-**Subjective & objective value**
-
-1. The former is universal. It can be described as "quality". It may be measured objectively, e.g. in terms of accuracy, consistency durability or reliability. It is not necessarily unbiassed, as objects can be seen through different lenses, that each emphasize different qualities.
-2. The latter relates to a specific subject (person). As subjects, humans have feelings of delight and aversion towards different objects. In some cases this feelings may be shared within a culture or population. The boundary between objective and subjective value is not trivial. For example, the term *common sense* hints to universality, while describing a subjective mind.
-
-*Beauty* is a feature that relates to both types. The following components contribute to it:
-
-- Contrast. Complexity / richness. Tension + release. Harmony, dissonance and resolution.
-- Uniqueness. Difference with the status quo. Novelty.
-- Cohesion. Unity. The audience's ability to understand (recognize) the signal.
-- Sensitivity. Resilience to change.
-
-*Excellence* is a more objectively-oriented feature. Living up to a potential. Being effective. The term is not contingent on an observer.
-
-Products that contain exclusively objective value are neglected in some way. E.g. an art piece that is locked up in a vault and forgotten about.
-
-
-
-<img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:40%;" />
-
-**Dynamic and static value**
-
-Another dimension to view value is dynamic and static value. The distinction has parallels with [establishment](https://en.wikipedia.org/wiki/The_Establishment) and [avant-garde](https://en.wikipedia.org/wiki/Avant-garde).
-
-- The dynamic component emphasizes *change* (novelty). It explains why experience decays after repetition.
-
-- The static component emphasizes structure and tradition.
-
-
-
-### Materialism
-
-Material and immaterial objects.
-
-- Material world. Things (objects) that can be measured. [Mass](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence) or energy. Structures that can change, decay or perish.
-    - Properties of objects.
-    - Relations between objects. E.g. the [four](https://en.wikipedia.org/wiki/Fundamental_interaction) physical forces.
-    - Universal constants (in our universe). E.g. the speed of light, π, *e*, *h*.
-    - Impermanent structures. E.g. organisms, companies, nations.
-- Immaterial world. Structures that have an eternal aspect.
-    - Conceptual structures. Eternal structures.
-        - Algebra's. Formal systems. Set theory. Category theory.
-        - Numbers. Geometry. Calculus. Statistics.
-    - Conventions. These are chosen, out of convenience rather that necessity or universality. They are brought into existence by historic events: by being defined by a subject. Their syntactic meaning is persistent, but their semantic meaning is contingent upon subjects.
-        - E.g. the metric system, natural language.
-    - Emergent structures. Knowledge.
-        - Opinions. They emerge and can be communicated, but they do not exist in a specific place.
-
-
-
-Plato's dualism
-
-- Forms. Concepts or ideals. Similar to [type classes](https://en.wikipedia.org/wiki/Type_class). Eternal structures that cannot not exist. E.g. the concept *horseness*.
-    - Higher forms: forms of concepts.
-    - Lower forms: forms of phenomena.
-- Particulars. Instances of a form. E.g. physical objects. They exist contingently in the natural world, both epistemically and ontologically. E.g. a *specific horse*.
-
-
-
-Material objects can be understood from different [perspectives](https://en.wikipedia.org/wiki/Four_causes) or causes.
-
-- Formal perspective. The class of an object. E.g. the type of dog (breed).
-- Material perspective. What the object is made of. E.g. living cells, DNA.
-- Origin. How the structure has come into existence. E.g. birth.
-- Purpose. Why the object exists.
 
 
 

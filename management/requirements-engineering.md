@@ -72,6 +72,8 @@ Avoid or resolve ambiguity.
 
 > *Complicated* is just a euphemism for "scary to think about".
 
+
+
 ## Tests & Verification
 
 - Examples *elaborate* requirements
@@ -219,6 +221,8 @@ By **importance**:
 - Doing
 - Can't do (cancelled).
 ```
+
+
 
 ## Estimation
 

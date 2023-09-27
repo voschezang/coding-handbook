@@ -151,6 +151,8 @@ With this in mind, three questions can be asked: What to change? What to change 
 
 Also see [goals and strategy](./goals-planning-strategy.md).
 
+
+
 ### Attitude
 
 Knowledge: Be a generalist
@@ -184,12 +186,14 @@ Effects
 - Withholding leads to withdrawing and rejecting
 - Revealing leads to connecting
 
+
+
 ### Leadership
 
 Management often requires leadership. It may consist of:
 
-- Vision. Show a direction. Set an example. Motivate others. Advocate the why.
-- Execution. Facilitation. Achieve outcomes.
+- Vision. Show a direction. Set an example. Motivate & inspire others. Advocate the why.
+- Execution. Facilitation. Achieve outcomes. Guiding others.
 - Culture. Trust. Set the tone for the team.
 
 Situational leadership model. Dependent on skill, motivation, urgency.
@@ -198,6 +202,13 @@ Situational leadership model. Dependent on skill, motivation, urgency.
 2. Selling / coaching / explaining. **Sell** an vision to autonomous teams.
 3. Participating / facilitating. **Participate** in problem solving.
 4. Delegating / empowering / monitoring. **Delegate** tasks.
+
+The choice of leader can have different origins.
+
+- Traditional. Power is given externally. E.g. through a role, position, rank.
+- Emergent leadership. Power is given from within the group. E.g. through acceptance.
+
+
 
 ## Collaboration
 
@@ -238,6 +249,8 @@ Based on the Lencioni model (Five dysfunctions of a team):
 3. Level of **commitment** and dedication.
 4. Acceptance and avoidance of **accountability**. Do team members hold each other accountable? Is the team being held accountable?
 5. (In)attention to - collective - **results**. Do collective goals corresponds to personal goals?
+
+
 
 ### Meetings
 
@@ -287,6 +300,8 @@ Signs of good meetings
 
 See also [goals-planning-strategy](./goals-planning-strategy.md#Meetings).
 
+
+
 #### 1:1 Meetings
 
 Scope
@@ -329,6 +344,8 @@ Support
 - How can i help?
 - What was the most useful part of this conversation?
 
+
+
 ### Feedback
 
 > Giving feedback = disclosing hidden information about you
@@ -369,6 +386,8 @@ Tools
 
 Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
 
+
+
 ### Departments
 
 Traditional conflicts between departments
@@ -386,6 +405,8 @@ Typical solutions: DevOps, product-teams.
 - Sales prefers bulk orders due to costs
 
 Typical solutions: ship orders in increments, vertical integration, store resources in a central location
+
+
 
 ## Management per Type
 
@@ -407,6 +428,10 @@ Levels of assignments
 **Crisis management**
 
 - Dealing with risk after they've materialized.
+
+**Risk Management**
+
+[risk-management](risk-management.md)
 
 **Stakeholder management (managing up, opdrachtnemerschap)**
 
@@ -463,6 +488,8 @@ Technique:
 
 **Time management**
 
+> Time management implies energy management
+
 Let the other accept your schedule. Not everything is possible, so force the client to choose explicitly. Communicate transparently.
 
 There is never enough time, but there are three ways to manage it: prioritization, efficiency and multiplication.
@@ -501,6 +528,8 @@ Goals setting - types of people
 | **Low Trust**  | Poor               | Toxic / risk     |
 | **High Trust** | Growth opportunity | Optimum          |
 
+
+
 ### Process Management
 
 Based on the properties of [systems](../systems/systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
@@ -516,82 +545,26 @@ Based on the properties of [systems](../systems/systems-management.md) the follo
     1. [Risk management](#Risk Management). E.g. finding optimal buffer-sizes.
     2. [Product management](./product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
 
-### Risk Management
 
-> Yesterday’s problem is tomorrow’s risk
-
-Definitions:
-
-- Risk: a future undesirable event and events that precede it.
-
-- Risk management: dealing with unpleasantness, instead of counting on luck.
-
-```
-Total Risk = threads (external) + vulnerabilities (internal)
-```
-
-The main *prerequisite* is a certain corporate culture: Think in probabilities & decriminalize risk. Uncertainty should be preferred over being wrong (or overly optimistic).
-
-- Prefer mean-variance optimization over point-estimates. A typical prediction should include (un)certainty bounds. E.g. "We need at least 4 months, and it may take up to 1 year (in the worst case). We estimate a 80 % chance of finishing it in 6 to 8 months."
-  - Usually point estimate overestimate in order to compensate for uncertainty. This can result in an [increase](https://en.wikipedia.org/wiki/Parkinson's_law) in the amount of work
-
-- Express projects success not as an absolute (success or fail), but as progression (number of features delivered at end of time period).
-  - Build in slack, i.e. the flexibility to skip/add/change features during the project.
-
-A secondary prerequisite is a list of assumptions. These are (usually show-stopping) risks that are delegated upwards to the employer. This reduces the change of overlooking "unthinkable" risk.
-
-**Types of Strategies**
-
-1. General strategies:
-    1. Avoid or limit tail-risk rather than focussing on winning.
-    2. Diversify to handle idiosyncratic (unsystematic) risk. I.e. make multiple small bets instead of a single large one.
-2. Specific strategies that don't address risk:
-    1. Avoidance: don't take risks at all (but miss out on potential wins).
-    2. Evasion (retainment): count on luck, assume low-probability events won't occur.
-3. Specific strategies that do address risk:
-    1. Containment: decrease impact of risk when they do materialize. E.g. reserve *buffers*.*
-    2. Mitigation: reduce containment cost. E.g. though insurance. This has an up-front cost, independent of whether the risk will materialize.
-
-*Given a set of independent risks, the risk exposure per risk is the product of the probability of occurrence and the cost of occurrence. A conservative*buffer* is strictly higher then the total exposure.
-
-```
-Risk Exposure = probability x materalization cost
-```
-
-**Types of Containment Strategies**
-
-- Isolate; use layering.
-- Minimize
-- Monitor; collect information about the incident and the second-order effects. E.g. uncommon patterns.
-- Active Defense
-
-**Types of risks**
-
-- Planning-related:
-  - Inherent flaws in the schedule. E.g. an unrealistic, aggressive schedule
-  - Requirements inflation; an increase in requirements over the scope of the project.
-  - Ambiguity in the specification. Design decision that are deferred until implementation time.
-  - Dependencies.
-- Employee-related:
-  - Employee turnover.
-  - Poor productivity. E.g. due to lack of motivation, poor working conditions, problems with communication, collaboration or coordination.
-- User-related
-  - Usability (user interaction).
-- Context-related
-  - Adaptability (to new environments). E.g. scaling up.
-  - Supply chain / dependencies.
 
 ## Miscellaneous
 
-Fundamental characteristics of the world (from [Buddhism](https://en.wikipedia.org/wiki/Three_marks_of_existence)):
+Assumptions about how the world works. See [worldview](../worldview.md).
 
-1. Change. Nothing is permanent (time moves forward). As a result, systems degrade and expire. Hence there is a need to adapt, transform and sometimes start over. Naturally, even methods itself have to be adapted.
-2. [Interdependence](https://en.wikipedia.org/wiki/Systems_theory). Consider components and connections. Hence we should embrace collaboration over isolation.
-3. Dissatisfaction. Repetition is boring. Hence there is a need to iterate, learn and improve.
+- Change is inevitable. Nothing is permanent.
+- Interdependence is a given. Components are not independent. Consider connections between them.
+- Learning (adapting) requires practice. Both at the individual and organizational level.
 
-In addition, learning (adapting) takes practice. Both at the individual and organizational level.
+**Knowledge**
 
-**Gaining knowledge**
+Four types of knowledge
+
+- Known knowns: mastery
+- Known unknowns: self-awareness
+- Unknown knowns: hidden potential
+- Unknown unknowns: blind spots
+
+Gaining knowledge. See [knowledge](../intelligence/knowledge.md).
 
 - Start with a prior belief, formulate, collect data (experiment), update your belief, and repeat.
 - Value [falsifiability](https://en.wikipedia.org/wiki/Falsifiability).
@@ -609,15 +582,6 @@ There are three types of work.
     2. Internal projects. Enable business projects.
     3. Changes. E.g. maintenance.
 3. Planning work. E.g. defining, refining , adjusting or changing plans.
-
-**Knowledge**
-
-Four types of knowledge
-
-- Known knowns: mastery
-- Known unknowns: self-awareness
-- Unknown knowns: hidden potential
-- Unknown unknowns: blind spots
 
 **Stability / Reliability**
 
