@@ -259,3 +259,12 @@ List of
   - Fear. Perceived risks.
 ```
 
+
+
+**Actionable**
+
+```
+How likely do you feel/think this is to succeed? What would you need in addition?
+How motivated are you on a scale from 0-10? Why not higher/lower?
+```
+

@@ -60,8 +60,7 @@ For a typical software development team, this could result in the following metr
 | ------------------- | ------------------------ | -------------------------------------------- |
 | **Human view**      | Team dynamics and health | Ability to deal with setbacks.               |
 | **Functional view** | Daily operation          | Ability to deal with disruption.             |
-| **Strategic view**  | Planning & execution     | Ability to adapt.                            |
-| **Strategic view**  | Ability to plan ahead    | Consistency over time                        |
+| **Strategic view**  | Ability to plan ahead    | Ability to adapt. Consistency over time      |
 | **Execution view**  | Quality of projects      | Predictability. E.g. lead time of increments |
 
 The following table depicts a visual interpretation.

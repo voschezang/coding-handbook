@@ -1,6 +1,8 @@
 # Management Principles
 
-Inspired by [various sources](#references). See also [goals & strategy](./goals-planning-strategy.md).
+Note: This document covers the activity management, rather than the organizational layer.
+
+See also [goals & strategy](./goals-planning-strategy.md).
 
 [toc]
 
@@ -10,26 +12,71 @@ Inspired by [various sources](#references). See also [goals & strategy](./goals-
 
 Management *an sich* is a theoretical domain. In the real world, one would encounter management of a *subject*. For example: management of a project or a department.
 
-This *subject* can be framed as a [theoretical system](../systems/systems-management.md). The purpose of a manager is to ensure that the system achieves it purpose - both now and in the future. A prerequisite for this is ensuring the quality and availability of the system's resources. The performance of a manager is interconnected with the performance of a system.
 
-At minimum, management involves alignment, communication, facilitation, orchestration and prioritization. Depending on the scale of the subject, a manager may also contribute in secondary tasks such as planning, execution and coaching. Hence the role of a manager may extend from facilitator to director.
 
-Management consists of **balances**. For example:
+### Systems view
 
-- Learning and adjusting.
-  - Being adaptive (pragmatic) or being consistent (conservative) and making use of experience. Based on the environment.
-- Focussing and diversifying.
-  - E.g. improving a process versus outsourcing a process.
-- Time horizon.
-  - Pursue an optimistic ideal or a realistic planning.
-  - Optimizing for the next quarter or for multiple decades.
-- Delegating much but not everything.
+This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
 See also [organization-structure](../systems/organization-structure.md) and [systems-management](../systems/systems-management.md).
 
-**Properties**
 
-1. At an abstract level, management lies between the roles of an *administrator* and an *operator*. The latter requires a higher level of domain knowledge.
+
+#### Feedback loop
+
+At minimum, the role of a manager can be explained as the conductor of an orchestra. The latter can be autonomous, but it will benefit from an external coordinator. This requires a feedback loop.
+
+1. **Awareness**. An expectation of the system how the system will operate in the current conditions.
+2. **Prioritization** of adjustments. E.g. a focus point, an investigation or a concrete improvement.
+3. A **communication channel** to send adjustments to the system.
+
+This loops requires three competencies: perception, decision making and communication. This creates an additional requirement: sufficient knowledge about both the domain and the resources of the system.
+
+
+
+#### Activity
+
+Fundamentally, the functioning of a system follows the following phases.
+
+1. **Planning**.
+2. **Execution**. I.e. following plans.
+3. **Adapting**. Not following plans. E.g. changing the direction or position of the system.
+
+
+
+#### Change
+
+Change covers any activity that falls outside business-as-usual (BAU). Change-objectives can be categorized as follows. See [purpose](../activity/purpose.md).
+
+- Focus. Improve how effective and efficient the system is. This is about continuation.
+- Diversification.  Expand the scope of the system.
+
+- Radical change. E.g. changing the system's identity, positioning or functioning.
+
+<img src="../img/change-management.png" alt="change-management" style="width:35%;" />
+
+#### Autonomy
+
+When the components in a system are autonomous
+
+
+
+### Practice
+
+In practice, the role of a manager may include alignment, coaching, communication, facilitation, motivation, orchestration and strategy. This is influenced by the skills of employees and their responsibilities.
+
+
+
+Management consists of balances. For example:
+
+- Delegating some but not all.
+- Optimizing for the next quarter or for multiple decades.
+- Pursue an optimistic ideal or a realistic planning.
+
+
+
+**Other properties**
+
 2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
 3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value.
     1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
@@ -43,7 +90,9 @@ It involves a few *buckets*:
 - People (who). Motivation and trust.
 - Process (how). How the organization makes, executes and adapts plans.
 
-**Activities**
+
+
+**Other activities**
 
 1. Set *optimistic* goals, prioritize them and make a *realistic* planning/estimation.
     - Be great at setting expectations (e.g. to stakeholders).
@@ -58,11 +107,15 @@ It involves a few *buckets*:
     - Perceive the need.
 3. Ensuring the availability of resources (incl. in the future).
 
+
+
 **General approach**
 
 - Know what *you* want
 - Know what *others* want
 - Find *ways* in which you can get it
+
+
 
 ### Performance
 

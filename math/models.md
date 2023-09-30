@@ -27,7 +27,7 @@ If a value is unity:
 
 If a value is binary:
 
-- Question whether neither or both options can be true.
+- Question whether neither or both options can be true. [What if](https://en.wikipedia.org/wiki/Mu_(negative)) neither options is applicable? In what conditions would this occur?
 - Find a third category
     - Question whether there really is a single dimension.
         - E.g. focus on X or de-focus. E.g. in organizations: focussing on specialization (efficiency) vs focussing on features (quality) vs focussing on simplicity.
@@ -36,6 +36,12 @@ If a value is binary:
 If a value is categorical:
 
 - Find steps that fall in between categories.
+
+
+
+From binary to categorical.
+
+<img src="../img/binary-category.png" alt="binary-category" style="width:35%;" />
 
 
 

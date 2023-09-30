@@ -1,5 +1,9 @@
 # Value
 
+> What is good, anyway?
+
+
+
 The concept value can be divided into objective and subjective value. 
 
 

@@ -1,6 +1,10 @@
 # Periodic Patterns
 
-> Pattern (wavelength)
+Waves have a period `T` and a frequency (rate)  `f = 1/T`. See [waves](../math/waves.md).
+
+
+
+**Pattern (wavelength)**
 
 Astrology
 

@@ -8,7 +8,9 @@ See also [knowledge](knowledge.md) and [modeling](modeling.md).
 
 Learning is facilitated by [models](modelling.md). Learning is the process of updating these models.
 
-- As humans, we use [mental models](#Mental Models) to make sense of the world.
+- As humans, we use [mental models](#Mental Models) to make sense of the world. In practice, we create these ourselves.
+    - Communicating models is requires more than merely listing the components in a model.
+    - The ability to create and update these models is as important as the static models themselves.
 
 
 

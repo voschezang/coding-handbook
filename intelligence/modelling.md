@@ -42,6 +42,8 @@ Risks
 - If an event is observed frequently, then analogies can help.
 - If a process is novel, but the inner process is understood, then it can be beneficial to start with fundamentals.
 
+
+
 ## Learning
 
 > Learning revolves around revising your opinions.
@@ -74,6 +76,8 @@ Distinguish between the inside view and the [outside view](https://buttondown.em
 - Inside view: go in depth.
   - Are the assumptions valid?
   - Given the assumptions of the source, does the story make sense?
+
+
 
 ## Evolution
 
