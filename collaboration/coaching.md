@@ -1,12 +1,19 @@
 # Coaching
 
-Coaching is about providing a soundboard, through questioning. It's oriented towards potential and results. It starts with the preferences of the coachee. They are for example responsible for choosing objectives.
+Coaching is about providing a soundboard, through questioning. It's oriented towards potential and results.
 
 See also [goals](../activity/goals.md), [purpose](activity/purpose.md).
 
 [toc]
 
 ## Overview
+
+> Help people (teams) move from who they are now, to who they’ll be in the future, in a way that maximizes well-being.
+
+Coaching revolves around the preferences of the coachee. It consists of a series of conversations in which:
+
+- The coach helps the coachee to see new perspectives and potential.
+- The coachee decides how to incorporate this.
 
 
 
@@ -63,6 +70,14 @@ Necessary conditions.
 
 
 
+### Team Coaching
+
+Coaching team requires a balance between addressing the team and individual members.
+
+A common pattern is to focus on the team at the start and the end of projects (iterations), and pay attention to on individual members during the middle of the projects. In between projects the team is given the room to to focus.
+
+
+
 ## Context
 
 ### Power dynamics
@@ -83,22 +98,28 @@ Differences between coaching, mentoring and consulting.
 
 
 
+**Focus**
+
 Differences in focus:
 
 - Coaching: intersection of the subject and a *context*. E.g. an organization.
 
 - Mentoring: intersection of the subject and a *domain*. E.g. a sport or craft.
 
-<img src="../img/coach-mentor-goals.png" alt="coach-mentor-goals" style="width:40%;" />
 
 
+![coach-mentor-goals](../img/coach-mentor-goals.png)
+
+
+
+**Behaviour**
 
 Differences in problem solving:
 
 - Coaching: Help the subject to solve a problem.
     - Or, challenge the obstacle itself.
 - Mentor: Show alternative approaches to a problem.
-- Consultancy: Provide *a* solution for a problem.
+- Consultancy: Provide *a* solution for a problem. In addition to aligning and emphasizing the need for solutions.
 
 
 

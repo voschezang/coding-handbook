@@ -28,6 +28,8 @@ At minimum, the role of a manager can be explained as the conductor of an orches
 
 1. **Awareness**. An expectation of the system how the system will operate in the current conditions.
 2. **Prioritization** of adjustments. E.g. a focus point, an investigation or a concrete improvement.
+    1. This is a tradeoff between importance and urgency.
+
 3. A **communication channel** to send adjustments to the system.
 
 This loops requires three competencies: perception, decision making and communication. This creates an additional requirement: sufficient knowledge about both the domain and the resources of the system.

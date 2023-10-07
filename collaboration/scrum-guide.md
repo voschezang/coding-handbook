@@ -250,7 +250,10 @@ Some common patterns for PBIs. Lowercase letters denote preparation and uppercas
 - `aaA bbB ccC`: release less frequently, but with focus.
 - `abc abc ABC`: stack up WIP and release them after the third sprint (anti-pattern).
 
-The size or weight of PBIs is a proxy for the effort required to finish it. It can be expressed in e.g. FTE hours or complexity. If all PBIs have a comparable size then it becomes easier to predict when work is finished, even while taking into account uncertainty. In order to make accurate estimations a confidence interval based on historical data is vital.
+The **size** or weight of PBIs is a proxy for the effort required to finish it. It can be expressed in e.g. FTE hours, complexity or uncertainty. If all PBIs have a comparable size then it becomes easier to predict when work is finished, even in uncertain contexts. In order to make accurate estimations a confidence interval based on historical data is vital.
+
+- Time-based estimation. Based on the amount of resources available.
+- Complexity-based estimation. Independent of the amount of resources.
 
 ### Commitments
 
