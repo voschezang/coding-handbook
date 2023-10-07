@@ -82,7 +82,7 @@ Using color to show the amplitude of a two-dimensional wave.
 
 ### Standing Waves
 
-See also [holography](https://github.com/voschezang/Holographic-Projector-Simulations).
+See [holography](https://github.com/voschezang/Holographic-Projector-Simulations).
 
 #### Vibrating Membrane
 

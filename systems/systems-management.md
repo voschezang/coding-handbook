@@ -43,6 +43,14 @@ Mathematically, the behaviour of a system can be described in several [levels](h
 1. [**Velocity**](https://en.wikipedia.org/wiki/Velocity). The change of the system over time (or space).
 2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
 
+
+
+**Alternative systems**
+
+<img src="../img/system-types.png" alt="system-types" style="width:80%;" />
+
+
+
 ### Inventory
 
 Based on the domain, inventory can include unfinished work, unsold items, buffer, queues, margins of safety. A common role of inventory is to contain [risk](#Risk%20Management). However, inventory has a few inherent disadvantages.

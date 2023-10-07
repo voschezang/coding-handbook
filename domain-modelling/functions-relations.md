@@ -12,6 +12,8 @@ Relations can be *one-to-one*, *one-to-many* (books and pages) or *many-to-many*
 
 Instances of relationships can have attributes. E.g. the *date* of a marriage between people.
 
+
+
 ## Properties & Restrictions
 
 Directional. `f(x, y)` does not imply that `f(y, x)`
@@ -26,9 +28,15 @@ Antisymmetric: If `f(x) = y` then `f(y) != x`
 
 [Reflexive](https://en.wikipedia.org/wiki/Reflexive_relation): If there exists an `f` s..t `f(x) = x` for every `x`
 
+
+
 # Functions
 
+
+
 ## Properties
+
+
 
 ### Functions
 
@@ -42,6 +50,8 @@ Antisymmetric: If `f(x) = y` then `f(y) != x`
 [Distributivity](https://en.wikipedia.org/wiki/Distributive_property)
 
 `f( g(x, y)) = g(f(x), f(y))`
+
+
 
 ### Rotation
 

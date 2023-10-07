@@ -2,6 +2,8 @@
 
 This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document.
 
+
+
 ## Table of Contents
 
 Models
@@ -30,7 +32,12 @@ Systems
 <summary>Theory: <b>Systems thinking</b></summary>
 <ul style="margin: 1em;">
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
-<li><a href="systems/organization-structure.md">Organizations</a></li>
+<li><a href="systems/organization.md">Organizations</a> and systems</li>
+  <ul>
+		<li><a href="systems/organization-structure.md">Structure</a> and topology</li>
+		<li><a href="systems/organization-relations.md">Relations</a></li>
+		<li><a href="systems/organization-scale.md">Scale</a></li>
+  </ul>
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
 </details>
@@ -47,6 +54,7 @@ Systems
 <li><a href="management/requirements-engineering.md">Requirements Engineering</a></li>
 </ul>
 </details>
+
 
 Technological
 
