@@ -44,6 +44,7 @@ Coaching is **result**-oriented. This means:
     - Focus on potential. Explore options rather than obstacles.
     - Emphasize what is possible, instead of what is not.
     - Emphasize what worked well over failures.
+    - Start half a step ahead, rather than miles away from what's realistic.
 - Practical steps rather than theory and analysis.
     - Don't over-analyze problems
 
@@ -60,6 +61,7 @@ Necessary conditions.
 
 - Trust. Which requires:
     - Confidentiality.
+    - Compassion. A genuine optimistic view of the coachee.
     - Clarity.
     - Transparency about context, motivation, interests, other parties.
     - Request approval when approaching boundaries. E.g. for personal questions, giving suggestions.
@@ -75,6 +77,11 @@ Necessary conditions.
 Coaching team requires a balance between addressing the team and individual members.
 
 A common pattern is to focus on the team at the start and the end of projects (iterations), and pay attention to on individual members during the middle of the projects. In between projects the team is given the room to to focus.
+
+**Stance**
+
+- *Invite* team members to provide feedback and relflection, rather than filling in how they behaved. E.g. *"How did you feel after that meeting?"*, rather than *"I noticed that you rushed and ...."*.
+- Align and check assumptions.
 
 
 

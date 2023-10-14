@@ -17,6 +17,8 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 <img src="../img/purpose-discovery-delivery.png" alt="purpose-discovery-delivery" style="width:40%;" />
 
+
+
 ## Objectives and Initiatives
 
 At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.
@@ -28,6 +30,8 @@ The initiative is meant to move from a *current stateI* to a *target state*. Thi
 <img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
 
 Choosing the right objective and initiatives is a challenge in itself. See [goals](../management/goals-planning-strategy.md). After choosing a goal, one can specify [requirements](../management/requirements-engineering.md).
+
+
 
 ## Organized Labour
 
@@ -72,6 +76,8 @@ Roles can be official and persistent, or informal and dynamic.
 - Maintenance. Optimize for efficiency.
 - Balanced. Focus on effectiveness. Plan and reflect.
 
+
+
 ### Projects and processes
 
 - A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
@@ -114,9 +120,11 @@ Visualization
 - Kanban or Scrum board. Show work in progress and planned work.
 - Heatmap of health indicators.
 
+
+
 #### Identity
 
-Labour can be performed by an [organization](../systems/organization-structure.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. Based on Bateson's pyramid.
+Labour can be performed by an [organization](../systems/organization.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. Based on Bateson's pyramid.
 
 1. Meaning. Awareness of identity. What should our identity be?
 2. Identity. Who are we?
@@ -133,6 +141,8 @@ These influence decisions. For example, belief is a prerequisite for making chan
 _identity belief capability behavior environment_
 ```
 
+
+
 ## Labour Itself
 
 Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`.
@@ -145,6 +155,8 @@ It may have the following forms:
 4. Administration: consistency, manage a black-box application. Audit an executed process.
 
 *Management* of labour usually falls under operations or administration. It differentiates itself from "actual" work by distancing itself from it. E.g. through delegation or orchestration.
+
+
 
 ## Assignments
 
@@ -173,6 +185,8 @@ Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using
 **Improvement**
 
 Change [organizational structure](../systems/organization-structure.md) and the environment. See [learning](../intelligence/learning.md).
+
+
 
 ## Work Principles
 
