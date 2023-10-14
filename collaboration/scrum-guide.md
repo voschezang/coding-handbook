@@ -141,6 +141,16 @@ Although the SM is the expert on the Scrum process, most decisions should be mad
   - Actively do nothing. Observe. E.g. let small problems reveal itself to the team.
   - Point north
 
+Roles and stances
+
+- Servant leader. Prioritize the needs of the team members while helping them to provide value.
+- Facilitator. Provide boundaries in which the team can collaborate.
+- Coach. Of individuals, the team and the organization. See [coaching](coaching.md).
+- Manager. Of impediments, waste, processes and culture.
+- Mentor
+
+
+
 ### Developers
 
 The rest of the **development teams** do not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable. A PO or SM can also have a developer role. Developers should have enough autonomy to be able to take ownership of their work. They are accountable for:
@@ -170,7 +180,7 @@ E.g. repeatedly scoping out all unfinished work at the end of the sprint to make
 
 ### Sprint Events
 
-Sprint events are opportunities to inspect the current sprint and adapt accordingly. These events are all time-boxed, but usually they don't take up their full capacity, especially not for shorter sprints.
+Sprint events are opportunities to inspect the current sprint and adapt accordingly. These events are all time-boxed, but usually they don't take up their full capacity, especially not for shorter sprints. These are team-based event, that contribute to team ownership and shared responsibility.
 
 | Event                | What to inspect?                   | What to adapt?                                 | Who attends?                | Time-box (for 1 Month) |
 | -------------------- | ---------------------------------- | ---------------------------------------------- | --------------------------- | ---------------------- |

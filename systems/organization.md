@@ -1,6 +1,6 @@
 # Organization
 
-Any object can be treated as a *system*: an **organization** what fulfills a *purpose*. A function. This method works recursively. Each component in the system can be understood as a function as well.
+Any object can be treated as a *system*: an **organization** what fulfills a *purpose*. A function.
 
 [toc]
 
@@ -22,10 +22,18 @@ See [structure](organization-structure.md).
 
 ### Perspectives
 
-Levels
+```
+object = function = system = organization
+```
 
-1. **Functional** view. The phenomenon as a function.
-2. **Social** view. The interaction of the internal components.
+An **object** can be understood as a **function** with respect to it's context. It can also be understood as a **system** of components that interact in such a way that it fulfills a function.
+
+- This method works recursively. Each component in the system can be understood as a function as well.
+
+This results in the following levels. Based on [domains](../reality/structures.md).
+
+1. **Functional** view. The purpose of the object.
+2. **Social** view. The interaction of the internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
 3. **Agent** view. The components themselves. Their lifecycle.
 4. **Material** view. The content that a component is made of.
 
@@ -50,9 +58,17 @@ This view focusses on the context of the object, and treats the object itself as
 
 There are a few common functions.
 
+- **Processor**. Process information or materials and *transform* them.
+- **Storage**. Store valuable objects and retrieve them at a later point in *time*.
+- **Platform**. *Facilitate* service providers and consumers. See [platform management](../management/platform-management.md).
+
+
+
 <img src="../img/system-types.png" alt="system-types" style="width:80%;" />
 
 
+
+**Context**
 
 The purpose of an organization can be understood in terms of different parties.
 
@@ -103,11 +119,14 @@ This view focusses on the interaction of the internal components.
 
 A system can be understood in the following dimensions.
 
-- **Individuality**. The set of components can be a *mass* or a pack. The significance of the identity of the individual components.
+- **Individuality**. The components can be a *mass* or a pack. The significance of the identity of the individual components.
     - See [scale](organization-scale.md).
 
-- Relations between components. The autonomy of components. See [relations](organization-relations.md).
-    - **Control**. Behaviour can arise through [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) or [choreography](https://en.wikipedia.org/wiki/Service_choreography).
-    - (Political) **power** can be autocratic or democratic.
+- **Relations** between components. The autonomy of components. See [relations](organization-relations.md).
+    - Control. Behaviour can arise through [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) or [choreography](https://en.wikipedia.org/wiki/Service_choreography).
+    - (Political) power can be autocratic or democratic.
 
+
+
+The nature of the relations may give rise to emergent properties. E.g. fluid dynamics, swarm behaviour, flocking.
 

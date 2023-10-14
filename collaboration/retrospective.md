@@ -23,6 +23,13 @@ https://retromat.org/en/
 
 
 
+Focus on flow, rather than control
+
+- loop over the group after each iteration
+- Lots of degrees of freedom in between
+
+
+
 ## Introductions
 
 ### Read the room

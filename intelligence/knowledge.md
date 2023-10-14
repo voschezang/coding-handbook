@@ -37,7 +37,7 @@ Science attempts to organize knowledge. It relates to the following domains.
 The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) focusses on acquiring knowledge through experiments and publications. It consists of making falsifiable [predictions](https://en.wikipedia.org/wiki/Hypothesis) and attempts to make generalizations. It can be split up into natural, formal, social and applied science.
 
 - It is biased towards physical objects and their measurable properties. It tends to de-emphasize subjective experience.
-- Science, and especially the subject-object split has clear limits. The boundary includes the following: 
+- Science, and especially the subject-object split has clear limits. It does not cover (moral) values. The boundary includes the following:
     - In mathematics. [Axioms of mathematics](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems).
     - In physics. The [standard model](https://en.wikipedia.org/wiki/Elementary_particle) and [relativity](https://en.wikipedia.org/wiki/Theory_of_relativity). [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity). [Dark matter](https://en.wikipedia.org/wiki/Dark_matter).
     - Before physics. [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics).
@@ -72,7 +72,7 @@ Engineering differs from science in its purpose. It's about solving problems rat
 
 > L'art pour l'art.
 
-Art differs from engineering in its purpose. It's about creation itself. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility.
+Art differs from engineering in its purpose. It's about creation itself. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility. It focusses on value, rather than objects.
 
 
 
