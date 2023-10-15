@@ -1,37 +1,44 @@
 # Activity
 
-> Walking without hesitation becomes a march.
-
-Activity can be categorized as:
-
-- Business as usual (BAU). Operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum).
-- Change. Development.
-- Rest. Paying attention to the present. Stepping outside ordinary activity.
-
-These can be further divided into *vita activa* and *vita contemplativa*.
 
 
+The main types of activity are continuation, deviation and resting.
 
-## Vita Activa & Vita Contemplativa
+<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:200px;" />
 
-Based on [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt#Arbeiten_und_Herstellen).
+**Continuation** is known as business as usual (BAU): daily operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
 
-- **Vita activa** Be active. Focus on engagement with the world. The [purpose](purpose.md) may differ:
-    - Arbeiten (labour): Care for survival (self-preservation).
-    - Herstellen (production): Care for the external world.
-    - Handeln (acting): Care for the greater good.
-- **Vita contemplativa**. Contemplate. Focus on internal experience of the world.
-    - Entspannen (relaxing). Lingering.
+**Change** involves a *deviation* from the standard trajectory. E.g. improvement projects.
+
+**Resting** (pausing) is not just an absense of activity. It actively rejects the standard trajectory. It creates space for attention and reflection.
 
 
+
+A more fine-grained categorization is obtained by distinguishing *vita activa* and *vita contemplativa* (based on [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt#Arbeiten_und_Herstellen)).
+
+<img src="../img/vita-activa-contemplativa.png" alt="vita-activa-contemplativa" style="zoom:40%;" />
+
+
+
+**Vita activa** Be active. Focus on engagement with the world. The [purpose](purpose.md) may differ:
+
+- Arbeiten (labour): Care for survival (self-preservation).
+- Herstellen (production): Care for the external world.
+- Handeln (acting): Care for the greater good.
+
+**Vita contemplativa**. Contemplate. Focus on internal experience of the world.
+
+- Entspannen (relaxing). Lingering.
+
+
+
+## Vita Activa
 
 > Active people roll like a stone, confirming to the stupidity of mechanics.
 
 Nietzsche called vita activa a form of laziness. True activity would be to reject conformity.
 
 
-
-### Vita Activa
 
 Types of activity
 
