@@ -1,6 +1,6 @@
 # Coding Handbook
 
-This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document.
+This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document that organizes thoughts and ideas. It does not contain advice.
 
 
 
@@ -113,6 +113,8 @@ Other
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Documentation](documentation.md).
 
+
+
 ## Other
 
 **Templates and exercises**
@@ -134,6 +136,11 @@ From abstract theory to application within a domain. For a full overview, see [t
 - [Requirements Engineering](management/requirements-engineering.md) > [Project Management](management/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/organization-structure.md) > [Organization Architecture](organization-architecture.md)
 - [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](management/platform-management) > a [Project](management/project-management.md)
+
+Themes
+
+- Quality, flow & systems: [domains](reality/structure.md), [organization](systems/organization.md), [emotions](collaboration/emotions.md).
+- Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [purpose](activity/purpose.md), [organization](systems/organization.md), [systems](systems/systems-management.md).
 
 **Perspective & Generalizability of Guidelines**
 

@@ -143,12 +143,27 @@ Refine the initiatives for a given objective. [src](https://retromat.org/en/?id=
 
 ### Sailboat
 
+Imagine sailing across the ocean.
+
 ```markdown
-- What our wind? What pushes us forward?
-- What's our sun? What gives us energy?
-- What's our goal? In what direction are we moving?
-- What our anchor? What keeps us in place?
-- What are the reefs? What risks are out there?
+- 💨 What our wind? What pushes us forward?
+- ☀️ What's our sun? What gives us energy?
+- 🎯 What's our goal? In what direction are we moving?
+- ⚓ What our anchor? What keeps us in place?
+- 🪸 What are the reefs? What risks are out there?
+```
+
+
+
+### Air Balloon
+
+Imagine flying in a hot air balloon, together.
+
+```markdown
+- ♨️ Hot air. What is lifting us up? What is giving us success?
+- ⚓ Rope, weights. What is keeping us down? What is difficult?
+- 🌨️ Weather storms. What risks do you see?
+- 🌤️ Sun. What do you appreciate?
 ```
 
 

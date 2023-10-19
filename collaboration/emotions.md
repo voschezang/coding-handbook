@@ -2,10 +2,12 @@
 
 > Emotions can be experienced in endlessly new ways.
 
-Emotions are communication devices. For a complete overview, see [wikipedia](https://en.wikipedia.org/wiki/Emotion).
+Emotions are dynamic. They are experienced, rather than fixed.
 
-1. Experience ranges from pleasant to unpleasant.
-2. Emotions provide a multiplicity of experience.
+1. Experience ranges from [pleasant](#Experience) to unpleasant.
+2. Emotions provide a [multiplicity](#Emotions) of experience.
+
+Emotions are used as communication devices. Between your body and mind and between yourself and others.
 
 
 
@@ -28,10 +30,11 @@ Emotions communicate *qualities* and personal needs. They are  have both persona
 
 
 
-Emotions disrupt the human body temporarily. After a burst of emotion, the human body tends to return to a [balanced state](https://en.wikipedia.org/wiki/Homeostasis). Long-term experience of emotions indicate a disruption of this.
+**Flow**
 
-- Short-term: Bursts of emotions. E.g. cry or laugh.
-- Long-term: Persistent emotions. E.g. depression, hate, paranoia.
+> Emotions flow
+
+Emotions *disrupt* the human body temporarily. After a burst of emotions (e.g. crying or laughing), the human body tends to return to a [balanced state](https://en.wikipedia.org/wiki/Homeostasis). The two extreme deviations of this are an absense of emotions and a persistency of specific emotions. These signal an imbalance. Examples of long-term, persistent emotions are depression, hate and paranoia.
 
 
 
