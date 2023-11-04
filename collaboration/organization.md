@@ -1,6 +1,6 @@
 # Organization
 
-This can be a corporate organization or a society. See also [organization structure](../systems/organization-structure.md).
+This can be a corporate organization or a society. See also [organization structure](../systems/organization.md).
 
 [toc]
 
@@ -21,7 +21,7 @@ Identity influences decisions. For example, belief is a prerequisite for making 
 E.g.
 
 ```markdown
-**We      cannot do         this     here**
+**We      can    do         this     here**
 _identity belief capability behavior environment_
 ```
 

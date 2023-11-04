@@ -6,14 +6,21 @@
 
 ### Intuition
 
-#### Properties of a successful team
+**Properties of a successful team**
 
-The strongest signal is when you can feel that the team is happy or productive. Specific signals are:
+The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
 
-- The team has recently made contributions;
-- The team delivers value;
-- The team collaborates and interacts;
-- The team works in harmony.
+1. **Vibe**. There is a pleasant vibe in the team. You can feel that the team is happy.
+2. **Expectations**. There is alignment on expectations of how the team operates. This matches the expectations from stakeholders.
+3. **Results**. There is regular reflection of results. Results are compared to original goals.
+4. **Resilience**. The team is able to deal with setbacks.
+
+In addition, there are more fine grained signals:
+
+- Individual team members are content within their team and with each other. The team works in harmony.
+- Conflict is addressed openly.
+- The team takes ownership of short- and long-term goals.
+- There is accountability of results.
 
 
 

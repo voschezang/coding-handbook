@@ -41,13 +41,13 @@ Note that the validity of the following statements is dependent on certain *impl
 * Assembly of Japanese bicycle [require](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) great peace of mind.
 * [Quality](https://en.wikipedia.org/wiki/Aesthetics) cannot be defined, but we all know what it is.
 * Stylized products [look](https://en.wikipedia.org/wiki/Fa%C3%A7ade) like they're made with care.
+* Investment implies discomfort.
 * Being poor is expensive. Limited access to resources prohibits the use long-term investments.
 * Decentralization/Privacy/Scalability isn't important, [until](https://twitter.com/naval/status/1487267497820577793) it suddenly is.
 * "[Mediocrity is expensive](https://twitter.com/johncutlefish/status/1398693641116258306). [7s kill companies](https://podcasts.apple.com/us/podcast/the-knowledge-project-with-shane-parrish/id990149481?i=1000525574557) because of their opportunity cost.
 * Cognitive load is expensive. Your short-term memory has capacity for approximately [seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) objects.
     * Context switching isn't free.
-* It is't necessary to continue after reaching a *good enough* point. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting).
-    * Only unicorns are perfect.
+* Good enough > perfection. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting). Only unicorns are perfect.
     * Continuous improvement is better than delayed perfection.
 
 ### Processes / Output
@@ -96,7 +96,9 @@ Note that the validity of the following statements is dependent on certain *impl
 * Planning > (having) plans.
 * Prioritization & focus.
   * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
+  * Add one, lose two.
   * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
+* To do things fast you need to do things well.
 * Training can be defined as "practice by doing", but at a much slower pace. It shouldn't be rushed.
 * Before software can be reusable it first has to be usable.
 * "What one person can do in nine months, nine persons can do in one month."
@@ -114,6 +116,8 @@ Note that the validity of the following statements is dependent on certain *impl
 - Being busy is not caused by a lack of time.
 - Procrastination is not a time management problem.
 - The past does not exist (in the present)
+- You can learn patience fast.
+- Not all those who wander are lost.
 
 
 
@@ -165,31 +169,17 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * DevOps is primarily a social transformation.
 * DevOps is *just* [vertical integration](https://en.wikipedia.org/wiki/Vertical_integration) with a focus on flow, CI/CD and learning.
   * Specialization can be achieved by scoping down the product (e.g. into a microservice), and outsourcing (e.g using SaaS products).
-* Maximize productivity by minimizing lead time per task/item.
-  * Strive for a stable one-by-one production flow (small batches).
-    * This is more *agile* than increasing parallelization and batch sizes.
-    * Remove any bottlenecks that stand in the way of this vision.
-    * Finish the current tasks before starting new ones.
-  * Minimize the number of handovers. Optimize the process such that it requires minimal inventory.
-  * Measure and visualize both lead-time and lead-time-per-task.
 * Take calculated risks, experiment, make mistakes (notice mistakes) and learn from them.
   * Learn early. Goto [production](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected) & collect (user-)feedback ASAP. Failure enables success.
   * Use local discoveries to make [global improvements](https://en.wikipedia.org/wiki/Autonomation).
   * Build in slack, i.e. room to incorporate learning & improvement.
   * Focus on a single experiment at a time, to minimize outcome ambiguity (e.g. when inferring causality).
   * Risk-free projects are unworthy. Run towards risk.
-* Design (processes) for failure.
-  * Assume that all people will make mistakes and act foolish eventually.
-  * Change the environment to minimize potential errors (i.e. make processes and tasks [foolproof](https://en.wikipedia.org/wiki/Poka-yoke)).
-  * "Let it crash". Fail fast, but in a controlled way (e.g. using circuit breakers and compartmentalization). Make failure visible instead of suppressing it. Don't let problems accumulate to a [critical state](https://en.wikipedia.org/wiki/Critical_phenomena). This prevents [cascading](https://en.wikipedia.org/wiki/Cascading_failure) failures.
+* Design for failure. Fail fast.
 * Releasing a single feature is generally better then leaving 5 ones in-progress.
 * Defer impactful decisions if they are uncertain.
   * Use small decisions as experiments.
   * Put new code behind feature flags and use canary deployments.
-* Prefer automation (and alternatives) over formal processes and contracts (e.g. in risk management).
-  * If it's risky then do it more often. This forces one to address issues.
-  * If it's difficult then do it more often. Practice.
-  * If it hurts (e.g. financially), do it more often. Let the pain show.
 * ~~Automate everything~~. Automate costly and risky processes first.
 * Move fast, but in small steps. Be skeptic and optimistic. Take risks and learn by experimenting.
   * Take [leaps](https://en.wikipedia.org/wiki/Leap_of_faith) by exception.

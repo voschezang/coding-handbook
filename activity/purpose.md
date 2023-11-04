@@ -4,6 +4,26 @@ Purpose relates to deliberate (intended) behaviour of a *subject*. This can be a
 
 
 
+**Intent**
+
+Dimensions
+
+- Time horizon. Short or long term.
+- Focus or diversify. Expand an organization or reject parts of an organization.
+- Horizontal or vertical integration.
+
+<img src="../img/change-focus-diversify.png" alt="change-focus-diversify" style="width:40%;" />
+
+
+
+**Behaviour**
+
+Behaviour is about change. It's dynamic. Change can be welcomed or rejected. The intent and effects can be immediate or long-term.
+
+<img src="../img/change-behaviour.png" alt="change-behaviour" style="width:40%;" />
+
+
+
 **Perspectives**
 
 > Walking without hesitation becomes a march
@@ -21,16 +41,19 @@ A subject's purpose can be categorized as follows.
 
 
 
-**Method**
+**Horizon**
 
-Types. Goals are set based on perceived value. This attracts the subject.
+The time-horizon can range from immediate, to long-term.
 
-- **Positioning**. 
-    - Improve positioning. Move to a position of opportunity.
 
-- A **thing** of value. The big A or [petit a](https://en.wikipedia.org/wiki/Objet_petit_a).
-    - Move towards a specific *thing* that is attractive.
-    - Repulse some*thing* that is unattractive.
+
+**Attraction & Desire**
+
+1. Hedonistic desire. Improve a [feeling](../collaboration/emotions.md) (personally) or attract value (professionally).
+2. Motivational desire. Reach a specific goal. E.g. in order to improve a feeling.
+    1. Move towards a specific *thing* that is attractive.
+    2. Repulse some*thing* that is unattractive.
+3. Positioning. Move towards a position of opportunity. E.g. in order to improve a feeling.
 
 
 

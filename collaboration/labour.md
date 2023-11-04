@@ -85,61 +85,18 @@ Roles can be official and persistent, or informal and dynamic.
 
 <img src="../img/process-project.png" alt="process-project" style="width:70%;" />
 
-#### Change
-
-See [requirements-engineering](../management/requirements-engineering.md).
-
-**Proposing change**
-
-Align on the questions: *Why change? For whom? Why now?*
-
-1. **Context**. Align on the current state. What is the complication? What is the problem or opportunity? What is the context?
-2. **Question** the current state. Belief that "we" can change this soon. What can be different? Which assumptions are false?
-3. **Answers**. Propose actions to take.
-
-Then make a plan.
-
-**Planning change**
-
-Determine how to make change possible and worthwhile. Given an *objective*, consider:
-
-- The deliverables
-- The initiatives. The in input effort.
-- Estimation of the cost
-- Risks
-
-**Managing change**
-
-Distinguish day-to-day activities from focus.
-
-- Health [indicators](https://en.wikipedia.org/wiki/Performance_indicator) for *business as usual*.
-- Short-term [objectives](https://en.wikipedia.org/wiki/OKR) for *change*.
-
-Visualization
-
-- Kanban or Scrum board. Show work in progress and planned work.
-- Heatmap of health indicators.
-
 
 
 #### Identity
 
-Labour can be performed by an [organization](../systems/organization.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. Based on Bateson's pyramid.
-
-1. Meaning. Awareness of identity. What should our identity be?
-2. Identity. Who are we?
-3. Values. Give this identity, what do we value?
-4. Beliefs. How do these values relate to the real world.
-5. Capability. What are we capable of doing?
-6. Behavior. What are we doing?
-7. Environment. What is outside of us?
-
-These influence decisions. For example, belief is a prerequisite for making changes - and can limit capability. E.g.
+Labour can be performed by an [organization](../systems/organization.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. These influence decisions. For example, belief is a prerequisite for making changes - and can limit capability.
 
 ```markdown
-**We      cannot do         this     here**
+**We      can    do         this     here**
 _identity belief capability behavior environment_
 ```
+
+See [organization](organization.md).
 
 
 

@@ -56,6 +56,13 @@ Template: alternative forms.
 
 ### Delivering News
 
+There are two main tools. They determine the initial expectation.
+
+- Great (significant) news.
+- Casual or ordinary news.
+
+
+
 **Guidelines**
 
 - Keep it simple. Don't make it bigger than it has to be. Find incremental steps / nuance.

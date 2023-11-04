@@ -13,7 +13,7 @@ The purpose of DevOps is to **deliver value sooner, safer** and **happier**. Thi
 
 
 
-This works well in [complex domains](https://en.wikipedia.org/wiki/Cynefin_Framework).
+This works well in fast-changing contexts, e.g. [complex domains](https://en.wikipedia.org/wiki/Cynefin_Framework).
 
 
 

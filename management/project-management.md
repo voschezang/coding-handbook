@@ -16,6 +16,8 @@ There are a few phases that can be distinguished in a typical assignment.
   - This may include resourcing.
 - **Review** of the implementation. This includes communication to stakeholders.
 
+
+
 ### Delegation and Specialization
 
 **Dual-track Model**
@@ -34,6 +36,8 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 | Accountability | Authority  |
 
 **Anti Pattern**: Learned helplessness
+
+
 
 ### Refinement
 

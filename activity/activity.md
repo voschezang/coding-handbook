@@ -1,6 +1,6 @@
 # Activity
 
-
+### Trajectory-oriented view
 
 The main types of activity are continuation, deviation and resting.
 
@@ -13,6 +13,8 @@ The main types of activity are continuation, deviation and resting.
 **Resting** (pausing) is not just an absense of activity. It actively rejects the standard trajectory. It creates space for attention and reflection.
 
 
+
+### Subject-oriented view
 
 A more fine-grained categorization is obtained by distinguishing *vita activa* and *vita contemplativa* (based on [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt#Arbeiten_und_Herstellen)).
 
@@ -29,6 +31,8 @@ A more fine-grained categorization is obtained by distinguishing *vita activa* a
 **Vita contemplativa**. Contemplate. Focus on internal experience of the world.
 
 - Entspannen (relaxing). Lingering.
+    - [Uparati](https://en.wikipedia.org/wiki/Uparati). Cessation, stopping.
+
 
 
 

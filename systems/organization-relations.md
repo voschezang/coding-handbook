@@ -73,6 +73,7 @@ Information can be send in the form of commands, events or requests. It can be s
 <img src="../img/relationship-types.png" alt="relationship-types" style="width:90%;" />
 
 
+
 ## Power
 
 Decisions are made and forwarded according to a [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy). This power structure may be:
@@ -117,6 +118,10 @@ Risks to individual freedom.
 
 
 
+Another extreme is an organic organization. Here, the survival and thriving of the organization is valued more than it's external utility.
+
+
+
 **Types of power**
 
 |             | Negative Power       | Positive Power                |
@@ -126,3 +131,10 @@ Risks to individual freedom.
 | **Avoid**   | Sins                 | Unproductive thoughts         |
 | **Risk**    | Society > individual | Productivity > freedom        |
 
+
+
+### Networks
+
+Authoritative power structures tend to be hierarchical and top down. The other structures are more distributed.
+
+<img src="../img/network-structure.png" alt="network-structure" style="width:60%;" />

@@ -4,6 +4,16 @@ https://retromat.org/en/
 
 [toc]
 
+**Purpose**
+
+- Reflect /  inspect
+- Connect to each other as a team. Explore:
+    - Feelings, desires.
+    - Ability to acting, agency.
+    - Inclusion, care for each other.
+
+
+
 **Principles**
 
 - Use a warmup exercise to set the mood. Manage expectations.
@@ -73,13 +83,28 @@ What did you take into account for this choice?
 
 
 
-## Reflection
+```markdown
+- Why retrospectives?
+- What brings you here?
+```
+
+
+
+## Reflection & Recap
 
 > How did you win? > Why did you lose?
 
 Focus on what worked, rather than listing all possible problems.
 
 
+
+```markdown
+What did you learn in the last weeks?
+```
+
+
+
+### Do more/less, repeat/avoid
 
 What should we?
 
@@ -95,6 +120,10 @@ What should we?
 - avoid
 ```
 
+
+
+### Pleased/surprised
+
 Name events that made you feel either:
 
 ```markdown
@@ -104,8 +133,12 @@ Name events that made you feel either:
 
 
 
+### Storytelling
+
 ```markdown
-What did you learn in the last weeks?
+- What was your favourite moment?
+- What was a novel (surprising) moment?
+- Which change turned out be helpful?
 ```
 
 
@@ -157,9 +190,10 @@ Imagine sailing across the ocean.
 
 ### Air Balloon
 
-Imagine flying in a hot air balloon, together.
+Imagine flying in a hot air balloon. Together you're trying to go somewhere.
 
 ```markdown
+We're flying towards `[..]`.
 - ♨️ Hot air. What is lifting us up? What is giving us success?
 - ⚓ Rope, weights. What is keeping us down? What is difficult?
 - 🌨️ Weather storms. What risks do you see?
@@ -190,6 +224,21 @@ Compile a list of ideas:
 ```
 
 Then flip each item. What would be the opposite of this?
+
+
+
+### 3 Qualities
+
+Inspired by [Jnana yoga](https://en.wikipedia.org/wiki/Jnana_yoga).
+
+```markdown
+- Drive. What gives you motivation and energy?
+- Discernment. Detachement.
+	- ❤️ What do you *like*? 
+	- ♻️ What is *good* for you?
+- Dispassion. How easy is it to defer or delay work?
+  *"Focus means saying no"*
+```
 
 
 

@@ -20,7 +20,7 @@ See [structure](organization-structure.md).
 
 
 
-### Perspectives
+### Unified Perspective
 
 ```
 object = function = system = organization
@@ -32,7 +32,7 @@ An **object** can be understood as a **function** with respect to it's context. 
 
 This results in the following levels. Based on [domains](../reality/structures.md).
 
-1. **Functional** view. The purpose of the object.
+1. **Functional** view. The external purpose of the object.
 2. **Social** view. The interaction of the internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
 3. **Agent** view. The components themselves. Their lifecycle.
 4. **Material** view. The content that a component is made of.
@@ -46,9 +46,26 @@ This results in the following levels. Based on [domains](../reality/structures.m
 | **Model**    | Value delivery      | System                  | Application         | Framework                 |
 | **Domain**   | Intellectual domain | Social domain           | Biological domain   | Inorganic domain          |
 
-
-
 <img src="../img/system-views.png" alt="system-views" style="width:60%;" />
+
+#### Double articulation
+
+A function can be said to emerge from a pair of transformations.
+
+1. Assemblage. A set of components are assembled into a system. A system coherent view emerges.
+2. Expression. The system fulfills a purpose within a broader context. It's function is expressed in this context
+
+
+
+Example: load balancer
+
+- A VM hosts a an application. It's expression is a *router*.
+- A set of routers is configured in a network, along with load balancing policies. It's expression is a load balancer.
+- A load balancer is connected to real-world servers. It's expression is load balancing of traffic.
+
+<img src="../img/load-balancer-views.png" alt="load-balancer-views" style="width:80%;" />
+
+
 
 
 
@@ -56,7 +73,16 @@ This results in the following levels. Based on [domains](../reality/structures.m
 
 This view focusses on the context of the object, and treats the object itself as a black box.
 
-There are a few common functions.
+
+
+The purpose may range from organic to mechanic.
+
+- Mechanic. A strong, coherent purpose, similar to a machine.
+- Organic. Emphasis on the preservation of the organization itself. Understand they system as a living being.
+
+
+
+There are a few common *functions*.
 
 - **Processor**. Process information or materials and *transform* them.
 - **Storage**. Store valuable objects and retrieve them at a later point in *time*.
