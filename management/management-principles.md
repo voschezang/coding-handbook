@@ -12,13 +12,15 @@ See also [goals & strategy](./goals-planning-strategy.md).
 
 Management *an sich* is a theoretical domain. In the real world, one would encounter management of a *subject*. For example: management of a project or a department.
 
+The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
+
 
 
 ### Systems view
 
 This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
-See also [organization-structure](../systems/organization-structure.md) and [systems-management](../systems/systems-management.md).
+See also [organization-structure](../systems/organization-structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
 
 
 
@@ -45,17 +47,6 @@ Fundamentally, the functioning of a system follows the following phases.
 3. **Adapting**. Not following plans. E.g. changing the direction or position of the system.
 
 
-
-#### Change
-
-Change covers any activity that falls outside business-as-usual (BAU). Change-objectives can be categorized as follows. See [purpose](../activity/purpose.md).
-
-- Focus. Improve how effective and efficient the system is. This is about continuation.
-- Diversification.  Expand the scope of the system.
-
-- Radical change. E.g. changing the system's identity, positioning or functioning.
-
-<img src="../img/change-management.png" alt="change-management" style="width:35%;" />
 
 #### Autonomy
 
@@ -123,6 +114,8 @@ It involves a few *buckets*:
 
 See [systems-management](../systems/systems-management.md).
 
+
+
 **Effectiveness**
 
 The two main directions to be effective are:
@@ -139,6 +132,8 @@ This involves
 
 - Continuous improvement of purposes, people, processes.
 - Continuous discovery of value and waste.
+
+
 
 **Measure of Success**
 
@@ -163,6 +158,8 @@ Note that measures of success can be biased by how a component is perceived. E.g
 
 Timeline, scope and capacity are related. If one changes, then at least one of the others will too.
 
+
+
 **In business**
 
 Components
@@ -172,39 +169,6 @@ Components
 - Reduce cost, now and in the future.
 - Avoid cost, now and in the future.
 - Increase leverage (eg platforms, automation), in the future.
-
-
-
-### Change
-
-Note that these can all involve [*change*](../intelligence/learning.md). A typical challenge is to change processes that are optimized for the status quo. See also [organizational culture](../systems/organization-structure.md).
-
-1. [Influence](https://danluu.com/culture/) people (indirect)
-    1. Incentives. Rewards and punishments for behaviour or achievements.
-    2. Processes. E.g. regulation, validation.
-    3. Culture. "inherent" values. E.g. ideals to strive for.
-2. Persuade people (direct). E.g. [transformational leadership](https://en.wikipedia.org/wiki/Transformational_leadership).
-
-**Dimensions of Change**
-
-Reaching goals usually requires change.
-
-1. Direction.
-    1. Increase positive effects (e.g. increase profit).
-    2. Decrease negative effects (e.g. cut cost).
-2. Locality.
-    1. Optimize (all) individual components.
-        1. Risk: over-production, tunnel-vision, high inventory that can become obsolete.
-    2. Optimize the flow of tasks through the system. E.g. manage constraints. Note that this can include worsening the performance of specific components.
-        1. Risk: bias for the current goal. E.g. bias for a target market.
-    3. Diversify. E.g. diversify the product line for exposure to new markets.
-        1. Diversify into new markets.
-            1. Risk: lack of focus, lack of efficiency, low margins.
-        2. Diversify the current market by creating [segments](https://en.wikipedia.org/wiki/Market_segmentation).
-
-With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
-
-Also see [goals and strategy](./goals-planning-strategy.md).
 
 
 
@@ -477,8 +441,12 @@ Levels of assignments
 - Develop a plan / find a solution to a given problem
 - Discover the right problem
 
+**Change Management**
+
+See [change management](change-management.md).
+
 **Organization Management**
- [organization-structure](../systems/organization-structure.md)
+See [organization structure](../systems/organization-structure.md).
 
 **Crisis management**
 
@@ -486,7 +454,7 @@ Levels of assignments
 
 **Risk Management**
 
-[risk-management](risk-management.md)
+See [risk management](risk-management.md).
 
 **Stakeholder management (managing up, opdrachtnemerschap)**
 

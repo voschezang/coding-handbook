@@ -170,18 +170,6 @@ E.g.
 
 
 
-#### Core Quality Quadrant: Personal Qualities & Risks
-
-> Each allergy signifies an underlying quality
-
-For each *quality* or trait, there is an extreme which usually has adverse effects. This presents a *risk*. Often, the behaviour associated with addressing this risk is the reverse of the quality. Behaving in the opposite direction of the initial quality is *challenging*.
-
-The extreme side of the challenge may conflict with the initial quality. This is the *allergy*.
-
-<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="width:60%;" />
-
-
-
 ### Patterns
 
 #### Forms of communication

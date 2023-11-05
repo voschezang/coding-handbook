@@ -4,9 +4,13 @@
 
 ## Harmony
 
-- Harmony by celebrating diversity. Avoid conflict.
-- Harmony by purity / uniformity. Avoid difference.
-- Eventual harmony. Flow between tension and release. Allow waves of tension or conflict, followed by resolution.
+Three approaches to maintain harmony.
+
+|          | Diversity                         | Purity                                    | Elasticity                          |
+| -------- | --------------------------------- | ----------------------------------------- | ----------------------------------- |
+| **Tool** | Appreciate difference, uniqueness | Appreciate purity, uniformity, conformity | Resolve tensions                    |
+|          | Avoid conflict                    | Avoid difference                          | Avoid distance. Keep communicating. |
+| **Risk** | Lack of alignment, cohesion       | Exclude minorities                        | Endless cycle of adjustment         |
 
 
 
