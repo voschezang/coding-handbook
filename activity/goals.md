@@ -167,3 +167,22 @@ Different ways to set goals
 
 <img src="../img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
 
+
+
+### Template: Maps
+
+**Purpose**
+
+- Visualize where you are and show the current state will change.
+- The format forces the strategy to be broken down into the most vital components.
+
+**Method**
+
+- Given two objectives X and Y, create a two-dimensional map. Add the current, intermediate and target states.
+- Visualize obstacles (inertia) as red blocks and movement (initiatives) as green arrows.
+
+
+
+
+
+<img src="../img/strategy-map.png" alt="strategy-map" style="width:70%;" />
