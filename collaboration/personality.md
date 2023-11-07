@@ -1,5 +1,7 @@
 # Personality
 
+See also [social dynamics](social-dynamics.md).
+
 [toc]
 
 ## Traits

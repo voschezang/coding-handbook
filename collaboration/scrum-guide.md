@@ -25,7 +25,7 @@ Scrum is about:
 Scrum includes of:
 
 - 5 core [values](#values):  `commitment, focus, openness, respect, courage`
-- The [Sprint](#sprint) and 4 formal Sprint [events](#Sprint Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
+- The [Sprint](#sprint) and 4 formal Sprint [events](#Sprint%20Events): `Sprint Planning, Sprint Review, Sprint Retrospective, Daily Scrum`
 - 3 [roles](#roles): `Product Owner, Scrum Master, Developers`
 - 3 [artifacts](#artifacts), each with a commitment: `Product Backlog (Goal), Sprint Backlog (Goal), Increment (DoD)` .
 

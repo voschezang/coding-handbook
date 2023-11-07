@@ -1,5 +1,7 @@
 # Social Dynamics
 
+See also [personality](personality.md)
+
 [toc]
 
 ## Harmony

@@ -261,7 +261,7 @@ Purpose: zoom in towards core values and motivation.
 
 **Qualities & Allergies**
 
-Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md).
+Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md) and also [personality](personality.md).
 
 ```markdown
 List of
