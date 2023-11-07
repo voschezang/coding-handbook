@@ -1,142 +1,10 @@
-# Perspectives of Reality
+# Structures
+
+See [domains](domains.md) and [forces](forces.md).
 
 [toc]
 
-## Introduction
-
-Reality tends to change over time. This is either a *progression* or a *regression*. 
-
-**Progression**
-
-Progression may result in *optimization* or *expansion*.
-
-- Optimization happens in sequence (on top) of the current structure. The result is contingent upon the old structure.
-- Expansion happens in parallel (in addition) to the current structure. The result may replace the old structure.
-
-
-
-Progression requires a cycle of *innovation* and *preservation*. 
-
-- Too much preservation leads to stagnation.
-- Too much disruption leads to degeneration (degradation).
-
-
-
-Innovation is a disruption that ends with preservation. The disruption needs to be latched onto something static.
-
-1. Innovation starts with a disruption, an action (a thesis).
-2. This action creates a reaction (anti-thesis). It disrupts the status quo. The reaction is proportional to the action.
-3. The change in reality needs to be resolved into a new structure that can be preserved (synthesis). The disruption needs to be latched onto a static reality.
-
-
-
-Structures may emerge as a result of these dynamics.
-
-- Static patterns provide a safety net. They facilitate experimentation.
-
-
-
-## Domains
-
-The universe can be split up into five domains. The first split of reality is made based on *lifeforms*. The second split is based on the dynamics that emerge in populations of lifeforms. Third, there are the common beliefs that are held by lifeforms. Fourth, there exist eternal ideas that may or may not be known to any being.
-
-1. **Inorganic** structures. This involves the world of physics. It consists of matter and energy.
-2. **Biological** structures. These are specific lifeforms and the dynamics between them. 
-3. **Social** structures. These are patterns that consist of multiple lifeforms.
-4. **Intellectual** structures. Shared concepts and memories. Ideals. Conventions.
-5. **Eternal** structures. These are concepts that are not contingent upon lifeforms or matter. These structures tend to be difficult to define.
-
-Note: this ordering assumes that lifeforms are organic, i.e. based on carbon-based molecules.
-
-
-
-**Quality**
-
-Quality can reach local optima at each level.
-
-- Inorganic structures: physical qualities. E.g. strength-mass ratio.
-- Biological structures: feelings. the edges of homeostasis. Balance: homeostasis.
-- Social structures: care for basic human needs. Utility.
-- Intellectual structures: better frameworks to embody knowledge?
-
-|                              | Keywords                                                     | Quality                 | Example              |
-| ---------------------------- | ------------------------------------------------------------ | ----------------------- | -------------------- |
-| **Inorganic** structures     | Matter, energy                                               | Physical qualities      | Strength-mass ratio  |
-| **Biological** structures    | Lifeforms, [life-cycle](https://en.wikipedia.org/wiki/Biological_life_cycle). | Sensations, experience. | Joy                  |
-| **Social** structures        | Communities of subjects                                      | Utility                 | Provide for citizens |
-| **Intellectual** structures. | Ideas hold by subjects                                       | Capability              | Conventions          |
-| **Eternal** structures       | Ideals                                                       | Oneness                 |                      |
-
-
-
-A few examples of eternal structures.
-
-- `∅` The empty set.
-- `I` The identity function.
-- `0` The number zero.
-
-
-
-### Organizations
-
-Structures such as organisms and organizations exist in all domains at the same time. They are contingent on their lower-level structures.
-
-
-
-#### Examples
-
-|                       | Blood cell                           | Human                                       | City                       |
-| --------------------- | ------------------------------------ | ------------------------------------------- | -------------------------- |
-| **Inorganic view**    | Molecules                            | Molecules                                   | Buildings, citizens, roads |
-| **Biological view**   | Nucleus, cytoplasm                   | Cells, DNA                                  | A population that can grow |
-| **Social view**       | Cardiovascular system, immune system | A *person* with rights and responsibilities | Communities, businesses    |
-| **Intellectual view** | Roles                                | A subjective worldview, opinions, memory    | Conventions                |
-| **Eternal view**      |                                      | Human nature                                | Urban nature               |
-
-Note that the components in each perspective are subject to *different* forces. Molecules are subject to gravity, but a population is not. A person is a subject of the law, but molecules are not.
-
-
-
-## Health
-
-These domains can be mapped to Aristotle's [four causes](https://en.wikipedia.org/wiki/Four_causes).
-
-- Inside view
-    - Material health. Inner structure. The network of components that make up the structure.
-    - Natal/life-cycle health. The origin (birth) of the structure. How the structure evolves. E.g. growth of a human body or corporation.
-- Outside view
-    - Positional view. The position of the structure in its environment.
-    - Functional view. The role of the structure in it's environment. It's purpose.
-
-Notes
-
-- The environment of an object or structure can be an organization, system or society.
-- The material structure can be further decomposed into atomic parts and the relations between them. E.g. molecules that form organs in a human body.
-
-
-
-#### Examples
-
-In a capitalist society.
-
-|                          | **Material**                  | **Life-cycle**                             | **Position**                        | **Function**             |
-| ------------------------ | ----------------------------- | ------------------------------------------ | ----------------------------------- | ------------------------ |
-| *Domain*                 | *Inorganic*                   | *Biological*                               | *Social*                            | *Intellectual*           |
-| **Person**               | Network of biological system. | Childbirth                                 | Family member                       | Job                      |
-| **Corporate Department** | Network of teams              | Founding of the corporation and department | Position in the corporate hierarchy | Output of the department |
-
-
-
-#### Health
-
-|                          | **Material health**  | **Life-cycle health**   | **Positional health**   | **Functional health**             |
-| ------------------------ | -------------------- | ----------------------- | ----------------------- | --------------------------------- |
-| **Person**               | Physiological health | Nutrition, growth       | Health of relationships | Ability to participate in society |
-| **Corporate Department** | Health of employees  | Support from management | Health of bureaucracy   | Ability to deliver value          |
-
-
-
-## Structures
+## Examples
 
 An ordering of structures (aggregates) from microscopic to macroscopic scale. New properties emerge at higher levels. Higher level structures transcend lower level structures, but can still be contingent on them. Note that this structure is not a [total ordering](https://en.wikipedia.org/wiki/Total_order).
 
@@ -147,7 +15,7 @@ An ordering of structures (aggregates) from microscopic to macroscopic scale. Ne
 1. Subatomic particles.
 2. [Elementary particles](https://en.wikipedia.org/wiki/Elementary_particle) and [radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation).
 3. Composite particles. E.g. protons, neutrons.
-4. Atoms. E.g.carbon, coper.
+4. Atoms. E.g. carbon, coper.
 5. Atomic structures. [Chemical bonds](https://en.wikipedia.org/wiki/Chemical_bond), [chemical compounds](https://en.wikipedia.org/wiki/Chemical_compound). E.g. molecules, ionic compounds.
 6. Solid [matter](https://en.wikipedia.org/wiki/State_of_matter), liquid, gas and plasma.
 7. Planets
@@ -172,7 +40,7 @@ Types of organisms
 
 **Social structures**
 
-1. [Symbiosis](https://en.wikipedia.org/wiki/Symbiosis). [Pollination](https://en.wikipedia.org/wiki/Pollination).
+1. [Symbiosis](https://en.wikipedia.org/wiki/Symbiosis). E.g. [pollination](https://en.wikipedia.org/wiki/Pollination).
 2. Family
 3. [Kinship](https://en.wikipedia.org/wiki/Kinship)
 4. Businesses
@@ -216,6 +84,103 @@ Types of organisms
 See also: [waves](../math/waves.md#Real%20world%20systems)
 
 Also see [periodic structures](periodic-structures.md).
+
+
+
+## Preservation
+
+Higher level structures are preserved and protected by boundaries. Such boundaries prevent the structures from degrading. They maintain order. They facilitate repetition.
+
+- [Cell walls](https://en.wikipedia.org/wiki/Cell_wall) to preserve cells.
+- Biological [immune system](https://en.wikipedia.org/wiki/Immune_system) to protect the organism.
+- Marriage to preserve relationships.
+- Religion to preserve unity in a community.
+- Tradition to preserve stability in a community.
+- Oral tradition to preserve culture in a community.
+- [Inquisition](https://en.wikipedia.org/wiki/Inquisition) to protect purity.
+- The police to preserve order, class systems, private property or to prevent crime.
+- Writing to preserve ideas.
+- City walls to preserve society.
+- Kingdoms (authority/power) to preserve communities.
+- Governments to preserve communities.
+- Bureaucracy to preserve organizations.
+- Nations to preserve countries.
+
+
+
+**Roads & Walls**
+
+Both roads and walls facilitate flow of value.
+
+
+
+City walls have a dual purpose.
+
+- They protect citizens from external threads.
+- They facilitate the flow of goods, services and ideas.
+
+
+
+Roads are less absolute than walls. They facilitate movement in a pre-determined direction.
+
+- They protect social structures, by connecting them.
+- They influence movement by means of attraction and repulsion.
+
+
+
+**Laws**
+
+Emergent patterns that control structures. E.g. an institution is designed to preserve an idea. The power that is exhibited by that institution results in laws that control the system.
+
+- Physical laws that control matter.
+- [Law of the jungle](https://en.wikipedia.org/wiki/Law_of_the_jungle) that control survival.
+- Economic laws that control markets.
+- Governmental laws that control citizens.
+- Ethics that control behaviour.
+
+
+
+## Innovation
+
+> Innovations disrupt order
+
+Innovations are disruptions with a certain potential. Innovation produces higher-level structures that transcend lower-level structures.
+
+- The cost and benefit of a disruption may change over time. In general, an innovation is a thread to the preservation of the status quo.
+
+
+
+### Types of innovations
+
+**Communication**-oriented.
+
+- Oral tradition to transmit history.
+- Religion to give rise to shared purpose
+- Writing
+- Printing press
+- Radio to transmit mass media.
+- Scientific journals
+
+**Value**-oriented.
+
+- Agriculture and [animal husbandry](https://en.wikipedia.org/wiki/Animal_husbandry). Grow value.
+- [Currency](https://en.wikipedia.org/wiki/Currency). Facilitate exchange of value.
+- [Marketplace](https://en.wikipedia.org/wiki/Marketplace). A platform that facilitates the flow of value.
+- [Free market](https://en.wikipedia.org/wiki/Free_market)
+- [Company](https://en.wikipedia.org/wiki/Company). A legal entity.
+- [Academia](https://en.wikipedia.org/wiki/Academy)
+
+
+
+### Overcoming Laws
+
+Higher level structures tend to show emerging behaviour. They overcome (transcend) lower-level laws. This may be in contrast to the laws of the lower-level organizational patterns.
+
+- Fish that swim against the current.
+- Birds that fly.
+- [Selective breeding](https://en.wikipedia.org/wiki/Selective_breeding).
+- [Engineers](https://en.wikipedia.org/wiki/Engineering) that develop industry.
+- Scientists that develop [biological engineering](https://en.wikipedia.org/wiki/Biological_engineering).
 
 
 
