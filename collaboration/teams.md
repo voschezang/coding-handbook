@@ -4,23 +4,61 @@
 
 ## Health & Performance
 
-### Intuition
+### Discovery
 
-**Properties of a successful team**
+1. Look & **feel**. Use intuition.
+2. **Listen** to customers, stakeholders and employees.
+3. Monitor effectiveness, predictability and efficiency.
+
+
+
+**Red flags**
+
+- Is there trust
+- Is there a shared goal?
+- Is there miscommunication?
+- Are risks transparent?
+
+
+
+**Balance**
+
+<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
+
+
+
+### Properties of a successful team
 
 The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
 
-1. **Vibe**. There is a pleasant vibe in the team. You can feel that the team is happy.
-2. **Expectations**. There is alignment on expectations of how the team operates. This matches the expectations from stakeholders.
-3. **Results**. There is regular reflection of results. Results are compared to original goals.
+1. **Vibe**. There is a pleasant vibe in the team. You can feel that the team is happy. Usually this requires physiological safety.
+2. **Expectations**. There is *transparency* on expectations. This includes expectations from stakeholders and from team members themselves.
+3. **Team results**. There is *transparency* and reflection on on team results. They are compared to original goals.
 4. **Resilience**. The team is able to deal with setbacks.
 
 In addition, there are more fine grained signals:
 
 - Individual team members are content within their team and with each other. The team works in harmony.
+- There is transparency w.r.t. work, roles and responsibility.
 - Conflict is addressed openly.
 - The team takes ownership of short- and long-term goals.
 - There is accountability of results.
+- Stakeholders trust the team.
+- Team members find purpose or meaning in their work.
+
+
+
+### Anti-patterns
+
+1. A lack of vision results in unclear and diverging goals.
+2. Poor incentives promote resource utilization, which results in local optimization.
+3. Unclear goals contribute further to a bias resource utilization. This emphasizes (individual) productivity over long-term outcomes.
+4. These dynamics make it difficult to make commitments and hold the team accountable.
+5. As a result, progress is hampered.
+
+
+
+![effectiveness-corruption](../img/effectiveness-corruption.png)
 
 
 
@@ -105,11 +143,11 @@ Lencioni model (five dysfunctions of a team)
 
 Google model. [src](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
-- **Psychological safety** – Feeling able to take risks without feeling insecure or embarrassed.
-- **Dependability** – Being able to count on each other to deliver high-quality work on time.
-- **Structure & clarity** – Having clear goals, roles, and plans for each member and the group as a whole.
-- **Meaning of work** – Working on something personally important to each team member.
-- **Impact of work** – The belief that the work being done matters.
+1. **Psychological safety** – Feeling able to take risks without feeling insecure or embarrassed.
+2. **Dependability** – Being able to count on each other to deliver high-quality work on time.
+3. **Structure & clarity** – Having clear goals, roles, and plans for each member and the group as a whole.
+4. **Meaning of work** – Working on something personally important to each team member.
+5. **Impact of work** – The belief that the work being done matters.
 
 
 

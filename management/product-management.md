@@ -56,6 +56,17 @@ A few differences between projects and products.
 
 Projects typically have three constraints: a time bound, cost bound and a set of requirements (input or output). When risks materialize then at least one of these must be let go.
 
+
+
+|                 | Project                             | Product                    |
+| --------------- | ----------------------------------- | -------------------------- |
+| **Purpose**     | Satisfy requirements                | Deliver value to customers |
+| **Timing**      | Finish before the deadline          | Continuously, frequently   |
+| **Focus**       | Result-oriented                     | Market-oriented            |
+| **Constraints** | Time, cost, requirements, resources | Funding                    |
+
+
+
 ## Product Management
 
 ### Terminology
@@ -63,6 +74,11 @@ Projects typically have three constraints: a time bound, cost bound and a set of
 A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *user* and paid for by a *customer*. The *stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
 
 Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees.
+
+- Delivery: Provide value to users, based on a production process.
+- Transaction: Sell to customers.
+
+
 
 **Product Discovery**
 Deciding what to build, for whom, when.

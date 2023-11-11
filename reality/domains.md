@@ -97,22 +97,25 @@ Notes
 
 In a capitalist society.
 
-|                          | **Material**                  | **Life-cycle**                             | **Position**                        | **Function**             |
-| ------------------------ | ----------------------------- | ------------------------------------------ | ----------------------------------- | ------------------------ |
-| *Domain*                 | *Inorganic*                   | *Biological*                               | *Social*                            | *Intellectual*           |
-| **Person**               | Network of biological system. | Childbirth                                 | Family member                       | Job                      |
-| **Corporate Department** | Network of teams              | Founding of the corporation and department | Position in the corporate hierarchy | Output of the department |
+|                             | Person                        | Corporate Department                       |
+| --------------------------- | ----------------------------- | ------------------------------------------ |
+| **Material** (inorganic)    | Network of biological system. | Network of teams                           |
+| **Life-cycle** (biological) | Childbirth                    | Founding of the corporation and department |
+| **Position** (social)       | Family member                 | Position in the corporate hierarchy        |
+| **Function** (intellectual) | Job                           | Output of the department                   |
 
 
 
 ### Health
 
-|                          | **Material health**  | **Life-cycle health**   | **Positional health**   | **Functional health**             |
-| ------------------------ | -------------------- | ----------------------- | ----------------------- | --------------------------------- |
-| **Person**               | Physiological health | Nutrition, growth       | Health of relationships | Ability to participate in society |
-| **Corporate Department** | Health of employees  | Support from management | Health of bureaucracy   | Ability to deliver value          |
+|                       | Person                            | Corporate Department     |
+| --------------------- | --------------------------------- | ------------------------ |
+| **Material health**   | Physiological health              | Health of employees      |
+| **Life-cycle health** | Nutrition, growth                 | Support from management  |
+| **Positional health** | Health of relationships           | Health of bureaucracy    |
+| **Functional health** | Ability to participate in society | Ability to deliver value |
 
-See [organization]().
+See [organization](../systems/organization).
 
 
 

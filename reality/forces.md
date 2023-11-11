@@ -62,6 +62,17 @@ We can distinguish four types of forces. These may supersede each other. E.g. th
 
 
 
+**Causality**
+
+Example: what causes a cook to work.
+
+- Pleasure. A chef cooks a delicious meal.
+- Skill. A chef practices.
+- Fame. A chef want to prepare an amazing dish.
+- Passion. A chef follows their passion.
+
+
+
 ### Physical forces
 
 Based on objective properties of objects.
@@ -81,8 +92,8 @@ Based on objective properties of objects.
 
 Based on preferences of subjects.
 
-- Affinity (likes and dislikes)
-- Sexual attraction
+- Affinity (likes and dislikes). Pleasure. 
+- Sexual attraction.
 
 
 
@@ -102,6 +113,8 @@ Based on social and economic qualities.
 Based on knowledge.
 
 - Contagious strength of ideas
+
+
 
 
 

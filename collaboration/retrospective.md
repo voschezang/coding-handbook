@@ -143,6 +143,20 @@ Name events that made you feel either:
 
 
 
+### Value Chain
+
+Focus on the value chain.
+
+- List the components of the value chain.
+- Let the team reflect on components on this chain.
+
+Verify
+
+- Are the segments clear? What are the exceptions?
+- Is there uncertainty or risk involved in specific segments?
+
+
+
 ## Goal setting
 
 ### Remember the future

@@ -92,6 +92,17 @@ First, second, third position.
 
 
 
+#### Communication Pyramid
+
+Layered model for conversations: step by step.
+
+1. Personality
+2. Expertise
+3. Style
+4. (Deep) Content
+
+
+
 #### State of Mind
 
 Attention can be directed towards auditory, kinesthetic or visual senses. It can be focused internally or externally. This table excludes the senses taste and smell.
@@ -241,6 +252,15 @@ Framing messages allows positive and negative aspects be emphasized.
 **Addressing Conflict**
 
 - Don't offer a compromise too soon. First aim for a shared understanding of both perspectives. Ensure that the other party understands your problem. Move away from a negotiation-oriented conversation to an open, learning conversation.
+
+
+
+**Negotiating**
+
+- Distinguish people from problems.
+- Emphasize intent and value, rather than positions.
+- Show/develop multiple options with varying benefits.
+- Use objective criteria, to cultivate an attitude of fairness.
 
 
 

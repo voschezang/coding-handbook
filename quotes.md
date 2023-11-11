@@ -49,6 +49,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Context switching isn't free.
 * Good enough > perfection. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting). Only unicorns are perfect.
     * Continuous improvement is better than delayed perfection.
+* In der Beschränkung zeigt sich erst der Meister.
 
 ### Processes / Output
 

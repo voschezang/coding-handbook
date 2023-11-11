@@ -30,6 +30,10 @@ See [requirements-engineering](../management/requirements-engineering.md).
 
 
 
+<img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
+
+
+
 ## Practice
 
 > Change is about tension and release.

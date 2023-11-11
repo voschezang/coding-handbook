@@ -8,7 +8,17 @@ This document is compatible with the  [Scrum guide](https://scrumguides.org/scru
 
 ### Context
 
-Scrum is designed to help cross-functional teams manage a single [product](../management/product-management.md) in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). In essence, it aims to reduce risk by delivering value in short increments. It promotes an empirical mindset to improve quality through reflection and adaption.
+Scrum is designed to help cross-functional teams manage a single [product](../management/product-management.md) in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). It is optimized for complexity and uncertainty.
+
+- It promotes an empirical mindset to improve quality through reflection and adaption.
+- It is based on self-organizing teams. 
+
+In essence, it aims to reduce risk by delivering value in short increments. This includes:
+
+- Reliability. Deliver value within time and cost constraints.
+- Consistency. Deliver value every increment.
+
+
 
 ### Core
 
@@ -43,7 +53,7 @@ Scrum is by design generic and under-specified. For example, it excludes how to 
 
 On the other hand, these are hard, *immutable* requirements. This makes scrum revolutionary, rather than evolutionary. It isn't meant to be applied gradually (e.g. [kanban](../intelligence/learning.md#Kanban)). Instead, it requires a radical change in many traditional ways of working.
 
-This means that  it does require a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift, namely a *product mindset*. It requires buy-in from management.
+This does mean that a major [cultural](https://en.wikipedia.org/wiki/Organizational_culture) shift is required, namely a *product mindset* and *self-organizing teams*. It requires buy-in from management.
 
 
 
@@ -115,7 +125,21 @@ A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or mo
 
 Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
 
+
+
+**Accountability**
+
+|                   | Goal                             | Method                                      |
+| ----------------- | -------------------------------- | ------------------------------------------- |
+| **Scrum team**    | Create an increment every Sprint | Scrum framework                             |
+| **Developers**    | Deliver value                    | Sprints, adhere to standards.               |
+| **Product Owner** | Maximize product value           | Product goal, strategy and product backlog. |
+| **Scrum Master**  | Effective team                   | Impediments. Empiricism.                    |
+
+
+
 **Anti-patterns**
+
 Managers that spend their time firefighting. Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work. A group of individuals rather than an aligned team.
 
 
@@ -124,7 +148,9 @@ Managers that spend their time firefighting. Micromanagement, PO without authori
 
 The PO is accountable for the following items, but can delegate them if desired:
 
-- Developing and communicating the product goal and strategy.
+- Develop and communicate the product goal and strategy.
+  
+- Manage the product backlog.
   - Prioritizing *new* features and deciding which *existing* features to keep.
   - Choosing the target market.
 
@@ -323,7 +349,7 @@ The **size** or weight of PBIs is a proxy for the effort required to finish it. 
 | Increment (finished work)              | Definition of Done |
 
 **Product Backlog**
-A single source of truth of planned work. It is prioritized by value, as defined by the PO. In practice, the preferences of individuals can play a role as well. E.g. due to affinity, skill or even optics.
+At minimum, the product backlog is an *ordered* list of improvements. It may be ordered by e.g. value, priority, cost or risk. Items on the backlog may have varying level of detail.
 
 **Product Goal**
 If the Product Goal is achieved or obsolete then a new goal is chosen.

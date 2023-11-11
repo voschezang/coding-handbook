@@ -50,3 +50,9 @@ First, second, third position.
 1. The self. I, how I see/feel/hear it.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
+
+
+
+### Rubber duck
+
+Explain a problem to a rubber duck. Keep talking for 5 min.

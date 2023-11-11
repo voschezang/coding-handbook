@@ -39,9 +39,15 @@ If a value is categorical:
 
 
 
-From binary to categorical.
+**From binary to categorical**
 
-<img src="../img/binary-category.png" alt="binary-category" style="width:35%;" />
+<img src="../img/binary-category.png" alt="binary-category" style="width:30%;" />
+
+**Independent or dependent dimensions**
+
+<img src="../img/dimensions.png" alt="dimensions" style="width:80%;" />
+
+
 
 
 

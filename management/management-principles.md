@@ -1,18 +1,28 @@
 # Management Principles
 
-Note: This document covers the activity management, rather than the organizational layer.
-
-See also [goals & strategy](./goals-planning-strategy.md).
+Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](./goals-planning-strategy.md).
 
 [toc]
 
 ## Overview
 
-> Good management is situational
+Management is about *facilitating* the delivery of value. E.g. creating an environment where resources can produce value. The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
 
-Management *an sich* is a theoretical domain. In the real world, one would encounter management of a *subject*. For example: management of a project or a department.
+>  Good management is situational
 
-The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
+Management involves a *subject*: e.g. a system, organization, project or product. In addition, this subject is functioning within an *environment*: e.g. a market or organization.
+
+
+
+<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
+
+
+
+In theory, effectiveness is most strongly influenced by responsiveness and stakeholder concern. The latter factors are influenced by team autonomy and continuous improvement. Management support influences all factors, but indirectly.
+
+<img src="../img/effectiveness-factors.png" alt="effectiveness-factors" style="width:80%;" />
+
+
 
 
 
@@ -21,6 +31,12 @@ The art of management is the intuition of what to focus on (and what to delegate
 This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
 See also [organization-structure](../systems/organization-structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
+
+
+
+**Anti-pattern**
+
+- Take a component out of a system, fix it, and put it back.
 
 
 
@@ -456,7 +472,11 @@ See [organization structure](../systems/organization-structure.md).
 
 See [risk management](risk-management.md).
 
-**Stakeholder management (managing up, opdrachtnemerschap)**
+
+
+### Stakeholder management 
+
+(managing up, opdrachtnemerschap)
 
 > Ask for advice, not for feedback
 
@@ -492,7 +512,11 @@ Managing up
 - What I tried
 - What would you do if you were me?
 
-**Expectation management**
+Note: there is a differences between managing stakeholders and engaging with stakeholders.
+
+
+
+### Expectation management
 
 Ensure expectations are aligned at the beginning.
 
@@ -509,7 +533,9 @@ Technique:
 1. What *do* you expect?
 2. This is what you *can* expect. This is what *we* will do.
 
-**Time management**
+
+
+### Time management
 
 > Time management implies energy management
 
@@ -528,7 +554,9 @@ Time can be multiplied.
 - Teach others *why* and *what* instead of *how*. Empower others to do it independently.
 - Broadcasting instead of point-to-point communication. E.g. write a blog post or wiki instead of a long email.
 
-**Performance management**
+
+
+### Performance management
 
 See [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/theory/feedback-and-performance-management/).
 

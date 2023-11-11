@@ -65,4 +65,14 @@ Types of emotional conversations ([NVC](https://en.wikipedia.org/wiki/Nonviolent
 
 ### Conflict
 
-...
+
+
+### In self-managing teams
+
+Steps in an arising conflict.
+
+1. Ensure the conflict can be discussed openly. Make it easy to deconstruct it.
+2. Investigate the underlying causes. Discuss the situation one-on-one.
+3. Escalate to management. Start with awareness and request advice.
+    1. *"We observed this problem. We tried such and so. The result is ..."*
+
