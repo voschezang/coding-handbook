@@ -1,6 +1,6 @@
 # Requirements Engineering
 
-This document focusses on requirements for a single *unit* of work. It assumes a given [objective](./goals-planning-strategy.md). Projects that can be split up over multiple tasks are covered [here](./product-management.md).
+This document focusses on requirements for a single *unit* of work. It assumes a given [objective](../management/goals-planning-strategy.md). Projects that can be split up over multiple tasks are covered [here](../management/product-management.md).
 
 [toc]
 
@@ -43,7 +43,7 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 
 **Good Outcomes**
 
-Given an [objective](./goals-planning-strategy.md), start focussing on the *what* instead of the *why*.
+Given an [objective](../management/goals-planning-strategy.md), start focussing on the *what* instead of the *why*.
 
 The following properties may result in requirements.
 
@@ -71,8 +71,6 @@ Testable requirements. Functional or non-functional.
 Avoid or resolve ambiguity.
 
 > *Complicated* is just a euphemism for "scary to think about".
-
-
 
 ## Tests & Verification
 
@@ -221,8 +219,6 @@ By **importance**:
 - Doing
 - Can't do (cancelled).
 ```
-
-
 
 ## Estimation
 

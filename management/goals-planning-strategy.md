@@ -1,8 +1,6 @@
 # Strategy & Planning
 
-Making plans, following plans and updating plans.
-
-Also see [goals](../activity/goals.md).
+Making plans, following plans and updating plans. Also see [goals](../organization/goals.md), [templates](goal-templates.md) and [planning](planning.md).
 
 [toc]
 
@@ -102,85 +100,6 @@ Metrics
 
 
 
-## Models
-
-Insights
-
-- Distinguish long-term goal from actionable plans.
-- Use different models for different contexts.
-
-| Model            | Optimizes for | Ideal Time horizon |
-| ---------------- | ------------- | ------------------ |
-| North Star Model | Alignment     | Years              |
-| OKR Model        | Focus         | Months             |
-
-
-
-### North Star Model
-
-1. North star **goal**. An amazing outcome - yet far away.
-2. North star **metric**. A proxy to measure progress. E.g. daily active users, weekly viewing hours.
-3. **Current state**. Where you are now.
-4. Next **target state(s)**. The <u>path</u> you want to take. Avoid a strict ordering, but do include a preference based on current circumstances.
-5. **Initiatives** that will bring you to the next target state.
-
-Visually:
-
-<img src="../img/current-target-state.png" alt="current-target-state" style="width:70%;" />
-
-
-
-### OKR Model
-
-> When I go forwards you go backwards - and somewhere we will meet.
-
-OKRs separate qualitative motivational goals from tangible goals. OKRs can be defined per product and target market, but also on an individual level.
-
-**Mission**
-Why does this organization exist. A *persistent*, long term goal.
-
-**Objective**
-That <u>what you want</u> to achieve in the next quarter or year. A time-bound, *qualitative* goal that is ambitious, inspirational and motivational.
-
-- (for projects) A target state that differs from the current state.
-- This can be an hypothesis.
-
-**Key Results**
-<u>How you know</u> that you are achieving the objective. *Quantitative* goals that are [measurable](https://en.wikipedia.org/wiki/SMART_criteria). These are results of actions that you might take, not the actions themselves.
-
-- They should be so optimistic that only 2/3 of them will be reached.
-
-- These may be time-based. E.g. the churn-rate at a given date.
-- (for projects) Target conditions that need to be satisfied in order to reach the target state.
-
-Assign a confidence score to each key result track progress.
-
-**Initiative**
-An action that will bring you closer to a result. These should be flexible, in order to be able to respond to surprises.
-
-- E.g. steps that can be taken in sequence to reach target states.
-
-**Risks**
-Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there is a risk of optimizing for metrics (proxies), instead than targets. This is countered by choosing new metrics (KRs) periodically and chaining them to qualitative objectives.
-
-**Health Indicators**
-
-Perpetual objectives or metrics that are kept stable. Any change induced by the current set OKRs should not degrade these.
-
-#### Guide
-
-How to design OKRs, given an initial idea.
-
-1. Exploration
-    1. Define the problem space and the desired state.
-    2. List realistic and unrealistic goals.
-    3. List potential initiatives that are realistic
-2. Exploitation
-    1. Narrow down the objective. 
-    2. Deconstruct the desired state into key results.
-
-
-
 ## (Planning) Living Roadmap
 
 > Great outcome > meeting initial requirements.
@@ -255,58 +174,14 @@ This can be accompanied with the following:
 
 
 
-#### Template 2: Goal Cascade
-
-(anti-pattern, from [here](https://cutlefish.substack.com/p/tbm-4151-why-goal-cascades-are-harmful))
-
-A hierarchy of targets that is updated every quarter.
-
-1. A few organization-wide, high level goals.
-2. Department-specific goals that contribute towards the first goals.
-3. Team-specific goals that  contribute towards the departmental goals.
-
-**Risks**
-
-- Over-simplification at the top. Reality is modeled as a tree-like graph, with independent sub-goals. This creates an incentivize for local optimization.
-- Fragile, high fluctuation in goals. Each goal is a piece of work and has to be replaced after the work has been executed.
-
-<details>
-<summary><b>Goal Structures (Patterns)</b></summary>
-<br>
-<p><b>Tree Structure</b><br/>
-  Problem: assumption of independence is an oversimplification.</p>
-<img src="../img/goals-tree.png" alt="goals-tree" style="width:70%;" />
-<br/><br/>
-<p><b>Complex Structure</b><br/>
-  Problem: too chaotic.</p>
-<img src="../img/goals-complex.png" alt="goals-complex" style="width:30%;" />
-<br/><br/>
-<p><b>Double Tree Structure</b><br/>
-  Sub-goals map to multiple high-level goals.</p>
-<img src="../img/goals-tree-double.png" alt="goals-tree" style="width:50%;" />
-</details>
-
-
-#### Template 3: Path
-
-Format for a pitch:
-
-1. Start with the **main** goal. Ensure that there is agreement on both the need for change, and the end-result.
-2. Add the **path** to reach it. The steps can represent e.g. initiatives or full releases. Cover the earlier steps in detail. Leave later steps abstract if possible.
-3. Emphasize the flexibility of the plan by highlighting secondary **options**. Show optional paths that could be taken in case of changes to the environment.
-
-In case of technology-based projects this can be complemented with suggestions for **prototypes**.
-
-![roadmap-path](../img/roadmap-path.png)
-
-
-
 ## Alignment
 
 **Tools**
 
 - Documentation/text/email. Very efficient one way of communication.
 - Meetings. Fast feedback in groups.
+
+
 
 ### Meetings
 
@@ -356,97 +231,11 @@ Below are a few templates
 
 
 
-### Template: Signals & Underlying Problems
-
-Awareness of the current landscape is a prerequisite of planning. This template focusses on understanding a complex landscape. It's based on the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). It results in two lists: signals and problems.
-
-**Workflow**
-
-1. Observe **signals**. Which problems are clearly visible. E.g. red flags, pain points or obstacles.
-2. Determine the **underlying problems**. Do this based on hypotheses.
-    1. What is causing these signals? Why haven't they been addressed before?
-    2. Collect data if necessary.
-
-Based on this, it is possible to:
-
-- Define experiments to verify hypotheses.
-- Choose initiatives that address these problems.
-
-Review & report in order to maximize learning.
-
-
-
-### Template: Risks
-
-List the major risks and estimate their exposure (probability and probability of materialization). Consider both:
-
-- Threads (external)
-- Vulnerabilities (internal)
-
-Use this to decide to invest in mitigation. See [management-principles](management-principles.md).
-
-
-
-### Template: Desired States
-
-Start with a number of categories or themes. E.g. security, incident management, operations or efficiency. For each one, define the current state and the desired state.
-
-- Emphasize the *problem* with the current state.
-- The desired state is not necessarily a *target*, but rather an *idealistic outcome*.
-
-This template focusses on the range of outcomes and <u>excludes how to reach them</u>. This avoids the overhead of up-front planning, and reduces the risk of plans becoming outdated.
-
-The template:
-
-``` markdown
-# Theme A
-
-Current State
-> What is currently lacking.
-
-Desired State
-> What outcome is envisioned.
-
-
-# Theme B
-
-Current State
-> What is currently lacking. Link to the current design.
-
-Desired State
-> What outcome is envisioned. Read more here.
-
-...
-```
-
-
-
 ### Template: Portfolio / Option pool
 
 1. Determine & align on a *set* of core objectives. Avoid ordering this set by importance. E.g. `deliver value` now, and `contain cost`, `be agile` to be able to keep doing this in the future.
 2. Create an option pool of initiatives. Show how each initiative relates to a core objective.
 3. Compare the ROI, risk and compatibility of the initiatives.
-
-
-
-### Template: Matrices
-
-**Projects vs. Objectives**
-
-|                  | Objective A | Objective B | Objective C |
-| ---------------- | ----------- | ----------- | ----------- |
-| Project X        | o           |             | o           |
-| Project Y        | o           | o           |             |
-| Project Z        |             |             | o           |
-| ***Dependency*** | X, Y        | Y           | X,Z         |
-
-**Cost vs. Urgency**
-
-|                          | Not urgent | -         | Urgent    |
-| ------------------------ | ---------- | --------- | --------- |
-| **High risk / low cost** | Project X  |           |           |
-| **-**                    |            |           | Project Y |
-| **Low risk / High cost** |            | Project Z |           |
 
 
 
@@ -476,87 +265,3 @@ This is again based on categories or themes, but this template emphasizes the op
 
 
 
-## Making Choices
-
-How to make choices. Be informed, open-minded and align expectations.
-
-**Be informed**
-
-- Know the range of choices that are available to a given situation.
-- Estimate the cost of each relevant option.
-    - Incl. the cost of doing nothing.
-- Estimate the consequences of each relevant option.
-
-In addition, evaluate the reliability and consistency of this information.
-
-- Consider the parties involved. E.g. stakeholders, users, customers employees.
-- Know who to contact to learn more.
-
-**Be comfortable**
-
-- Set a baseline choice or worst-case scenario. Accept that this may may be realized.
-- Update your expectations.
-
-
-
-## Documentation
-
-> Use documentation to recall conversations rather than as an alternative for them.
-
-The goal of documentation is to externalize thinking. This helps with aligning the whole organization.
-
-Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [documentation](../documentation.md).
-
-
-
-### Tools
-
-**Narrative**
-Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
-This is independent of the required input effort.
-
-**Persona**
-A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
-
-**User Story**
-What value a given feature would bring to a given *persona*. See these [templates](requirements-engineering.md).
-
-**Epic**
-A collection of user stories that can be finished in at most a handful of months.
-
-**MVP**
-See [product management](product-management.md)
-
-**RFC**
-Request for comments. A scalable method to get feedback on an idea.
-
-**North Star Goal**
-A high-level, long-term goal that is used to show the direction to work towards. It should still specific and measurable. It may be complemented by shorter-term metrics.
-
-- Ideally this metric is consistent with your definition of success.
-- Ideally this metric is clear to the whole organization, such that they can align.
-
-**Output, Outcome and Impact**
-See [requirements engineering](requirements-engineering.md).
-
-
-
-### Map
-
-> Maps don't tell you what to do. Instead they show you your options.
-
-A visualization of points in space. They allow you to explore routes.
-
-They give insight into the environment and into how the environment is changing.
-
-Components
-
-- Anchor. Central, stable point.
-- Legend. What does space mean
-
-Dimensions that can be used:
-
-- Time. E.g. [value added](https://en.wikipedia.org/wiki/Value_added), up to value delivery.
-- Visibility to end-users.
-- Dependencies. Needs of end-users.
-- Level of [commoditization](https://en.wikipedia.org/wiki/Commoditization). From custom to standard to commodity. From uncharted to industrialized.

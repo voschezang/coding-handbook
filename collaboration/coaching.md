@@ -2,7 +2,7 @@
 
 Coaching is about providing a soundboard, through questioning. It's oriented towards potential and results.
 
-See also [goals](../activity/goals.md), [purpose](activity/purpose.md).
+See also [goals](../organization/goals.md), [purpose](activity/purpose.md).
 
 [toc]
 
@@ -14,8 +14,6 @@ Coaching revolves around the preferences of the coachee. It consists of a series
 
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
-
-
 
 ### Intent & Purpose
 
@@ -32,45 +30,38 @@ Coaching is not limited to planning and goal-setting. It may range from:
 - Choose a next step
 - Plan a next step
 
-
-
 ### Method
 
 Coaching is **result**-oriented. This means:
 
 - Start with a desired result, based on the preference of the coachee. Note that desires may change over time.
 - Optimism rather than pessimism.
-    - Explore core desires rather than fears.
-    - Focus on potential. Explore options rather than obstacles.
-    - Emphasize what is possible, instead of what is not.
-    - Emphasize what worked well over failures.
-    - Start half a step ahead, rather than miles away from what's realistic.
+  - Explore core desires rather than fears.
+  - Focus on potential. Explore options rather than obstacles.
+  - Emphasize what is possible, instead of what is not.
+  - Emphasize what worked well over failures.
+  - Start half a step ahead, rather than miles away from what's realistic.
 - Practical steps rather than theory and analysis.
-    - Don't over-analyze problems
+  - Don't over-analyze problems
 
 - End conversations with an action point.
 - Let the coachee come up with solutions. Then explore these.
-    - Don't provide solutions.
-
-
-
+  - Don't provide solutions.
 
 **Requirements**
 
 Necessary conditions.
 
 - Trust. Which requires:
-    - Confidentiality.
-    - Compassion. A genuine optimistic view of the coachee.
-    - Clarity.
-    - Transparency about context, motivation, interests, other parties.
-    - Request approval when approaching boundaries. E.g. for personal questions, giving suggestions.
-- Agreement on the coach-coachee relation. 
+  - Confidentiality.
+  - Compassion. A genuine optimistic view of the coachee.
+  - Clarity.
+  - Transparency about context, motivation, interests, other parties.
+  - Request approval when approaching boundaries. E.g. for personal questions, giving suggestions.
+- Agreement on the coach-coachee relation.
 - Sessions
-    - Intake session to align expectations and set an initial objective. Check the expectations with respect to coaching itself.
-    - Repeated conversational sessions that end with action points.
-
-
+  - Intake session to align expectations and set an initial objective. Check the expectations with respect to coaching itself.
+  - Repeated conversational sessions that end with action points.
 
 ### Team Coaching
 
@@ -82,8 +73,6 @@ A common pattern is to focus on the team at the start and the end of projects (i
 
 - *Invite* team members to provide feedback and relflection, rather than filling in how they behaved. E.g. *"How did you feel after that meeting?"*, rather than *"I noticed that you rushed and ...."*.
 - Align and check assumptions.
-
-
 
 ## Context
 
@@ -97,13 +86,9 @@ Coaching requires confidentiality. Avoid conflicting interests.
 
 Coach as a middlemen, between the employee and manager.
 
-
-
 ### Supporting roles
 
 Differences between coaching, mentoring and consulting.
-
-
 
 **Focus**
 
@@ -113,22 +98,16 @@ Differences in focus:
 
 - Mentoring: intersection of the subject and a *domain*. E.g. a sport or craft.
 
-
-
 ![coach-mentor-goals](../img/coach-mentor-goals.png)
-
-
 
 **Behaviour**
 
 Differences in problem solving:
 
 - Coaching: Help the subject to solve a problem.
-    - Or, challenge the obstacle itself.
+  - Or, challenge the obstacle itself.
 - Mentor: Show alternative approaches to a problem.
 - Consultancy: Provide *a* solution for a problem. In addition to aligning and emphasizing the need for solutions.
-
-
 
 |                 | Coach                             | Mentor                              | Consultant                       |
 | --------------- | --------------------------------- | ----------------------------------- | -------------------------------- |
@@ -138,8 +117,6 @@ Differences in problem solving:
 | **Method**      | Active listening<br />*What, how* | Teach, explain, <br />use analogies | Specific questions<br />*5x Why* |
 | **Questioning** | Ask open questions                | Answer questions                    | Provide advice                   |
 | **Mode**        | Facilitate subject                | Lead subject                        | Provide service to subject       |
-
-
 
 ## Conversations
 
@@ -155,8 +132,6 @@ For coaching conversations
 - Provide choices to the other. Request approval before giving advice, making suggestions, asking personal questions or changing topics.
 - Verify assumptions.
 
-
-
 ### Templates
 
 #### Grow model
@@ -164,8 +139,6 @@ For coaching conversations
 [GROW](https://en.wikipedia.org/wiki/GROW_model) model.
 
 <img src="../img/conversation-model-grow.png" alt="conversation-model-grow" style="width:60%;" />
-
-
 
 #### Conversation Flow
 
@@ -182,11 +155,7 @@ After making contact, sitting down and small talk, continue to a deeper conversa
 - Eventually, move towards concrete, alternative **behaviour** that could help.
 - Let the conversation end with action points. Check whether these match the preferences of the coachee.
 
-
-
 <img src="../img/conversation-model.png" alt="conversation-model" style="width:70%;" />
-
-
 
 **Side stepping**
 
@@ -196,12 +165,10 @@ Pay attention to topics that are significant or that bring up emotions. These ar
 
 - Linger on these topics. Avoid rushing a conversation. Dare to pause and be silent.
 - Given a topic such as an event, consider both the resulting *behaviour* and the *experience* (feeling).
-    - Effect: "How did that affect you?"
-    - Behaviour: *"How did you react?"*
-    - Feeling: *"How do you feel about that?"*
+  - Effect: "How did that affect you?"
+  - Behaviour: *"How did you react?"*
+  - Feeling: *"How do you feel about that?"*
 - Link these topics to the ambition. Explore how they relate to the ambition.
-
-
 
 **Active listening**
 
@@ -212,13 +179,11 @@ Listen actively. Recognize the other. Be fully empathetic. Put yourself in the o
 Tools
 
 - Focussing
-    - E.g. repeat a significant phrase. Address a relevant (nonverbal) signal.
+  - E.g. repeat a significant phrase. Address a relevant (nonverbal) signal.
 - Exploring. This is useful when the other is sending multiple or mixed messages.
-    - Summarize what was said.
-    - Involving. Ask open questions.
-    - Check assumptions.
-
-
+  - Summarize what was said.
+  - Involving. Ask open questions.
+  - Check assumptions.
 
 **Values**
 
@@ -227,20 +192,14 @@ Typical values, categorized by direction:
 - Integrity. Respect, fairness, justice. Transparency, honesty.
 - Autonomy, independence, liberty.
 - Self-actualitzation, creativity, challenge, purpose. Dynamic lifestyle.
-- Social-economic position. E.g. status, influence, wealth. Static lifestyle. 
+- Social-economic position. E.g. status, influence, wealth. Static lifestyle.
 - Security, safety.
-
-
 
 **Associating and dissociating**
 
 Different topics focus attention on different aspects of life. They help to associate and dissociate.
 
-
-
 <img src="../img/conversation-reality-potentiality.png" alt="conversation-reality-potentiality" style="width:80%;" />
-
-
 
 ## Templates
 
@@ -251,12 +210,12 @@ Purpose: zoom in towards core values and motivation.
 ```markdown
 - Context
 - Static reality
-	- Obstacles
-	- Competence
-	- Values
-	- Ambition | big A
+ - Obstacles
+ - Competence
+ - Values
+ - Ambition | big A
 - Potential
-	- Goal | petit a
+ - Goal | petit a
 ```
 
 **Qualities & Allergies**
@@ -287,12 +246,9 @@ List of
   - Fear. Perceived risks.
 ```
 
-
-
 **Actionable**
 
 ```
 How likely do you feel/think this is to succeed? What would you need in addition?
 How motivated are you on a scale from 0-10? Why not higher/lower?
 ```
-

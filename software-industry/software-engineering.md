@@ -16,7 +16,7 @@ Usually it consists of either:
 
 **Daily Work**
 
-1. Planning of work. E.g. [requirements engineering](../management/requirements-engineering.md), design, stakeholder/customer management, administration.
+1. Planning of work. E.g. [requirements engineering](../organization/requirements.md), design, stakeholder/customer management, administration.
 2. Planned work. E.g. programming, designing, having discussions, reviews, testing, research, teaching.
 3. Unplanned work. E.g. incident handling, customer support, troubleshooting.
 
@@ -51,8 +51,6 @@ See [software development cycle](./software-development-cycle.md).
 - Specialist / individual contributor. A domain expert. E.g. specialized consultancy.
 - Engineering manager. Organizational structures and the work environment, rather than work itself: e.g. teams, people, processes.
 - Technical leadership. Manage technical vision/risks/requirements. Take responsibility for the effectiveness of a development team or department. Communicate between technical and non-technical staff and stakeholders.
-
-
 
 ## Software methods
 
@@ -106,8 +104,6 @@ There doesn't exist a method that guarantees bug-free code. Don't make assumptio
 - Take time every to reflect and question your way of working.
 - Go to bed early.
 
-
-
 ### Maintainability
 
 > Most time is spend on maintenance, rather than development of new software.
@@ -120,8 +116,6 @@ Change is inevitable in software engineering. It can be caused by:
 - More information that is available. E.g. after learning.
 
 See [programming-paradigms](../computer-language/programming-paradigms.md).
-
-
 
 ### Clean Code
 
@@ -139,8 +133,6 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 - Simple interfaces for public methods.
 
 See also [programming-paradigms.md](../computer-language/programming-paradigms.md) and [style-guide.md](../computer-language/style-guide.md).
-
-
 
 ### Testing
 
@@ -176,8 +168,6 @@ Rely on unit-tests (checks) to verify that requirements or specifications are me
 **Anti-pattern**
 Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are slow, unmaintainable and too sensitive.
 
-
-
 ### Other Metrics
 
 - Lead time
@@ -190,8 +180,6 @@ Biased metrics
 - Lines of code (LOC): incentive to produce boilerplate code and to never deprecate code
 - Velocity: incentive to increase bulk sizes, preference for large, risky projects
 - Utilization: incentive for silo's, status quo and efficiency (rather than innovating)
-
-
 
 ## Software Quality
 
@@ -207,13 +195,9 @@ Code reviews
 - Based on the risk/impact of the work
 - Based on how "clean" the code is
 
-
-
 **Being stuck**
 
 "The feeling of being stuck". The opposite of "peace of mind".
-
-
 
 ### Technical Debt
 
@@ -249,8 +233,6 @@ Types
 
 - Bad interfaces. This may result in lot's of duplicate code.
 
-
-
 ## Types of Work
 
 Ordered along the [Cynefin domains](https://cynefin.io/wiki/Cynefin) `chaotic-complex-complicated-obvious`. Also see [Traditional Paradigms](#Traditional%20Paradigms).
@@ -264,8 +246,6 @@ Addition
 
 - Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](../systems/systems-management.md).
 
-
-
 #### Traditional Paradigms
 
 With minimal collaboration, roles could be distributed as follows. The alternative would be a cross-functional team.
@@ -278,8 +258,6 @@ With minimal collaboration, roles could be distributed as follows. The alternati
 - Tester: turns code into bug-reports.
 - PO: manage product and stakeholders, requests features.
 - Scrum master: process management, coaching, HR.
-
-
 
 ### Integration & Delivery
 
@@ -316,8 +294,6 @@ This pattern has some downsides:
 
 - It requires a high level of synchronization between teams and components.
 - It may create an incentive to build a "feature factory", with a bias for LOC or number of features, over customer value.
-
-
 
 ### Collaboration
 
@@ -368,8 +344,6 @@ It helps to avoid:
 
 - Errors related to planning and handovers.
 - Invisible bottlenecks.
-
-
 
 ## Programming productivity
 

@@ -1,6 +1,6 @@
 # Human Communication
 
-These models are valid for specific circumstances. I.e. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../management/requirements-engineering.md) and [documentation](../documentation.md).
+These models are valid for specific circumstances. I.e. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../organization/requirements.md) and [documentation](../documentation.md).
 
 [toc]
 
@@ -9,8 +9,6 @@ General principles
 - "**Right**" communication depends on the listener, the environment and your history.
 - There is **always** communication. Even being absent or silent sends a message.
 - Human communication is extremely **noisy** and inefficient.
-
-
 
 ## Attitude & Relation
 
@@ -43,8 +41,6 @@ Which role you are expected to take. This is determined by your history and the 
 - Expert. Advising. Give an objective opinion.
 - Manager. Asking questions, deciding
 
-
-
 ## Behaviour
 
 Models
@@ -60,8 +56,6 @@ Patterns
 - Attitude: sub-assertive, assertive, aggressive
 - Bridging - mediating - negotiating
 - Collaborative - competitive
-
-
 
 ### Models
 
@@ -90,8 +84,6 @@ First, second, third position.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
 
-
-
 #### Communication Pyramid
 
 Layered model for conversations: step by step.
@@ -100,8 +92,6 @@ Layered model for conversations: step by step.
 2. Expertise
 3. Style
 4. (Deep) Content
-
-
 
 #### State of Mind
 
@@ -118,8 +108,6 @@ Attention can be directed towards auditory, kinesthetic or visual senses. It can
 The mind is influenced by thoughts, feelings, behaviour and external influences. The estimation to what extend this is manageable influences the physiological response (e.g. stress).
 
 <img src="../img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
-
-
 
 #### Subjectivity: In/Out/Other-side
 
@@ -140,24 +128,19 @@ Relation
 
 <img src="../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
 
-
-
 #### Four-sides Model
 
 Messages send from a sender to a receiver consist of [four aspects](https://en.wikipedia.org/wiki/Four-sides_model):
 
 - Subjective
-    - Self-revealing or self-disclosing aspect.
-    - Appeal. A wish or want related to the other.
+  - Self-revealing or self-disclosing aspect.
+  - Appeal. A wish or want related to the other.
 
 - Objective
-    - Factual aspect
-    - Relational aspect
-
+  - Factual aspect
+  - Relational aspect
 
 Aligning these aspects keeps the message pure and avoids miscommunication. Mixed messages may be interpreted in an unexpected way. See [meta-communication](https://en.wikipedia.org/wiki/Meta-communication).
-
-
 
 #### Subjective Events
 
@@ -179,8 +162,6 @@ E.g.
 
 - Deconstructing the positions into an *effect* and an *intent* shows that both perspective are right, at the same time.
 
-
-
 ### Patterns
 
 #### Forms of communication
@@ -197,8 +178,6 @@ Specific forms
 - **Absence** of silence. This may send a mixed messages. It may be interpreted in many different ways.
 - **Presence** and attention. E.g. to show support.
 
-
-
 #### Communication styles
 
 - Ideal behaviour: switch between these based on context and need. Take space and give it back (welcome space).
@@ -209,8 +188,6 @@ Specific forms
 | Goal/content-oriented                                        | Relation-oriented                                        |
 | Persuading (reasoning), asserting, incentivizing (sanctioning) | Bridging (involving, listening, disclosing), attracting. |
 | Objectivity. Facts, events.                                  | Subjective experience of the other. Needs, emotions.     |
-
-
 
 #### Level of assertiveness
 
@@ -224,8 +201,6 @@ Specific forms
 | Flexibility                          | Too agreeable                     | Authentic. In line with desire. | Too defensive                 |
 | Behaviour                            | Too careful (slow)                | Attentive. Reconsidering.       | Too eager (fast)              |
 | Responsibility                       | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
-
-
 
 #### Bridging, Mediating, Negotiating
 
@@ -253,16 +228,12 @@ Framing messages allows positive and negative aspects be emphasized.
 
 - Don't offer a compromise too soon. First aim for a shared understanding of both perspectives. Ensure that the other party understands your problem. Move away from a negotiation-oriented conversation to an open, learning conversation.
 
-
-
 **Negotiating**
 
 - Distinguish people from problems.
 - Emphasize intent and value, rather than positions.
 - Show/develop multiple options with varying benefits.
 - Use objective criteria, to cultivate an attitude of fairness.
-
-
 
 ## Background
 
@@ -293,11 +264,4 @@ Bottled up emotions build up and can create tension. Risks:
 - The emotions reduce the capability for (active) listening. Truly listening requires an open mindset.
 - Risk of “explosions”.
 
-
-
-
-
 ## References
-
-[1]: Stone	"Difficult conversations: How to Discuss What Matters Most"
-[2]: Fisher	"Getting to Yes: Negotiating Agreement Without Giving In "

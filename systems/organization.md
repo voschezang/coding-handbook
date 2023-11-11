@@ -10,11 +10,11 @@ Let an **organization** be defined as *an interdependent set of components that 
 
 The optimal structure of an organization is highly dependent on the domain and scale. At the same time, the behaviour of these systems can be surprisingly similar. Examples of organizations are:
 
-- A government
-- A company, or a specific department or team within that company
+- A government.
+- A company, or a specific department or team within that company.
 - A software application, consisting of layers such as a user-interface, a business-layer and a database.
 - A system of applications, where the components are services.
-- An ecosystem. E.g. a market
+- An ecosystem. E.g. a market.
 
 See [structure](organization-structure.md).
 
@@ -37,8 +37,6 @@ This results in the following levels. Based on [domains](../reality/structures.m
 3. **Agent** view. The components themselves. Their lifecycle.
 4. **Material** view. The content that a component is made of.
 
-
-
 |              | Functional view     | Social view             | Agent view          | Material view             |
 | ------------ | ------------------- | ----------------------- | ------------------- | ------------------------- |
 | **Focus**    | Context             | System components       | Specific components | Elements of components    |
@@ -55,8 +53,6 @@ A function can be said to emerge from a pair of transformations.
 1. Assemblage. A set of components are assembled into a system. A system coherent view emerges.
 2. Expression. The system fulfills a purpose within a broader context. It's function is expressed in this context
 
-
-
 Example: load balancer
 
 - A VM hosts a an application. It's expression is a *router*.
@@ -67,32 +63,22 @@ Example: load balancer
 
 
 
-
-
 ### Functional view
 
 This view focusses on the context of the object, and treats the object itself as a black box.
-
-
 
 The purpose may range from organic to mechanic.
 
 - Mechanic. A strong, coherent purpose, similar to a machine.
 - Organic. Emphasis on the preservation of the organization itself. Understand they system as a living being.
 
-
-
 There are a few common *functions*.
 
 - **Processor**. Process information or materials and *transform* them.
 - **Storage**. Store valuable objects and retrieve them at a later point in *time*.
-- **Platform**. *Facilitate* service providers and consumers. See [platform management](../management/platform-management.md).
-
-
+- **Platform**. *Facilitate* service providers and consumers. See [platform management](../organization/platform.md).
 
 <img src="../img/system-types.png" alt="system-types" style="width:80%;" />
-
-
 
 **Context**
 
@@ -103,8 +89,6 @@ The purpose of an organization can be understood in terms of different parties.
 - **Consumers**: the party that uses a service.
 - **Employees**: an intermediate party that delivers services.
 
-
-
 **Sociotechnical systems**
 
 Often, an organization is multidisciplinary rather than mechanical. Technological decisions have social implications and vice versa. This relation is strengthened by multiple factors. For example:
@@ -114,8 +98,6 @@ Often, an organization is multidisciplinary rather than mechanical. Technologica
 - The scale of the organization in relation to a society.
 
 All these factors should be consider in order to create a sustainable design.
-
-
 
 **Side-effects**
 
@@ -146,13 +128,10 @@ This view focusses on the interaction of the internal components.
 A system can be understood in the following dimensions.
 
 - **Individuality**. The components can be a *mass* or a pack. The significance of the identity of the individual components.
-    - See [scale](organization-scale.md).
+  - See [scale](organization-scale.md).
 
 - **Relations** between components. The autonomy of components. See [relations](organization-relations.md).
-    - Control. Behaviour can arise through [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) or [choreography](https://en.wikipedia.org/wiki/Service_choreography).
-    - (Political) power can be autocratic or democratic.
-
-
+  - Control. Behaviour can arise through [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) or [choreography](https://en.wikipedia.org/wiki/Service_choreography).
+  - (Political) power can be autocratic or democratic.
 
 The nature of the relations may give rise to emergent properties. E.g. fluid dynamics, swarm behaviour, flocking.
-

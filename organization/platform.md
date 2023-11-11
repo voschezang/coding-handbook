@@ -4,11 +4,11 @@ A *platform* is a product that itself hosts other products. It facilitates *prov
 
 It has many parallels with the business concept [franchising](https://en.wikipedia.org/wiki/Franchising).
 
-See also [product management](./product-management.md).
+See also [product management](../management/product-management.md).
 
 <img src="../img/platform.png" alt="platform" style="width:45%;" />
 
-**Role**
+## Role
 
 The platform can range from:
 
@@ -21,7 +21,7 @@ This may be combined with the role of a [distributor](https://en.wikipedia.org/w
 
 Finally, investment may be made to attract either providers or consumers.
 
-**Purpose**
+## Purpose
 
 For any product, the following goals apply:
 
@@ -36,6 +36,6 @@ This can be extend by taking into account the roles of providers and consumers.
 - Reduce the entry barrier and operating cost of providers and consumers.
 - Improve the agility of providers and consumers.
 
-**Metrics & Performance**
+## Metrics & Performance
 
 The mediation role of the platform creates a bias towards stability.

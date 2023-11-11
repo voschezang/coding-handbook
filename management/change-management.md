@@ -11,8 +11,6 @@ This relates to organizational change. From culture to processes. This is more c
 1. Trivial change. This includes improvements that are obviously beneficial and accepted by a majority. They may not need additional attention from a manager.
 2. Non-trivial change. This includes change a context of conflicting interests, hidden motives. Presence of inertia or conservatism. Disruptive change.
 
-
-
 **Direction of change**
 
 Change covers any activity that falls outside business-as-usual (BAU). Change-objectives can be categorized as follows. See [purpose](../activity/purpose.md).
@@ -24,27 +22,17 @@ Change covers any activity that falls outside business-as-usual (BAU). Change-ob
 
 <img src="../img/change-management.png" alt="change-management" style="width:35%;" />
 
-
-
-See [requirements-engineering](../management/requirements-engineering.md).
-
-
+See [requirements](../organization/requirements.md).
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
-
-
 
 ## Practice
 
 > Change is about tension and release.
 
-
-
 ### Proposing change
 
 Changing processes without buy-in is risky. Subordinates may agree with the proposal without acting on in.
-
-
 
 **Model: Dynamic & static patterns. Culture & process.**
 
@@ -63,9 +51,6 @@ This model considers a dynamic (disruptive) change, that should be appreciated b
     1. (When) There is a turning point where the disruption needs to be turned down, in order to prevent the system from spiraling out of control. Without preserving the changes, the benefits may be lost.
     2. (What) Adjust processes to support the new culture. Set guidelines and incentives to preserve the updates.
 
-
-
-
 **Model: Question-Answer**
 
 This model starts with questioning an aspect of the environment (e.g. a team). It's directed towards the questions: *"Why change? For whom? Why now?"*
@@ -75,14 +60,12 @@ Given the intent to make a change, start with:
 1. **Context**. Appreciation of the environment. Understand the environment and accepts its limitations. Initiate willingness to consider change. An open mindset.
     1. *"What is the complication? What is the problem or opportunity? What is the context?"*
 
-2. **Question**. Pinpoint what can change. The belief that "we" can change this, soon. 
+2. **Question**. Pinpoint what can change. The belief that "we" can change this, soon.
     1. *"What can be different? What alternatives do we have? Which assumptions are false?"*
 
 3. **Answers**. Propose actions to take.
 
 Then make a plan.
-
-
 
 ### Planning change
 
@@ -104,8 +87,6 @@ Visualization
 
 - Kanban or Scrum board. Show work in progress and planned work.
 - Heatmap of health indicators.
-
-
 
 ### Change
 
@@ -137,4 +118,3 @@ Reaching goals usually requires change.
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
 Also see [goals and strategy](./goals-planning-strategy.md).
-

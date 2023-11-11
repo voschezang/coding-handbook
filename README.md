@@ -2,8 +2,6 @@
 
 This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document that organizes thoughts and ideas. It does not contain advice.
 
-
-
 ## Table of Contents
 
 Models
@@ -34,9 +32,9 @@ Systems
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/organization.md">Organizations</a> and systems</li>
   <ul>
-		<li><a href="systems/organization-structure.md">Structure</a> and topology</li>
-		<li><a href="systems/organization-relations.md">Relations</a></li>
-		<li><a href="systems/organization-scale.md">Scale</a></li>
+  <li><a href="systems/organization-structure.md">Structure</a> and topology</li>
+  <li><a href="systems/organization-relations.md">Relations</a></li>
+  <li><a href="systems/organization-scale.md">Scale</a></li>
   </ul>
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
@@ -48,13 +46,12 @@ Systems
 <ul>
 <li><a href="management/product-management.md">Product Management</a></li>
 <li><a href="management/project-management.md">Project Management</a></li>
-<li><a href="management/platform-management">Platform Management</a></li>
+<li><a href="organization/platform">Platform Management</a></li>
 </ul>
 <li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
-<li><a href="management/requirements-engineering.md">Requirements Engineering</a></li>
+<li><a href="organization/requirements.md">Requirements Engineering</a></li>
 </ul>
 </details>
-
 
 Technological
 
@@ -106,14 +103,11 @@ Social
 </ul>
 </details>
 
-
 Other
 
 - [Quotes](quotes.md) - to contemplate (high level).
 - [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Documentation](documentation.md).
-
-
 
 ## Other
 
@@ -126,16 +120,16 @@ Other
 
 - Documentation
   - [Documentation](documentation.md#Templates) templates.
-  - [Requirements engineering](management/requirements-engineering.md).
+  - [Requirements engineering](organization/requirements.md).
 
 **Relations between documents**
 
 From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
-- [Requirements Engineering](management/requirements-engineering.md) > [Project Management](management/project-management.md)
+- [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/organization-structure.md) > [Organization Architecture](organization-architecture.md)
-- [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](management/platform-management) > a [Project](management/project-management.md)
+- [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](management/project-management.md)
 
 Themes
 

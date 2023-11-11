@@ -1,8 +1,6 @@
 # Purpose
 
-Purpose relates to deliberate (intended) behaviour of a *subject*. This can be a person or organization. See also: [activity](activity.md), [goals](goals.md).
-
-
+Purpose relates to deliberate (intended) behaviour of a *subject*. This can be a person or organization. See also: [activity](activity.md), [goals](../organization/goals.md).
 
 **Intent**
 
@@ -14,15 +12,11 @@ Dimensions
 
 <img src="../img/change-focus-diversify.png" alt="change-focus-diversify" style="width:40%;" />
 
-
-
 **Behaviour**
 
 Behaviour is about change. It's dynamic. Change can be welcomed or rejected. The intent and effects can be immediate or long-term.
 
 <img src="../img/change-behaviour.png" alt="change-behaviour" style="width:40%;" />
-
-
 
 **Perspectives**
 
@@ -37,15 +31,11 @@ A subject's purpose can be categorized as follows.
   - Change. Affecting change in either the subject's identity or the social structure that subject is part of. E.g. political change.
   
 - Free of purpose. Before a purpose.
-    - Leisure or appreciation. Being present. Lingering. Paying attention to the moment. A purpose that is not external. Free from any interest or compulsion.
-
-
+  - Leisure or appreciation. Being present. Lingering. Paying attention to the moment. A purpose that is not external. Free from any interest or compulsion.
 
 **Horizon**
 
 The time-horizon can range from immediate, to long-term.
-
-
 
 **Attraction & Desire**
 
@@ -55,10 +45,7 @@ The time-horizon can range from immediate, to long-term.
     2. Repulse some*thing* that is unattractive.
 3. Positioning. Move towards a position of opportunity. E.g. in order to improve a feeling.
 
-
-
 **Types of Needs**
-
 
 Standard human needs (Maslow).
 
@@ -70,13 +57,9 @@ Standard human needs (Maslow).
 6. Order and beauty
 7. Self-actualization. Realizing ones potential.
 
-
-
 ## Un-purpose
 
 Unawareness of influences can lead to sub-optimal behaviour. A typical form of this are fears that are not acknowledged.
-
-
 
 **Fears**
 
@@ -91,12 +74,8 @@ An example at organization level.
 - It *desires* high efficiency as the main method to outperform competitors.
 - It *fears* inefficiency waste and under-utilization of resources.
 - The resulting *behaviour* could be to:
-    - Maximize resource utilization, which could result in over-production.
-    - Control employee performance, which could limit autonomy and may impact motivation.
-
-
-
-
+  - Maximize resource utilization, which could result in over-production.
+  - Control employee performance, which could limit autonomy and may impact motivation.
 
 ## References
 
