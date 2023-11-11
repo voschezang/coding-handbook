@@ -40,18 +40,30 @@ Systems
 </ul>
 </details>
 <details>
+<summary>Theory: <b>Organization</b>, goals products and projects</summary>
+<ul style="margin: 1em;">
+<li><a href="organization/organization.md">Overview</a></li>
+<li><a href="organization/goals.md">Goals</a></li>
+<li><a href="organization/product-projects.md">Products and projects</a></li>
+<li><a href="organization/platform">Platform Management</a></li>
+<li><a href="organization/requirements.md">Requirements</a></li>
+</ul>
+</details>
+<details>
 <summary>Practice: <b>Management</b> of systems, planning of work</summary>
 <ul style="margin: 1em;">
 <li><a href="management/management-principles.md">Principles</a></li>
 <ul>
 <li><a href="management/product-management.md">Product Management</a></li>
 <li><a href="management/project-management.md">Project Management</a></li>
-<li><a href="organization/platform">Platform Management</a></li>
+<li><a href="management/change-management.md">Change Management</a></li>
+<li><a href="management/risk-management.md">Risk Management</a></li>
 </ul>
 <li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
-<li><a href="organization/requirements.md">Requirements Engineering</a></li>
+<li><a href="management/goal-templates.md">Goals setting</a></li>
 </ul>
 </details>
+
 
 Technological
 
