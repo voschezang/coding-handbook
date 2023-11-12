@@ -57,6 +57,8 @@ Standard human needs (Maslow).
 6. Order and beauty
 7. Self-actualization. Realizing ones potential.
 
+
+
 ## Un-purpose
 
 Unawareness of influences can lead to sub-optimal behaviour. A typical form of this are fears that are not acknowledged.
@@ -76,6 +78,8 @@ An example at organization level.
 - The resulting *behaviour* could be to:
   - Maximize resource utilization, which could result in over-production.
   - Control employee performance, which could limit autonomy and may impact motivation.
+
+
 
 ## References
 

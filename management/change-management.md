@@ -6,6 +6,8 @@ This relates to organizational change. From culture to processes. This is more c
 
 ## Overview
 
+
+
 **Types of change**
 
 1. Trivial change. This includes improvements that are obviously beneficial and accepted by a majority. They may not need additional attention from a manager.
@@ -26,9 +28,20 @@ See [requirements](../organization/requirements.md).
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
 
+
+
 ## Practice
 
 > Change is about tension and release.
+
+
+
+Approaches for implementing change should take into account the structure of an organization.
+
+- In flat organizations the culture (mindset, alignment) may be prioritized over changes in processes.
+- In large organizations there can be a mix of top-down and bottom-up incentives. Changes in process may be enforced top-down.
+
+
 
 ### Proposing change
 
@@ -66,6 +79,8 @@ Given the intent to make a change, start with:
 3. **Answers**. Propose actions to take.
 
 Then make a plan.
+
+
 
 ### Planning change
 

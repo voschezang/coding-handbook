@@ -61,8 +61,10 @@ Systems
 </ul>
 <li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 <li><a href="management/goal-templates.md">Goals setting</a></li>
+<li><a href="management/planning.md">Planning</a></li>
 </ul>
 </details>
+
 
 
 Technological

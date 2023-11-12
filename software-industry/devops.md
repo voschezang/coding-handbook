@@ -120,6 +120,3 @@ Based on the maturity of a DevOps team, the following stages can be followed.
 
 
 
-
-
-

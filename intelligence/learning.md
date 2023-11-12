@@ -134,16 +134,6 @@ The exception to this is learning like a child would. Being open-minded, without
 **Tension-release**
 Push & pull. Similar to a dialogue, there should be a two-way interaction. Cross boundaries shortly, then step back and reflect. This allows you to maintain flow.
 
-**Thesis-antithesis-synthesis**
-A three-steps pattern. In general, small (fast) cycles are less disruptive.
-
-1. **Thesis**. An idea (eureka) or a revolution. Associated with hype and momentum.
-2. **Antithesis**. A conflict. The new way will naturally differ from the old paradigm and will have to be tested to real-word scenario's. There can be resistance from the status quo. Moreover, the existing structures are optimized for the old paradigm. Output is likely to decrease for a while. Change is an investment that might pay off over time.
-3. **Synthesis**. A resolution where the new way is incorporated and becomes part of the main paradigm. Side-effect of the original change are resolved.
-
-**Revolution vs. Evolution**
-Changes van vary from being large and disruptive, to gradual shifts.
-
 **Consicous competence**
 
 1. *Un*conscious *in*competence

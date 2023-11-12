@@ -88,6 +88,8 @@ Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720)
 - Goals are create purely bottom-up. It is biased to local optimization.
 - "Do the same as last year, but more efficient".
 
+
+
 ## Formulating a Goal
 
 Goals can be used to both motivate and guide a person or organization.
@@ -154,10 +156,24 @@ For each goal, denote the assumptions and rationale. Be explicit in what's an as
 
 ## Models
 
-| Model            | Optimizes for | Ideal Time horizon |
-| ---------------- | ------------- | ------------------ |
-| North Star Model | Alignment     | Years              |
-| OKR Model        | Focus         | Months             |
+Mindset
+
+- Align on a long-term vision and commit to short term objectives.
+
+| Model                | Optimizes for | Ideal Time horizon |
+| -------------------- | ------------- | ------------------ |
+| Bounded Optimization | Delivery      | Weeks              |
+| North Star Model     | Alignment     | Years              |
+| OKR Model            | Focus         | Months             |
+
+
+
+### Bounded Optimization
+
+Set static goals to ensure a minimum standard of quality. Then optimize value within those bounds.
+
+1. **Static** goals. Minimal quality standards. Guard rails, rather than quality layers. Standard operations and maintenance.
+2. **Dynamic** goals. Change. These can require static goals to be adapted.
 
 
 
@@ -225,5 +241,4 @@ How to design OKRs, given an initial idea.
 2. Exploitation
     1. Narrow down the objective. 
     2. Deconstruct the desired state into key results.
-
 

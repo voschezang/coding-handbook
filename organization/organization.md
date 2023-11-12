@@ -15,4 +15,7 @@ An organization can be
     - [Products and projects](product-project.md)
     - [Platform](platform.md)
 - Details
+    - [Identity](identity.md)
+    - [Quality](quality.md)
     - [Requirements](requirements.md)
+

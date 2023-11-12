@@ -10,6 +10,15 @@ This document is oriented more towards managing *projects* than a *product*, but
 
 ## Introduction
 
+Product management revolves around:
+
+- Developing a product vision and strategy.
+- Developing a product for a target market. 
+- Understanding the users and customers.
+- Collaborating with specialists.
+
+
+
 **Not project, but project<u>s</u> management**
 Often, projects are executed in conjunction to each other. To avoid local optimization, the portfolio of products must be taken into account. A *product* is a model that combines multiple projects, usually with the goal to deliver value to customers. See [Terminology](#terminology).
 

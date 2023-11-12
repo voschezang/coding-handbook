@@ -372,32 +372,3 @@ The Definition of Done (DoD) describes when an Increment is *ready* to be releas
 In addition, the DoD is complemented by Acceptance Criteria of backlog items, which are more specific.
 
 Ideally, compliance with internal or external regulation would be ensured through automated pipelines rather than manual verification.
-
-
-
-## Scale
-
-Scrum can be scaled up in several ways. The following models adhere to Scrum's framework. In general, a single product is associated with a dedicated PO, a Product Backlog, a Product Goal, an Increment and a Sprint Goal.
-
-
-
-**1 Product**
-
-- `< 50` developers, `1` product.
-
-**Product Portfolio**
-
-- `\> 50` developers, `n` independent products.
-
-**Product Areas**
-
-- `\> 50` developers, `1` product.
-
-- `n` product areas,  `n` product area owners.
-
-
-
-![scrum-scaling](../img/scrum-scaling.png)
-
-
-
