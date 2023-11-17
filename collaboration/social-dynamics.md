@@ -16,6 +16,25 @@ Three approaches to maintain harmony.
 
 
 
+### Diversity
+
+Benefits
+
+- High variance of ideas. Novel perspectives.
+- Equality in opportunities.
+
+Requirements for a diverse workspace.
+
+- Psychological safety. 
+  - Learn from failure.
+- Social inclusion.
+- Welcome difference, rather than striving for conformity.
+  - Make it easy to challenge what is "normal".
+  - Embrace growth and learning from each other. Especially when the team changes.
+  - Be curious, rather than judging.
+
+
+
 ## Progression
 
 Social relations may change abruptly or gradually.
