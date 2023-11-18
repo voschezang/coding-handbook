@@ -73,6 +73,7 @@ Technological
 <summary>Theory: <b>Math</b></summary>
 <ul style="margin: 1em;">
 <li>Mathematical <a href="math/models.md">Models</a>.</li>
+<li><a href="math/force.md">Forces</a>.</li>
 <li><a href="math/waves.md">Waves</a> (periodic processes).</li>
 <li><a href="math/signal-processing.md">Signal Processing</a> (sinoids).</li>
 </ul>
@@ -86,6 +87,7 @@ Technological
 <li>Software <a href="software-industry/software-development-cycle.md">Development Cycle</a>.</li>
 </ul>
 </details>
+
 
 Social
 
