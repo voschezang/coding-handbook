@@ -17,7 +17,7 @@ From a high level, two dimensions can be  distinguished: **pleasantness** (quali
 
 
 
-<img src="../img/psychology-pleasant-activation.png" alt="psychology-philosophy-psychology-pleasant-activation" style="width:60%;" />
+<img src="../img/psychology-pleasant-activation.png" alt="psychology-philosophy-psychology-pleasant-activation" style="width:70%;" />
 
 
 
