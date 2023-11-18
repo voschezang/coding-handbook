@@ -4,13 +4,24 @@
 
 The main types of activity are continuation, deviation and resting.
 
-<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:200px;" />
+<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:250px;" />
 
 **Continuation** is known as business as usual (BAU): daily operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
 
 **Change** involves a *deviation* from the standard trajectory. E.g. improvement projects.
 
 **Resting** (pausing) is not just an absense of activity. It actively rejects the standard trajectory. It creates space for attention and reflection.
+
+
+
+### Attention
+
+Dimensions
+
+- Immersion. From dissociated to associated. From distancing to embracing life.
+- Foucs on self or others. Focus on relations or goals/tasks.
+
+<img src="../img/activity-attention.png" alt="activity-attention" style="width:50%;" />
 
 
 
