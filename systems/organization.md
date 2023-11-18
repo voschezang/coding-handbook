@@ -74,7 +74,7 @@ The purpose may range from organic to mechanic.
 
 There are a few common *functions*.
 
-- **Processor**. Process information or materials and *transform* them.
+- **Processor**. Process information or materials and *transform* them. E.g. components in a value chain.
 - **Storage**. Store valuable objects and retrieve them at a later point in *time*.
 - **Platform**. *Facilitate* service providers and consumers. See [platform management](../organization/platform.md).
 

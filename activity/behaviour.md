@@ -1,6 +1,6 @@
 # Behaviour
 
-Behaviour is about change. It's dynamic. Change can be welcomed or rejected. The intent and effects can be immediate or long-term.
+Behaviour is about change. It's dynamic. Change can be welcomed or rejected. The intent and effects can be immediate or long-term. See [attention](activity.md#Attention).
 
 <img src="../img/change-behaviour.png" alt="change-behaviour" style="width:40%;" />
 

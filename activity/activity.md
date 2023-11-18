@@ -1,16 +1,26 @@
 # Activity
 
+[toc]
+
 ### Trajectory-oriented view
 
-The main types of activity are continuation, deviation and resting.
+The main types of activity or organizations and individuals are continuation, deviation and rejection.
+
+**Continuation** relates to business as usual (BAU): daily operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
+
+**Deviation** involves a *change* to the standard trajectory. E.g. improvement projects.
+
+**Rejection** involves refelction. It reconsiders the self or its environment. It creates space for attention and reflection.
+
+
 
 <img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:250px;" />
 
-**Continuation** is known as business as usual (BAU): daily operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
-
-**Change** involves a *deviation* from the standard trajectory. E.g. improvement projects.
-
-**Resting** (pausing) is not just an absense of activity. It actively rejects the standard trajectory. It creates space for attention and reflection.
+|                  | Continuation      | Deviation        | Rejection           |
+| ---------------- | ----------------- | ---------------- | ------------------- |
+| **Purpose**      | Self-preservation | Self-expansion   | Self-reflection     |
+| **Method**       | Operations (BAU)  | Change direction | Question status quo |
+| **Acceleration** | Speed up          | Adjust course    | Slow down           |
 
 
 
@@ -18,8 +28,9 @@ The main types of activity are continuation, deviation and resting.
 
 Dimensions
 
-- Immersion. From dissociated to associated. From distancing to embracing life.
-- Foucs on self or others. Focus on relations or goals/tasks.
+- **Focus** on self or others. Focus on relations or goals/tasks.
+- **Immersion**. From dissociated to associated. From distancing to embracing life.
+- **Time-horizon**. Past, present or future.
 
 <img src="../img/activity-attention.png" alt="activity-attention" style="width:50%;" />
 

@@ -27,7 +27,7 @@ A symmetric force between two masses, in inverse directions.
 
 ## Drag and Resistance
 
-Resistance can be caused by inertia or [drag](https://en.wikipedia.org/wiki/Drag_(physics)).
+Resistance can be caused by inertia or [drag](https://en.wikipedia.org/wiki/Drag_(physics)). Forces may attract or repel.
 
 <img src="../img/force-attractive.png" alt="force-attractive" style="width:30%;" />
 
