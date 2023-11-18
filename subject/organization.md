@@ -2,7 +2,7 @@
 
 An organization can be
 
-- A [system](../systems/organization.md) that has a function. E.g. a machine that consumes resources and produces value.
+- A [system](../systems/system.md) that has a function. E.g. a machine that consumes resources and produces value.
 - A structure that presents information for a specific purpose.
 
 
@@ -16,6 +16,5 @@ An organization can be
     - [Platform](platform.md)
 - Details
     - [Identity](identity.md)
-    - [Quality](quality.md)
     - [Requirements](requirements.md)
 

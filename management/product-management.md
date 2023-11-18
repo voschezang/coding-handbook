@@ -1,6 +1,6 @@
 # Product Management
 
-This document is oriented more towards managing *projects* than a *product*, but it borrows some useful terminology from product management. It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [products and projects](../organization/product-project.md), [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md).
+This document is oriented more towards managing *projects* than a *product*, but it borrows some useful terminology from product management. It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [products and projects](./product-project.md), [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md).
 
 [toc]
 

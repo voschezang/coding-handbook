@@ -2,41 +2,7 @@
 
 [toc]
 
-### Trajectory-oriented view
-
-The main types of activity or organizations and individuals are continuation, deviation and rejection.
-
-**Continuation** relates to business as usual (BAU): daily operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
-
-**Deviation** involves a *change* to the standard trajectory. E.g. improvement projects.
-
-**Rejection** involves refelction. It reconsiders the self or its environment. It creates space for attention and reflection.
-
-
-
-<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:250px;" />
-
-|                  | Continuation      | Deviation        | Rejection           |
-| ---------------- | ----------------- | ---------------- | ------------------- |
-| **Purpose**      | Self-preservation | Self-expansion   | Self-reflection     |
-| **Method**       | Operations (BAU)  | Change direction | Question status quo |
-| **Acceleration** | Speed up          | Adjust course    | Slow down           |
-
-
-
-### Attention
-
-Dimensions
-
-- **Focus** on self or others. Focus on relations or goals/tasks.
-- **Immersion**. From dissociated to associated. From distancing to embracing life.
-- **Time-horizon**. Past, present or future.
-
-<img src="../img/activity-attention.png" alt="activity-attention" style="width:50%;" />
-
-
-
-### Subject-oriented view
+## Subject-oriented view
 
 A more fine-grained categorization is obtained by distinguishing *vita activa* and *vita contemplativa* (based on [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt#Arbeiten_und_Herstellen)).
 
@@ -97,6 +63,27 @@ Note the difference in the nature of the activities: continuation, results and c
 In history, there has been a shift from *"Work so that you may rest"* to *"Rest so that you may work"*.
 
 In premodern eras, life consisted of an abundance of vita contemplativa. After modernization, the world became more efficient and labour-oriented. People started to focus on productivity.
+
+
+
+### Purpose
+
+> Walking without hesitation becomes a march
+
+A subject's purpose can be categorized as follows.
+
+- Purpose-driven.
+  - Self-preservation. Continuation of the subject. A perpetual quest for survival.
+
+  - Expansion. Extending a lifestyle. Diversifying an organization.
+  - Change. Affecting change in either the subject's identity or the social structure that subject is part of. E.g. political change.
+
+- Free of purpose. Before a purpose.
+  - Leisure or appreciation. Being present. Lingering. Paying attention to the moment. A purpose that is not external. Free from any interest or compulsion.
+
+**Horizon**
+
+The time-horizon can range from immediate, to long-term.
 
 
 

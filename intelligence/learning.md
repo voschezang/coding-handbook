@@ -284,7 +284,7 @@ Principles
 
 ### Organizations & Processes
 
-The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](../systems/organization-structure.md#Autonomy%20and%20Alignment%20per%20Domain).
+The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](<../systems/structure.md#Autonomy and Alignment per Domain>).
 
 - Chaotic: act-sense-respond
 - Complex: probe-sense-respond

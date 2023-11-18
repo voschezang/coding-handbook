@@ -29,24 +29,24 @@ Systems
 <details>
 <summary>Theory: <b>Systems thinking</b></summary>
 <ul style="margin: 1em;">
-<li><a href="systems/systems-management.md">Systems</a> Management</li>
-<li><a href="systems/organization.md">Organizations</a> and systems</li>
+<li><a href="systems/system.md">Systems</a> and organization</li>
   <ul>
-  <li><a href="systems/organization-structure.md">Structure</a> and topology</li>
-  <li><a href="systems/organization-relations.md">Relations</a></li>
-  <li><a href="systems/organization-scale.md">Scale</a></li>
+  <li><a href="systems/structure.md">Structure</a> and topology</li>
+  <li><a href="systems/relations.md">Relations</a></li>
+  <li><a href="systems/scale.md">Scale</a></li>
+  <li><a href="systems/platform">Platforms</a></li>
   </ul>
+<li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
 </details>
 <details>
-<summary>Theory: <b>Organization</b>, goals products and projects</summary>
+<summary>Theory: Organizations as <b>subject</b> with <em>goals</em>.</summary>
 <ul style="margin: 1em;">
-<li><a href="organization/organization.md">Overview</a></li>
-<li><a href="organization/goals.md">Goals</a></li>
-<li><a href="organization/product-projects.md">Products and projects</a></li>
-<li><a href="organization/platform">Platform Management</a></li>
-<li><a href="organization/requirements.md">Requirements</a></li>
+<li><a href="subject/identity.md">Identity</a></li>
+<li><a href="subject/behaviour.md">Behaviour</a></li>
+<li><a href="subject/activity.md">Activity</a></li>
+<li><a href="subject/goals.md">Goals</a></li>
 </ul>
 </details>
 <details>
@@ -62,10 +62,10 @@ Systems
 <li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 <li><a href="management/goal-templates.md">Goals setting</a></li>
 <li><a href="management/planning.md">Planning</a></li>
+<li><a href="management/product-projects.md">Products and projects</a></li>
+<li><a href="management/requirements.md">Requirements</a></li>
 </ul>
 </details>
-
-
 
 Technological
 
@@ -87,8 +87,6 @@ Technological
 <li>Software <a href="software-industry/software-development-cycle.md">Development Cycle</a>.</li>
 </ul>
 </details>
-
-
 Social
 
 <details>
@@ -113,7 +111,7 @@ Social
 <li>Creating value</li>
 <ul style="margin: 1em;">
   <li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
-  <li><a href="systems/organization.md">Organization</a> (identity)</li>
+  <li><a href="systems/system.md">Organization</a> (identity)</li>
   <li><a href="systems/teams.md">Teams</a> (structure and effectiveness)</li>
 </ul>
 </ul>
@@ -144,13 +142,13 @@ From abstract theory to application within a domain. For a full overview, see [t
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
 - [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
-- [Systems Management](systems/systems-management.md) > [Organization Structure](systems/organization-structure.md) > [Organization Architecture](organization-architecture.md)
+- [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
 - [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](management/project-management.md)
 
 Themes
 
-- Quality, flow & systems: [domains](reality/structure.md), [organization](systems/organization.md), [emotions](collaboration/emotions.md).
-- Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [purpose](activity/purpose.md), [organization](systems/organization.md), [systems](systems/systems-management.md).
+- Quality, flow & systems: [domains](reality/structure.md), [organization](systems/system.md), [emotions](collaboration/emotions.md).
+- Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [purpose](activity/purpose.md), [organization](systems/system.md), [systems](systems/systems-management.md).
 
 **Perspective & Generalizability of Guidelines**
 

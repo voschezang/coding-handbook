@@ -4,7 +4,7 @@ This document discusses methods for planning. It assumes a pre-defined given a s
 
 [toc]
 
-## Planning
+## Overview
 
 > Strive for continuous planning rather than up-front planning.
 

@@ -2,7 +2,7 @@
 
 > Software architecture and organizational architecture are intertwined.
 
-Dependencies between teams affect both how software grows and the lead time of new features. See also [organization-structure.md](systems/organization-structure.md).
+Dependencies between teams affect both how software grows and the lead time of new features. See also [organization-structure.md](systems/structure.md).
 
 [toc]
 

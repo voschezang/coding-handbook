@@ -1,6 +1,6 @@
 # Goals
 
-See [purpose]( ../activity/purpose.md).
+See [behaviour]( ../behavioiur.md).
 
 [toc]
 

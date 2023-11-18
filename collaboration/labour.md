@@ -81,7 +81,7 @@ Roles can be official and persistent, or informal and dynamic.
 
 #### Identity
 
-Labour can be performed by an [organization](../systems/organization.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. These influence decisions. For example, belief is a prerequisite for making changes - and can limit capability.
+Labour can be performed by an [organization](../systems/system.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. These influence decisions. For example, belief is a prerequisite for making changes - and can limit capability.
 
 ```markdown
 **We      can    do         this     here**
@@ -129,4 +129,4 @@ Updating [prior](https://en.wikipedia.org/wiki/Bayesian_inference) beliefs using
 
 **Improvement**
 
-Change [organizational structure](../systems/organization-structure.md) and the environment. See [learning](../intelligence/learning.md).
+Change [organizational structure](../systems/structure.md) and the environment. See [learning](../intelligence/learning.md).

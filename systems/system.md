@@ -1,6 +1,6 @@
-# Organization
+# Sytems
 
-Any object can be treated as a *system*: an **organization** what fulfills a *purpose*. A function.
+Any object can be treated as a system: an *organization* that fulfills a function.
 
 [toc]
 
@@ -16,7 +16,14 @@ The optimal structure of an organization is highly dependent on the domain and s
 - A system of applications, where the components are services.
 - An ecosystem. E.g. a market.
 
-See [structure](organization-structure.md).
+See [structure](structure.md).
+
+
+
+An organization can be
+
+- A [system](../systems/system.md) that has a function. E.g. a machine that consumes resources and produces value.
+- A structure that presents information for a specific purpose.
 
 
 
@@ -128,9 +135,9 @@ This view focusses on the interaction of the internal components.
 A system can be understood in the following dimensions.
 
 - **Individuality**. The components can be a *mass* or a pack. The significance of the identity of the individual components.
-  - See [scale](organization-scale.md).
+  - See [scale](scale.md).
 
-- **Relations** between components. The autonomy of components. See [relations](organization-relations.md).
+- **Relations** between components. The autonomy of components. See [relations](relations.md).
   - Control. Behaviour can arise through [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) or [choreography](https://en.wikipedia.org/wiki/Service_choreography).
   - (Political) power can be autocratic or democratic.
 

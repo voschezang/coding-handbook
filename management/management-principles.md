@@ -30,7 +30,7 @@ In theory, effectiveness is most strongly influenced by responsiveness and stake
 
 This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
-See also [organization-structure](../systems/organization-structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
+See also [organization-structure](../systems/structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
 
 
 
@@ -462,7 +462,7 @@ Levels of assignments
 See [change management](change-management.md).
 
 **Organization Management**
-See [organization structure](../systems/organization-structure.md).
+See [organization structure](../systems/structure.md).
 
 **Crisis management**
 

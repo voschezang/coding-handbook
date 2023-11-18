@@ -2,7 +2,7 @@
 
 > Agile is a mindset, not a process
 
-The [structure of teams](../systems/organization-structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with *handovers*, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
+The [structure of teams](../systems/structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with *handovers*, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
 
 A software development process usually consists of phases such as: `requirements, analysis, design, implementation, testing, operations`. In practice some phases can be combined, e.g. using TDD. In general, the following steps will increase quality:
 

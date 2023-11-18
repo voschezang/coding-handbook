@@ -121,7 +121,7 @@ Scrum features three roles. The *developers* in a team deliver value, the *produ
 
 ### Roles
 
-A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](../systems/organization-structure.md).
+A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](../systems/structure.md).
 
 Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
 
