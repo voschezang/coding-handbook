@@ -6,23 +6,46 @@ This document focusses on requirements for a single *unit* of work. It assumes a
 
 ## Overview
 
-Requirements are a form of [documentation](../documentation.md). Their primary purpose depends on the audience. This influences the level of detail and any assumptions that should be made. Requirements may be hierarchical - e.g. multiple deliverables within a project.
+Requirements are a form of [documentation](../documentation.md). Their primary purpose depends on the audience and the significance of the project or task. This influences the level of detail and any assumptions that should be made.
 
-**Prerequisites**
+- Requirements may be hierarchical. E.g. multiple deliverables within a project.
+- Requirements may be written from different perspectives. E.g. a functional view, system view or component view.
 
-Standard factors:
 
-- A definition of the **problem** that is being addressed. This could be an opportunity.
-- The identity of the **owner** of this problem.
-- A definition of **success**.
-- **Constraints** on the solution and the process. E.g. deadlines or (human) resources.
-- **Actors** such as stakeholders and partners.
 
-Based on this, list all relevant uncertainties and risks.
+Standard factors
 
-**Scope**
+1. An **objective** or target state. The benefit to the customer or stakeholder. E.g. a problem that is addressed. This includes the identity of the owner of the problem.
+2. A **proposal**. A solution or initiative that will change the current state. Ideally this minimizes *output* (cost) and maximizes *outcomes*.
+3. **Constraints** on the solution and the process. E.g. acceptance criteria or target conditions. These guarantee a minimum standard of *quality* of the product.
+4. **Risks**, uncertainty and potential side-effects. This shows the limits of our understanding of the (future) environment. This can include mitigation of risks.
 
-Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. This scope can be defined in different levels:
+This can be complemented by media that clarifies the situation.
+
+- Examples *elaborate* requirements.
+
+- Tests (checks) *verify* requirements.
+
+
+
+> Shared documents ≠ shared understanding 
+
+Documents are not supposed to be perfect. Rather, consider if the following questions are anwered.
+
+- How will this help the user or customer?
+- What will be the impact of this implementation?
+
+
+
+> *Complicated* is just a euphemism for "scary to think about".
+
+Investigate or resolve ambiguity.
+
+
+
+### Scope
+
+Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. The scope can be defined in different levels:
 
 - **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
 - **Output**-based. This leaves some freedom on the implementation side.  If risk materialize, either time or cost would have to be let go.
@@ -34,6 +57,47 @@ In complex contexts, there is structural *uncertainty*. During execution of a ta
 
 A (in)direct result of the scope is **impact**. E.g. the effect of the initiative on a metric such as revenue. This usually  easier to measure than outcomes.
 
+<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="width:50%;" />
+
+
+
+**Functional and non-functional requirements (NFR)**
+
+[Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).
+
+- They are designed to be *satisfiable*. I.e. one can (in theory) verify that they are met. E.g. using a metric or proof.
+
+[Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g. qualities such as being user-friendly and maintainable.
+
+
+
+## Requirements Gathering
+
+### User Stories
+
+>  User stories are a way if working, rather than a component.
+
+User stories are an alternative to traditional requirements.
+
+- Traditional requirements are formulated after a negotiation. They are then handed over to developers. This works well for predictable environments.
+- User stories are supposed to written in conjunction with discussions that led to agreements about what to build. These discussions involve the organization, customers, users and developers.
+
+
+
+![user-story-requirements](../img/user-story-requirements.png)
+
+
+
+### User Story Mapping
+
+>  Shared mapping ≠ shared understanding 
+
+...
+
+
+
+### Types of Requirements
+
 Requirements can be separated into critical and non-critical ones. See [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method).
 
 - *Must* have. Critical requirements.
@@ -41,44 +105,18 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 - *Could* have. Desirable, but only if time and resources permit.
 - *Won't* have. Explicitly excluded from the current scope.
 
-**Good Outcomes**
 
-Given an [objective](./goals-planning-strategy.md), start focussing on the *what* instead of the *why*.
-
-The following properties may result in requirements.
-
-- Outcome or target state: Main deliverable
-- Target conditions: acceptance criteria. How will success be measured?
-- Risks and side-effects. What will happen once this has been reached?
-
-**Functional and non-functional requirements (NFR)**
-
-[Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).
-
-- They are designed to be satisfiable. I.e. one can (in theory) verify that they are met. E.g. using a metric or proof.
-
-[Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g.a system should be user-friendly and maintainable.
-
-**Template**
-
-Testable requirements. Functional or non-functional.
-
-1. Describe behaviour of the system; how it reacts to inputs.
-    - This part may be complex, but start with an high level, treating the internals as a black box.
-2. Describe the boundaries of the system; list all inputs and outputs.
-3. Describe the purpose of the system. This may result in some non-functional requirements.
-
-Avoid or resolve ambiguity.
-
-> *Complicated* is just a euphemism for "scary to think about".
-
-## Tests & Verification
-
-- Examples *elaborate* requirements
-
-- Tests (checks) *verify* requirements
 
 ## Specification
+
+
+
+**Template: a system**
+
+1. The behaviour of the system; how it reacts to inputs.
+   - This part may be complex, but start with an high level, treating the internals as a black box.
+2. The boundaries of the system; list all inputs and outputs.
+3. The purpose of the system. This may result in some non-functional requirements.
 
 ### Tasks
 

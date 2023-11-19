@@ -5,15 +5,24 @@
 Emotions are dynamic. They are experienced, rather than fixed. They revolve around quality (liking).
 
 1. Experience ranges from pleasant to unpleasant.
-2. Emotions provide a [multiplicity](#Primary%20Emotions) of experience.
+2. The primary emotions are happiness (joy), sadness, anger and fear. They indicate quality, or the loss of it.
+3. Physiological emotions relate to physical needs such as hunger or thirst. E.g. fatigue or lust.
+4. Other types of emotions relate to social or intellectual needs. E.g. curiousity or sympathy.
 
 Emotions are used as communication devices. Between your body and mind and between yourself and others. In addition, they are highly dependent on the environment and someone's interpretation of it. For example, image the difference between seeing a lion in the zoo or on the street.
 
 
 
+Awareness of emotions.
+
+1. What you feel. Nuances in feelings.
+2. Why you feel it. Origin of feelings.
+
+
+
 ## Pleasantness & Activation
 
-From a high level, two dimensions can be  distinguished: **pleasantness** (quality) and **activation** (energy).
+From a high level, two dimensions can be distinguished: **pleasantness** (quality) and **activation** (energy).
 
 
 
@@ -34,7 +43,7 @@ Emotions communicate *qualities* and personal needs. This communication is direc
 
 
 
-|                          | 😁 Happiness               | 😭 Sadness                | 😠 Anger                        | 😨 Fear                      |
+|                          | 🙂 Happiness               | ☹️ Sadness                | 😠 Anger                        | 😨 Fear                      |
 | ------------------------ | ------------------------- | ------------------------ | ------------------------------ | --------------------------- |
 | **Purpose**              | Indicate quality          | Indicate loss of quality | Indicate disruption of quality | Indicate risks to quality   |
 | **Social**               | Connect *more,* broadcast | Connect *less,* retreat  | Push existing relations        | Question environment        |
@@ -45,17 +54,7 @@ Dutch translation: *blij, bedroefd, boos, bang*.
 
 
 
-Other emotions
-
-- Desire. Love, longing.
-
-- Disgust. From liking to revulse.
-
-- Surprise. From awe to disbelief (skepticism).
-
-
-
-### Flow
+## Flow
 
 > Surf the waves of emotions.
 
