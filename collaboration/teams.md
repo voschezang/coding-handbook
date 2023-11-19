@@ -4,6 +4,8 @@
 
 ## Health & Performance
 
+<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
+
 ### Discovery
 
 1. Look & **feel**. Use intuition.
@@ -14,16 +16,10 @@
 
 **Red flags**
 
-- Is there trust
+- Is there trust?
 - Is there a shared goal?
 - Is there miscommunication?
 - Are risks transparent?
-
-
-
-**Balance**
-
-<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
 
 
 
@@ -45,6 +41,15 @@ In addition, there are more fine grained signals:
 - There is accountability of results.
 - Stakeholders trust the team.
 - Team members find purpose or meaning in their work.
+
+
+
+**Maturity** of autonomous teams. This shows where improvement will yield the best results. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
+
+1. Able to survive. Focus on fire-fighting.
+2. In control of daily operations.
+3. Able to commit to short-term plans.
+4. Able to plan and execute, in line the organizational objectives, together with other teams.
 
 
 
@@ -99,7 +104,7 @@ Perspectives
 
 
 
-For a typical software development team, this could result in the following metrics.
+For a typical software development team, this could result in the following metrics. See also the [Spotify health model](https://engineering.atspotify.com/2014/09/squad-health-check-model/).
 
 |                     | Quality                  | Resilience                                   |
 | ------------------- | ------------------------ | -------------------------------------------- |
@@ -122,6 +127,23 @@ The following table depicts a visual interpretation.
 | **Strategic view**  | Planning                     | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:orange">medium</span> |
 | **Execution**       | Lead time of increments      | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:orange">medium</span> |
 |                     | Quality of finished projects | <span style="color:green">good</span> | <span style="color:green">good</span>    | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> |
+
+Examples for team health.
+
+|                 | <span style="color:green">good</span>       | <span style="color:red">bad</span>        |
+| --------------- | ------------------------------------------- | ----------------------------------------- |
+| **Autonomy**    | We feel in control                          | We just follow orders                     |
+| **Team health** | We are motivated en enjoy working together. | Individuals are able to cope.             |
+| **Learning**    | We learned things recently.                 | We don't have time to invest in learning. |
+
+Examples for strategic health.
+
+|                             | <span style="color:green">good</span> | <span style="color:red">bad</span> |
+| --------------------------- | ------------------------------------- | ---------------------------------- |
+| **Mission**                 | We know where we're heading.          | We have many priorities.           |
+| **Unplanned operations**    | We are able to deal with disruptions. | We are constantly disrupted.       |
+| **Planned operations**      | We feel in control.                   | We are always short of resources.  |
+| **Lead time of increments** | We deliver quickly.                   | We keep getting interrupted.       |
 
 
 

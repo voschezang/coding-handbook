@@ -18,6 +18,8 @@ Three approaches to maintain harmony.
 
 ### Diversity
 
+See [neurodiversity](neurodiversity.md).
+
 Benefits
 
 - High variance of ideas. Novel perspectives.

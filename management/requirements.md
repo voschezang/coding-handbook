@@ -82,6 +82,8 @@ User stories are an alternative to traditional requirements.
 - Traditional requirements are formulated after a negotiation. They are then handed over to developers. This works well for predictable environments.
 - User stories are supposed to written in conjunction with discussions that led to agreements about what to build. These discussions involve the organization, customers, users and developers.
 
+*Static* requirements create an incentive to de-emphasize the user, rather than continuously collecting feedback. 
+
 
 
 ![user-story-requirements](../img/user-story-requirements.png)
@@ -92,7 +94,17 @@ User stories are an alternative to traditional requirements.
 
 >  Shared mapping ≠ shared understanding 
 
-...
+Goals
+
+- Develop a shared understanding.
+- Be inclusive. Promote shared ownership. Make team members feel heard.
+
+
+
+Formats
+
+1. Pitch. Present a problem. Aling on the problem space. Optionally guide towards a set of opportunities.
+2. Discovery. Find a solution together.
 
 
 
