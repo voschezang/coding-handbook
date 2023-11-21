@@ -189,7 +189,7 @@ T7 Model of Team Effectiveness
 
 ## Way of Working
 
-For teams and departments
+For teams and departments.
 
 
 

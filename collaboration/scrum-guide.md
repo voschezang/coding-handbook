@@ -129,12 +129,13 @@ Scrum does not replace project managers. Management is considered external to sc
 
 **Accountability**
 
-|                   | Goal                             | Method                                      |
-| ----------------- | -------------------------------- | ------------------------------------------- |
-| **Scrum team**    | Create an increment every Sprint | Scrum framework                             |
-| **Developers**    | Deliver value                    | Sprints, adhere to standards.               |
-| **Product Owner** | Maximize product value           | Product goal, strategy and product backlog. |
-| **Scrum Master**  | Effective team                   | Impediments. Empiricism.                    |
+|                   | Goal                             | Method                                             |
+| ----------------- | -------------------------------- | -------------------------------------------------- |
+| **Scrum team**    | Create an increment every Sprint | Scrum framework                                    |
+| **Developers**    | Deliver value                    | Sprints, adhere to standards.                      |
+| **Product Owner** | Maximize product value           | Product goal, strategy and product backlog. Users. |
+| **Scrum Master**  | Effective team                   | Impediments. Empiricism.                           |
+| **Management**    | Environment for the teams        | Organization.                                      |
 
 
 
