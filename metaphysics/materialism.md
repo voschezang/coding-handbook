@@ -46,6 +46,21 @@ Universal concepts include
 
 
 
+## Objective and Subjective world
+
+The standard western view distinguishes between objective and subjective reality. 
+
+1. Objective reality consists of mass and energy, at positions in space and time.
+2. The immaterial world includes to the human mind, social patterns and abstract models.
+
+
+
+<img src="../img/worldview-western.png" alt="worldview-western" style="width:60%;" />
+
+
+
+
+
 ## Classical Views
 
 Plato's dualism

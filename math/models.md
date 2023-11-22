@@ -8,34 +8,31 @@ See [modelling](../intelligence/modelling.md).
 
 Values can be:
 
-- Discrete
-    - Binary
-    - Categorical
+- Singular. E.g. `nothing`.
+    
+- Discrete: Binary or categorical. E.g. `left` or `right`.
+    
+- Continuous. E.g. [real numbers](https://en.wikipedia.org/wiki/Real_number).
 
-- Continuous
 
-They may span over multiple dimensions
-- Dimensions may be correlated or uncorrelated. E.g.
-  - The *performance* of an algorithm may be correlated to *complexity*.
-  - *Messiness* can be correlated to *creativeness*.
 
 <img src="../img/models-categories.png" alt="models-categories" style="width:70%;" />
 
-If a value is unity:
-
-- Change the perspective.
-
-If a value is binary:
-
-- Question whether neither or both options can be true. [What if](https://en.wikipedia.org/wiki/Mu_(negative)) neither options is applicable? In what conditions would this occur?
-- Find a third category
-    - Question whether there really is a single dimension.
-        - E.g. focus on X or de-focus. E.g. in organizations: focussing on specialization (efficiency) vs focussing on features (quality) vs focussing on simplicity.
 
 
-If a value is categorical:
+| Type          | Question                                                     | Action                      |
+| ------------- | ------------------------------------------------------------ | --------------------------- |
+| *Unity*       | What happens in a different perspective?                     | Change the perspective.     |
+| *Binary*      | [What if](https://en.wikipedia.org/wiki/Mu_(negative)) neither option is applicable? | Refine boundary conditions. |
+| *Categorical* | What sits between categories?                                | Find intermediate steps.    |
+| *Continuous*  |                                                              |                             |
 
-- Find steps that fall in between categories.
+
+
+Questionioning dimensions
+
+- E.g. focus on X or de-focus. 
+- E.g. in organizations: focussing on specialization (efficiency) vs focussing on features (quality) vs focussing on simplicity.
 
 
 
@@ -49,7 +46,12 @@ If a value is categorical:
 
 
 
+**Correlation**
 
+Values may span over multiple dimensions. Dimensions may be correlated or uncorrelated. E.g.
+
+- The *performance* of an algorithm may be correlated to *complexity*.
+- *Messiness* can be correlated to *creativeness*.
 
 ## Distributions (Statistics)
 

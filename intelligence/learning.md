@@ -39,7 +39,18 @@ A few dimensions:
 
 
 **Tension-release**
+
 Push & pull. Similar to a dialogue, there should be a two-way interaction. Cross boundaries shortly, then step back and reflect. This allows you to maintain flow.
+
+
+
+**Change**
+
+Psychologically, change can be difficult for both individuals and groups. There are a few stages to go though - at the right pace.
+
+1. Awareness of the challenge or obstacle. Awareness of the difference between the current and desired states.
+2. Acceptance of the current state. Awknowledge its limitations, but also the realization that change is possible. 
+3. Agency. Decide on the right target state. Be able to move towards it.
 
 
 

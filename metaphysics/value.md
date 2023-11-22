@@ -2,9 +2,11 @@
 
 > What is good, anyway?
 
+Value considers what is *good* and *bad*. It can be divided into objective and subjective value.
 
 
-The concept value can be divided into objective and subjective value. 
+
+<img src="../img/subjective-quality.png" alt="subjective-quality" style="width:70%;" />
 
 
 

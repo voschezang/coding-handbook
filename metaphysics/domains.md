@@ -1,10 +1,25 @@
-# Domains
+# Quality
 
 Also see [forces](forces.md).
 
 [toc]
 
 ## Overview
+
+Quality can be related to structure. An absense of it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns and rituals.
+
+1. Dynamic quality transcends static quality.
+2. Static quality consists of 5 [domains](#Domains).
+
+There is a progression of morality from lower to higher domains. Higher domains are contingent on structures in lower domains.
+
+
+
+<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:60%;" />
+
+
+
+## Domains
 
 The universe can be split up into five domains. The first split of reality is made based on *lifeforms*. The second split is based on the dynamics that emerge in populations of lifeforms. Third, there are the common beliefs that are held by lifeforms. Fourth, there exist eternal ideas that may or may not be known to any being. The categories range from objective and material to subjective conventions and virtuality.
 
@@ -20,7 +35,7 @@ Note: this ordering assumes that lifeforms are organic, i.e. based on carbon-bas
 
 
 
-## Quality
+### Quality in Domains
 
 Quality can reach local optima at each level.
 
@@ -28,6 +43,8 @@ Quality can reach local optima at each level.
 - Biological structures: feelings. the edges of homeostasis. Balance: homeostasis.
 - Social structures: care for basic human needs. Utility.
 - Intellectual structures: better frameworks to embody knowledge?
+
+
 
 These domains show similarity to the [7 chakras](https://en.wikipedia.org/wiki/Chakra#The_seven_chakra_system), in the order from Muladhara to Sahasrara.
 
