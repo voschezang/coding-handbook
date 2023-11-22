@@ -48,7 +48,9 @@ Note: Agile is not a goal in itself.
 
 ### Scrum
 
-See [Scrum guide](collaboration/scrum-guide.md).
+> Inspect-Adapt-Reflect.
+
+See [Scrum guide](collaboration/scrum-guide.md). 
 
 1. Deliver value each increment
 2. Use an empirical approach: be transparent, inspect and adapt.
@@ -56,6 +58,12 @@ See [Scrum guide](collaboration/scrum-guide.md).
 
 
 ## Kanban
+
+> Visualize-Stabilize-Optimize. 
+
+First you have to find the right challenge (e.g. the bottleneck). Second you have to find stability, otherwise you cannot reliably control it. Only then you can start to optimize.
+
+- The long-term version of this is [PDCA](https://en.wikipedia.org/wiki/PDCA).
 
 
 
@@ -82,7 +90,13 @@ Method
 
 ## Lean
 
-...
+Principles
+
+1. Focus on customer value
+2. Identify value stream, from concept to cash
+3. Flow, minimize lead time, flow efficiency
+4. Pull, don’t over produce
+5. Strive for perfection, high quality.  This is mostly for *complicated* rather than *complex* domains
 
 
 

@@ -1,6 +1,6 @@
 # Learning
 
-See also [knowledge](knowledge.md) and [modeling](modeling.md).
+See also [knowledge](knowledge.md), [modeling](modeling.md), [attitude](learning-attitude.md) and [values](../software-industry/values.md).
 
 [toc]
 
@@ -8,9 +8,8 @@ See also [knowledge](knowledge.md) and [modeling](modeling.md).
 
 Learning is facilitated by [models](modelling.md). Learning is the process of updating these models.
 
-- As humans, we use [mental models](#Mental Models) to make sense of the world. In practice, we create these ourselves.
+- As humans, we use [mental models](mental-models.md) to make sense of the world. In practice, we create these ourselves.
     - Communicating models is requires more than merely listing the components in a model.
-    - The ability to create and update these models is as important as the static models themselves.
 
 
 
@@ -27,190 +26,20 @@ Experiments not require complex setups. Start simple and expand if necessary. Th
     2. Change one of them and use the other one as a baseline.
     3. Compare the results.
 
-This can be done in a formal way. See [scientific method](knowledge.md#Scientific Method).
+This can be done in a formal way. See [scientific method](knowledge.md#Scientific%20Method).
 
 
 
-## Mental Models
+A few dimensions:
 
-Rigidity. Worldviews.
-
-- Dualisms. Binary, black-white, left-right, us-them, good-bad.
-- Holism. Unity, cohesion. Idealistic.
-- Zen. Both singular and plural. Multiple correct models. Free of rigid rules.
+- Top-down or bottom-up.
+- Invite or inflict change.
+- Revolutionary or evolutionary change.
 
 
-
-### Building Models
-
-|                              | A Priori            | Evidence-based                                     |
-| ---------------------------- | ------------------- | -------------------------------------------------- |
-| **Application** (Real world) | Inference           | Comparison, intuition, random sampling (anecdotes) |
-| **Theory** (Ideal world)     | Fundamental / logic | Rational analysis                                  |
-
-**Thinking**
-
-Conceptual and visual thinking. Associative and linear thinking.
-
-|                       | Conceptual (Word, Facts)                                | Visual / Spatial                                             | Subconscious              |
-| --------------------- | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------- |
-| **Type**              | Analytical                                              | Associations                                                 | Intuition                 |
-| **Categorization**    | Definitions, negation                                   | Similarity                                                   | Outside of language       |
-| **Collect knowledge** | Sequentially, linear                                    | Emergent                                                     | Letting go of assumptions |
-| **Inference**         | [Binary](https://en.wikipedia.org/wiki/Boolean_algebra) | [Bayesian](https://en.wikipedia.org/wiki/Bayesian_inference) | -                         |
-
-
-
-### Applying Models
-
-**Decision making**
-
-|            | Abstraction-based                      | Example-based               |
-| ---------- | -------------------------------------- | --------------------------- |
-| Observing  | Fundamentals, deconstruct observations | Remember interpretations    |
-| Evaluation | Self-reflection. Evaluate models       | Free of judgement           |
-| Prediction | Inference                              | Compare, translate examples |
-
-**Reasoning**
-
-|                        | Internal                     | External                      | Instinct              |
-| ---------------------- | ---------------------------- | ----------------------------- | --------------------- |
-| **Method**             | Fundamentals                 | Comparisons & interpretations | Intuition             |
-| **Awareness**          | Self-aware. Self-reflection. | Automatic. Auto-pilot.        | Instinct, unconscious |
-| **Locus of attention** | Internal memories.           | The present, the world.       | Broad                 |
-| **Speed**              | Slow.                        | Fast.                         | Medium                |
-| **Mental models**      | Question models              | Apply models                  | No preconceptions     |
-
-
-
-### Updating models
-
-Phases (similar to the scientific method).
-
-- Observe. Collect data.
-- Experiment. Gather data. Test hypotheses.
-- Analyze / translate / generalize. Synthesize.
-
-
-
-**Bottom-up & top-down learning**
-
-Extremes of the spectrum
-
-- Build guidelines from the ground up, based on experience.
-- Imagine an ideal model, then test it in the real world.
-
-Comparison
-
-|                         | Bottom-up                  | Top-down                                    | Intuitive                      |
-| ----------------------- | -------------------------- | ------------------------------------------- | ------------------------------ |
-| **Start with**          | Repetition (practice)      | Deep understanding (theory)                 | Clean slate                    |
-| **Then, continue with** | Reflection                 | Apply knowledge, verify a theoretical model | Avoid language, preconceptions |
-| **Focus on**            | Likelihood                 | Certainty, perfection (idealism)            | Exploration, questioning       |
-| **Aim for**             | Get to 80% ASAP            | Get to 100%, eventually                     | Flow                           |
-| **Reasoning**           | Generalization (induction) | Logical inference (deduction)               | Intuition                      |
-
-Risks of bottom-up learning
-
-- Inability to generalize, due to lack of fundamental understanding.
-- Over-confidence.
-
-Risks of top-down learning
-
-- Overfitting, over-engineering.
-- Procrastination.
-- Overly critical.
-
-See [learning styles](https://en.wikipedia.org/wiki/Learning_styles)
-
-
-
-The exception to this is learning like a child would. Being open-minded, without preconceptions or judgement. Moving with a feeling of wonder, using intuition.
-
-
-
-### Other
 
 **Tension-release**
 Push & pull. Similar to a dialogue, there should be a two-way interaction. Cross boundaries shortly, then step back and reflect. This allows you to maintain flow.
-
-**Consicous competence**
-
-1. *Un*conscious *in*competence
-2. Conscious *in*competence
-3. Conscious competence
-4. *Un*conscious competence
-
-After this, one could go back and zoom in on specific behaviours that can be improved.
-
-- Unlearning: from 4. to 2.
-- Relearning: from 2. to 4.
-
-
-
-## Attitude & Mindset
-
-**Attitude**
-
-- Problem-oriented. Aware of risks, consequences. Understanding of root cause.
-
-- Solution-oriented. Imagine change and improvement.
-
-**Mindset**
-
-- Practice & Repetition. Listening (observing) and reflection.
-
-- Growth mindset. Now you don't know, but you can learn and change.
-
-**T-shaping**
-
-|          | Specialist         | Generalist                   |
-| -------- | ------------------ | ---------------------------- |
-| Focus    | Single domain      | Between domains              |
-| Scope    | Bounded            | Unbounded                    |
-| Goal     | Mastery everything | Increase learning rate       |
-| Attitude | Expertise          | Beginner's mind, open minded |
-
-**Beginner's mind**
-
-Attitude
-
-- Motivated: eager to learn.
-- Optimism: ready to learn.
-- Open minded: no assumptions. Feeling of wonder.
-- Aware of ignorance, limited skill.
-- Present. Focussed on learning the next step, rather than a far-away end goal.
-- Free, no rigid, predefined plan.
-
-The more you know, the more questions arise.
-
-Increase rate of learning, rather than finishing learning.
-
-Build models that generalize to other domains, add to increase your pace of learning.
-
-**Clear mind**
-
-- Single, clear purpose.
-- No attachment. E.g. to tradition.
-- No racing thoughts.
-
-**Zen mind**
-
-Eager, present, *paying* attention. Here and now. Being, rather than recalling, imagining, thinking or controlling.
-
-- Seeing, rather than looking
-
-- Listening, rather than hearing
-
-- Noticing, rather than accepting
-
-
-
-**Peace of mind**
-
-Learn optimally by doing it in an environment where you have peace of mind.
-
-Avoid boredom.
 
 
 
@@ -233,58 +62,13 @@ Local improvements and adaptation are a vital complement to top-down strategies.
 - This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
 - Local improvements are usually easier than global ones.
 
-### Improvement Frameworks
-
-A few dimensions:
-
-- Top-down or bottom-up.
-- Invite or inflict change.
-- Revolutionary or evolutionary change.
-
-#### Scrum
-
-See [srcum](../collaboration/scrum-guide.md). Inspect-Adapt-Reflect.
-
-#### Kanban
-
-Visualize-Stabilize-Optimize. First you have to find the right challenge (e.g. the bottleneck). Second you have to find stability, otherwise you cannot reliably control it. Only then you can start to optimize.
-
-- The long-term version of this is [PDCA](https://en.wikipedia.org/wiki/PDCA).
-
-#### Agile
-
-Context: uncertain, ever-changing environments. IT can never be fast enough.
-
-1. Formalize work. Make it explicit. Vizualize it.
-2. Focus. Manage flow by managing WIP.
-3. Feedback loops. Relate performance to some goal or outcome.
-4. Reflect & Improve. Iterate.
-
-#### DevOps
-
-3-step improvement process
-
-<img src="../img/flow-3-steps.png" alt="flow-3-steps" style="width:80%;" />
-
-#### Lean
-
-Principles
-
-1. Focus on customer value
-2. Identify value stream, from concept to cash
-3. Flow, minimize lead time, flow efficiency
-4. Pull, don’t over produce
-5. Strive for perfection, high quality.  This is mostly for *complicated* rather than *complex* domains
-
-
-
 
 
 ## Practice (Context)
 
 ### Organizations & Processes
 
-The ideal learning strategy depends on the  [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](<../systems/structure.md#Autonomy and Alignment per Domain>).
+The ideal learning strategy depends on the [environment](https://en.wikipedia.org/wiki/Cynefin_framework). See [domains](../systems/structure.md).
 
 - Chaotic: act-sense-respond
 - Complex: probe-sense-respond
@@ -304,6 +88,20 @@ Other patterns
 
 ## Learning Models
 
+**Consicous competence**
+
+1. *Un*conscious *in*competence
+2. Conscious *in*competence
+3. Conscious competence
+4. *Un*conscious competence
+
+After this, one could go back and zoom in on specific behaviours that can be improved.
+
+- Unlearning: from 4. to 2.
+- Relearning: from 2. to 4.
+
+
+
 [Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) model combined with the [conscious competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) model.
 
 | Novice                       | Advanced Beginner                                    | Competence                                  | Proficient                                | Expert                                    |
@@ -311,6 +109,8 @@ Other patterns
 | *Un*conscious *in*competence | Conscious *in*competence                             | Conscious competence                        | *Un*conscious competence                  | Transcended                               |
 | ...                          | Recollection: Situational instead of non-Situational | Recognition: Holistic instead of decomposed | Decision: Intuitive instead of analytical | Awareness: Absorbed instead of monitoring |
 | Needs rules                  | Tests rules                                          | Applies rules                               | Falls back on rules                       | Transcends rules                          |
+
+
 
 > follow rules - break rules - make rules
 

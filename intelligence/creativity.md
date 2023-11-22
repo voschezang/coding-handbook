@@ -56,3 +56,9 @@ First, second, third position.
 ### Rubber duck
 
 Explain a problem to a rubber duck. Keep talking for 5 min.
+
+
+
+### Contiuous Writing
+
+Write down thoughts. Keep writing without stopping. Write down whatever comes to mind.
