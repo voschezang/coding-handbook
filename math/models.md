@@ -25,7 +25,7 @@ Values can be:
 | *Unity*       | What happens in a different perspective?                     | Change the perspective.     |
 | *Binary*      | [What if](https://en.wikipedia.org/wiki/Mu_(negative)) neither option is applicable? | Refine boundary conditions. |
 | *Categorical* | What sits between categories?                                | Find intermediate steps.    |
-| *Continuous*  |                                                              |                             |
+| *Continuous*  | What are the limits? What affects the function?              | Reflect.                    |
 
 
 

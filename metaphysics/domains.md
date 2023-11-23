@@ -4,24 +4,9 @@ Also see [forces](forces.md).
 
 [toc]
 
-## Overview
-
-Quality can be related to structure. An absense of it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns and rituals.
-
-1. Dynamic quality transcends static quality.
-2. Static quality consists of 5 [domains](#Domains).
-
-There is a progression of morality from lower to higher domains. Higher domains are contingent on structures in lower domains.
-
-
-
-<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:60%;" />
-
-
-
 ## Domains
 
-The universe can be split up into five domains. The first split of reality is made based on *lifeforms*. The second split is based on the dynamics that emerge in populations of lifeforms. Third, there are the common beliefs that are held by lifeforms. Fourth, there exist eternal ideas that may or may not be known to any being. The categories range from objective and material to subjective conventions and virtuality.
+The universe can be split up into five domains. The first split of reality is made based on *lifeforms*. The second split is based on the dynamics that emerge in populations of lifeforms. Third, there are the shared beliefs that are held by lifeforms. Fourth, there exist eternal ideas that may or may not be known to any being. The categories range from objective and material to subjective conventions and virtuality.
 
 Higher structures tend to conflict with lower structures. They consist of emergent patterns that oppose or reject the rules of the latter. E.g. social structures limit biological desires, ideological structures disrupt social structures.
 
@@ -34,6 +19,19 @@ Higher structures tend to conflict with lower structures. They consist of emerge
 Note: this ordering assumes that lifeforms are organic, i.e. based on carbon-based molecules.
 
 
+
+## Quality
+
+Any structure has quality. An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns and rituals.
+
+1. Dynamic quality transcends static quality.
+2. Static quality consists of 5 [domains](#Domains).
+
+There is a progression of morality from lower to higher domains. Higher domains are contingent on structures in lower domains.
+
+
+
+<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:60%;" />
 
 ### Quality in Domains
 

@@ -2,11 +2,14 @@
 
 > What is good, anyway?
 
-Value considers what is *good* and *bad*. It can be divided into objective and subjective value.
+Value considers what is *good* and *bad*. It can be divided into subjective and objective value.
+
+- Subjective value is dependent on a given structure. A subject, organization or system. It considers the functioning of this subject and its experience.
+- Objective value does not take into account subjectivity. It is based on [quality](domains.md).
 
 
 
-<img src="../img/subjective-quality.png" alt="subjective-quality" style="width:70%;" />
+![subjective-quality](../img/subjective-quality.png)
 
 
 
