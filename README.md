@@ -63,7 +63,7 @@ Systems
 <li><a href="management/goal-templates.md">Goals setting</a></li>
 <li><a href="management/planning.md">Planning</a></li>
 <li><a href="management/product-projects.md">Products and projects</a></li>
-<li><a href="management/requirements.md">Requirements</a></li>
+<li><a href="management/project-requirements.md">Requirements</a></li>
 </ul>
 </details>
 
