@@ -30,7 +30,7 @@ Value considers what is *good* and *bad*. It can be divided into subjective and 
 
 
 
-<img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:40%;" />
+<img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:35%;" />
 
 **Dynamic and static value**
 
@@ -39,3 +39,7 @@ This distinction has parallels with [establishment](https://en.wikipedia.org/wik
 - The dynamic component emphasizes *change* (novelty). It explains why experience decays after repetition.
 
 - The static component emphasizes structure and tradition.
+
+
+
+<img src="../img/wave-quality.png" alt="wave-quality" style="height:10em;" />

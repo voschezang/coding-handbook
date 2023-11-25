@@ -57,7 +57,7 @@ In complex contexts, there is structural *uncertainty*. During execution of a ta
 
 A (in)direct result of the scope is **impact**. E.g. the effect of the initiative on a metric such as revenue. This usually  easier to measure than outcomes.
 
-<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="width:50%;" />
+<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="width:40%;" />
 
 
 
