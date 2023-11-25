@@ -6,7 +6,7 @@
 
 A *wave* is a propagating disturbance. Movement may happen across temporal and spatial dimensions.
 
-An *oscillation* is wave with a periodic disturbance.
+An *oscillation* is a wave with a periodic disturbance.
 
 - Waves have a period `T` and a frequency (rate)  `f = 1/T`.
 - Sinoids have an amplitude `A` and a phase offset `δ`.

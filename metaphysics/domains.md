@@ -1,10 +1,10 @@
-# Quality
+# Domains
 
-Also see [forces](forces.md).
+See [values](values.md), [quality](quality.md) and [forces](forces.md).
 
 [toc]
 
-## Domains
+## Overview
 
 The universe can be split up into five domains. The first split of reality is made based on *lifeforms*. The second split is based on the dynamics that emerge in populations of lifeforms. Third, there are the shared beliefs that are held by lifeforms. Fourth, there exist eternal ideas that may or may not be known to any being. The categories range from objective and material to subjective conventions and virtuality.
 
@@ -20,20 +20,23 @@ Note: this ordering assumes that lifeforms are organic, i.e. based on carbon-bas
 
 
 
-## Quality
+### Examples
 
-Any structure has quality. An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns and rituals.
+> Math is never just numbers
 
-1. Dynamic quality transcends static quality.
-2. Static quality consists of 5 [domains](#Domains).
+A few examples of eternal structures.
 
-There is a progression of morality from lower to higher domains. Higher domains are contingent on structures in lower domains.
+- Nothing. The empty set `∅`. The number `0`.
+- Unity. The identity function `I`. The number `1`.
+- Infinity: `∞` .
+- `i` The imaginary number.
+- `π` The ratio of a circle's circumference to it's diameter.
+- `e`  Euler's number
+- `∫` [Functions](../domain-modelling/functions-relations.md)
 
 
 
-<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:60%;" />
-
-### Quality in Domains
+### Qualities per Domain
 
 Quality can reach local optima at each level.
 
@@ -53,20 +56,6 @@ These domains show similarity to the [7 chakras](https://en.wikipedia.org/wiki/C
 | **Social** structures        | Others. Communities of subjects                              | Utility                 | Provide for citizens |
 | **Intellectual** structures. | Virtual. Spiritual. Ideas hold by subjects                   | Capability              | Conventions          |
 | **Eternal** structures       | Ideals                                                       | Oneness                 |                      |
-
-
-
-> Math is never just numbers
-
-A few examples of eternal structures.
-
-- Nothing. The empty set `∅`. The number `0`.
-- Unity. The identity function `I`. The number `1`.
-- Infinity: `∞` .
-- `i` The imaginary number.
-- `π` The ratio of a circle's circumference to it's diameter.
-- `e`  Euler's number
-- `∫` [Functions](../domain-modelling/functions-relations.md)
 
 
 
@@ -92,7 +81,7 @@ Note that the components in each perspective are subject to *different* forces. 
 
 ## Health
 
-These domains can be mapped to Aristotle's [four causes](https://en.wikipedia.org/wiki/Four_causes).
+The domains can be mapped to Aristotle's [four causes](https://en.wikipedia.org/wiki/Four_causes).
 
 - Inside view
     - Material health. Inner structure. The network of components that make up the structure.
@@ -118,19 +107,6 @@ In a capitalist society.
 | **Life-cycle** (biological) | Childbirth                    | Founding of the corporation and department |
 | **Position** (social)       | Family member                 | Position in the corporate hierarchy        |
 | **Function** (intellectual) | Job                           | Output of the department                   |
-
-
-
-### Health
-
-|                       | Person                            | Corporate Department     |
-| --------------------- | --------------------------------- | ------------------------ |
-| **Material health**   | Physiological health              | Health of employees      |
-| **Life-cycle health** | Nutrition, growth                 | Support from management  |
-| **Positional health** | Health of relationships           | Health of bureaucracy    |
-| **Functional health** | Ability to participate in society | Ability to deliver value |
-
-See [organization](../systems/system).
 
 
 
