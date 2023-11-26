@@ -15,8 +15,6 @@ It is determined by:
 
 
 
-
-
 <img src="../img/behaviour-intent.png" alt="intent-agency" style="width:70%;" />
 
 

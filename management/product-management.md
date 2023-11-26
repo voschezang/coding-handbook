@@ -1,32 +1,40 @@
 # Product Management
 
-This document is oriented more towards managing *projects* than a *product*, but it borrows some useful terminology from product management. It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [products and projects](./product-project.md), [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md).
+This document explores the management of [products and projects](./product-project.md). It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md) and [results](results.md).
 
 [toc]
 
-> Product management combines short term projects with long-living products.
-
-> Products are never finished, only deprecated.
-
-## Introduction
+## Overview
 
 Product management revolves around:
 
-- Developing a product vision and strategy.
-- Developing a product for a target market. 
-- Understanding the users and customers.
-- Collaborating with specialists.
+1. Designing a product vision and strategy.
+2. Discovering the market fit. Understanding the users and customers.
+3. Delivering the product customers. 
+
+It requires continuous collaborating with specialists.
+
+
+
+**From project to product**
+
+> Product management combines short term projects with long-living products.
+
+
+
+![output-outcome-impact](../img/output-outcome-impact-product-project.png)
 
 
 
 **Not project, but project<u>s</u> management**
-Often, projects are executed in conjunction to each other. To avoid local optimization, the portfolio of products must be taken into account. A *product* is a model that combines multiple projects, usually with the goal to deliver value to customers. See [Terminology](#terminology).
+Often, projects are executed in conjunction to each other. To avoid local optimization, the portfolio of products must be taken into account.
 
 **The problem of uncertainty**
-In uncertain environments, projects will usually fail to meet either time, cost or initial requirements. In the presence of both [idiosyncratic](https://en.wikipedia.org/wiki/Idiosyncrasy) and [systematic risk](https://en.wikipedia.org/wiki/Systematic_risk) there can be a need for flexibility or agility. In product management this takes the following form:
+In uncertain environments, projects will usually fail to meet either time, cost or initial requirements. In the presence of both [idiosyncratic](https://en.wikipedia.org/wiki/Idiosyncrasy) and [systematic risk](https://en.wikipedia.org/wiki/Systematic_risk) there can be a need for flexibility or agility. Moreover, the behaviour of users and market dynamics are even more difficult to predict. This can be address in several ways.
 
 - A product strategy may consists of [multiple](https://en.wikipedia.org/wiki/Diversification_(finance)) initiatives that are designed to create a competitive edge.
-- A product roadmap lists the concrete projects that will be executed to realize this ideal.
+- Continuous product discovery. Iteratively testing beliefs.
+- Fast delivery of product increments.
 
 
 

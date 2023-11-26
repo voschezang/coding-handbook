@@ -17,6 +17,12 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 <img src="../img/purpose-discovery-delivery.png" alt="purpose-discovery-delivery" style="width:40%;" />
 
+## Outcome and Impact
+
+Often, impact is difficult to estimate. Instead, we focus on optimizing an output or outcome.
+
+![output-outcome-impact](../img/output-outcome-impact.png)
+
 ## Objectives and Initiatives
 
 At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.

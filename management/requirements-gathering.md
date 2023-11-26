@@ -12,12 +12,14 @@ User stories a way of working that is based on *telling stories*. It prioritizes
 
 
 
-### Traditional Requirements
+## Discovering Requirements
+
+> The worst thing you can do is start building immediately.
 
 User stories are an alternative to traditional requirements.
 
-- Traditional requirements are formulated after a negotiation. They are then handed over to developers. This works well for predictable environments.
-- User stories are supposed to written in conjunction with discussions that led to agreements about what to build. These discussions involve the organization, customers, users and developers.
+- **Traditional requirements** are formulated after a negotiation. They are then handed over to developers. This works well for predictable environments.
+- **User stories** are supposed to written in conjunction with discussions that led to agreements about what to build. These discussions involve the organization, customers, users and developers.
 
 *Static* requirements create an incentive to de-emphasize the user, rather than continuously collecting feedback. 
 
@@ -50,7 +52,7 @@ Attitude: beginner's mind.
 
 Discovery process.
 
-1. Tell a story, from beginning to end. Go wide, rather than deep. Meanwhile, write down *keywords*.
+1. Tell a story, from beginning to [end](results.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
    1. Split up large chunks from small chunks. Focous on the large chunks.
 
 2. Define the context.
@@ -86,4 +88,8 @@ This is an example mapping of a webstore. There are a few layers.
 ![story-map](../img/story-map.png)
 
 
+
+## References
+
+- Patton. *User Story Mapping*
 

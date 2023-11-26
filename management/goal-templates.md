@@ -123,7 +123,7 @@ In case of technology-based projects this can be complemented with suggestions f
 - Given two objectives X and Y, create a two-dimensional map. Add the current, intermediate and target states.
 - Visualize obstacles (inertia) as red blocks and movement (initiatives) as green arrows.
 
-<img src="../img/strategy-map.png" alt="strategy-map" style="width:70%;" />
+<img src="../img/map-strategy.png" alt="strategy-map" style="width:70%;" />
 
 > Maps don't tell you what to do. Instead they show you your options.
 

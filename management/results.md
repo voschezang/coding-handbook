@@ -13,13 +13,13 @@ The aim of project and initiatives is to achieve results.
 
 
 
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="height:11em;" />
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
 
 
 
 ## Uncertainty
 
-|                 | 📦 Output        | 👤 Outcome | 💰 Impact             |
+|                 | 📦 Output        | 👤 Outcome | 📈 Impact             |
 | --------------- | --------------- | --------- | -------------------- |
 | **Factors**     | Time/cost/scope | Behaviour | Environment, markets |
 | **Uncertainty** | Low to high     | High      | High                 |
@@ -33,4 +33,9 @@ Projects tend to have constraints: time, cost and scope.
 
 <img src="../img/scope-time-cost.png" alt="scope-time-cost" style="width:40%;" />
 
+
+
+## References
+
+- Patton. *User Story Mapping*
 

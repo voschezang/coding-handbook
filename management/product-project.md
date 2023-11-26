@@ -9,13 +9,15 @@ Mindset:
 - **Project** mindset: Finish a pre-defined fixed set of tasks, within constraints. Assume that the environment is understood.
 - **Product** mindset: Continuously deliver value to customers.
 
-Notes
+Note
 
 - In practice, products are improved through multiple small projects.
 
-- Because products are never finished, they cannot be reduced to a set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
+- Because products are never finished, they cannot be reduced to a static set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
 
 
+
+> Products are never finished, only deprecated.
 
 |                 | Project                             | Product                    |
 | --------------- | ----------------------------------- | -------------------------- |
@@ -28,7 +30,7 @@ Notes
 
 ### Differences
 
-A few differences between projects and products.
+Typical differences between projects and products.
 
 **Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. There is a preference for the short term (the duration of the project) over the long term (after the project).
 
@@ -53,18 +55,16 @@ Projects typically have three constraints: a time bound, cost bound and a set of
 
 
 
-## Product
+## Terminology
 
 A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *user* and paid for by a *customer*. The *stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
 
-Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees.
+Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees. It results in:
 
-- Delivery: Provide value to users, based on a production process.
-- Transaction: Sell to customers.
+1. Delivery: Provide value to users, based on a production process.
+2. Transaction: Sell to customers.
 
 
-
-### Terminology
 
 **Product Discovery**
 Deciding what to build, for whom, when.

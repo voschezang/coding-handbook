@@ -1,6 +1,6 @@
-# Requirements Engineering
+# Project Requirements
 
-This document focusses on requirements for a single *unit* of work. It assumes a given [objective](./goals-planning-strategy.md). Projects that can be split up over multiple tasks are covered [here](./product-management.md). Also see [results](results.md) and [requirements gathering](requirements-gathering.md).
+This document focusses on requirements for a single *unit* of work. This can be an initiative or a project. It follows a given [objective](./goals-planning-strategy.md) and [narrative](results.md). Also see [requirements gathering](requirements-gathering.md).
 
 [toc]
 
@@ -57,13 +57,11 @@ In complex contexts, there is structural *uncertainty*. During execution of a ta
 
 A (in)direct result of the scope is **impact**. E.g. the effect of the initiative on a metric such as revenue. This usually  easier to measure than outcomes.
 
-
-
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="height:11em;" />
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
 
 
 
-|                 | Output          | Outcome   | Impact               |
+|                 | 📦 Output        | 👤 Outcome | 💰 Impact             |
 | --------------- | --------------- | --------- | -------------------- |
 | **Factors**     | Time/cost/scope | Behaviour | Environment, markets |
 | **Uncertainty** | Low to high     | High      | High                 |
@@ -71,7 +69,7 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 
 
 
-<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="width:40%;" />
+<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="height:16em;" />
 
 **Functional and non-functional requirements (NFR)**
 
@@ -265,4 +263,4 @@ The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/ph
 
 - Units: scope all tasks down until they have a comparable, small and manageable size. Large tasks are a challenge.
 - Days per engineer: more specific than story-points but there is a risk of simplification (i.e. the comparison with an *average* engineer)
-- Symbols. E.g.  `🐅 🦬 🐘`.
+- Symbols. E.g.  `🐅 🦒 🐘`.
