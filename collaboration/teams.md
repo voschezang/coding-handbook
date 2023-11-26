@@ -23,7 +23,9 @@
 
 
 
-### Properties of a successful team
+### Success
+
+*What make a team good?*
 
 The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
 
@@ -44,14 +46,20 @@ In addition, there are more fine grained signals:
 
 
 
-**Maturity** of autonomous teams. This shows where improvement will yield the best results. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
+### Maturity
 
-1. Able to survive. Focus on fire-fighting.
-2. In control of daily operations.
-3. Able to commit to short-term plans.
-4. Able to plan and execute, in line the organizational objectives, together with other teams.
+Maturity of autonomous teams. This shows where improvement will yield the best results. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
+
+1. Able to **survive**. Focus on fire-fighting.
+2. In **control** of daily operations.
+3. **Alignment** on short- to long term objectives.
+4. Able to **commit** to short-term plans.
+5. Able to plan and execute, in line the **organizational objectives**, together with other teams.
+6. Able to incorporate **feedback** from users and markets. Continuous improvement.
 
 
+
+![map-maturity-results](../img/map-maturity-results.png)
 
 ### Anti-patterns
 

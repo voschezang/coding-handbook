@@ -17,11 +17,12 @@ Learning is facilitated by [models](modelling.md). Learning is the process of up
 
 > Learning revolves around revising your opinions.
 
-Experiments not require complex setups. Start simple and expand if necessary. Three types:
+Experiments not require complex setups. Start simple and expand if necessary. A few types:
 
-1. Learn by observation. Then reflect on the observations.
-2. Iterate. Change a specific variable and measure the effect. Then repeat.
-3. Experiment. E.g. A/B testing.
+1. 💭 Thought experiments. Consider a hypothetical scenario and how it will play out.
+2. 👀 Learn by observation. Then reflect on the observations.
+3. 🐸 Iterate. Change a specific variable and measure the effect. Then repeat. See [leapfrog method](https://en.wikipedia.org/wiki/Leapfrog_integration).
+4. 🧪 Experiment. E.g. A/B testing.
     1. Replicate multiple environments.
     2. Change one of them and use the other one as a baseline.
     3. Compare the results.

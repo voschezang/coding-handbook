@@ -11,7 +11,7 @@ The aim of project and initiatives is to achieve results.
 3. Delivery of the product to a set of users.
 4. Increase in revenue or growth for the business.
 
-
+Ideas can be tested. See [bets](bets.md).
 
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
 

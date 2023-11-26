@@ -1,6 +1,6 @@
 # Bets
 
-Bets are tools to *test beliefs*. They are light-weight versions of experiments that validate and verify hypotheses. They are especially useful in complex environments where higher order effects are common.
+Bets are tools to *test beliefs*. They are light-weight versions of [scientific experiments](../intelligence/scientific-method.md) that validate and verify hypotheses. They are especially useful in complex environments where higher order effects are common. Also see [results](results.md).
 
 
 
@@ -12,4 +12,4 @@ Bets can have several forms. They should be sized according to the amount of unc
 
 
 
-![map-risk-reward](../img/map-risk-reward.png)
+![map-risk-reward](../img/map-maturity-results.png)
