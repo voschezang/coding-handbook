@@ -1,16 +1,35 @@
 # Teams
 
+A team is a set of players that work together to achieve a shared goal.
+
 [toc]
+
+## Purpose
+
+> Deliver value ≠ solving problems
+
+In general, a team aims to deliver *value* to stakeholders. The definition of value may change over time and depends on the needs of the stakeholders.
+
+A team needs to balance effectiveness, efficiency and predictability.
+
+<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
+
+Based on the broader organization, the team may be accountable to a section of a value chain. The scope of a team may be oriented towards discovery, delivery, or impact. See [results](../management/results.md) and [goals](../subject/goal.md).
+
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
+
+
 
 ## Health & Performance
 
-<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
+
 
 ### Discovery
 
 1. Look & **feel**. Use intuition.
 2. **Listen** to customers, stakeholders and employees.
 3. Monitor effectiveness, predictability and efficiency.
+4. Reflect on environment-specific factors such as autonomy, maturity, health, motivation, resilience.
 
 
 
@@ -48,18 +67,28 @@ In addition, there are more fine grained signals:
 
 ### Maturity
 
-Maturity of autonomous teams. This shows where improvement will yield the best results. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
+Team maturity is difficult to standardize. The following dimensions are important for autonomous, cross-functional, self-organizing teams. This can help to select areas to improve. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
+
+- Team health. E.g. psychological safety, trust, transparency, commitment, resilience.
+- Result-orientation. At what part of the value chain is the team focussing? Are they firefighting or pro-actively solving problems?
+
+![map-maturity-health](../img/map-maturity-health.png)
+
+Maturity of autonomous teams.
 
 1. Able to **survive**. Focus on fire-fighting.
-2. In **control** of daily operations.
-3. **Alignment** on short- to long term objectives.
-4. Able to **commit** to short-term plans.
-5. Able to plan and execute, in line the **organizational objectives**, together with other teams.
-6. Able to incorporate **feedback** from users and markets. Continuous improvement.
+2. In **control** of daily operations. From reactive to pro-active.
+3. Able to build improvements. E.g. functional increments.
+4. Able to build product increments. I.e. features that are production-ready.
+5. Predictable **delivery** of features to customers.
+
+After this, there range of options increases.
+
+- Able to make **commitments**.
+- Acting in line with the **organizational objectives**, together with other teams.
+- Able to incorporate **feedback** from users and markets. Continuous improvement.
 
 
-
-![map-maturity-results](../img/map-maturity-results.png)
 
 ### Anti-patterns
 

@@ -50,8 +50,13 @@ Levels for queries. Given a topic or situation X:
 Job interview
 
 - Estimate suitableness of candidate and the role. Estimate the range of capabilities.
+- Estimate fit of the candidate in the team and organization.
 - Determine level of knowledge, skill and experience of candidate.
 - Expectation management.
+
+**Insight**
+
+Learn to know the departement and team. What is their maturity? Are they self-organizing?
 
 ### Practice
 
@@ -77,6 +82,7 @@ Then tailor the rest of the conversation towards this.
 #### Generic Themes
 
 - **Project** management
+  
   - Given a new assignment/project
   - When the scope is optimistic and the resources are scarce.
   - How do you respond?

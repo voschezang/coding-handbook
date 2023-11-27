@@ -65,7 +65,7 @@ See [activity](../activity/activity).
 
 ## Intent
 
-<img src="../img/growth-and-value.png" alt="growth-and-value" style="width:60%;" />
+<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
 
 
 
