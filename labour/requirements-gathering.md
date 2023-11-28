@@ -1,6 +1,6 @@
 # Requirements Gathering
 
-See [requirements](project-requirements.md) and [results](results.md).
+See [requirements](../management/project-requirements.md) and [results](../management/results.md).
 
 [toc]
 
@@ -52,7 +52,7 @@ Attitude: beginner's mind.
 
 Discovery process.
 
-1. Tell a story, from beginning to [end](results.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
+1. Tell a story, from beginning to [end](../management/results.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
    1. Split up large chunks from small chunks. Focous on the large chunks.
 
 2. Define the context.
@@ -89,7 +89,7 @@ This is an example mapping of a webstore. There are a few layers.
 
 ### Example Increments
 
-Given confidence in the market fit:
+Ideally this happens after the market fit is tested.
 
 1. Prioritize a functional, end-2-end flow. This allows validation of the design and its scalability.
 2. Make it business meaningful. Replace mocks with real data.

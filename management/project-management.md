@@ -61,31 +61,9 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 
 ## Planning
 
+An assignment can be broken down into sub-tasks. See [delivery](../labour/delivery.md).
 
-
-### Adapting Plans
-
-Projects can be optimized for efficiency or effectiveness. The former takes risk by building large increments. The latter minimizes risk by testing early.
-
-|                | Optimize Efficiency | Optimize Predictability & Effectiveness |
-| -------------- | ------------------- | --------------------------------------- |
-| **Keyword**    | Waterfall           | Agile                                   |
-| **Testing**    | Eventually          | Continuously                            |
-| **Worst case** | Project fails       | Project exceeds estimation              |
-
-This graph shows the granularity of increment verses the development stages. The steepness of the line is associated with risk apetite.
-
-![project-increments-method](../img/project-increments-method.png)
-
-For software projects the increments follow a typical form.
-
-![project-increments-iterations](../img/project-increments-iterations.png)
-
-
-
-### Making Plans
-
-An assignment can be broken down into sub-tasks. For both these levels there is a certain amount of [requirements engineering](../requirements-engineering.md) involved.
+For both these levels there is a certain amount of [requirements engineering](../labour/requirements-engineering.md) involved.
 
 ### Sizing & Details
 

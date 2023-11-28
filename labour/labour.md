@@ -21,7 +21,7 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 Often, impact is difficult to estimate. Instead, we focus on optimizing an output or outcome.
 
-![output-outcome-impact](../img/output-outcome-impact.png)
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
 
 ## Objectives and Initiatives
 
@@ -94,7 +94,7 @@ Labour can be performed by an [organization](../systems/system.md) or [system](.
 _identity belief capability behavior environment_
 ```
 
-See [organization](organization.md).
+See [organization](../collaboration/organization.md).
 
 ## Labour Itself
 

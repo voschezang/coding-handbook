@@ -13,7 +13,7 @@ Value chain. From discovering problems to solving problems.
 3. Delivery of the product to a set of users.
 4. Increase in revenue or growth for the business.
 
-Ideas can be tested. See [bets](bets.md).
+Ideas can be tested. See [bets](./bets.md).
 
 
 

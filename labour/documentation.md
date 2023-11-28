@@ -18,13 +18,13 @@ This is independent of the required input effort.
 A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
 
 **User Story**
-What value a given feature would bring to a given *persona*. See these [templates](requirements-engineering.md).
+What value a given feature would bring to a given *persona*. See these [templates](../management/requirements-engineering.md).
 
 **Epic**
 A collection of user stories that can be finished in at most a handful of months.
 
 **MVP**
-See [product management](product-management.md)
+See [product management](../management/product-management.md)
 
 **RFC**
 Request for comments. A scalable method to get feedback on an idea.
@@ -36,5 +36,5 @@ A high-level, long-term goal that is used to show the direction to work towards.
 - Ideally this metric is clear to the whole organization, such that they can align.
 
 **Output, Outcome and Impact**
-See [requirements engineering](requirements-engineering.md).
+See [requirements engineering](../management/requirements-engineering.md).
 

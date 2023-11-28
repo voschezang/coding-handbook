@@ -4,6 +4,16 @@ Projects can be delivered in increments. Strategies typically optimize for effic
 
 [toc]
 
+## Overview
+
+Product **increments** tend to follow a release pipeline. In software engineering the phases are typically: 
+
+- `requirements, analysis, design, implementation, testing, deployment`. 
+
+Projects can be **optimized** for efficiency or predictability. The former takes **risk** by building large increments. The latter minimizes risk by testing early. See [requirements](project-requirements.md).
+
+
+
 ## Delivery Strategies
 
 Product increments can be designed in several ways. There is a tradeoff between efficiency (throughput) and risk.
@@ -15,19 +25,19 @@ Product increments can be designed in several ways. There is a tradeoff between 
 | **MVPs**         | Speed                    | Mediocre products  |
 | **By prototype** | User experience          | Limited details    |
 
-**Components**
+### Components
 
 Develop each component in parallel by specialists.
 
 
 
-**MVP**
+### MVP
 
 Iteratively deliver minimum viable products (MVP) and test them with real customers.
 
 
 
-**Prototyping**
+### Prototyping
 
 >  Prototype for `1x`, design for `100x`, and only then build for `10x`.
 
@@ -43,23 +53,9 @@ The following example visualizes the different increments in the context of buil
 
 
 
-## Development Phases
+## Agile and Waterfall Projects
 
-The development of increments follows a pipeline. In software engineering the phases are typically: 
-
-- `requirements, analysis, design, implementation, testing, deployment`. 
-
-Projects can be optimized for efficiency or effectiveness.
-
-|                | Optimize Efficiency | Optimize Predictability & Effectiveness |
-| -------------- | ------------------- | --------------------------------------- |
-| **Name**       | Waterfall           | Agile                                   |
-| **Testing**    | Eventually          | Immediately                             |
-| **Worst case** | Project fails       | Project exceeds estimation              |
-
-
-
-### Agile and Waterfall Planning
+Projects can be optimized for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early.
 
 Watefall-type projects start with full requirements. Development and testing happens afterwards, in sequence. Agile approaches start earlier with (functional) testing and then improve the design in increments.
 
@@ -68,10 +64,14 @@ Watefall-type projects start with full requirements. Development and testing hap
 | **Optimize for**    | Throughput (output)       | Market fit (outcome)    |
 | **Scope**           | Requirements drive design | Discovery drives design |
 | **Decision making** | Theoretical (top-down)    | Empirical               |
+| **Testing**         | Eventually                | Continuously            |
+| **Worst case**      | Project fails             | Project is insufficient |
 
-
+This graph shows the granularity of increment verses the development stages. The steepness of the line is associated with risk apetite.
 
 ![project-increments-method](../img/project-increments-method.png)
+
+For software projects the increments follow a typical form.
 
 
 

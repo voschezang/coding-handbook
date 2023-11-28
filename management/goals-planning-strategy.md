@@ -1,6 +1,6 @@
 # Strategy & Planning
 
-Making plans, following plans and updating plans. Also see [goals](../organization/goals.md), [templates](goal-templates.md) and [planning](planning.md).
+Making plans, following plans and updating plans. Also see [goals](../organization/goals.md), [templates](goal-templates.md) and [planning](../labour/planning.md).
 
 [toc]
 

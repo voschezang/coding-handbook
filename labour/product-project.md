@@ -28,11 +28,22 @@ Note
 
 
 
+**Project types**
+
+|                 | Standard Projects                      | Agile Projects               |
+| --------------- | -------------------------------------- | ---------------------------- |
+| **Why**         | Satisfy requirements before a deadline | Satisfy acceptance criteria  |
+| **When**        | Before a deadline                      | Sooner rather than later     |
+| **Lens**        | Output                                 | Outcome                      |
+| **Constraints** | Time, resources                        | Resources, quality standards |
+
+
+
 ### Differences
 
 Typical differences between projects and products.
 
-**Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. There is a preference for the short term (the duration of the project) over the long term (after the project).
+**Projects** *terminate*; either successfully by meeting requirements or by reaching deadline. There is a bias for the short term (the duration of the project) over the long term (after the project).
 
 - Optimize **cost**. Satisfy requirements as fast and efficiently as possible.
 
