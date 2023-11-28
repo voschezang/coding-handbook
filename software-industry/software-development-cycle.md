@@ -4,13 +4,35 @@
 
 The [structure of teams](../systems/structure.md) and departments has a great impact on how software is developed. Having specialized/functional teams often requires a fixed release cycle with *handovers*, whereas product-teams can (ideally) develop independently. The former can lead to a "waterfall" way of working, while the latter is considered to be "agile".
 
-A software development process usually consists of phases such as: `requirements, analysis, design, implementation, testing, operations`. In practice some phases can be combined, e.g. using TDD. In general, the following steps will increase quality:
+A software development process usually consists of phases:
+
+- `requirements, analysis, design, implementation, testing, operations`. 
+
+Some phases can be combined, e.g. using TDD. 
+
+In general, the following steps will increase quality:
 
 1. Include all the phases. At minimum, these phases are done in sequence.
 2. Adjust after obtaining new information. Go back and forth between consecutive phases.
 3. Do it twice. Iterate frequently. Strive to release "version 2". Prototype for `1x`, design for `100x`, and only then build for `10x`.
 
-**Two extremes: from *efficient* to *flexible***
+
+
+Projects can be optimized for efficiency or effectiveness.
+
+|                | Optimize Efficiency | Optimize Predictability & Effectiveness |
+| -------------- | ------------------- | --------------------------------------- |
+| **Name**       | Waterfall           | Agile                                   |
+| **Testing**    | Eventually          | Immediately                             |
+| **Worst case** | Project fails       | Project exceeds estimation              |
+
+
+
+![project-increments-method](../img/project-increments-method.png)
+
+
+
+**Two extremes: from *efficient* to *predictable***
 
 See [project management](../management/project-management.md).
 

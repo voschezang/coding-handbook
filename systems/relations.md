@@ -124,6 +124,8 @@ Another extreme is an organic organization. Here, the survival and thriving of t
 
 **Types of power**
 
+Note that rules can be set both by a central power and they may emerge from communities. Rules can be enforced explicitly (disciplinary) or implicitly - e.g. through surveillance.
+
 |             | Negative Power       | Positive Power                |
 | ----------- | -------------------- | ----------------------------- |
 | **Focus**   | Obey rules           | Empowerment to achieve goals  |

@@ -246,7 +246,7 @@ Addition
 
 - Managing X: making sure X is done in a certain way or at a larger scale. See [systems-management](../systems/systems-management.md).
 
-#### Traditional Paradigms
+### Traditional Paradigms
 
 With minimal collaboration, roles could be distributed as follows. The alternative would be a cross-functional team.
 

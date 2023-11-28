@@ -87,6 +87,16 @@ This is an example mapping of a webstore. There are a few layers.
 
 ![story-map](../img/story-map.png)
 
+### Example Increments
+
+Given confidence in the market fit:
+
+1. Prioritize a functional, end-2-end flow. This allows validation of the design and its scalability.
+2. Make it business meaningful. Replace mocks with real data.
+3. Improve user experience. Add toping.
+
+![story-map-releases](../img/story-map-releases.png)
+
 
 
 ## References

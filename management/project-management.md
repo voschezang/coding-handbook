@@ -6,26 +6,46 @@ This document is about refining and implementing an assignment. Such an assignme
 
 ## Overview
 
-There are a few phases that can be distinguished in a typical assignment.
+The following types of work are involved. They may be done in sequence or parallel.
 
-- **Refining** the assignment to ensure that for example the right feature will be build.
-  - It is likely that *your interpretation* of the initial requirements is imperfect.
-  - There can be *ambiguity* - or even imperfection - in the initial requirements. It may be beneficial to analyze the problem in advance.
-  - During the implementation of the project the context may *change* - which could require deviations for the planning. Hence there is some risk management involved.
+- **Refining** the assignment to clarify what will happen. This involves planning and sourcing.
 - **Execution** of the refined assignment. This phase may reveal surprises. This may lead to deviations.
   - This may include resourcing.
 - **Review** of the implementation. This includes communication to stakeholders.
 
 
 
+### Refinement
+
+Alignment with:
+
+- Stakeholders. E.g. the assigner or sponsor.
+- [Customers](https://en.wikipedia.org/wiki/Customer). E.g. the ones that will recipient some service or product.
+- Employees and hires.
+
+
+
+**Typical risks**
+
+- It is likely that *your interpretation* of the initial requirements is imperfect.
+- There can be *ambiguity* - or even imperfection - in the initial requirements. It may be beneficial to analyze the problem in advance.
+- During the implementation of the project the context may *change* - which could require deviations for the planning. Hence there is some risk management involved.
+
+
+
 ### Delegation and Specialization
 
-**Dual-track Model**
-The structure of an organizations can be reduced to a management (planning) and worker (execution) layer. These two work together to deliver value to an external customer. Usually the boundary lies between the *what* and the *how*.
+#### Hierarchical Organizations
+
+Traditional organiaitons consist of a management (planning) and worker (execution) layer. These two work together to deliver value to an external customer. Usually the boundary lies between the *what* and the *how*.
 
 ![plan-to-exe](../img/plan-to-exe.png)
 
-#### Autonomy
+An alternative to this a flat organization with autonomous teams. These may combine the planning and execution layers.
+
+
+
+### Autonomy
 
 In order to run a project, a certain level of autonomy is required. This is a balance of supply and demand.
 
@@ -39,19 +59,35 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 
 
 
-### Refinement
+## Planning
 
-Alignment with:
 
-- Stakeholders. E.g. the assigner or sponsor.
-- [Customers](https://en.wikipedia.org/wiki/Customer). E.g. the ones that will recipient some service or product.
-- Employees and hires.
 
-#### Planning
+### Adapting Plans
+
+Projects can be optimized for efficiency or effectiveness. The former takes risk by building large increments. The latter minimizes risk by testing early.
+
+|                | Optimize Efficiency | Optimize Predictability & Effectiveness |
+| -------------- | ------------------- | --------------------------------------- |
+| **Keyword**    | Waterfall           | Agile                                   |
+| **Testing**    | Eventually          | Continuously                            |
+| **Worst case** | Project fails       | Project exceeds estimation              |
+
+This graph shows the granularity of increment verses the development stages. The steepness of the line is associated with risk apetite.
+
+![project-increments-method](../img/project-increments-method.png)
+
+For software projects the increments follow a typical form.
+
+![project-increments-iterations](../img/project-increments-iterations.png)
+
+
+
+### Making Plans
 
 An assignment can be broken down into sub-tasks. For both these levels there is a certain amount of [requirements engineering](../requirements-engineering.md) involved.
 
-#### Sizing & Details
+### Sizing & Details
 
 Two dimensions that control flexibility:
 
