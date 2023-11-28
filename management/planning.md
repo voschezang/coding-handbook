@@ -32,10 +32,6 @@ Leadership and motivation.
 
 
 
-**Agile and Waterfall Planning**
-
-![project-increments-method](../img/project-increments-method.png)
-
 ### Template: Matrices
 
 **Projects vs. Objectives**

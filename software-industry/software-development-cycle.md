@@ -18,14 +18,6 @@ In general, the following steps will increase quality:
 
 
 
-Projects can be optimized for efficiency or effectiveness.
-
-|                | Optimize Efficiency | Optimize Predictability & Effectiveness |
-| -------------- | ------------------- | --------------------------------------- |
-| **Name**       | Waterfall           | Agile                                   |
-| **Testing**    | Eventually          | Immediately                             |
-| **Worst case** | Project fails       | Project exceeds estimation              |
-
 
 
 ![project-increments-method](../img/project-increments-method.png)
