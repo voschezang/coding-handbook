@@ -89,17 +89,21 @@ Note that the validity of the following statements is dependent on certain *impl
     * Rather than suppressing blame, regulate it and challenge allegations. Decouple attribution from causality, intentionality and context.
 * Activity does not imply achievement.
 
+### Focus
+
+- Solving problems > delivering more functionality.
+- Patience ≠ doing nothing
+- Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
+- Add one, lose two.
+- 2 great decisions > 100 small decisions.
+- Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
+- Think in decades, rather than years.
+
 ### Time to market
 
-* Solving problems > delivering more functionality.
 * Deliver sooner, rather than faster. Average throughput > total throughput.
   * Received value (by customer) > created value (inventory).
 * Planning > (having) plans.
-* Prioritization & focus.
-  * Patience ≠ doing nothing
-  * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
-  * Add one, lose two.
-  * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
 * To do things fast you need to do things well.
 * Training can be defined as "practice by doing", but at a much slower pace. It shouldn't be rushed.
 * Before software can be reusable it first has to be usable.

@@ -1,6 +1,6 @@
 # Product Management
 
-This document explores the management of [products and projects](../labour/product-project.md). It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md) and [results](../labour/results.md).
+This document explores the management of [products and projects](../labour/product-project-initiative.md). It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md) and [results](../labour/results.md).
 
 [toc]
 

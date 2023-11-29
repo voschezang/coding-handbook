@@ -12,7 +12,7 @@ Models
 <li><a href="domain-modelling/domain-driven-design.md">Domain-Driven-Design</a>- examples of DDD using OOP and FP.</li>
 <li><a href="domain-modelling/functions-relations.md">Functions and Relationships</a></li>
 <li><a href="domain-modelling/programming-patterns.md">Programming Patterns</a> - common programming, application and system architecture patterns.</li>
-</ul>
+</ul>o
 </details>
 <details>
 <summary>Practice: <b>Computer language</b> (encoding of models)</summary>
@@ -30,12 +30,12 @@ Systems
 <summary>Theory: <b>Systems</b> (internal view).</summary>
 <ul style="margin: 1em;">
 <li><a href="systems/system.md">Systems</a> and organization</li>
-  <ul>
+<ul style="margin: 0;">
   <li><a href="systems/structure.md">Structure</a> and topology</li>
   <li><a href="systems/relations.md">Relations</a></li>
   <li><a href="systems/scale.md">Scale</a></li>
   <li><a href="systems/platform">Platforms</a></li>
-  </ul>
+</ul>
 <li><a href="systems/systems-management.md">Systems</a> Management</li>
 <li><a href="systems/communication-patterns.md">Communication Patterns</a> for humans and computers</li>
 </ul>
@@ -53,34 +53,37 @@ Systems
 <summary>Practice: <b>Labour</b> (organization of work)</summary>
 <ul style="margin: 1em;">
 <li><a href="labour/labour.md">Labour</a></li>
-<ul>
-	<li><a href="labour/bets.md">Bets</a></li>
+<li><a href="labour/documentation.md">Documentation</a></li>
+<li>Decision making & planning</li>
+<ul style="margin: 0;">
 	<li><a href="labour/discovery.md">Discovery</a></li>
 	<li><a href="labour/delivery.md">Delivery</a></li>
 	<li><a href="labour/planning.md">Planning</a></li>
   <li><a href="labour/results.md">Results</a></li>
 </ul>
-<li><a href="labour/documentation.md">Documentation</a></li>
-<li><a href="labour/product-project.md">Products and Projects</a></li>
-<li><a href="labour/project-requirements.md">Project Requirements</a></li>
+<li>Projects & experiments</li>
+<ul style="margin: 0;">
+	<li><a href="labour/bets.md">Bets</a></li>
+  <li><a href="labour/product-project-initiative.md">Products, projects, initiatives</a></li>
+  <li><a href="labour/project-requirements.md">Project Requirements</a></li>
+</ul>
 </ul>
 </details>
 <details>
 <summary>Practice: <b>Management</b> of systems</summary>
 <ul style="margin: 1em;">
 <li><a href="management/management-principles.md">Principles</a></li>
-<ul>
-<li><a href="management/product-management.md">Product Management</a></li>
-<li><a href="management/project-management.md">Project Management</a></li>
-<li><a href="management/change-management.md">Change Management</a></li>
-<li><a href="management/risk-management.md">Risk Management</a></li>
+<ul style="margin: 0;">
+  <li><a href="management/product-management.md">Product Management</a></li>
+  <li><a href="management/project-management.md">Project Management</a></li>
+  <li><a href="management/change-management.md">Change Management</a></li>
+  <li><a href="management/risk-management.md">Risk Management</a></li>
 </ul>
 <li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 <li><a href="management/goal-templates.md">Goals setting</a></li>
 <li><a href="management/product-projects.md">Products and projects</a></li>
 </ul>
 </details>
-
 
 Technological
 
@@ -117,14 +120,14 @@ Social
 <summary>Practice: <b>Collaboration</b> (and communication)</summary>
 <ul style="margin: 1em;">
 <li>Communication</li>
-<ul style="margin: 1em;">
+<ul style="margin: 0;">
   <li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
   <li><a href="collaboration/messaging.md">Messaging</a> (verbally or non-verbally).</li>
   <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
   <li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
 </ul>
 <li>Creating value</li>
-<ul style="margin: 1em;">
+<ul style="margin: 0;">
   <li><a href="labour/labour.md">Labour</a> (work and management of work).</li>
   <li><a href="systems/system.md">Organization</a> (identity)</li>
   <li><a href="systems/teams.md">Teams</a> (structure and effectiveness)</li>

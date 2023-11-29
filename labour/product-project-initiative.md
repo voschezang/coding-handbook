@@ -19,23 +19,14 @@ Note
 
 > Products are never finished, only deprecated.
 
-|                 | Project                             | Product                    |
-| --------------- | ----------------------------------- | -------------------------- |
-| **Purpose**     | Satisfy requirements                | Deliver value to customers |
-| **Timing**      | Finish before the deadline          | Continuously, frequently   |
-| **Focus**       | Result-oriented                     | Market-oriented            |
-| **Constraints** | Time, cost, requirements, resources | Funding                    |
+Initiatives are projects without deadlines. Instead, they have domain-specific acceptance criteria.
 
-
-
-**Project types**
-
-|                 | Standard Projects                      | Agile Projects               |
-| --------------- | -------------------------------------- | ---------------------------- |
-| **Why**         | Satisfy requirements before a deadline | Satisfy acceptance criteria  |
-| **When**        | Before a deadline                      | Sooner rather than later     |
-| **Lens**        | Output                                 | Outcome                      |
-| **Constraints** | Time, resources                        | Resources, quality standards |
+|                 | Product                    | Project                             | Initiative                   |
+| --------------- | -------------------------- | ----------------------------------- | ---------------------------- |
+| **Purpose**     | Deliver value to customers | Satisfy requirements                | Satisfy acceptance criteria  |
+| **Timing**      | Continuously, frequently   | Finish before the deadline          | Sooner rather than later     |
+| **Focus**       | Market-oriented            | Result-oriented                     | Outcome/impact-oriented      |
+| **Constraints** | Funding                    | Time, cost, requirements, resources | Resources, quality standards |
 
 
 
