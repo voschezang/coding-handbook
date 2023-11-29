@@ -1,6 +1,6 @@
-# Requirements Gathering
+# Product Discovery
 
-See [requirements](../management/project-requirements.md) and [results](../management/results.md).
+Discovery is about optimizing products, increments and features. Also see [requirements](project-requirements.md), [bets](bets.md) and [results](results.md).
 
 [toc]
 
@@ -52,7 +52,7 @@ Attitude: beginner's mind.
 
 Discovery process.
 
-1. Tell a story, from beginning to [end](../management/results.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
+1. Tell a story, from beginning to [end](results.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
    1. Split up large chunks from small chunks. Focous on the large chunks.
 
 2. Define the context.

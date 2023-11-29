@@ -96,6 +96,7 @@ Note that the validity of the following statements is dependent on certain *impl
   * Received value (by customer) > created value (inventory).
 * Planning > (having) plans.
 * Prioritization & focus.
+  * Patience ≠ doing nothing
   * Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
   * Add one, lose two.
   * Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.

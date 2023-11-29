@@ -6,6 +6,8 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 [toc]
 
+> Patience ≠ doing nothing
+
 ## Purpose and Sustainability
 
 The purpose of any type of labour can be deconstructed in *discovery* and *delivery*. The former is both an [existential](https://en.wikipedia.org/wiki/Existentialism) question and a [validation](https://en.wikipedia.org/wiki/Verification_and_validation) of beliefs and posibilities. Delivery is more concrete, and consists of the following:

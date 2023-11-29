@@ -16,6 +16,10 @@ A more fine-grained categorization is obtained by distinguishing *vita activa* a
 - Herstellen (production): Care for the external world.
 - Handeln (acting): Care for the greater good.
 
+
+
+> Not all those who wander are lost.
+
 **Vita contemplativa**. Contemplate. Focus on internal experience of the world.
 
 - Entspannen (relaxing). Lingering.

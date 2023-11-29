@@ -27,7 +27,7 @@ Models
 Systems
 
 <details>
-<summary>Theory: <b>Systems thinking</b></summary>
+<summary>Theory: <b>Systems</b> (internal view).</summary>
 <ul style="margin: 1em;">
 <li><a href="systems/system.md">Systems</a> and organization</li>
   <ul>
@@ -41,7 +41,7 @@ Systems
 </ul>
 </details>
 <details>
-<summary>Theory: Organizations as <b>subject</b> with <em>goals</em>.</summary>
+<summary>Theory: <b>Subjects</b> (functional view).</summary>
 <ul style="margin: 1em;">
 <li><a href="subject/identity.md">Identity</a></li>
 <li><a href="subject/behaviour.md">Behaviour</a></li>
@@ -50,7 +50,23 @@ Systems
 </ul>
 </details>
 <details>
-<summary>Practice: <b>Management</b> of systems, planning of work</summary>
+<summary>Practice: <b>Labour</b> (organization of work)</summary>
+<ul style="margin: 1em;">
+<li><a href="labour/labour.md">Labour</a></li>
+<ul>
+	<li><a href="labour/bets.md">Bets</a></li>
+	<li><a href="labour/discovery.md">Discovery</a></li>
+	<li><a href="labour/delivery.md">Delivery</a></li>
+	<li><a href="labour/planning.md">Planning</a></li>
+  <li><a href="labour/results.md">Results</a></li>
+</ul>
+<li><a href="labour/documentation.md">Documentation</a></li>
+<li><a href="labour/product-project.md">Products and Projects</a></li>
+<li><a href="labour/project-requirements.md">Project Requirements</a></li>
+</ul>
+</details>
+<details>
+<summary>Practice: <b>Management</b> of systems</summary>
 <ul style="margin: 1em;">
 <li><a href="management/management-principles.md">Principles</a></li>
 <ul>
@@ -61,11 +77,10 @@ Systems
 </ul>
 <li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 <li><a href="management/goal-templates.md">Goals setting</a></li>
-<li><a href="management/planning.md">Planning</a></li>
 <li><a href="management/product-projects.md">Products and projects</a></li>
-<li><a href="management/project-requirements.md">Requirements</a></li>
 </ul>
 </details>
+
 
 Technological
 
@@ -110,7 +125,7 @@ Social
 </ul>
 <li>Creating value</li>
 <ul style="margin: 1em;">
-  <li><a href="collaboration/labour.md">Labour</a> (work and management of work).</li>
+  <li><a href="labour/labour.md">Labour</a> (work and management of work).</li>
   <li><a href="systems/system.md">Organization</a> (identity)</li>
   <li><a href="systems/teams.md">Teams</a> (structure and effectiveness)</li>
 </ul>
