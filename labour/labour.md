@@ -27,15 +27,9 @@ Often, impact is difficult to estimate. Instead, we focus on optimizing an outpu
 
 ## Objectives and Initiatives
 
-At minimum, labour requires the selection of an *objective* and an *initiative* to achieve it. This requires alignment with stakeholders and gathering of resources.
-
-> willingness to change = current risk + opportunity - uncertainty - cost of initiative
-
-The initiative is meant to move from a *current stateI* to a *target state*. This requires a transcendence of [inertia](https://en.wikipedia.org/wiki/Newton's_laws_of_motion) - otherwise there would be no need for the initiative at all. The transcendence is made possible by [consuming](https://en.wikipedia.org/wiki/First_law_of_thermodynamics) *resources*. The promise of change may or may not be enough to obtain these.
+See [goals](../management/goals-planning-strategy.md) and [initiatives](initiatives.md)
 
 <img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
-
-Choosing the right objective and initiatives is a challenge in itself. See [goals](../management/goals-planning-strategy.md). After choosing a goal, one can specify [requirements](../organization/requirements.md).
 
 ## Organized Labour
 

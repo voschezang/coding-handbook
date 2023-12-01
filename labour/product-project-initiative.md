@@ -19,7 +19,9 @@ Note
 
 > Products are never finished, only deprecated.
 
-Initiatives are projects without deadlines. Instead, they have domain-specific acceptance criteria.
+Initiatives are projects without deadlines. Instead, they have domain-specific acceptance criteria. 
+
+- Sizing may be controlled through hierarchically. E.g. sagas, epics, stories and tasks.
 
 |                 | Product                    | Project                             | Initiative                   |
 | --------------- | -------------------------- | ----------------------------------- | ---------------------------- |

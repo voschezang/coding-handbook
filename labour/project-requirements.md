@@ -6,7 +6,7 @@ This document focusses on requirements for a single *unit* of work. This can be 
 
 ## Overview
 
-Requirements are a form of [documentation](../documentation.md). Their primary purpose depends on the audience and the significance of the project or task. This influences the level of detail and any assumptions that should be made.
+Requirements are a form of [documentation](documentation.md). Their primary purpose depends on the audience and the significance of the project or task. This influences the level of detail and any assumptions that should be made.
 
 - Requirements may be hierarchical. E.g. multiple deliverables within a project.
 - Requirements may be written from different perspectives. E.g. a functional view, system view or component view.
@@ -21,6 +21,8 @@ Standard factors
 4. **Risks**, uncertainty and potential side-effects. This shows the limits of our understanding of the (future) environment. This can include mitigation of risks.
 
 This can be complemented by media that clarifies the situation.
+
+- An explanation of the **current situation**
 
 - Examples *elaborate* requirements.
 
