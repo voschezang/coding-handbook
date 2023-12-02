@@ -81,8 +81,6 @@ Stonewalling
 
 Dyadic completion. If there is a victim, then the automatic response is to assign (blame) a villain.
 
-😈
-
 
 
 ## Satir communication stances

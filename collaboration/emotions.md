@@ -54,6 +54,43 @@ Dutch translation: *blij, bedroefd, boos, bang*.
 
 
 
+## Secondary Emotions
+
+Note that attraction and repulsion are heavly affected by managebility (e.g. agency, influence).
+
+- Appreciation (liking)
+  - Awe
+  - Disgust
+- Desire
+  - Preference
+  - Love
+  - Obsession, fanaticism.
+- Interest and disinterest. Extremes: Amazement, shock.
+
+  - Curiosity (wonder)
+
+  - Confusion
+
+  - Surprise or disbelief (skepticism)
+
+- Social
+  - Empathy and sympathy
+
+
+
+
+### Physiological states
+
+Feelings that indicate physiological states.
+
+- Pleasure or pain
+- Energy or fatigue
+- Warmth or coldness. Temperature.
+- Relaxation or tension.
+- Comfort or anxiousness. Safety.
+
+
+
 ## Flow
 
 > Surf the waves of emotions.

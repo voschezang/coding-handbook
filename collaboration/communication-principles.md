@@ -84,6 +84,16 @@ First, second, third position.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
 
+
+
+#### Communication Topics
+
+Individuals can be strongly goal-oriented, people-oriented or thought-oriented. In conversations the emphasis may lie on these respective styles. See [personality](personality.md) and [DISC](https://en.wikipedia.org/wiki/DISC_assessment).
+
+<img src="../img/results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
+
+
+
 #### Communication Pyramid
 
 Layered model for conversations: step by step.
