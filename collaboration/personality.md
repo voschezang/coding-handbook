@@ -85,6 +85,22 @@ Expression of personality in an environment.
 
 
 
+### Keirsey Quadrants
+
+Values and purpose. See [Keirsey temperament sorter](https://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter)
+
+|                | ⚡ Artisans  | 💡 Rationals | 🌐 Idealists | 🏠 Guardians |
+| -------------- | ----------- | ----------- | ----------- | ----------- |
+| **Value**      | Expression  | Reason      | Unity       | Security    |
+| **Preference** | Achievement | Achievement | Harmony     | Harmony     |
+| **Associated** | Concrete    | Abstract    | Abstract    | Concrete    |
+
+
+
+<img src="../img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="width:70%;" />
+
+
+
 ### Qualities & Allergies
 
 Core quality quadrant: personal qualities & risks

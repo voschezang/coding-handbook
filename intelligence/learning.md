@@ -13,7 +13,18 @@ Learning is facilitated by [models](modelling.md). Learning is the process of up
 
 
 
-**Learning Types**
+[Learning cycles](https://en.wikipedia.org/wiki/Learning_cycle). See [Kolb](https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning).
+
+| Phase                             | Activity                 |
+| --------------------------------- | ------------------------ |
+| Experience and observation        | Gather data              |
+| Reflection and introspection      | Analyze & process data   |
+| Abstraction and conceptualization | Define model             |
+| Hypothesis and experimentation    | Test boundaries of model |
+
+
+
+## Learning Types
 
 > Learning revolves around revising your opinions.
 
@@ -148,7 +159,7 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 - Consultant: Here, let me fix that problem for you
 - Mentor: This is what I did when I had that problem
 - Advisor: Here are a few things people do to solve that problem
-- Coach: How do you think you might solve that problem?
+- Coach: What can you do to solve that problem?
 
 **Zones**
 

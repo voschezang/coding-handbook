@@ -2,7 +2,7 @@
 
 > Everywhere in the universe ≠ in every universe.
 
-From generic to specific.
+From generic to specific. Abstract to concrete. Global to local.
 
 1. Eternal. In every universe.
 2. Universal. In this whole universe.
