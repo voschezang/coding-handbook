@@ -109,21 +109,9 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 
 Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
 
-Before closing a task an appropriate review should be done to validate whether its purpose has been fulfilled.
+Before closing a task an appropriate review may be done to validate whether its purpose has been fulfilled.
 
-#### Template: Task Titles
 
-E.g. for user-stories.
-
-What value a given feature would bring to a given *persona*.
-
-Output-based:
-
-> As a `Persona` I want an  `action` because it will bring this `benefit` which helps to reach this `outcome`, based on the fact that `______`  and the assumption that `______`.
-
-Outcome-based:
-
-> In order to reach this `outcome`, this `component` needs this `change`.
 
 #### Template: Project Pitch
 

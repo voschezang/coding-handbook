@@ -2,6 +2,8 @@
 
 An initiative is a project that is focussed on an outcome. It emphasizes value over minimizing resources or cost.
 
+[toc]
+
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
 
 ## Overview
@@ -20,6 +22,22 @@ Choosing the right objective and initiatives is a challenge in itself. See [goal
 
 Note that inititative are not about requirements. Rather, they are about shared understanding.
 
+### Title Template
+
+Start with the change. Either:
+
+> As `role` I want `functionality` so that `value`.
+
+> As `persona` I want `action` because `benefit`.
+
+Optionally give convext:
+
+> which helps to reach `impact`.
+
+> based on `fact`, this `assumption` and this `belief`.
+
+
+
 ### Basic Template
 
 | Section | Explanation                                                  |
@@ -31,6 +49,9 @@ Note that inititative are not about requirements. Rather, they are about shared 
 | When    | The priority. E.g. in relation to other initiatives.         |
 
 ### Formal Template
+
+- Core. The objective (expected outcome) and method (deliverables, acceptance criteria).
+- Context. The problem, risks, dependencies.
 
 |                         | Purpose                   | Question                                                     |
 | ----------------------- | ------------------------- | ------------------------------------------------------------ |
