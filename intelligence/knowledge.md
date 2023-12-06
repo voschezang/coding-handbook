@@ -78,3 +78,16 @@ Art differs from engineering in its purpose. It's about creation itself. It's ab
 
 Explore the human condition: experience and beliefs. Language, culture and society.
 
+
+
+## Technology
+
+Intellectual technology. Inventions that facilitate flow of information.
+
+1. DNA. [Genes](https://en.wikipedia.org/wiki/Gene). Pass biological information to future generations.
+2. Culture. Rituals. Behavioural patterns that encode information. E.g. mamals that learn from each other.
+3. Language. Oral tradition. [Memes](https://en.wikipedia.org/wiki/Meme). Pass informatin to other subjects.
+4. Sketching. Visual signs and symbols. [Signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality). Maps
+5. Writing. Externalize thoughts. Persistent storage of ideas.
+6. Hypertext. Non-linear structures of documents.
+

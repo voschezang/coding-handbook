@@ -171,6 +171,26 @@ Imagine the next 2 weeks go perfect.
 
 
 
+### Cover story
+
+Imagine a [cover story](https://gamestorming.com/cover-story/) a decade from now. Start with brainstorming
+
+```markdown
+- Brainstorm: initial ideas for the cover story.
+- Quotes: what people might say.
+```
+
+Then assemble the article.
+
+```markdown
+- Cover: the main message. A BIG story of their success.
+- Headlines: key results and achievements.
+- Sidebars: interesting facets of the cover story.
+- Images: to supporting the content.
+```
+
+
+
 ## Planning
 
 ### Follow through

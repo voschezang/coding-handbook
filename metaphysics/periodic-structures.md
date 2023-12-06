@@ -23,9 +23,6 @@ Humanity
 - Civilizations, empires, cities (centuries)
 - Corporate organizations (decades)
     - Departments and teams in organizations. Their size (and scope) influences how fast they change. Resizing teams translates to adjusting frequencies to obtain a better wavelength.
-
-- Human biology
-
 - Human lifecycle (decades)
 - Sleep cycle (day)
 - Breathing (minutes)
