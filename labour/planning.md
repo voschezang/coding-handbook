@@ -12,8 +12,8 @@ This document discusses methods for planning. It assumes a pre-defined given a s
 
 A few common tools are:
 
-- Product backlog. Ideas that will be worked on in the future.
-- [Kanban](https://en.wikipedia.org/wiki/Kanban_board) board. A dashboard that visualizes what is happening at the moment.
+- A product backlog. Ideas that will be worked on in the future.
+- A [Kanban](https://en.wikipedia.org/wiki/Kanban_board) board. A dashboard that visualizes what is happening at the moment.
 
 **Template**
 

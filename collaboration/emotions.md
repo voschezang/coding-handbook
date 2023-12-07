@@ -4,8 +4,8 @@
 
 Emotions are dynamic. They are experienced, rather than fixed. They revolve around quality (liking).
 
-1. Experience ranges from pleasant to unpleasant.
-2. The primary emotions are happiness (joy), sadness, anger and fear. They indicate quality, or the loss of it.
+1. Experience ranges from pleasant to unpleasant. They can be useful.
+2. The primary emotions are happiness (joy), sadness, anger and fear. They indicate *quality*, or the loss of it.
 3. Physiological emotions relate to physical needs such as hunger or thirst. E.g. fatigue or lust.
 4. Other types of emotions relate to social or intellectual needs. E.g. curiousity or sympathy.
 
@@ -111,3 +111,4 @@ There are three typical methods to avoid emotions.
 
 Avoidance may result in either a less vibrant (numb) life, or in eruptions of emotions at a later point in time. Note that in case of eruptions of emotions, the emotions themselves are merely signals of an underlying problem.
 
+Experiencing negative emotions is unpleasant, but it can avoid future problems.

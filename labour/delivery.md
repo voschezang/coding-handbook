@@ -25,6 +25,23 @@ Product increments can be designed in several ways. There is a tradeoff between 
 | **MVPs**         | Speed                    | Mediocre products  |
 | **By prototype** | User experience          | Limited details    |
 
+
+
+Each release as can be treated as an experiment.
+
+- There is a belief (hypothesis) about its outcome
+- Test beliefs by releasing.
+
+Learn as much from it as you can.
+
+
+
+The following example visualizes the different increments in the context of building a church.
+
+![product-increments](../img/product-increments.png)
+
+
+
 ### Components
 
 Develop each component in parallel by specialists.
@@ -42,14 +59,6 @@ Iteratively deliver minimum viable products (MVP) and test them with real custom
 >  Prototype for `1x`, design for `100x`, and only then build for `10x`.
 
 Emphasize the discovery phase. Continuously develop better prototypes to ensure the design is valuable.
-
-
-
-### Example
-
-The following example visualizes the different increments in the context of building a church.
-
-![product-increments](../img/product-increments.png)
 
 
 

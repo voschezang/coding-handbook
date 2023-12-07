@@ -58,7 +58,7 @@ See [software development cycle](./software-development-cycle.md).
 
 There doesn't exist a method that guarantees bug-free code. Don't make assumptions about the reliability of code but instead verify it. This requires the following points:
 
-- Visibility, Transparency, Traceability
+- Visibility, transparency, traceability
 
   - Clear [documentation](../documentation.md). An explanation from high to low level and including relevant assumptions.
     - This can be complemented by "How-to" guides.
@@ -229,7 +229,7 @@ Types
   - Higher learning curve.
     - Increased onboarding time
 
-  - Risk of bugs, inconsistencies, unexpected behaviour
+  - Risk of bugs, inconsistencies, unexpected behaviour.
 
 - Bad interfaces. This may result in lot's of duplicate code.
 

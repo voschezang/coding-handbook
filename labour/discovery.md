@@ -19,7 +19,7 @@ Discovery consists of:
 
 
 
-The next sections present a method based on storytelling, that facilitates **translation** between ideas, goals and plans. It emphasizes:
+The next sections are about **translation** between ideas, goals and plans. It present a method based on storytelling. It emphasizes:
 
 - Storytelling over requirement handovers.
 - Experiments over upfront planning.
@@ -98,11 +98,11 @@ An alternative to this is to use [experiments](bets.md) before building new feat
 
 ### Story Mapping
 
-Story mapping is a technique to discover what to build.
+Story mapping is a technique to discover what to build. It can be used in several phases of the product [lifecycle](lifecycle.md).
 
 >  Shared documents ≠ shared understanding 
 
-Goals - ordered by importance.
+Goals. Ordered by importance.
 
 1. Develop a shared understanding.
 2. Promote shared ownership. Make team members feel heard. Be inlusive.
@@ -110,7 +110,22 @@ Goals - ordered by importance.
 
 
 
-#### Session Format
+Steps
+
+- Initial premise
+  - Why. The problem or opportunity.
+  - Who. The party that will benefit from the initiative.
+- Discovery. Re-discover the problem and objective.
+  - The main story. The value chain from start to end.
+  - (Missing) details. Intermediate steps.
+- Delivery strategies.
+  - A release strategy. Deliverables and [results](results.md).
+  - A learning strategy. Beliefs and [bets](bets.md). E.g. prototypes.
+  - A development strategy. The implementation. See [delivery](delivery.md).
+
+
+
+#### Session Formats
 
 Attitude: beginner's mind. 
 
@@ -119,7 +134,7 @@ Attitude: beginner's mind.
 
 
 
-Discovery process.
+##### Discovery process.
 
 1. Tell a story, from beginning to [end](results.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
    1. Split up large chunks from small chunks. Focous on the large chunks.
@@ -129,14 +144,14 @@ Discovery process.
    2. Define the target market. E.g. persona's of typical users. You can use symbols to remember these.
    3. List any relevant constraints.
 3. Build a chain of smaller stories. E.g.
-   "As a `user`, I want to ...,
-   *(and then)* I want to get ...,
-   *(or, I might)* want to see ...."
+   "As a `user`, I want to `...`,
+   *(and then)* I want to get `...`,
+   *(or, I might)* want to see `...`."
 4. Reflect on this, and determine what increments you can build next.
 
 
 
-Delivery process
+##### Delivery process
 
 - Discuss what is technically feasible to build.
 - Relate it to what would provide value, based on the original story.

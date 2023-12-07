@@ -10,12 +10,20 @@ See also [goals](../organization/goals.md), [purpose](activity/purpose.md).
 
 > Help people (teams) move from who they are now, to who they’ll be in the future, in a way that maximizes well-being.
 
-Coaching revolves around the preferences of the coachee. It consists of a series of conversations in which:
+Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](conversations.md) in which:
 
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
 
-See [conversations](conversations.md).
+
+
+Two main modes are: critical and supporting.
+
+|              | Critical Coach           | Supporting                          |
+| ------------ | ------------------------ | ----------------------------------- |
+| **Core**     | Challenge, direct        | Empathy, understanding, inspiration |
+| **Attitude** | Avoid failure, do better | Learn from experience               |
+| **Energy**   | Pushing, sprinting       | Growing, step by step               |
 
 ### Intent & Purpose
 
