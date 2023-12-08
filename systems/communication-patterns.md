@@ -42,7 +42,11 @@ Operations on a messages can be:
   - One publisher (subject) broadcasts to many subscribers ([observers](https://en.wikipedia.org/wiki/Observer_pattern)).
   - As an addition, the publisher can be made agnostic of the subscribers by using [topics](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). E.g. radio-broadcasting on multiple channels.
 
-<img src="../img/communication-patterns-broadcasting.png" alt="communication-patterns-broadcasting" style="width:80%;" />
+
+
+![communication-patterns-broadcasting](../img/communication-patterns-broadcasting.png)
+
+
 
 ### Applied level: Adapters
 

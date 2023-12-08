@@ -277,7 +277,7 @@ Example formats:
     - *Which tasks moved recently?*
     - *Which tasks will be updated today?*
     - *What work is blocked?*
-- Focus on people. E.g. ask everyone for a status update.
+- Focus on people. E.g. ask everyone for a personal status update.
   - Benefit: inclusion, improve personal connections. E.g. for remote jobs.
   - Risk: work items can get overlooked.
   - Possible steps:

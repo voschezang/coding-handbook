@@ -63,9 +63,9 @@ Systems
 </ul>
 <li>Projects & experiments</li>
 <ul style="margin: 0;">
-	<li><a href="labour/bets.md">Bets</a></li>
   <li><a href="labour/product-project-initiative.md">Products, projects, initiatives</a></li>
-  <li><a href="labour/project-requirements.md">Project Requirements</a></li>
+	<li><a href="labour/bets.md">Bets</a></li>
+	<li><a href="labour/project-requirements.md">Project Requirements</a></li>
 </ul>
 </ul>
 </details>
@@ -84,6 +84,7 @@ Systems
 <li><a href="management/product-projects.md">Products and projects</a></li>
 </ul>
 </details>
+
 
 Technological
 
