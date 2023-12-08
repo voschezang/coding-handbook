@@ -27,12 +27,12 @@ Product increments can be designed in several ways. There is a tradeoff between 
 
 
 
-Each release as can be treated as an experiment.
+Each release as can be treated as an experiment. Learn as much from it as you can.
 
 - There is a belief (hypothesis) about its outcome
 - Test beliefs by releasing.
 
-Learn as much from it as you can.
+Mock components if you want to test the product as a whole. Replace mocks and stubs later on, after the product fit has been shown.
 
 
 

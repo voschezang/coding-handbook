@@ -56,18 +56,12 @@ The consider the following modes of scaling. See [communication patterns](system
 
 ![communication-patterns-broadcasting](../img/communication-patterns-broadcasting.png)
 
-Guideline
-
-- Make it a joy to read.
-
-
+**Effort**
 
 > You can write a weekly update in 7 days.
 
 - Write down signals during the week. Investigate the most relevant or urgent ones.
 - After each week, select the most relevant signals and ideas.
-
-
 
 
 
@@ -89,8 +83,6 @@ Guideline
       - "I'm thinking about this ~~initiative~~ outcome."
       - "There are at least 3 directions to change this."
       ```
-
-
 
 
 
