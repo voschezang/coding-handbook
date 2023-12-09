@@ -24,29 +24,34 @@ Note that inititative are not about requirements. Rather, they are about shared 
 
 ### Title Template
 
-Start with the change. Either:
+Start with the change. From the perspective of a developer or a user.
 
 > As `role` I want `functionality` so that `value`.
 
 > As `persona` I want `action` because `benefit`.
 
-Optionally give convext:
+Optionally give context:
 
 > which helps to reach `impact`.
 
-> based on `fact`, this `assumption` and this `belief`.
-
-
+> based on this `fact`, this `assumption` and this `belief`.
 
 ### Basic Template
+
+Core information.
 
 | Section | Explanation                                                  |
 | ------- | ------------------------------------------------------------ |
 | Why     | The objective                                                |
 | What    | The expected changes (results) that will bring the objective closer |
-| How     | The actions taken to reach these results                     |
-| Who     | The person or organization that will benefit from this       |
-| When    | The priority. E.g. in relation to other initiatives.         |
+| Who     | The person or group that will benefit from this              |
+
+Additional infromation. How to realize the plan.
+
+| Section | Explanation                                          |
+| ------- | ---------------------------------------------------- |
+| How     | The actions taken to reach these results             |
+| When    | The priority. E.g. in relation to other initiatives. |
 
 ### Formal Template
 

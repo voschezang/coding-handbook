@@ -53,19 +53,25 @@ Systems
 <summary>Practice: <b>Labour</b> (organization of work)</summary>
 <ul style="margin: 1em;">
 <li><a href="labour/labour.md">Labour</a></li>
-<li><a href="labour/documentation.md">Documentation</a></li>
-<li>Decision making & planning</li>
+<li><a href="labour/terminology.md">Terminology</a></li>
+	<ul style="margin: 0;">
+	  <li><a href="labour/product-project-initiative.md">Products, projects, initiatives</a></li>
+  </ul>
+  <li><a href="labour/planning.md">Planning</a></li>
+<li>Product of labour</li>
 <ul style="margin: 0;">
-	<li><a href="labour/discovery.md">Discovery</a></li>
-	<li><a href="labour/delivery.md">Delivery</a></li>
-	<li><a href="labour/planning.md">Planning</a></li>
   <li><a href="labour/results.md">Results</a></li>
-</ul>
-<li>Projects & experiments</li>
-<ul style="margin: 0;">
-  <li><a href="labour/product-project-initiative.md">Products, projects, initiatives</a></li>
-	<li><a href="labour/bets.md">Bets</a></li>
-	<li><a href="labour/project-requirements.md">Project Requirements</a></li>
+  <li><a href="labour/lifecycle.md">Product Lifecycle</a></li>
+	<li><a href="labour/discovery.md">Discovery</a></li>
+  <ul style="margin: 0;">
+    <li><a href="labour/bets.md">Bets</a></li>
+  </ul>
+	<li><a href="labour/delivery.md">Delivery</a></li>
+  <ul style="margin: 0;">
+    <li><a href="labour/increments.md">Increments</a></li>
+    <li><a href="labour/initiatives.md">Initiatives</a></li>
+    <li><a href="labour/project-requirements.md">Project Requirements</a></li>
+  </ul>
 </ul>
 </ul>
 </details>
@@ -84,6 +90,7 @@ Systems
 <li><a href="management/product-projects.md">Products and projects</a></li>
 </ul>
 </details>
+
 
 
 Technological

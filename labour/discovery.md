@@ -47,7 +47,7 @@ User stories a way of working that is based on *telling stories*. It prioritizes
 - Stories tend to emphasize people and their purpose. Developing a plan is secondary to this.
 - Telling a story requires *at least* two people. Conversations may involve the organization, customers, users and developers.
 
-
+Use documentation to recall conversations rather than as an alternative for them.
 
 #### User Stories
 

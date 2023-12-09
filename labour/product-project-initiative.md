@@ -59,34 +59,6 @@ Projects typically have three constraints: a time bound, cost bound and a set of
 
 
 
-## Terminology
-
-A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *user* and paid for by a *customer*. The *stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
-
-Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees. It results in:
-
-1. Delivery: Provide value to users, based on a production process.
-2. Transaction: Sell to customers.
-
-
-
-**Product Discovery**
-Deciding what to build, for whom, when.
-
-**Product Delivery**
-Building it (R&D) and delivering it (ops).
-
-**Product Teams**
-A product team is supposed to completely manage a single product. The team is autonomous and can take ownership, because it controls the [whole](https://en.wikipedia.org/wiki/Vertical_integration) value chain. See [this template](../documentation.md#Templates).
-
-**Positioning**
-Deliver some value to a well-defined set of customers, i.e. a target market.
-
-**Interface**
-E.g. a GUI, CLI or API. Any interface has to consider the *user*, the *content* shown to the user, and the *context* in which it is shown.
-
-
-
 ### Types of Products
 
 - Traditional Product: a static object. Must be right the first time.

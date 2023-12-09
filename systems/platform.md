@@ -1,8 +1,6 @@
 # Platforms
 
-A *platform* is a product that itself hosts other products. It facilitates *providers* to deliver services to third-party *consumers*. Both of these may be seen *customers*. A typical example is a [marketplace](https://en.wikipedia.org/wiki/Marketplace).
-
-It has many parallels with the business concept [franchising](https://en.wikipedia.org/wiki/Franchising).
+A *platform* is a product that itself hosts other products. It facilitates *providers* to deliver services to third-party *consumers*. Both of these may be *customers*. A typical example is a [marketplace](https://en.wikipedia.org/wiki/Marketplace). It has many parallels with the business concept [franchising](https://en.wikipedia.org/wiki/Franchising).
 
 See also [product management](../management/product-management.md).
 

@@ -69,7 +69,8 @@ In addition, there are more fine grained signals:
 
 Team maturity is difficult to standardize. The following dimensions are important for autonomous, cross-functional, self-organizing teams. This can help to select areas to improve. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
 
-- Team health. E.g. psychological safety, trust, transparency, commitment, resilience.
+- Team health. E.g. psychological safety, trust, transparent expecations and results, resilience.
+- Team effectiveness. From competitive to cooperative. 
 - Result-orientation. At what part of the value chain is the team focussing? Are they firefighting or pro-actively solving problems?
 
 ![map-maturity-health](../img/map-maturity-health.png)

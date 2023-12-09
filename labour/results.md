@@ -1,6 +1,6 @@
 # Results
 
-The aim of project and initiatives is to achieve results.
+The aim of projects and initiatives is to achieve results.
 
 [toc]
 
@@ -20,6 +20,17 @@ Ideas can be tested. See [bets](./bets.md).
 Results can be oriented towards preservation (firefighting), output (feature factory), outcomes or impact.
 
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
+
+
+
+Results are realized through discovery and delivery.
+
+- [Discovery](discovery.md). Decide what to deliver. Use experiments and prototypes.
+- [Delivery](delivery.md). Deliver (develop) it effectively.
+
+
+
+<img src="../img/prototype-to-release.png" alt="prototype-to-release" style="width:90%;" />
 
 
 
