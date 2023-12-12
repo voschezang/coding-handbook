@@ -31,6 +31,10 @@ It also influences the rights a subject beliefs to have. E.g. to live in a certa
 
 ## Perception of self
 
+> What if we focus in improving “our” selves (community)
+
+See [property](property.md).
+
 
 
 <img src="../img/personal-social-selves.png" alt="personal-social-selves" style="width:45%;" />

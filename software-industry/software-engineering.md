@@ -115,7 +115,7 @@ Change is inevitable in software engineering. It can be caused by:
 - Changes in the environment, e.g. in technology.
 - More information that is available. E.g. after learning.
 
-See [programming-paradigms](../computer-language/programming-paradigms.md).
+See [programming-paradigms](../computer-languages/programming-paradigms.md).
 
 ### Clean Code
 
@@ -132,7 +132,7 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 
 - Simple interfaces for public methods.
 
-See also [programming-paradigms.md](../computer-language/programming-paradigms.md) and [style-guide.md](../computer-language/style-guide.md).
+See also [programming-paradigms.md](../computer-languages/programming-paradigms.md) and [style-guide.md](../computer-languages/style-guide.md).
 
 ### Testing
 

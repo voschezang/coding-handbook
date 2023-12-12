@@ -508,9 +508,16 @@ Communication - based on change
 
 Managing up
 
-- My problem
-- What I tried
-- What would you do if you were me?
+- [Status updates](../collaboration/documentation.md)
+
+- Feedback
+
+  - My problem
+
+  - What I tried
+
+  - What would you do if you were me?
+
 
 Note: there is a differences between managing stakeholders and engaging with stakeholders.
 

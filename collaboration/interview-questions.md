@@ -43,7 +43,7 @@ Levels for queries. Given a topic or situation X:
 
 - **Storytelling**. "Describe an experience about X"
 - Improve / role-playing. A **hypothetical situation**. "Image X. How would you respond? What is the risk of that?"
-- **Opinion**. "We (will) have a situation X. We had to choose between such and such. What do you think of that? Which conditions would change your opinion?"
+- **Opinion**. "We (will) have a situation X. We had to choose between such and such. What do you think of that? Which conditions would change your opinion?".
 
 **Purpose**
 

@@ -6,7 +6,7 @@ This document contains patterns that show up in system and application architect
 
 ## Introduction
 
-Although systems architecture and application architecture are different disciplines, design patterns are relevant to everything from high-level systems to low-level applications. They do however have different implications at different levels of scale. See also [functional programming patterns](../computer-language/programming-patterns-functional.md).
+Although systems architecture and application architecture are different disciplines, design patterns are relevant to everything from high-level systems to low-level applications. They do however have different implications at different levels of scale. See also [functional programming patterns](../computer-languages/programming-patterns-functional.md).
 
 Note that applications with many components are also systems.
 

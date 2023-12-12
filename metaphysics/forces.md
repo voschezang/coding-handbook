@@ -4,7 +4,7 @@
 
 ## Overview
 
-Reality is hold together by forces. A force is caused by an attraction of two objects. This attraction is based on *quality*: physical or social properties. See also [mathematical force](../math/force.md).
+Reality is hold together by forces. A force is caused by an attraction of two objects. This attraction is based on *quality*: physical or social properties. See also [mathematical force](../math/forces.md).
 
 
 
@@ -50,6 +50,8 @@ Compositions of forces create structures.
 
 
 ## Real Forces
+
+> Ideas are the most powerful force of nature.
 
 We can distinguish four types of forces. These may supersede each other. E.g. the wings of a bird outmatch gravity.
 

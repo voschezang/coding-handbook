@@ -16,7 +16,7 @@ A typical example is to encapsulate strings. Instead of using raw strings, it's 
 - A *property* is a characteristic or quality of an object: either a type or an instance.
 - Relations are properties that apply to multiple objects.
 
-More about relations [here](functions-relations.md).
+More about relations [here](relations.md).
 
 
 
@@ -60,7 +60,7 @@ In addition to the inherent imperfection of models, the realism of data can be l
 
 An information system is said to *support* a certain amount of data. This means that it can properly handle this data and enforces the relevant constraints. One way to obtain this enforcement implicitly is to use specific data structures. E.g. a set that can never contain duplicate elements, or an array that contains values of the same type.
 
-See [functions and relationships](./functions-relations.md).
+See [functions and relationships](./relations.md).
 
 
 

@@ -65,7 +65,7 @@ Result y = x.toResult().ifSuccess(f)
   * E.g. `add(a, b) =  a + b`, with the type signature `add(Int, Int) -> Int`
   * E.g. `div(a, b) = a / b`, with the signature `div(Int, NonZeroInt) -> Float`
 
-See [functions and relationships](../domain-modelling/functions-relations.md).
+See [functions and relationships](../domain-modelling/relations.md).
 
 ## 2. Object-Oriented Programming
 

@@ -32,7 +32,7 @@ A few examples of eternal structures.
 - `i` The imaginary number.
 - `π` The ratio of a circle's circumference to it's diameter.
 - `e`  Euler's number
-- `∫` [Functions](../domain-modelling/functions-relations.md)
+- `∫` [Functions](../domain-modelling/relations.md)
 
 
 

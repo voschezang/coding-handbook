@@ -1,5 +1,9 @@
 # Security
 
+[toc]
+
+## Overview
+
 Flow
 
 1. [Identification](https://en.wikipedia.org/wiki/Identity_(philosophy)). Comparing the identity of a requestor.
@@ -9,10 +13,10 @@ Flow
 E.g.
 
 1. Identity: `Alice`
-2. Authentication: a passport with her picture
-3. Authorization: `Alice` has access to specific bank accounts
+2. Authentication: a passport with her picture.
+3. Authorization: `Alice` has access to specific bank accounts.
 
-**Authentication**
+**Authentication (AuthN)**
 
 [Verification](https://en.wikipedia.org/wiki/Authentication) of an [identity](https://en.wikipedia.org/wiki/Identity_(philosophy)). This can be done based on property that is unique to an identity. E.g. something that is known, in possession, a location or a real property such as a fingerprint. Combining multiple types of properties strengthens the verification through diversification.
 
@@ -27,7 +31,7 @@ E.g.
   - [Certificates](https://en.wikipedia.org/wiki/Public_key_certificate) that are signed by a [certificate authority (CA)](https://en.wikipedia.org/wiki/Certificate_authority).
   - Short-lived ID tokens. E.g. [JWT](https://en.wikipedia.org/wiki/JSON_Web_Token).
 
-**Authorization**
+**Authorization (AuthZ)**
 
 [Specifying](https://en.wikipedia.org/wiki/Authorization) access rights or privileges to resources. I.e. granting access to resources. Variants include:
 
@@ -46,6 +50,10 @@ Combining multiple authentication methods.
 
 **Conditional access**
 Grant access requests [based on](https://learn.microsoft.com/en-us/azure/architecture/framework/security/design-identity-authentication) the requestors' trust level and the target resources' sensitivity.
+
+**DDoS**
+
+Distributed denial of service.
 
 
 
@@ -84,9 +92,17 @@ The message receiver shares the public key with the sender. The sender then uses
 
 
 
+## Typical Vulnerabilities
 
+See [OWASP](https://owasp.org/API-Security/editions/2023/en/0x11-t10/).
 
-
+- Authentication. E.g. steal someones credentials.
+- Authorization. Broken object-level authorization (BOLA), mass assignment.
+- API design . Excessive data exposure. E.g. client-side authorization, client-side filtering.
+- Rate limiting. E.g. DoS through a modified payload. E.g. when there's no limits for *paging*.
+  - The range of input parameters may be ill-defined.
+- Injection.
+- Asset / inventory mangement.
 
 
 

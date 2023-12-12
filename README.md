@@ -2,6 +2,10 @@
 
 This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document that organizes thoughts and ideas. It does not contain advice.
 
+## Index
+
+See [index](index.md).
+
 ## Table of Contents
 
 Models
@@ -10,17 +14,17 @@ Models
 <summary>Theory: <b>Domain modelling</b> (of real world concepts)</summary>
 <ul style="margin: 1em;">
 <li><a href="domain-modelling/domain-driven-design.md">Domain-Driven-Design</a>- examples of DDD using OOP and FP.</li>
-<li><a href="domain-modelling/functions-relations.md">Functions and Relationships</a></li>
+<li><a href="domain-modelling/relations.md">Functions and Relationships</a></li>
 <li><a href="domain-modelling/programming-patterns.md">Programming Patterns</a> - common programming, application and system architecture patterns.</li>
 </ul>o
 </details>
 <details>
 <summary>Practice: <b>Computer language</b> (encoding of models)</summary>
 <ul style="margin: 1em;">
-<li><a href="computer-language/style-guide.md">Style Guide</a> - a prescriptive guide for programming (low level)</li>
-<li><a href="computer-language/language-spec.md">Language Specification</a> - this can be implemented as a library or a new language.</li>
-<li><a href="computer-language/programming-patterns-functional.md">Functional Programming Patterns</a></li>
-<li><a href="computer-language/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
+<li><a href="computer-languages/style-guide.md">Style Guide</a> - a prescriptive guide for programming (low level)</li>
+<li><a href="computer-languages/language-spec.md">Language Specification</a> - this can be implemented as a library or a new language.</li>
+<li><a href="computer-languages/programming-patterns-functional.md">Functional Programming Patterns</a></li>
+<li><a href="computer-languages/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
 </ul>
 </details>
 
@@ -43,10 +47,10 @@ Systems
 <details>
 <summary>Theory: <b>Subjects</b> (functional view).</summary>
 <ul style="margin: 1em;">
-<li><a href="subject/identity.md">Identity</a></li>
-<li><a href="subject/behaviour.md">Behaviour</a></li>
-<li><a href="subject/activity.md">Activity</a></li>
-<li><a href="subject/goals.md">Goals</a></li>
+<li><a href="subjects/identity.md">Identity</a></li>
+<li><a href="subjects/behaviour.md">Behaviour</a></li>
+<li><a href="subjects/activity.md">Activity</a></li>
+<li><a href="subjects/goals.md">Goals</a></li>
 </ul>
 </details>
 <details>
@@ -55,7 +59,7 @@ Systems
 <li><a href="labour/labour.md">Labour</a></li>
 <li><a href="labour/terminology.md">Terminology</a></li>
 	<ul style="margin: 0;">
-	  <li><a href="labour/product-project-initiative.md">Products, projects, initiatives</a></li>
+	  <li><a href="labour/products-projects-initiatives.md">Products, projects, initiatives</a></li>
   </ul>
   <li><a href="labour/planning.md">Planning</a></li>
 <li>Product of labour</li>
@@ -85,21 +89,16 @@ Systems
   <li><a href="management/change-management.md">Change Management</a></li>
   <li><a href="management/risk-management.md">Risk Management</a></li>
 </ul>
-<li><a href="management/goals-planning-strategy.md">Goals/Planning/Strategy</a></li>
 <li><a href="management/goal-templates.md">Goals setting</a></li>
-<li><a href="management/product-projects.md">Products and projects</a></li>
 </ul>
 </details>
-
-
-
 Technological
 
 <details>
 <summary>Theory: <b>Math</b></summary>
 <ul style="margin: 1em;">
 <li>Mathematical <a href="math/models.md">Models</a>.</li>
-<li><a href="math/force.md">Forces</a>.</li>
+<li><a href="math/forces.md">Forces</a>.</li>
 <li><a href="math/waves.md">Waves</a> (periodic processes).</li>
 <li><a href="math/signal-processing.md">Signal Processing</a> (sinoids).</li>
 </ul>
@@ -166,7 +165,7 @@ Other
 
 From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
-- [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-language/programming-paradigms.md)
+- [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-languages/programming-paradigms.md)
 - [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
 - [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](management/project-management.md)

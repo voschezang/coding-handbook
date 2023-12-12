@@ -8,6 +8,20 @@ Bets are tools to *test beliefs*. They are light-weight versions of [scientific 
 
 
 
+## Beliefs
+
+Bets imply a level of uncertainty. Start by making uncertainty explicit and transparent.
+
+Beliefs and predictions.
+
+- Product beliefs. E.g. *"We belief that feature X will help users with Y."*
+
+- Market beliefs. E.g. *"We believe that shipping X will increase revenue by Z."*
+
+
+
+## Sizing
+
 Bets can have several forms. They should be sized according to the amount of uncertainty. Otherwise they result in wasted time or reckless risk taking.
 
 ![map-risk-reward](../img/map-risk-reward.png)

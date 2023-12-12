@@ -179,3 +179,12 @@ List of
 How likely do you feel/think this is to succeed? What would you need in addition?
 How motivated are you on a scale from 0-10? Why not higher/lower?
 ```
+
+**Challenging**
+
+Prompts
+
+- Empathy. *"Seems like he had a reason for saying that."*
+- Dissociate. *"You are aware of the thought of X"*
+- Out of the box. *"What would need to be true for you to belief this?"*
+

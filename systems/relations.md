@@ -1,6 +1,6 @@
 # Relations
 
-A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](scale.md) and [structure](structure.md).
+A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](scale.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md)
 
 [toc]
 
