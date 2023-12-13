@@ -248,6 +248,24 @@ Image that you're on a train station. Your train is delayed. [src](https://retro
 
 
 
+### Map: focus and collaboration
+
+Let each team member denote where they are on a map. Use arrows to show where they want to move to.
+
+<img src="../img/map-focus-collaboration.png" alt="map-focus-collaboration" style="width:80%;" />
+
+### Crazy Idea
+
+Compile a list of ideas:
+
+```markdown
+- What would be a crazy idea?
+```
+
+Then reclect each item. What would be the benefits? How else could we achieve those?
+
+
+
 ### Worst case scenario
 
 Compile a list of ideas:
