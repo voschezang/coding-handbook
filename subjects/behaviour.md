@@ -71,7 +71,7 @@ See [activity](../activity/activity).
 
 **Types of desire.**
 
-1. Hedonistic desire. Improve a [feeling](../collaboration/emotions.md) (personally) or attract value (professionally).
+1. Hedonistic desire. Improve a [feeling](../psychology/emotions.md) (personally) or attract value (professionally).
 2. Motivational desire. Reach a specific goal. E.g. in order to improve a feeling.
    1. Move towards a specific *thing* that is attractive.
    2. Repulse some*thing* that is unattractive.

@@ -1,6 +1,6 @@
 # Personality
 
-See also [social dynamics](social-dynamics.md).
+See also [social dynamics](../collaboration/social-dynamics.md).
 
 [toc]
 

@@ -88,7 +88,7 @@ First, second, third position.
 
 #### Communication Topics
 
-Individuals can be strongly goal-oriented, people-oriented or thought-oriented. In conversations the emphasis may lie on these respective styles. See [personality](personality.md) and [DISC](https://en.wikipedia.org/wiki/DISC_assessment).
+Individuals can be strongly goal-oriented, people-oriented or thought-oriented. In conversations the emphasis may lie on these respective styles. See [personality](../psychology/personality.md) and [DISC](https://en.wikipedia.org/wiki/DISC_assessment).
 
 <img src="../img/results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
 

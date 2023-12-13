@@ -147,7 +147,7 @@ Purpose: zoom in towards core values and motivation.
 
 **Qualities & Allergies**
 
-Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md) and also [personality](personality.md).
+Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md) and also [personality](../psychology/personality.md).
 
 ```markdown
 List of
@@ -162,7 +162,7 @@ List of
 
 **Needs (Maslow)**
 
-Purpose: understand where desires come from.
+Purpose: understand where desires come from. See [desires](../psychology/desires.md).
 
 ```markdown
 List of

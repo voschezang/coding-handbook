@@ -172,7 +172,7 @@ From abstract theory to application within a domain. For a full overview, see [t
 
 Themes
 
-- Quality, flow & systems: [domains](reality/structure.md), [organization](systems/system.md), [emotions](collaboration/emotions.md).
+- Quality, flow & systems: [domains](reality/structure.md), [organization](systems/system.md), [emotions](psychology/emotions.md).
 - Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [purpose](activity/purpose.md), [organization](systems/system.md), [systems](systems/systems-management.md).
 
 **Perspective & Generalizability of Guidelines**

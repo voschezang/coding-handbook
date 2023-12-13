@@ -8,7 +8,7 @@ Autonomy does not imply absolute control. Rather, it revolves around influence a
 
 A subject exists in an environment. Their agency is bounded by external factors.
 
-- Internal body. E.g. [emotions](../collaboration/emotions.md) that affect experience.
+- Internal body. E.g. [emotions](../psychology/emotions.md) that affect experience.
 - Social environment. Other subjects.
 - External environment. E.g. restrictions of movement.
 

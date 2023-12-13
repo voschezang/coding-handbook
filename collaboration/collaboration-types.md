@@ -4,7 +4,7 @@
 
 ## Conversations
 
-See also [social dynamics](social-dynamics.md) and [personalities](personality.md).
+See also [social dynamics](social-dynamics.md) and [personalities](../psychology/personality.md).
 
 ### Difficult Conversations
 
