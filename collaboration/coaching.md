@@ -173,6 +173,13 @@ List of
   - Fear. Perceived risks.
 ```
 
+In two dimensions
+
+1. Personal. Well-being (safety) versus agency in an environment.
+2. Social . Inclusion (belonging) versus status in groups (prestige).
+
+<img src="../img/psychological-needs.png" alt="psychological-needs" style="width:60%;" />
+
 **Actionable**
 
 ```
