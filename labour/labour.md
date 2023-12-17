@@ -6,9 +6,27 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 [toc]
 
-> Patience ≠ doing nothing
+## Overview
+
+### Labour
+
+Labour revolves around production. From input to output. From an initiative to an outcome.
+
+<img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
+
+Often, impact is difficult to estimate. Instead, we focus on optimizing an output or outcome.
+
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact-project" style="width:80%;" />
+
+### Organized labour
+
+Organized labour requires alignment and strategy. It moves from a mission to discovery to delivery.
+
+![purpose-discovery](../img/purpose-discovery.png)
 
 ## Purpose and Sustainability
+
+>  Patience ≠ doing nothing
 
 The purpose of any type of labour can be deconstructed in *discovery* and *delivery*. The former is both an [existential](https://en.wikipedia.org/wiki/Existentialism) question and a [validation](https://en.wikipedia.org/wiki/Verification_and_validation) of beliefs and posibilities. Delivery is more concrete, and consists of the following:
 
@@ -19,11 +37,7 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 <img src="../img/purpose-discovery-delivery.png" alt="purpose-discovery-delivery" style="width:40%;" />
 
-## Outcome and Impact
 
-Often, impact is difficult to estimate. Instead, we focus on optimizing an output or outcome.
-
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
 
 ## Objectives and Initiatives
 

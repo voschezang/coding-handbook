@@ -1,10 +1,16 @@
 # Delivery
 
-Projects can be delivered in increments. Strategies typically optimize for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See [increments](increments) and [initiatives](initiatives.md).
+Delivery is about realizing ideas. The result of a delivery process is called a product.
+
+Realization can happen in increments. Strategies typically optimize for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See [increments](increments) and [initiatives](initiatives.md).
 
 Product increments tend to follow a release pipeline. In software engineering the phases are typically: 
 
 - `requirements, analysis, design, implementation, testing, deployment`. 
+
+
+
+<img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
 
 
 

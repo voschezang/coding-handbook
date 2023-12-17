@@ -19,7 +19,7 @@ Ideas can be tested. See [bets](./bets.md).
 
 Results can be oriented towards preservation (firefighting), output (feature factory), outcomes or impact.
 
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
+![output-outcome-impact-product-project](../img/output-outcome-impact-product-project.png)
 
 
 

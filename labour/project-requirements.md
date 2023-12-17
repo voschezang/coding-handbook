@@ -49,7 +49,7 @@ Investigate or resolve ambiguity.
 
 Typical requirements include time- and cost-bounds, and a *scope*. In theory, only two out of these three can be guaranteed. The scope can be defined in different levels:
 
-- **Input**-based. This bears the least uncertainty, but the output itself may be unpredictable.
+- **Input**-based or effort-based. This bears the least uncertainty, but the output itself may be unpredictable.
 - **Output**-based. This leaves some freedom on the implementation side.  If risk materialize, either time or cost would have to be let go.
   - The bias on building something incentivizes over-engineering.
 - **Outcome**-based. This focusses on solving a (user-centric) problem, with minimal effort. It incentivizes building the right thing, rather than something.
@@ -63,11 +63,11 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 
 
 
-|                 | 📦 Output        | 👤 Outcome | 💰 Impact             |
-| --------------- | --------------- | --------- | -------------------- |
-| **Factors**     | Time/cost/scope | Behaviour | Environment, markets |
-| **Uncertainty** | Low to high     | High      | High                 |
-| **Results**     | Fast            | Delayed   | Indirect             |
+|                 | ⚙️ Effort | 📦 Output        | 👤 Outcome | 💰 Impact             |
+| --------------- | -------- | --------------- | --------- | -------------------- |
+| **Factors**     | Skill    | Time/cost/scope | Behaviour | Environment, markets |
+| **Uncertainty** | Low      | Low to high     | High      | High                 |
+| **Results**     | Fast     | Fast            | Delayed   | Indirect             |
 
 
 

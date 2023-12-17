@@ -16,7 +16,7 @@ A team needs to balance effectiveness, efficiency and predictability.
 
 Based on the broader organization, the team may be accountable to a section of a value chain. The scope of a team may be oriented towards discovery, delivery, or impact. See [results](../labour/results.md) and [goals](../subject/goal.md).
 
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:80%;" />
 
 
 

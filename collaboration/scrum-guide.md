@@ -129,13 +129,13 @@ Scrum does not replace project managers. Management is considered external to sc
 
 **Accountability**
 
-|                   | Goal                             | Method                                             |
-| ----------------- | -------------------------------- | -------------------------------------------------- |
-| **Scrum team**    | Create an increment every Sprint | Scrum framework                                    |
-| **Developers**    | Deliver value                    | Sprints, adhere to standards.                      |
-| **Product Owner** | Maximize product value           | Product goal, strategy and product backlog. Users. |
-| **Scrum Master**  | Effective team                   | Impediments. Empiricism.                           |
-| **Management**    | Environment for the teams        | Organization.                                      |
+|                   | Goal                              | Responsibility                                |
+| ----------------- | --------------------------------- | --------------------------------------------- |
+| **Scrum team**    | Deliver value                     | Create an increment every Sprint              |
+| **Developers**    | Create value                      | Ensure quality                                |
+| **Product Owner** | Maximize product value (delivery) | Backlog priority, manage stakeholders         |
+| **Scrum Master**  | Facilitate value creation         | Help team work empirically, manage impediment |
+| **Management**    | Environment for the teams         | Organization                                  |
 
 
 
@@ -157,7 +157,9 @@ The PO is accountable for the following items, but can delegate them if desired:
 
 - Mediation between stakeholders, customers and the development teams.
 
+Responsible for:
 
+- Product goal, strategy, backlog.
 
 #### Scrum Master
 

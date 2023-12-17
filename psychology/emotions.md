@@ -1,15 +1,17 @@
 # Emotions
 
+[toc]
+
+## Overview
+
 > Emotions can be experienced in endlessly new ways.
 
-Emotions are dynamic. They are experienced, rather than fixed. They revolve around quality (liking).
+Emotions are dynamic. They are experienced, rather than stationary. They revolve around quality (liking).
 
-1. Experience ranges from pleasant to unpleasant. They can be useful.
-2. The primary emotions are happiness (joy), sadness, anger and fear. They indicate *quality*, or the loss of it.
-3. Physiological emotions relate to physical needs such as hunger or thirst. E.g. fatigue or lust.
-4. Other types of emotions relate to social or intellectual needs. E.g. curiousity or sympathy.
-
-Emotions are used as communication devices. Between your body and mind and between yourself and others. In addition, they are highly dependent on the environment and someone's interpretation of it. For example, image the difference between seeing a lion in the zoo or on the street.
+1. **Experience** ranges from pleasant to unpleasant. They can be useful.
+2. The **primary emotions** are happiness (joy), sadness, anger and fear. They indicate *quality*, or the loss of it.
+3. Physiological emotions relate to **physiological needs** such as hunger or thirst. E.g. fatigue or lust.
+4. Other emotions relate to social or **intellectual needs**. E.g. curiousity or sympathy.
 
 
 
@@ -20,9 +22,24 @@ Awareness of emotions.
 
 
 
+### Role and subjectivity
+
+Emotions are used as communication devices. Between your body and mind and between yourself and others. 
+
+- They attract healthy objects.
+- They repulse harmful objects.
+
+
+
+Emotions are highly dependent on the environment and someone's interpretation of it. For example, image the difference between seeing a lion in the zoo or on the street. See [appraisal](https://en.wikipedia.org/wiki/Appraisal_theory) and [priming](https://en.wikipedia.org/wiki/Priming_(psychology)).
+
+- Interpretation depends on recognition and familiarity.
+
+
+
 ## Pleasantness & Activation
 
-From a high level, two dimensions can be distinguished: **pleasantness** (quality) and **activation** (energy).
+Two dimensions can be distinguished in feelings and moods: **pleasantness** (quality) and **activation** (energy).
 
 
 
@@ -39,7 +56,8 @@ Some higher dimensions are guilt, shame and surprise. These reflect (dis)liking 
 Emotions communicate *qualities* and personal needs. This communication is directed both towards the self and others.
 
 - Happens indicates quality of pleasure. Sadness indicates the loss of it.
-- Anger and fear indicate conflict, disruption and loss of quality. Anger relates to crossing [boundaries](https://en.wikipedia.org/wiki/Personal_boundaries) and [pushing](https://en.wikipedia.org/wiki/Aggression).
+- Anger indicates conflict and disruption of quality. It relates to crossing [boundaries](https://en.wikipedia.org/wiki/Personal_boundaries) and [pushing](https://en.wikipedia.org/wiki/Aggression).
+- Fear indicates risks to quality. E.g. threads or danger.
 
 
 
@@ -59,22 +77,22 @@ Dutch translation: *blij, bedroefd, boos, bang*.
 Note that attraction and repulsion are heavly affected by managebility (e.g. agency, influence).
 
 - Appreciation (liking)
-  - Awe
-  - Disgust
+  - Awe. Indicate otherworldiness.
+  - Disgust. Indicate poison.
 - Desire
-  - Preference
-  - Love
+  - Preference.
+  - Love.
   - Obsession, fanaticism.
 - Interest and disinterest. Extremes: Amazement, shock.
 
-  - Curiosity (wonder)
+  - Curiosity (wonder).
 
-  - Confusion
+  - Confusion.
 
-  - Surprise or disbelief (skepticism)
+  - Surprise or disbelief (skepticism).
 
 - Social
-  - Empathy and sympathy
+  - Empathy and sympathy.
 
 
 
@@ -83,11 +101,15 @@ Note that attraction and repulsion are heavly affected by managebility (e.g. age
 
 Feelings that indicate physiological states.
 
-- Pleasure or pain
-- Energy or fatigue
-- Warmth or coldness. Temperature.
-- Relaxation or tension.
-- Comfort or anxiousness. Safety.
+- Pleasure and pain.
+- Energy and fatigue.
+- Warmth and coldness. Temperature.
+- Relaxation and tension. Seriousness and goofiness.
+- Comfort and anxiousness. Safety.
+
+
+
+Trust is associated with pleasantness, recognition and familiarity. Distrust is associated with uncertainty and risk.
 
 
 
@@ -95,15 +117,24 @@ Feelings that indicate physiological states.
 
 > Surf the waves of emotions.
 
-Emotions *disrupt* the human body temporarily. After a burst of emotions (e.g. crying or laughing), the human body tends to return to a [balanced state](https://en.wikipedia.org/wiki/Homeostasis). The two extreme deviations of this are an absense of emotions and a persistency of specific emotions. These signal an imbalance. Examples of long-term, persistent emotions are depression, hate and paranoia.
+Emotions *disrupt* the human body temporarily. After a burst of emotions (e.g. crying or laughing), the human body tends to return to a [balanced state](https://en.wikipedia.org/wiki/Homeostasis). 
+
+### Problems
+
+Persistent emotions are a problem. Rather than reacting to an incident, the body becomes stuck a response state. This can result in either
+
+- An absense of emotions. E.g. [apathy](https://en.wikipedia.org/wiki/Apathy).
+- A persistency of specific emotions. E.g. depression, hate and paranoia.
+
+These signal an imbalance.  
 
 
 
-**Avoiding emotions**
+### Avoiding emotions
 
 > Suppressing takes energy but embracing frees up energy
 
-There are three typical methods to avoid emotions.
+Emotions can be unpleasant. People use different strategies to  avoid them.
 
 - Prevention. Avoid situations that may trigger emotional responses.
 - Distraction. Shift attention elsewhere.

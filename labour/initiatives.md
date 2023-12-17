@@ -4,7 +4,7 @@ An initiative is a project that is focussed on an outcome. It emphasizes value o
 
 [toc]
 
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:70%;" />
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:80%;" />
 
 ## Overview
 

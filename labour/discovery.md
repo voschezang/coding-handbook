@@ -1,6 +1,6 @@
 # Product Discovery
 
-Discovery is about optimizing products, increments and features. Also see [requirements](project-requirements.md), [bets](bets.md) and [results](results.md).
+Discovery is about alignment, planning and testing. Also see [requirements](project-requirements.md), [bets](bets.md) and [results](results.md).
 
 [toc]
 
@@ -16,6 +16,10 @@ Discovery consists of:
 
 
 <img src="../img/prototype-to-release.png" alt="prototype-to-release" style="width:90%;" />
+
+Discovery happens after a mission and vision are set.
+
+![purpose-discovery](../img/purpose-discovery.png)
 
 
 
