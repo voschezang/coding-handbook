@@ -43,7 +43,7 @@ Dimensions
 
 The main types of activity are: continuation, deviation and rejection.
 
-**Continuation** relates to business as usual (BAU): daily operations. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
+**Continuation** relates to business as usual (BAU): daily operations. Repetition. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
 
 **Deviation** involves a *change* to the standard trajectory. E.g. improvement projects.
 

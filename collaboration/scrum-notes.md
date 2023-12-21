@@ -18,6 +18,8 @@ In order to ensure alignment on a single Sprint goal, planning and retrospective
 
 
 
+See [systems](../systems/structure.md).
+
 ### Models
 
 **1 Product**

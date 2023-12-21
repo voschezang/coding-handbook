@@ -1,5 +1,7 @@
 # Retrospective Templates
 
+See [psycholgy](../psychology), [health](../psychology/health.md) and [goals](../labour/goals.md).
+
 https://retromat.org/en/
 
 [toc]

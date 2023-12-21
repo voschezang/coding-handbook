@@ -22,7 +22,7 @@ A more fine-grained categorization is obtained by distinguishing *vita activa* a
 
 **Vita contemplativa**. Contemplate. Focus on internal experience of the world.
 
-- Entspannen (relaxing). Lingering.
+- Entspannen (relaxing). Lingering. Resting.
     - [Uparati](https://en.wikipedia.org/wiki/Uparati). Cessation, stopping.
 
 

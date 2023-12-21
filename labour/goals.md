@@ -4,7 +4,7 @@ See [behaviour]( ../behavioiur.md).
 
 [toc]
 
-**Function**
+## Function
 
 Goals are a tools that can be used to:
 
@@ -12,6 +12,13 @@ Goals are a tools that can be used to:
 - 💡 Enlighten. Inspire and amplify performance.
 - 🔦 Shine light on ... Understand performance.
 - 🚦 Warn. Asses performance or progress.
+
+
+
+Goals can be 
+
+- Static. Set quality standards. E.g. production quota.
+- Dynamic. Invite change.
 
 
 

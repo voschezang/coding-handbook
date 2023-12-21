@@ -2,8 +2,8 @@
 
 Any structure has quality. An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns, repetition, rules and rituals.
 
-1. Dynamic quality transcends static quality.
-2. Static quality consists of 5 [domains](#Domains).
+1. **Dynamic** quality transcends static quality.
+2. **Static** quality consists of 5 [domains](#Domains).
 
 There is a progression of morality from lower to higher domains. Yet, higher domains are contingent on structures in lower domains.
 

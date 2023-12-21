@@ -121,9 +121,10 @@ Note that the validity of the following statements is dependent on certain *impl
 - Actual imposters don't get imposter syndrome.
 - Being busy is not caused by a lack of time.
 - Procrastination is not a time management problem.
-- The past does not exist (in the present)
+- The past does not exist (in the present).
 - You can learn patience fast.
 - Not all those who wander are lost.
+- Rest is more important than repetition.
 
 
 

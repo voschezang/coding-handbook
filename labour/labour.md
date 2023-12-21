@@ -12,6 +12,10 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 Labour revolves around production. From input to output. From an initiative to an outcome.
 
+1. [initiatives](initiatives.md)
+2. [increments](increments.md)
+3. [results](results.md)
+
 <img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
 
 Often, impact is difficult to estimate. Instead, we focus on optimizing an output or outcome.

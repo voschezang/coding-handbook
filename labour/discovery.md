@@ -100,6 +100,10 @@ An alternative to this is to use [experiments](bets.md) before building new feat
 
 
 
+**Anti-pattern**
+
+*"Give me the requirements, I don't need to understand the problem."*
+
 ### Story Mapping
 
 Story mapping is a technique to discover what to build. It can be used in several phases of the product [lifecycle](lifecycle.md).

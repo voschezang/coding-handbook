@@ -6,6 +6,8 @@ The goal of documentation is to externalize thinking. This helps with aligning t
 
 Summarize higher level in one-pages, but do use appendices (for details) and link to additional sources. See also [writing documentation](https://github.com/voschezang/coding-handbook/blob/main/documentation.md).
 
+[toc]
+
 ## Practice
 
 Respect the audience.

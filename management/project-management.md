@@ -55,7 +55,7 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 | Constraints    | Resources  |
 | Accountability | Authority  |
 
-**Anti Pattern**: Learned helplessness
+**Anti-pattern**: Learned helplessness
 
 
 

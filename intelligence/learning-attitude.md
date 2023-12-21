@@ -33,6 +33,8 @@
 
 **Beginner's mind**
 
+> In the beginner's mind there are many possibilities, but in the expert's mind there are few.
+
 Attitude
 
 - Motivated: eager to learn.
@@ -63,6 +65,8 @@ Eager, present, *paying* attention. Here and now. Being, rather than recalling, 
 - Listening, rather than hearing
 
 - Noticing, rather than accepting
+
+Effort is not about the end result, but rather about the path towards it. Buddism is unattainable, yet we try to attain it.
 
 
 

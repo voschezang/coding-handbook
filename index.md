@@ -6,9 +6,37 @@
 
 [subjects/activity.md](subjects/activity.md)
 
+[subjects/behaviour.md](subjects/behaviour.md)
+
+## Communication
+
+[systems/communication-patterns.md](systems/communication-patterns.md)
+
+[collaboration/messaging.md](collaboration/messaging.md)
+
+[collaboration/conversation.md](collaboration/conversation.md)
+
+## DevOps
+
+[software-industry/devops.md]()
+
+## Goal
+
+[labour/goals.md](labour/goals.md)
+
+[management/goals-planning-strategy.md](management/goals-planning-strategy.md)
+
 ## Function
 
-[domain-modelling/functions-relations.md](domain-modelling/relations.md)
+[domain-modelling/relations.md](domain-modelling/relations.md)
+
+## Health
+
+[psychology/health.md](psychology/health.md)
+
+[metaphysics/quality.md](metaphysics/quality.md)
+
+[collaboration/teams.md](collaboration/teams.md)
 
 ## Identity
 
@@ -16,9 +44,19 @@
 
 [domain-modelling/domain-driven-design.md](domain-modelling/domain-driven-design.md)
 
+## Knowledge
+
+[intelligence/knowledge.md](intelligence/knowledge.md)
+
 ## Labour
 
 [subjects/labour.md](subjects/labour.md)
+
+## Management
+
+[management](management)
+
+[systems/systems-management.md](systems/systems-management.md)
 
 ## Messaging
 
@@ -36,9 +74,21 @@
 
 ## Organization
 
-[systems/organization.md](systems/organization.md)
+[systems/systems](systems/systems.md)
 
 [metaphysics/structures.md](metaphysics/structures.md)
+
+[collaboration/teams.md](collaboration/teams.md)
+
+## Product
+
+[labour/products-projects-initiatives.md](labour/products-projects-initiatives.md)
+
+[management/product-management.md](management/product-management.md)
+
+## Psychology
+
+[psychology](psychology)
 
 ## Quality
 
@@ -60,5 +110,8 @@
 
 ## System
 
-[systems/system.md](systems/system.md)
+[systems/systems.md](systems/systems.md)
 
+## Value
+
+[labour/value.md](labour/value.md)

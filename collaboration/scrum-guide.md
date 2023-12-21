@@ -121,9 +121,9 @@ Scrum features three roles. The *developers* in a team deliver value, the *produ
 
 ### Roles
 
-A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. The scrum team usually refers to a specific development team and the PO and SM. More about team structure [here](../systems/structure.md).
+A scrum team consists of a Product Owner (PO), a Scrum Master (SM) and one or more development teams. These roles can be shared across teams. See [scale](scrum-notes.md).
 
-Scrum does not replace project managers. Management is considered external to scrum and should support (empower) the Product Owner and Scrum Master.
+Scrum does not replace project managers. Management is considered external to scrum and should support and facilitate (empower) the team.
 
 
 
@@ -132,7 +132,7 @@ Scrum does not replace project managers. Management is considered external to sc
 |                   | Goal                              | Responsibility                                |
 | ----------------- | --------------------------------- | --------------------------------------------- |
 | **Scrum team**    | Deliver value                     | Create an increment every Sprint              |
-| **Developers**    | Create value                      | Ensure quality                                |
+| **Developers**    | Create value                      | Ensure quality. Build it right.               |
 | **Product Owner** | Maximize product value (delivery) | Backlog priority, manage stakeholders         |
 | **Scrum Master**  | Facilitate value creation         | Help team work empirically, manage impediment |
 | **Management**    | Environment for the teams         | Organization                                  |
@@ -160,6 +160,7 @@ The PO is accountable for the following items, but can delegate them if desired:
 Responsible for:
 
 - Product goal, strategy, backlog.
+- What to build.
 
 #### Scrum Master
 
@@ -211,7 +212,7 @@ Roles and stances
 The rest of the **development teams** do not have a hierarchy and are instead self-organizing. They deliver periodic increments of work, which can be released if desirable. A PO or SM can also have a developer role. Developers should have enough autonomy to be able to take ownership of their work. They are accountable for:
 
 - Creating and adjusting the plan for the current sprint.
-- Instilling quality by adhering to the Definition of Done.
+- Building it right. Instilling quality by adhering to the Definition of Done.
 - Holding each other accountable.
 
 The **Scrum teams** consists of the SM and Development team. It excludes stakeholders. The Development team includes developers and the PO. Scrum prescribes a team size of at most 10 members, unless there is a good reason to have a larger team.

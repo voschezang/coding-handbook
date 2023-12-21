@@ -523,6 +523,15 @@ Note: there is a differences between managing stakeholders and engaging with sta
 
 
 
+Types
+
+- Aligned interests. E.g. stakeholders and developers.
+  - Emphasize reasoning, trust. Explain difficulties.
+- Compatible interests. E.g. providers and consumers of a service.
+  - Emphasize results. Solve difficulties.
+
+
+
 ### Expectation management
 
 Ensure expectations are aligned at the beginning.

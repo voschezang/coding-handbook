@@ -50,7 +50,7 @@ Systems
 <li><a href="subjects/identity.md">Identity</a></li>
 <li><a href="subjects/behaviour.md">Behaviour</a></li>
 <li><a href="subjects/activity.md">Activity</a></li>
-<li><a href="subjects/goals.md">Goals</a></li>
+<li><a href="labour/goals.md">Goals</a></li>
 </ul>
 </details>
 <details>

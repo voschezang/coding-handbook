@@ -8,6 +8,14 @@ Any object can be treated as a system: an *organization* that fulfills a functio
 
 Let an **organization** be defined as *an interdependent set of components that work together towards a common goal*.  The alignment, autonomy and coordination of these components complicates the path to the goal.
 
+The structure of organizations can be evolved or manufactured.
+
+|               | Organic Organizations       | Rigid Organizations |
+| ------------- | --------------------------- | ------------------- |
+| **Purpose**   | Emerged                     | External            |
+| **Structure** | Evolution                   | Revolution          |
+| **Purpose**   | Inherent, self-preservation | External            |
+
 The optimal structure of an organization is highly dependent on the domain and scale. At the same time, the behaviour of these systems can be surprisingly similar. Examples of organizations are:
 
 - A government.

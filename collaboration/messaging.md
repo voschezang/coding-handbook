@@ -8,6 +8,23 @@ Communication is often bi-directional and complex. It can be deconstructed into 
 
 See [communication-monologues](../communication-monologues.md).
 
+
+
+Challenging & activating people.
+
+- Informing, e.g. over email. one-to-many
+- Checking in. Sharing news and verifying follow-up actions
+- Challenging. 
+  - Bridging, invite change. one-to-one (conversation). bi-directional, through conversation or one-way
+    - Coaching
+  - Push boundaries. Use authority
+    - Eg mentoring, teaching
+  - one-to-many (broadcasting). through alerting
+
+(at individual or group level)
+
+
+
 ### Initiating contact / setting the state
 
 ...
@@ -60,6 +77,17 @@ There are two main tools. They determine the initial expectation.
 
 - Great (significant) news.
 - Casual or ordinary news.
+
+
+
+Priming: good or bad news.
+
+
+
+Layers of information.
+
+- A potential change. It's implications.
+- Resulted change. Realization.
 
 
 

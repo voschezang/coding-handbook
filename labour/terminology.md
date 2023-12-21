@@ -4,19 +4,6 @@
 
 ## Tools
 
-**Narrative**
-Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
-This is independent of the required input effort.
-
-**Persona**
-A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
-
-**User Story**
-What value a given feature would bring to a given *persona*. See these [templates](../management/requirements-engineering.md).
-
-**Epic**
-A collection of user stories that can be finished in at most a handful of months.
-
 **MVP**
 See [product management](../management/product-management.md)
 
@@ -31,6 +18,30 @@ A high-level, long-term goal that is used to show the direction to work towards.
 
 **Output, Outcome and Impact**
 See [requirements engineering](../management/requirements-engineering.md).
+
+
+
+## Storytelling
+
+This way of working emphasizes storytelling and narratives. It puts an emphasis on purpose and end-results. It promotes shared understanding, natural language and pictures.
+
+
+
+**Narrative**
+Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
+This is independent of the required input effort.
+
+**Persona**
+The main character. A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.
+
+**User Story**
+What value a given feature would bring to a given *persona*. See these [templates](../management/requirements-engineering.md).
+
+**Epic**
+A collection of user stories that can be finished in at most a handful of months.
+
+**Questions**
+Frame topics as questions. E.g. "How will we approach this?" rather than *"Method 1.1.2"*.
 
 
 
