@@ -131,7 +131,7 @@ Social
   <li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
   <li><a href="collaboration/messaging.md">Messaging</a> (verbally or non-verbally).</li>
   <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
-  <li><a href="collaboration/retrospective.md">Retrospective</a> exercises for reflection for groups.</li>
+  <li><a href="collaboration/retrospectives.md">Retrospective</a> exercises for reflection for groups.</li>
 </ul>
 <li>Creating value</li>
 <ul style="margin: 0;">
@@ -153,7 +153,7 @@ Other
 **Templates and exercises**
 
 - Interactive
-  - [Retrospective](collaboration/retrospective.md) exercises.
+  - [Retrospective](collaboration/retrospectives.md) exercises.
   - [Brainstorming](intelligence/creativity.md#Prompts) prompts.
   - [Interview questions](collaboration/interview-questions.md).
 
