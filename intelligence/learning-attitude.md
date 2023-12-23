@@ -16,6 +16,8 @@
 
 - Growth mindset. Now you don't know, but you can learn and change.
 
+- Unknowns. Assume people have experience that is not public. Assume you can learn from anyone.
+
 
 
 **T-shaping**

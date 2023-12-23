@@ -48,7 +48,7 @@ Systems
 <summary>Theory: <b>Subjects</b> (functional view).</summary>
 <ul style="margin: 1em;">
 <li><a href="subjects/identity.md">Identity</a></li>
-<li><a href="subjects/behaviour.md">Behaviour</a></li>
+<li><a href="subjects/change.md">Behaviour</a></li>
 <li><a href="subjects/activity.md">Activity</a></li>
 <li><a href="labour/goals.md">Goals</a></li>
 </ul>
@@ -173,7 +173,7 @@ From abstract theory to application within a domain. For a full overview, see [t
 Themes
 
 - Quality, flow & systems: [domains](reality/structure.md), [organization](systems/system.md), [emotions](psychology/emotions.md).
-- Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [purpose](activity/purpose.md), [organization](systems/system.md), [systems](systems/systems-management.md).
+- Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [activity](subject/activity.md), [organization](systems/system.md), [systems](systems/systems-management.md).
 
 **Perspective & Generalizability of Guidelines**
 

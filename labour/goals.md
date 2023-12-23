@@ -6,12 +6,20 @@ See [behaviour]( ../behavioiur.md).
 
 ## Function
 
-Goals are a tools that can be used to:
+Goals are a tools that can be used in several ways. E.g. inspire groups or focus efforts.
 
-- ⭐ Align on a direction. A north star.
-- 💡 Enlighten. Inspire and amplify performance.
-- 🔦 Shine light on ... Understand performance.
-- 🚦 Warn. Asses performance or progress.
+|      | Core                              | Performance            |
+| ---- | --------------------------------- | ---------------------- |
+| ⭐    | Align on a direction (north star) | Focus performance      |
+| 💡    | Enlighten                         | Amplify performance    |
+| ⚡    | Energize                          | Invite performance     |
+| 🔦    | Shine a light on                  | Understand performance |
+| 🚦    | Warn                              | Assess performance     |
+
+Goals can originate from
+
+- A problem
+- An opportunity
 
 
 
@@ -19,6 +27,13 @@ Goals can be
 
 - Static. Set quality standards. E.g. production quota.
 - Dynamic. Invite change.
+
+
+
+Goals can be formulated as
+
+- (Quota) targets or metrics.
+- Stories that relate to a (human) subject and some outcome.
 
 
 

@@ -45,7 +45,7 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 ## Objectives and Initiatives
 
-See [goals](../management/goals-planning-strategy.md) and [initiatives](initiatives.md)
+See [goals](../management/goals-planning-strategy.md) and [initiatives](initiatives.md).
 
 <img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
 

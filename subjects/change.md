@@ -1,12 +1,32 @@
-# Behaviour
+# Change
 
-Behaviour is about the intent and actions of an agent (subject), within an environment.
+Change is a **deviation** of a standard trajectory. It is inherently dynamic.
 
 [toc]
 
 ## Overview
 
-It is determined by:
+The main types of activity are: continuation, deviation and rejection. See [activity](activity.md).
+
+**Continuation** relates to business as usual (BAU): daily operations. Repetition. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
+
+**Deviation** involves a *change* to the standard trajectory. E.g. improvement projects.
+
+**Rejection** involves reflection. It reconsiders the self or its environment. It creates space for attention and reflection.
+
+<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:250px;" />
+
+|                  | Continuation      | Deviation        | Rejection           |
+| ---------------- | ----------------- | ---------------- | ------------------- |
+| **Purpose**      | Self-preservation | Self-expansion   | Self-reflection     |
+| **Method**       | Operations (BAU)  | Change direction | Question status quo |
+| **Acceleration** | Speed up          | Adjust course    | Slow down           |
+
+
+
+## Drive
+
+Change is determined by:
 
 1. A static idealistic goal. A mission or vision. The existential purpose of the subject. This depends on its [identity](../activity/identity.md).
 2. A dynamic part. The interaction of the agent with the environment.
@@ -36,30 +56,6 @@ Dimensions
 - **Time-horizon**. Past, present or future.
 
 <img src="../img/activity-attention.png" alt="activity-attention" style="width:50%;" />
-
-
-
-## Activity
-
-The main types of activity are: continuation, deviation and rejection.
-
-**Continuation** relates to business as usual (BAU): daily operations. Repetition. An organization will keep operating indefinitely until something changes. Similar to the conservation of [momentum](https://en.wikipedia.org/wiki/Momentum). This may include continuous improvement.
-
-**Deviation** involves a *change* to the standard trajectory. E.g. improvement projects.
-
-**Rejection** involves refelction. It reconsiders the self or its environment. It creates space for attention and reflection.
-
-
-
-<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:250px;" />
-
-|                  | Continuation      | Deviation        | Rejection           |
-| ---------------- | ----------------- | ---------------- | ------------------- |
-| **Purpose**      | Self-preservation | Self-expansion   | Self-reflection     |
-| **Method**       | Operations (BAU)  | Change direction | Question status quo |
-| **Acceleration** | Speed up          | Adjust course    | Slow down           |
-
-See [activity](../activity/activity).
 
 
 

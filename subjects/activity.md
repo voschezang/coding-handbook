@@ -4,13 +4,13 @@
 
 ## Subject-oriented view
 
-A more fine-grained categorization is obtained by distinguishing *vita activa* and *vita contemplativa* (based on [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt#Arbeiten_und_Herstellen)).
+We can distinguish between *vita activa* and *vita contemplativa* (see [Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt#Arbeiten_und_Herstellen)).
 
 <img src="../img/vita-activa-contemplativa.png" alt="vita-activa-contemplativa" style="zoom:40%;" />
 
 
 
-**Vita activa** Be active. Focus on engagement with the world. The [purpose](purpose.md) may differ:
+**Vita activa** Be active. Focus on engagement with the world. The purpose may differ:
 
 - Arbeiten (labour): Care for survival (self-preservation).
 - Herstellen (production): Care for the external world.

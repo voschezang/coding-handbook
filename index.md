@@ -6,7 +6,17 @@
 
 [subjects/activity.md](subjects/activity.md)
 
-[subjects/behaviour.md](subjects/behaviour.md)
+[subjects/change.md](subjects/change.md)
+
+[subjects/behaviour.md](subjects/change.md)
+
+## Change
+
+[subjects/change.md](subjects/change.md)
+
+[subjects/progression.md](subjects/progression.md)
+
+[labour/goals.md](labour/goals.md)
 
 ## Communication
 

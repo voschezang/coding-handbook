@@ -115,18 +115,17 @@ Note that the validity of the following statements is dependent on certain *impl
 
 ### Paradoxes
 
-- Simple is harder then complex.
-- Minimize work to maximize outcomes.
-- Doing nothing can be a deliberate action.
 - Actual imposters don't get imposter syndrome.
 - Being busy is not caused by a lack of time.
-- Procrastination is not a time management problem.
-- The past does not exist (in the present).
-- You can learn patience fast.
+- Doing nothing can be a deliberate action.
+- Minimize work to maximize outcomes.
 - Not all those who wander are lost.
+- Procrastination is not a time management problem.
 - Rest is more important than repetition.
-
-
+- Simple is harder then complex.
+- The past does not exist (in the present).
+- Tracking performance reduces performance.
+- You can learn patience fast.
 
 ## Software Engineering
 
