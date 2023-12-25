@@ -59,6 +59,8 @@ The desires (purpose) of an agent can be separated into its existential purpose 
 
 ![behaviour-intent](../img/behaviour-intent.png)
 
+
+
 > No action = an action
 
 Change is affected by the expected feasiblity of effort.

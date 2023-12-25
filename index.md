@@ -125,3 +125,9 @@
 ## Value
 
 [labour/value.md](labour/value.md)
+
+[metaphysics/value.md](metaphysics/value.md)
+
+[software-industry/values.md](software-industry/values.md)
+
+[software-industry/devops.md](software-industry/devops.md)

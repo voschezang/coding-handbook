@@ -1,5 +1,9 @@
 # Value
 
+[toc]
+
+## Overview
+
 > What is good, anyway?
 
 Value considers what is *good* and *bad*. It can be divided into subjective and objective value.
@@ -43,3 +47,39 @@ This distinction has parallels with [establishment](https://en.wikipedia.org/wik
 
 
 <img src="../img/wave-quality.png" alt="wave-quality" style="height:10em;" />
+
+## Society
+
+A society is a group of subjects that care for each other. In this context, the term "good" can be made more specific.  In short, good is the sum of:
+
+- That what is good for you.
+- That what is good for others.
+
+A caveat of this methodoloy it requires a boundary to what is part of a society. It does not provide a method to compare e.g. [human](https://en.wikipedia.org/wiki/Human_rights) and [animal rights](https://en.wikipedia.org/wiki/Animal_rights).
+
+### Conflict
+
+When multipe subjects are involved, there is a risk that desires conflict. This produces the need for [discernment](https://en.wikipedia.org/wiki/Viveka). This is the ability to distinguish between what you *like* and what is *good* for you (society).
+
+When resources are constraint, there is a need to share and distribute resources in a fair way. This produces the need for self-discipline ([dispassion](https://en.wikipedia.org/wiki/Nonattachment_(philosophy))). E.g. to consume in moderation.
+
+### Specifics
+
+In the English language, there exist many (near) synonyms of goodness. E.g. harmony, happiness, peace, well-being.
+
+
+
+Actions that improve the following are considered **good** - in most conditions.
+
+- Health and well-being of the members. Caring for self and others.
+- Trust. Open communication, honesty.
+- Gratitude and expressing gratitude. Appreciation, respect. Eagerness, motivation.
+- Resilience. Creativity.
+
+The following are considered **bad** - in most conditions.
+
+- Dishonesty.
+- Lack of self discipline. Lack of endurance. Inability to concentrate. Carelessness.
+- Doing things in the *wrong* way.
+- Always being inflexible. Not being able stubborn. Extreme pessimism. Lack of faith.
+
