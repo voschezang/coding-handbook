@@ -117,7 +117,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 - Actual imposters don't get imposter syndrome.
 - Being busy is not caused by a lack of time.
-- Doing nothing can be a deliberate action.
+- No action = an action. Doing nothing can be a deliberate action.
 - Minimize work to maximize outcomes.
 - Not all those who wander are lost.
 - Procrastination is not a time management problem.

@@ -1,10 +1,10 @@
 # Change
 
-Change is a **deviation** of a standard trajectory. It is inherently dynamic.
+Change is a **deviation** of a standard trajectory. It is inherently dynamic. It can be gradual or disruptive.
 
 [toc]
 
-## Overview
+## Context
 
 The main types of activity are: continuation, deviation and rejection. See [activity](activity.md).
 
@@ -22,6 +22,24 @@ The main types of activity are: continuation, deviation and rejection. See [acti
 | **Method**       | Operations (BAU)  | Change direction | Question status quo |
 | **Acceleration** | Speed up          | Adjust course    | Slow down           |
 
+### Gradual and disruptive change
+
+|            | Gradual                    | Disruptive            |
+| ---------- | -------------------------- | --------------------- |
+| **Core**   | Continuation (progression) | Deviation (rejection) |
+| **Style**  | Natural                    | Cultivated, enforced  |
+| **Origin** | Evolved, emerged           | Created, manufactured |
+
+### Effort
+
+Change requires effort
+
+- Accept risk. Accept discomfort.
+- Overcome inertia.
+- Move towards something.
+
+<img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
+
 
 
 ## Drive
@@ -35,7 +53,19 @@ Change is determined by:
 
 
 
-<img src="../img/behaviour-intent.png" alt="intent-agency" style="width:70%;" />
+An agent controls its actions. The *outcome* is defined as the result of the agent's effort. By definition, it is out of the agent's control.
+
+The desires (purpose) of an agent can be separated into its existential purpose (mission) and it desire.
+
+![behaviour-intent](../img/behaviour-intent.png)
+
+> No action = an action
+
+Change is affected by the expected feasiblity of effort.
+
+<img src="../img/behviour-expectation.png" alt="behviour-expectation" style="width:90%;" />
+
+
 
 
 
