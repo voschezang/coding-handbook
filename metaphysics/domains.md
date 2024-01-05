@@ -8,7 +8,7 @@ See [values](values.md), [quality](quality.md) and [forces](forces.md).
 
 The universe can be split up into five domains. The first split of reality is made based on *lifeforms*. The second split is based on the dynamics that emerge in populations of lifeforms. Third, there are the shared beliefs that are held by lifeforms. Fourth, there exist eternal ideas that may or may not be known to any being. The categories range from objective and material to subjective conventions and virtuality.
 
-Higher structures tend to conflict with lower structures. They consist of emergent patterns that oppose or reject the rules of the latter. E.g. social structures limit biological desires, ideological structures disrupt social structures.
+Higher structures tend to conflict with lower structures. They consist of emergent patterns that oppose or reject the rules of the latter. E.g. social structures limit biological desires and ideological structures disrupt social structures.
 
 1. **Inorganic** structures. Pure existence. This involves the world of physics. It consists of matter and energy.
 2. **Biological** structures. Subjectivity. These are specific lifeforms and the dynamics between them. 

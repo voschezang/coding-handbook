@@ -126,6 +126,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - The past does not exist (in the present).
 - Tracking performance reduces performance.
 - You can learn patience fast.
+- Stories about animals are about humans.
 
 ## Software Engineering
 

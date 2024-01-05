@@ -1,6 +1,6 @@
 # Progression
 
-Reality tends to change over time. This is either a *progression* or a *regression*. See [domains](../reality/domains.md), [forces](../reality/forces.md) and [structures](../reality/structures.md).
+Reality tends to change over time. This is either a *progression* towards [quality](../metaphysics/quality.md) or [comfort](comfort.md), or a *regression* away from it. See [domains](../reality/domains.md), [forces](../reality/forces.md) and [structures](../reality/structures.md).
 
 
 

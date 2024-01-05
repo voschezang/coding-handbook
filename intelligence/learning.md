@@ -13,6 +13,18 @@ Learning is facilitated by [models](modelling.md). Learning is the process of up
 
 
 
+|                 | Intuitive               | Studying                      |
+| --------------- | ----------------------- | ----------------------------- |
+| **Core**        | Appreciation, immersion | Understanding and abstraction |
+| **Method**      | Exposure and repetition | Lectures and books            |
+| **Effort**      | Unconsciously           | Dedication                    |
+| **Focus**       | Wide                    | Specific                      |
+| **Association** | Children that play      | Adults that work              |
+
+
+
+## Formal Learning
+
 [Learning cycles](https://en.wikipedia.org/wiki/Learning_cycle). See [Kolb](https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning).
 
 | Phase                             | Activity                 |
@@ -24,7 +36,7 @@ Learning is facilitated by [models](modelling.md). Learning is the process of up
 
 
 
-## Learning Types
+### Learning Types
 
 > Learning revolves around revising your opinions.
 
@@ -53,6 +65,16 @@ A few dimensions:
 **Tension-release**
 
 Push & pull. Similar to a dialogue, there should be a two-way interaction. Cross boundaries shortly, then step back and reflect. This allows you to maintain flow.
+
+Two phases:
+
+- 🤩 Make new connections. Explore & discover. Observing without judgement.
+- 🤔 Make abstractions. Reflect and process knowledge. Assimilate and integrate knowledge. Re-evaluta phenemena.
+
+Two phases:
+
+- 🔭 Go wide. Discover ranges and possibilities.
+- 🔬 Go deep. Discover details. Define boundaries.
 
 
 

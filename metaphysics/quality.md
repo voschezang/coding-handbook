@@ -5,13 +5,19 @@ Any structure has quality. An absense of quality it leads to disorder and chaos.
 1. **Dynamic** quality transcends static quality.
 2. **Static** quality consists of 5 [domains](#Domains).
 
-There is a progression of morality from lower to higher domains. Yet, higher domains are contingent on structures in lower domains.
+There exists a progression from lower to higher domains. Yet, higher domains are contingent on structures in lower domains.
+
+
+
+Static quality
+
+- Biological quality values the perseverance of a subject. Or, its DNA. Biological beings are driven by experience.
+- Social quality values a community, over individual subjects. Culture and ettiquette are used to sustain it.
+- Intellectual quality values *ideas* over a community. 
 
 
 
 <img src="../img/worldview-quality.png" alt="worldview-quality" style="width:80%;" />
-
-
 
 
 

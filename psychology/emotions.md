@@ -4,9 +4,13 @@
 
 ## Overview
 
+>  Experience is a verb.
+
+Emotions are a form of experience. They are dynamic in the sense that they are experienced. Emotions are intertwined with  feelings. Both experience and feeling are verbs that relate to activity.
+
 > Emotions can be experienced in endlessly new ways.
 
-Emotions are dynamic. They are experienced, rather than stationary. They revolve around quality (liking).
+Emotions revolve around quality (liking).
 
 1. **Experience** ranges from pleasant to unpleasant. They can be useful.
 2. The **primary emotions** are happiness (joy), sadness, anger and fear. They indicate *quality*, or the loss of it.
@@ -113,11 +117,35 @@ Trust is associated with pleasantness, recognition and familiarity. Distrust is 
 
 
 
+## Experience
+
+There exist various models to explain experience of stimuli.
+
+- "Common sense". Physiological reaction is caused by emotion, which is caused by an intense event.
+- [James-Lange](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory). Emotion is a result of a by a physiological reaction to an intense event.
+- [Cannon-Bard](https://en.wikipedia.org/wiki/Cannon%E2%80%93Bard_theory). Emotion and arousal are affected by subcortical brain activity (reptillian brain).
+- [Schachter-Singer](https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion). Emotion is a result of appraisal of a physicological reactions to an intense event.
+
+
+
+Phases
+
+1. Sensation. Observing stimuli. Electrical signals and hormones in the human body.
+2. Perception. Registering stimuli.
+3. Attention. Becoming conscious of stimuli. Feeling, hearing or seeing.
+4. Memory. Virtual stimuli. Historical or imagined.
+
+
+
+![experience-perception-attention](../img/experience-perception-attention.png)
+
 ## Flow
 
 > Surf the waves of emotions.
 
 Emotions *disrupt* the human body temporarily. After a burst of emotions (e.g. crying or laughing), the human body tends to return to a [balanced state](https://en.wikipedia.org/wiki/Homeostasis). 
+
+
 
 ### Problems
 

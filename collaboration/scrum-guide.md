@@ -8,26 +8,38 @@ This document is compatible with the  [Scrum guide](https://scrumguides.org/scru
 
 ### Context
 
-Scrum is designed to help cross-functional teams manage a single [product](../management/product-management.md) in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). It is optimized for complexity and uncertainty.
+Scrum is designed to help cross-functional teams manage a single [product](../labour/products-projects-initiatives.md) in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). Such environments are characterised by having many *unknown unknowns*, rather than just *known unknowns*. E.g. developping a *new* product for a *new* market.
 
-- It promotes an empirical mindset to improve quality through reflection and adaption.
-- It is based on self-organizing teams. 
-
-In essence, it aims to reduce risk by delivering value in short increments. This includes:
+In essence, Scrum aims to reduce risk by delivering value in short increments. This includes:
 
 - Reliability. Deliver value within time and cost constraints.
 - Consistency. Deliver value every increment.
 
 
 
+Finally, Scrum is based on self-organizing teams.
+
+
+
 ### Core
+
+#### Values
 
 First and foremost, Scrum is based around **trust**. It prescribes a few values. These are considered vital to do Scrum effectively.
 
 - 5 core [values](#values):  Focus, Respect, Openness, Courage, Commitment (FROCC).
-- 3 pillars: `transparency, inspection, and adaptation`. This allows for an empirical approach.
+- A methodology based on **empiricism**, rather than rationalism. It relies on 3 pillars: `transparency, inspection, and adaptation`.
 
 
+
+|          | Transparency             | Inspection               | Adaption            |
+| -------- | ------------------------ | ------------------------ | ------------------- |
+| **What** | Progress and the product | Progress and the product | Work and processes  |
+| **When** |                          | Regularly                | Based on experience |
+
+
+
+#### Method
 
 Second, Scrum provides a light-weight framework that consists of:
 
@@ -342,7 +354,12 @@ The **size** or weight of PBIs is a proxy for the effort required to finish it. 
 - Time-based estimation. Based on the amount of resources available.
 - Complexity-based estimation. Independent of the amount of resources.
 
+The product **vision expresses** the avlue that a product should deliver, and to whom. [Ideally](https://www.scrum.org/resources/characteristics-product-vision) it is:
 
+- Aspritational. Encouraging.
+- Transparent and consise.
+- Human and relatable. Emphasizing users and stakeholders.
+- Clear and unambiguous. What to do and what not to do.
 
 ### Commitments
 
@@ -356,7 +373,7 @@ The **size** or weight of PBIs is a proxy for the effort required to finish it. 
 At minimum, the product backlog is an *ordered* list of improvements. It may be ordered by e.g. value, priority, cost or risk. Items on the backlog may have varying level of detail.
 
 **Product Goal**
-If the Product Goal is achieved or obsolete then a new goal is chosen.
+Describe the future state of the product. It is included in the product backlog. If is is achieved or obsolete then a new goal is chosen.
 
 **Sprint Backlog**
 The Sprint Backlog is owned by the development team. If there is demand to change it then the development team can decide to adjust the it, as long as it doesn't endanger the sprint goal.

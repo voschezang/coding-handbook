@@ -70,7 +70,11 @@ Engineering differs from science in its purpose. It's about solving problems rat
 
 > L'art pour l'art.
 
-Art differs from engineering in its purpose. It's about creation itself. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility. It focusses on value, rather than objects.
+Art differs from engineering in its purpose. It's about self-expression. It may involve contemplation and creation. It's about aesthetic and uniqueness, rather than mass-production. It can be completely [decoupled](https://en.wikipedia.org/wiki/Art_for_art%27s_sake) form any utility. It focusses on value, rather than objects.
+
+> Art is a form of medicine
+
+Arts is useful in many ways. See [neuroaestethics](https://en.wikipedia.org/wiki/Neuroesthetics).
 
 
 

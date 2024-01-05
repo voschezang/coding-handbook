@@ -31,7 +31,7 @@ Inherent personality traits.
 
 Other dimensions
 
-- Goal-oriented, people-oriented.
+- Goal-oriented, relation-oriented. Preference to solve the current problem, versus a preference to connect to others.
 - Task-oriented, people-oriented, thought-oriented
 - Active - reflective
 - Careful - impulsive

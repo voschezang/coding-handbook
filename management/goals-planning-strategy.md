@@ -10,6 +10,10 @@ Making plans, following plans and updating plans. Also see [goals](../organizati
 
 ## Terminology
 
+![mission-vision-strategy](../img/mission-vision-strategy.png)
+
+
+
 <table>
 <tr>
   <th><p></p></th>
@@ -19,10 +23,10 @@ Making plans, following plans and updating plans. Also see [goals](../organizati
 </tr>
 <tbody>
   <tr>
-      <td rowspan="4"><p><b>Goal</b></p></td>
+      <td rowspan="4"><p><b>Purpose</b></p></td>
       <td rowspan="4"><p><b>Why</b></p></td>
       <td><p>Mission</p></td>
-      <td><p>Why we exist (our purpose). Why we are investing in this.</p></td>
+      <td><p>Why do we <b>exist</b>? What is our purpose? Why we are investing in this?</p></td>
   </tr>
     <tr>
       <td><p>Vision</p></td>
@@ -75,6 +79,7 @@ Making plans, following plans and updating plans. Also see [goals](../organizati
   </tr>
 </tbody>
 </table>
+
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 

@@ -1,6 +1,8 @@
 # Health
 
-See [emotions](emotions.md).
+A template to describe the health of a person. Also see [emotions](emotions.md).
+
+
 
 Types
 
