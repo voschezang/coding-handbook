@@ -47,7 +47,9 @@ Frame topics as questions. E.g. "How will we approach this?" rather than *"Metho
 
 ## Products
 
-A *Product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *user* and paid for by a *customer*. The *stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
+> A product is a vehicle to deliver value.
+
+A *product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *user* and paid for by a *customer*. The *stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
 
 Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees. It results in:
 
@@ -73,3 +75,9 @@ E.g. a GUI, CLI or API. Any interface has to consider the *user*, the *content* 
 
 **Platform**
 A product that itself hosts other products. It facilitates *providers* to deliver services to third-party *consumers*. Both of these may be *customers*. A typical example is a [marketplace](https://en.wikipedia.org/wiki/Marketplace).
+
+**Sales**
+Sell products or services to customers.
+
+**Hospitality**
+Provide good experience. It involves a host and guests. Terms: customer service, tourism, wellness.

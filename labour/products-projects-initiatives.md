@@ -1,4 +1,6 @@
-# Products and Projects
+# Products, Projects and Initiatives
+
+A product is a vehicle to deliver value. A project is a plan that aims to fullfill a set of requirements. An initiative is a program to address a problem or opportunity.
 
 [toc]
 
@@ -6,22 +8,20 @@
 
 Mindset:
 
-- **Project** mindset: Finish a pre-defined fixed set of tasks, within constraints. Assume that the environment is understood.
+- **Project** mindset: Finish a pre-defined fixed set of tasks, within constraints.
 - **Product** mindset: Continuously deliver value to customers.
 
-Note
-
-- In practice, products are improved through multiple small projects.
-
-- Because products are never finished, they cannot be reduced to a static set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
+In practice, products are improved through multiple small projects or initiatives.
 
 
 
-> Products are never finished, only deprecated.
+>  Products are never finished, only deprecated.
 
-Initiatives are projects without deadlines. Instead, they have domain-specific acceptance criteria. 
+Because products are never finished, they cannot be reduced to a static set of requirements. Instead they represent an outcome, which should be conveyed by telling a story or showing a vision.
 
-- Sizing may be controlled through hierarchically. E.g. sagas, epics, stories and tasks.
+
+
+**Initiatives** are projects without deadlines. Instead, they have domain-specific acceptance criteria. Sizing may be controlled through hierarchy. E.g. sagas, epics, stories and tasks.
 
 |                 | Product                    | Project                             | Initiative                   |
 | --------------- | -------------------------- | ----------------------------------- | ---------------------------- |

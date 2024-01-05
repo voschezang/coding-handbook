@@ -1,8 +1,20 @@
 # Goals
 
-See [behaviour]( ../behavioiur.md).
+See [labour](labour.md) and [behaviour]( ../behavioiur.md).
 
 [toc]
+
+## Overview
+
+Goals are the expected results of efforts. They may be specific, measurable, achievable, relevant and time/scope bound ([SMART](https://en.wikipedia.org/wiki/SMART_criteria)). Goals may originate from either:
+
+- Core values. These are continuous and may be perpetual. They guide the creation of goals.
+- Desires. Opportunities and problems.
+- Higher-level objectives. These are more abstract.
+
+One can start an initiative to approach or reach goals.
+
+
 
 ## Function
 
