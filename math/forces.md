@@ -6,9 +6,13 @@
 
 The net force is the linear sum of forces.
 
+```
+F = ∑ f
+```
 
 
-## Gravitational Force
+
+## Attractive Force (Gravity)
 
 A symmetric force between two masses, in inverse directions. This force contributes to acceleration. The total acceleration of an object is the result of the net force divided by its mass.
 
@@ -22,6 +26,14 @@ a = ∑ F / m
 <img src="../img/force-gravity.png" alt="force-gravity" style="width:60%;" />
 
 
+
+
+
+## Repulsive Force (Diffusion)
+
+Particles in fluid and gas states behave like a concentration that diffuses or disperses over the available volume (space). As a whole, the concentration has mass, but a local level it has density. The concentration will disperse until it reaches an equilibrium.
+
+![force-diffusion](../img/force-diffusion.png)
 
 
 
