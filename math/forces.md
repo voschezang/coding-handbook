@@ -66,3 +66,40 @@ x(Δt) = x(0) + v(0) · Δt
 
 The general form of this is a [Taylor series](https://en.wikipedia.org/wiki/Taylor_series).
 
+
+
+## Particle Field (Flow field)
+
+A large group of particles can form a field. The numer of interactions of particles is the square or cube of the number of particles, for 2D and 3D spaces.
+
+Forces between particles can be approximated by averaging the force of group of particles.
+
+
+
+### Quadtree
+
+The computational complexity of the approximation can be reduced by contructing a quadtree (octtree). This structure divides the space in squared (cubed) regions. Each region contains at most `M` particles. The tree can be calculated with a single iteration over the particles (`O(N)`). The number of regions is proportional to `N`, but only a fraction of regions is visited per iteration.
+
+```python
+for p in particles:
+  insert(tree, p)
+
+def insert(tree, p):
+  if tree.children:
+    for c in tree.children:
+      if c.x[0] < p.x < c.x[1] and child.y[0] < particle.y < child.y[1]:
+        insert(c, p)
+  else:
+    tree.particles.add(p)
+    if tree.particles > M:
+      tree.split()
+```
+
+
+
+![quadtree](../img/quadtree.png)
+
+The number of interactions is the sum of the interactions within a region and the interactions with other regions. For a quadtree this results in`M + 6` in interactions per particle. This reduces the total complexity from `N × N` to `N(M + 6)` which is`O(N)`.
+
+![quadtree-forces](../img/quadtree-forces.png)
+
