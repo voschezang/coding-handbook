@@ -22,6 +22,8 @@ Often, impact is difficult to estimate. Instead, we focus on optimizing an outpu
 
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact-project" style="width:80%;" />
 
+Core & context
+
 ![mission-vision-strategy](../img/mission-vision-strategy.png)
 
 

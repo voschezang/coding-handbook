@@ -4,7 +4,24 @@ A team is a set of players that work together to achieve a shared goal.
 
 [toc]
 
-## Purpose
+## Overview
+
+A team is a group of individuals that works together with a specific purpose. The functioning of a team depends on its structure, its members and the environment. Diversity is given by individual personality differences and chosen roles. Decision making may happen by agreement, consensus or hierarcy.
+
+Typical roles are:
+
+- A leader and followers.
+- Juniors and seniors.
+
+
+
+> Authority implies responsibility.
+
+A (servant) leader is not just responsible to lead its followers, but more so to help (facilitate) them. The usefulness of the leader justifies their position.
+
+
+
+### Purpose
 
 > Deliver value ≠ solving problems
 

@@ -28,6 +28,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Natural developments are not inevitable.
 * Nobody ever got fired for buying IBM.
 * Self-discipline is the willingness to be uncomfortable.
+* Authority implies responsibility.
 
 ### Models & Language
 
