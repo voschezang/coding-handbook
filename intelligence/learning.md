@@ -13,13 +13,20 @@ Learning is facilitated by [models](modelling.md). Learning is the process of up
 
 
 
-|                 | Intuitive               | Studying                      |
-| --------------- | ----------------------- | ----------------------------- |
-| **Core**        | Appreciation, immersion | Understanding and abstraction |
-| **Method**      | Exposure and repetition | Lectures and books            |
-| **Effort**      | Unconsciously           | Dedication                    |
-| **Focus**       | Wide                    | Specific                      |
-| **Association** | Children that play      | Adults that work              |
+In intuitive learning, the environment is designed to facilitate learning. The learner encounters a wide range of aspects of a topic.
+
+For studying, specific topics are chosen deliberately.
+
+|                 | Intuitive                          | Studying                           |
+| --------------- | ---------------------------------- | ---------------------------------- |
+| **Core**        | Appreciation, discovery, immersion | Abstraction and deep understanding |
+| **Bias**        | Application                        | Fundamentals                       |
+| **Method**      | Exposure and repetition            | Lectures and books                 |
+| **Effort**      | Unconsciously                      | Dedication                         |
+| **Focus**       | Wide                               | Specific                           |
+| **Association** | Children that play                 | Adults that work                   |
+
+Playing, acting, role playing are all forms of learning. They let you explore both alternate realities andt the extreme of the current reality.
 
 
 

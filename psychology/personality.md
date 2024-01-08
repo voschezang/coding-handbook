@@ -4,9 +4,33 @@ See also [social dynamics](../collaboration/social-dynamics.md).
 
 [toc]
 
-## Traits
+## Overview
 
-Inherent personality traits.
+> The Self does not exist.
+
+A personality is the collection of behavioural, cognitive and emotional patterns of a person. The Self is a multiplicity. It adapts to different environments. It consists of a range of static patterns or roles that can be triggered by associations. When learning, one develops new patterns.
+
+- Patterns can be useful in a specific context and adverse in another.
+- Suppressing (old) patterns costs energy.
+
+<img src="../img/self-other-roles.png" style="width:50%;" />
+
+### Extremes
+
+*Temperament* is a concept that describes the level of reactivity and energy. How strong people respond to stimuli.
+
+
+
+People may identify themselves with specific patterns, e.g. their thoughts. 
+
+- [Dissociative identity disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder) (DID) is characterized by an extremely high decoupling of personalities.
+- [Borderline personality disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder) (BDP) is characterized by episodes of extreme feelings and instability.
+
+
+
+## Personality Traits
+
+Personality traits are underlying or stable patterns of ones personality. Stronger traits persist in a great range of contexts.
 
 
 
