@@ -117,6 +117,10 @@ Trust is associated with pleasantness, recognition and familiarity. Distrust is 
 
 
 
+<img src="../img/sympathetic-nervous-system.png" alt="sympathetic-nervous-system" style="width:70%;" />
+
+
+
 ## Experience
 
 There exist various models to explain experience of stimuli.
