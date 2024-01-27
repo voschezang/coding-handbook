@@ -4,46 +4,27 @@ This is focussed on job interviews. Also see [communication](../communication.md
 
 [toc]
 
-## Principles
+## Overview
 
-> The interview should be a conversation rather than an exam.
+Types of interviews
 
-Preparation & way of working
+- Screening. Understand the candidate. Verify that the resume matches.
+- Estimate capability: knowledge, skill or experience.
 
-- Make notes and revisit them afterwards
-- Prepare creative questions, personalized to the other party
-- Ask for references: both of the employee and the employer.
 
-During interview/conversation
 
-- Ask open questions (why, what, how,...)
-- Don't fire-and-forget, instead pause (and elaborate) on each question.
-- React to answers, come up with two counter-questions
+Screening rounds revolve around trust. Have a casual, bidirectional conversation. Notice verbal and non-verbal communication.
 
-Intro
+- Spot red flags early.
+- Look for consistency. This may signal tension or uncertainty.
+- Explore. Visit topics such as seniority, leadership or collaboration. 
+  - Ask about relevant experience. E.g. a situation where the candidate had to deal with change, conflict or alignment.
 
-- What do you want to talk about?
-- What do expect?
+Risks
 
-Context
+- Under-emphasizing red flags after learning the candidate’s strong points.
 
-- Understand the other's motivation, passion, drives, desires.
 
-**Tools**
-
-Init
-
-- Expectation management
-  - This is what we've heard.
-  - Now we like to explore that topic.
-- Choose topics
-  - What are you good at? What's your passion?
-
-Levels for queries. Given a topic or situation X:
-
-- **Storytelling**. "Describe an experience about X"
-- Improve / role-playing. A **hypothetical situation**. "Image X. How would you respond? What is the risk of that?"
-- **Opinion**. "We (will) have a situation X. We had to choose between such and such. What do you think of that? Which conditions would change your opinion?".
 
 **Purpose**
 
@@ -54,9 +35,87 @@ Job interview
 - Determine level of knowledge, skill and experience of candidate.
 - Expectation management.
 
+
+
 **Insight**
 
 Learn to know the departement and team. What is their maturity? Are they self-organizing?
+
+
+
+**Format**
+
+(template)
+
+```markdown
+**People**
+Introduce participants of the meeting. Connect on a human (personal) level.
+
+**Role**
+Introduce the role and its environment.
+1. The team, department, and organization
+2. The product and the domain (eg technologies)
+
+**Fit**
+Discuss the fit of the candidate and the role.
+
+**Conclusion**
+Align on expectations. Agree on next steps.
+```
+
+
+
+### Tools
+
+Init
+
+- Expectation management
+  - This is what we've heard.
+  - Now we like to explore that topic.
+- Choose topics
+  - What are you good at? What's your passion?
+
+
+
+#### Prompts
+
+Keep the prompts short. Use follow-up questions to explore further.
+
+| Theme              | Bias         | Example Prompt                                         |
+| ------------------ | ------------ | ------------------------------------------------------ |
+| Storytelling       | Recollection | "Describe an experience where ..."                     |
+| Opinion            | Subjective   | "Suppose ..., what do you think of it?"                |
+| Thought experiment | Creativity   | "Suppose ..., how could you react?"                    |
+| Role playing       | Improv       | "React to me as if you had role X" (then present news) |
+
+
+
+## Principles
+
+> The interview should be a conversation rather than an exam.
+
+Preparation & way of working
+
+- Make notes and revisit them afterwards
+- Prepare creative questions, personalized to the other party.
+- Ask for references: both of the employee and the employer.
+
+During interview/conversation
+
+- Ask open questions (why, what, how,...).
+- Don't fire-and-forget, instead pause (and elaborate) on each question.
+- React to answers, come up with two counter-questions.
+
+Intro. Expectation management.
+
+- What do you want to talk about?
+- What do expect?
+
+Context
+
+- Understand the other's motivation, passion, drives, desires.
+
+
 
 ### Practice
 
@@ -77,9 +136,23 @@ Ask the interviewer at the beginning:
 
 Then tailor the rest of the conversation towards this.
 
-### Example Queries
+## Example Queries
 
-#### Generic Themes
+### Generic Themes
+
+Personal / Social
+
+- **Change**. Have you ever moved to a  team with a different culture?
+- **Conflict**. Tell me about a situation where...
+  - you disagreed with a manager / stakeholder.
+  - you disagreed with a junior / younger colleague.
+- **Focus**. Do you remember a situation where you had two conflicting priorities? How did you deal with that?
+- Do you remember an experience where you had to take over a project of a colleague?
+- When have you failed to deliver a project (in time, in scope)?
+
+
+
+Technical
 
 - **Project** management
   
@@ -108,7 +181,7 @@ Then tailor the rest of the conversation towards this.
 
     -
 
-### Example Questions
+## Example Questions
 
 **Personal Questions**
 

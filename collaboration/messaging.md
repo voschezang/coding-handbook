@@ -1,8 +1,57 @@
 # Messaging
 
-Communication is often bi-directional and complex. It can be deconstructed into *sending* and *receiving* messages.
+Communication is often bi-directional and complex. It can be deconstructed into *sending* and *receiving* messages. Each message consists of a verbal and a non-verbal component.
 
 [toc]
+
+## Overview
+
+Communication can focus on moving forward (towards a goal), connecting to each other, or to slow down and reconsider. See [change](../subjects/change.md). Also see [styles](https://www.zuidema.nl/blog/stijlflexibiliteit-welke-stijl-zet-jij-in-om-effectief-te-communiceren).
+
+| Focus    | Direction      | Communication styles       | Space         |
+| -------- | -------------- | -------------------------- | ------------- |
+| Content  | Moving forward | Pushing, commanding 🫳      | Take space    |
+| Relation | Connecting     | Pulling, inviting 🫴        | Welcome space |
+| Context  | Slow down      | Avoid, diffuse, disengange | Create space  |
+
+
+
+![communication-styles](../img/communication-styles.png)
+
+
+
+### Pushing
+
+Communication styles that help you move forward. Take in space. Emphasize ratio. Focus on content.
+
+- **Asserting**. Make deliberate statements. Do this carefully, with precision. E.g. use:
+  - Evualuations. *"That was good"*
+  - Expectations. *"I expect X when Y"*
+  - Consequences. "If X, then Y"
+- **Persuading**. Use layers of arguments to strenghten your case. E.g. use
+  - Proposals. *"I propose that ..."*
+  - Reasons and facts. *"Because ..."*
+
+
+
+### Pulling
+
+Communication styles that emphasize connection. Invite the other to come closer.
+
+|          | Potential                                  | Other                  |
+| -------- | ------------------------------------------ | ---------------------- |
+| **Why**  | Find a shared purpose. Find common ground. | Connect to each other. |
+| **What** | Inspire, motivate                          | Empathize. Learn.      |
+| **How**  | Tell stories, envision possibilities.      | Ask, listen, disclose. |
+
+Connecting to the other may involve:
+
+- Active listening. Verbally and non-verbally. Asking follow-up questions.
+- Summarizing or paraphrasing what was said.
+- Mentioning what you see. Suggesting evaluations.
+- Disclosing. Express what you feel.
+
+
 
 ## Sending Messages
 
@@ -121,6 +170,59 @@ Although this usually happens between two people a plural form is used to allow 
 5. **Future**
     1. In case of agreement or acceptance: continue with the How, start making concrete plans.
     2. In case of rejection: offer help, ask what is necessary to reach acceptance. Re-iterate your commitment to their wellbeing.
+
+
+
+### Proposing ideas
+
+#### 🍔 Hamburger model
+
+Present a proposal, give 2-3 reasons, then re-iterate the propsal.
+
+Each reason can be elaborated with an example
+
+```markdown
+1. "We believe that ..."
+2. "For two reasons: ..."
+3. "That's why we believe that ..."
+```
+
+
+
+### Responding to Messages
+
+#### PREP Model
+
+Point reason example point (PREP)
+
+- Give short answers to a business queries.
+- React directly, give a reason and give an example.
+
+```markdown
+# Point
+1. Pause, before reacting verbally. Look up rather than down. Nod you head.
+2. Paraphrase the question.
+3. Point. Answer briefly and assertively. Bottom line up front (BLUF).
+   - “We strongly belief that ...”
+
+# Reason
+Logic. Appeal to the _rational_ side of the audience.
+1. "The reason why ..."
+
+# Example
+A story. Appeal to the _emotional_ side of the audience.
+1. A datapoint.
+  - "We've seen X."
+2. A generalization.
+  - "This happens twice a month. The impact is ..."
+
+# Point
+Re-iterate. Repeat the main point.
+
+# Relate
+Relate back to the audience.
+1. "How does that sound? What questions do you have?"
+```
 
 
 

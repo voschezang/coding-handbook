@@ -201,7 +201,7 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 - Monthly strategic meeting. Decide on long-term adjustments. Prepare topics beforehand.
 - Quarterly off-site review. Take an outside-view and reflect.
 
-See also [management-principles](management-principles.md#Meetings).
+See [meetings](../collaboration/meetings.md).
 
 
 
