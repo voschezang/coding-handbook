@@ -9,9 +9,9 @@ See [modelling](../intelligence/modelling.md).
 Values can be:
 
 - Singular. E.g. `nothing`.
-    
+  
 - Discrete: Binary or categorical. E.g. `left` or `right`.
-    
+  
 - Continuous. E.g. [real numbers](https://en.wikipedia.org/wiki/Real_number).
 
 
@@ -42,6 +42,8 @@ Questionioning dimensions
 
 **Independent or dependent dimensions**
 
+Tradeoffs of independent dimensions
+
 <img src="../img/dimensions.png" alt="dimensions" style="width:80%;" />
 
 
@@ -52,6 +54,16 @@ Values may span over multiple dimensions. Dimensions may be correlated or uncorr
 
 - The *performance* of an algorithm may be correlated to *complexity*.
 - *Messiness* can be correlated to *creativeness*.
+
+### Junctions
+
+Options
+
+1. Continue as planned. Optimize.
+2. Deviate or expand. Diversify.
+3. Do something radically different
+
+<img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:250px;" />
 
 ## Distributions (Statistics)
 

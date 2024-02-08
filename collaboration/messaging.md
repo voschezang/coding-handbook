@@ -8,6 +8,12 @@ Communication is often bi-directional and complex. It can be deconstructed into 
 
 Communication can focus on moving forward (towards a goal), connecting to each other, or to slow down and reconsider. See [change](../subjects/change.md). Also see [styles](https://www.zuidema.nl/blog/stijlflexibiliteit-welke-stijl-zet-jij-in-om-effectief-te-communiceren).
 
+
+
+<img src="../img/junction-communication.png" alt="junction-communication" style="width:21em;" />
+
+
+
 | Focus    | Direction      | Communication styles       | Space         |
 | -------- | -------------- | -------------------------- | ------------- |
 | Content  | Moving forward | Pushing, commanding 🫳      | Take space    |

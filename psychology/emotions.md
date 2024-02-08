@@ -123,7 +123,7 @@ Trust is associated with pleasantness, recognition and familiarity. Distrust is 
 
 ## Experience
 
-There exist various models to explain experience of stimuli.
+There exist various models to explain experience of stimuli and sensations.
 
 - "Common sense". Physiological reaction is caused by emotion, which is caused by an intense event.
 - [James-Lange](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory). Emotion is a result of a by a physiological reaction to an intense event.

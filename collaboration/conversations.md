@@ -64,12 +64,12 @@ Group conversation types.
 
 
 
-|          | Small Talk          | Passionate Talk | Deep Conversation     |
-| -------- | ------------------- | --------------- | --------------------- |
-| Content  | Anything            | Specifics       | Personal experiences  |
-| Form     | Casual, superficial | Directed        | 1:1                   |
-| Relation | Non-personal        | Shared interest | Trust & vulnerability |
-| Pace     | Fast                | Energetic       | Careful               |
+|              | Small Talk          | Passionate Talk | Deep Conversation     |
+| ------------ | ------------------- | --------------- | --------------------- |
+| **Content**  | Anything            | Specifics       | Personal experiences  |
+| **Form**     | Casual, superficial | Directed        | 1:1                   |
+| **Relation** | Non-personal        | Shared interest | Trust & vulnerability |
+| **Pace**     | Fast                | Energetic       | Careful               |
 
 
 
@@ -83,7 +83,7 @@ Move from small talk to deep conversations (and back)
 2. Content.
 3. Goodbye. Commit to future actions.
 
-
+![conversation-deep-dive](../img/conversation-deep-dive.png)
 
 ### Professional conversations
 
