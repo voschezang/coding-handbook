@@ -33,6 +33,8 @@ Context
 
 
 
+Note: Agile is not a goal in itself.
+
 Values. See [Agile manifesto](https://agilemanifesto.org/). The right-hand side is associated with project management in the 90s.
 
 |      | Agile                        | Non-Agile                   |
@@ -42,7 +44,23 @@ Values. See [Agile manifesto](https://agilemanifesto.org/). The right-hand side 
 | 3.   | Customer collaboration       | Contract negotiation        |
 | 4.   | Responding to change         | Following a plan            |
 
-Note: Agile is not a goal in itself. 
+These affect products, people and processes.
+
+In practice, this requires:
+
+- Self-organizing and cross-functional teams.
+- Awareness of the value chain and the freedom to improve it.
+- Short feedback loops. E.g. replace control layers with automated testing.
+
+
+
+### Empiricism
+
+Obtain knowedge through experience, rather than *a priori* theory. This relies on:
+
+- Transparancy. Shared understanding.
+- Inspection. Reflecting on what we have done, continuously.
+- Adaption. Update plans when you obtain new information.
 
 
 

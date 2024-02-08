@@ -14,7 +14,7 @@ The main types of activity are: continuation, deviation and rejection. See [acti
 
 **Rejection** involves reflection. It reconsiders the self or its environment. It creates space for attention and reflection.
 
-<img src="../img/change-devidate-rest.png" alt="change-devidate-rest" style="height:250px;" />
+<img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:250px;" />
 
 |                  | Continuation      | Deviation        | Rejection           |
 | ---------------- | ----------------- | ---------------- | ------------------- |

@@ -24,6 +24,10 @@ Change covers any activity that falls outside business-as-usual (BAU). Change-ob
 
 <img src="../img/change-management.png" alt="change-management" style="width:35%;" />
 
+<img src="../img/junction-goals-revenue.png" alt="junction-goals-revenue" style="height:16em;" />
+
+
+
 See [requirements](../organization/requirements.md).
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
