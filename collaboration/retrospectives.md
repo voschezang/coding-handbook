@@ -222,7 +222,7 @@ Imagine sailing across the ocean.
 - 🪸 What are the reefs? What risks are out there?
 ```
 
-
+<img src="../img/sailboat.png" alt="sailboat" style="width:50%;" />
 
 ### Air Balloon
 

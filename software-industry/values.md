@@ -50,7 +50,7 @@ In practice, this requires:
 
 - Self-organizing and cross-functional teams.
 - Awareness of the value chain and the freedom to improve it.
-- Short feedback loops. E.g. replace control layers with automated testing.
+- Short feedback loops. E.g. continuous integration.
 
 
 
