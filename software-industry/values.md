@@ -54,6 +54,19 @@ In practice, this requires:
 
 
 
+##### Example
+
+Given an environment with complex problems and ambiguous, uncertain or unstable requirements, there are several approaches one can take: 
+
+- Start with better planning. Documenting as much as you can.
+- Start building the most likely solution and commit to finishing it.
+- Start by solving a small part of the problem. Afterwards reconsider what to next.
+- Start with prototypes to validate assumptions (validated learning). Work iteratively towards more realistic designs.
+
+The last two are agile approaches.
+
+
+
 ### Empiricism
 
 Obtain knowedge through experience, rather than *a priori* theory. This relies on:
