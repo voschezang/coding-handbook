@@ -23,6 +23,8 @@ Symbols
 
 ## Agile
 
+See [agile](agile.md).
+
 > Happy teams, happy customers
 
 > Embrace change, rather than attempting to control.
@@ -34,46 +36,6 @@ Context
 
 
 Note: Agile is not a goal in itself.
-
-Values. See [Agile manifesto](https://agilemanifesto.org/). The right-hand side is associated with project management in the 90s.
-
-|      | Agile                        | Non-Agile                   |
-| ---- | ---------------------------- | --------------------------- |
-| 1.   | Individuals and interactions | Processes and tools         |
-| 2.   | Working software             | Comprehensive documentation |
-| 3.   | Customer collaboration       | Contract negotiation        |
-| 4.   | Responding to change         | Following a plan            |
-
-These affect products, people and processes.
-
-In practice, this requires:
-
-- Self-organizing and cross-functional teams.
-- Awareness of the value chain and the freedom to improve it.
-- Short feedback loops. E.g. continuous integration.
-
-
-
-##### Example
-
-Given an environment with complex problems and ambiguous, uncertain or unstable requirements, there are several approaches one can take: 
-
-- Start with better planning. Documenting as much as you can.
-- Start building the most likely solution and commit to finishing it.
-- Start by solving a small part of the problem. Afterwards reconsider what to next.
-- Start with prototypes to validate assumptions (validated learning). Work iteratively towards more realistic designs.
-
-The last two are agile approaches.
-
-
-
-### Empiricism
-
-Obtain knowedge through experience, rather than *a priori* theory. This relies on:
-
-- Transparancy. Shared understanding.
-- Inspection. Reflecting on what we have done, continuously.
-- Adaption. Update plans when you obtain new information.
 
 
 

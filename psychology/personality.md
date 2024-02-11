@@ -66,15 +66,17 @@ Other dimensions
 
 ### Introversion & Extraversion
 
-Whether you *recharge* in isolation or through contact with people.
+Whether you *recharge* in isolation / intimacy or through contact with people and environments with an abundance of stimuli. This is affected by how safe or risky an environment is considered to be. E.g. is it a challenge or threat.
 
-|                        | Introversion                  | Extraversion             |
-| ---------------------- | ----------------------------- | ------------------------ |
-| **Social interaction** | Energy is consumed            | Energy is generated      |
-| **Energy Management**  | Recharge in isolation         | Energize around people   |
-| **Preference**         | Less stimulating environments | Stimulating environments |
-| **Sharing**            | Evaluate thoughts             | Think out loud           |
-| **Appearance**         | Reserved                      | Energetic                |
+|                        | Introversion                  | Extraversion                          |
+| ---------------------- | ----------------------------- | ------------------------------------- |
+| **Social interaction** | Energy is consumed            | Energy is generated                   |
+| **Energy Management**  | Recharge in isolation         | Energize in busy/crowded environments |
+| **Preference**         | Less stimulating environments | Stimulating environments              |
+| **Sharing**            | Evaluate thoughts             | Think out loud                        |
+| **Appearance**         | Reserved                      | Energetic                             |
+
+
 
 Not to be confused with shyness or social anxiety.
 
