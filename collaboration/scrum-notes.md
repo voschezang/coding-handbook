@@ -42,6 +42,15 @@ See [systems](../systems/structure.md).
 
 
 
+**Scaling of products and teams**
+
+1. Shared PO. The PO is not part of a single team. The PO delegates to team representatives.
+2. Dedicated PO. The PO acts as team lead.
+
+<img src="../img/scrum-product-teams.png" alt="scrum-product-teams" style="width:80%;" />
+
+
+
 ## Scrum in a Waterfall Organization
 
 **Long-term commitments on product planning.**
