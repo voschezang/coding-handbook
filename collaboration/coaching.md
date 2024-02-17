@@ -15,6 +15,8 @@ Coaching revolves around the preferences of the coachee. It consists of a series
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
 
+Coaching does not imply a problem. It can be used to improve or maintain performance.
+
 
 
 Two main modes are: critical and supporting.
@@ -75,14 +77,38 @@ Necessary conditions.
 
 ### Team Coaching
 
+Team coaching focusses on the relationship between team members. The members from a system, that can be addressed as a whole.
+
+<img src="../img/coach-team-system.png" alt="coach-team-system" style="width:50%;" />
+
 Coaching team requires a balance between addressing the team and individual members.
 
 A common pattern is to focus on the team at the start and the end of projects (iterations), and pay attention to on individual members during the middle of the projects. In between projects the team is given the room to to focus.
+
+
+
+Systems view
+
+- Everyone is right, partially.
+- Each team member is a voice of the system. Behaviour of an individual is a signal from the system.
+  - You are part of the system and also separate from it.
+
+
 
 **Stance**
 
 - *Invite* team members to provide feedback and relflection, rather than filling in how they behaved. E.g. *"How did you feel after that meeting?"*, rather than *"I noticed that you rushed and ...."*.
 - Align and check assumptions.
+
+
+
+**Triangle**
+
+Balance the attention and input of all coachees.
+
+<img src="../img/coach-sharing.png" alt="coach-sharing" style="width:70%;" />
+
+
 
 ## Context
 
@@ -127,6 +153,38 @@ Differences in problem solving:
 | **Method**      | Active listening<br />*What, how* | Teach, explain, <br />use analogies | Specific questions<br />*5x Why* |
 | **Questioning** | Ask open questions                | Answer questions                    | Provide advice                   |
 | **Mode**        | Facilitate subject                | Lead subject                        | Provide service to subject       |
+
+## Contracting
+
+The contracting phase aims to align expectations and give the coachee and coach a headstart. A contract is an informal or formal agreement on what to expect from each other. A less formal term would be *alliance*.
+
+> Trust comes before agreement.
+
+Start with developing a relation and building up trust. Initial agreements can be made on a abstract level. E.g. alignment on certain values or agreement on a title. Later agreements can be more specific.
+
+
+
+**Coach contract**
+
+Contract between coach and the coachee. The latter can be a team.
+
+```markdown
+1. Introduction. what do you want to get out of this?
+2. Context. What is important in these conversations?
+3. Relationship. What do you need from each other?
+4. Responsibility. How can we ensure that we keep these agreements? How can we make this easier?
+```
+
+**Team contract**
+
+Contract between team members
+
+```markdown
+1. Introduction. What do we want to get out of this?
+2. Context. What is important in these conversations?
+3. Relationship. What do you need from each other?
+4. Responsibility. How can we ensure that we keep these agreements? How can we make this easier?
+```
 
 ## Templates
 
@@ -195,3 +253,25 @@ Prompts
 - Dissociate. *"You are aware of the thought of X"*
 - Out of the box. *"What would need to be true for you to belief this?"*
 
+
+
+### Prompts
+
+```markdown
+What kind of person do you want to be in your (work-)relationships?
+What do you feel?
+```
+
+
+
+### Exercises
+
+#### Constellation
+
+Reveal the system back to itself.
+
+<img src="../img/constellation.png" alt="constellation" style="width:50%;" />
+
+
+
+<img src="../img/constellation-directional.png" alt="constellation-directional" style="width:60%;" />
