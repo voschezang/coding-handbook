@@ -18,7 +18,8 @@ To make communication more effective.
 
 - **Optimism** and trust is more productive (for collaboration) than pessimism and distrust.
   - Most behaviour can be explained by positive intent and [bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
-
+  - Strive for a 5:1 ratio for positive and negative feedback.
+  
 - Make reversible decisions *eagerly* and irreversible decisions *conservatively*.
 - **Lazy** evaluations. Don't jump to details. Collect information before stopping at a decision.
   - Lead with Why, rather than How.
@@ -45,7 +46,7 @@ Which role you are expected to take. This is determined by your history and the 
 
 Models
 
-- Communication triangle
+- [Communication triangle](communication-triangle.md)
 - Attention triangle
 - Inside, outside, other side
 - Four-sides message model
@@ -58,41 +59,6 @@ Patterns
 - Collaborative - competitive
 
 ### Models
-
-#### Communication Triangle
-
-**Definition**
-
-Communication consists of more than a message (content). Two pillars are necessary in order to communicate a message: *process* and *relation*.
-
-- Process (form). In what ways is communication expected to take place. Any etiquette and formalities.
-- Relation. How the parties relate to each other. How they feel about each other. Incl. their history and any power dynamics.
-
-A fourth component is *context*. This affects the meaning of each point.
-
-**Conversation Flow**
-
-Move naturally between corners for a good, balanced conversation flow. Avoid dwelling too long on a single aspect.
-
-<img src="../img/communication-triangle.png" alt="communication-triangle" style="width:40%;" />
-
-**Perspectives**
-
-First, second, third position.
-
-1. The self. I, how I see/feel/hear it.
-2. The other, with whom I interact.  How they see/hear/feel
-3. An outside view. Someone who’s not involved. “Objective”
-
-
-
-#### Communication Topics
-
-Individuals can be strongly goal-oriented, people-oriented or thought-oriented. In conversations the emphasis may lie on these respective styles. See [personality](../psychology/personality.md) and [DISC](https://en.wikipedia.org/wiki/DISC_assessment).
-
-<img src="../img/results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
-
-
 
 #### Communication Pyramid
 
@@ -112,12 +78,6 @@ Attention can be directed towards auditory, kinesthetic or visual senses. It can
 | Auditory                | Hearing  | Thought (linguistic) | Sound (hearing)     |
 | Kinesthetic             | Feelings | Sensation (emotion)  | Vibe, energy        |
 | Visual                  | Sight    | Mental images        | The world (spatial) |
-
-**Confidence, comfort and manageability**
-
-The mind is influenced by thoughts, feelings, behaviour and external influences. The estimation to what extend this is manageable influences the physiological response (e.g. stress).
-
-<img src="../img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
 
 #### Subjectivity: In/Out/Other-side
 
@@ -188,17 +148,6 @@ Specific forms
 - **Absence** of silence. This may send a mixed messages. It may be interpreted in many different ways.
 - **Presence** and attention. E.g. to show support.
 
-#### Communication styles
-
-- Ideal behaviour: switch between these based on context and need. Take space and give it back (welcome space).
-
-| Pushing                                                      | Pulling                                                  |
-| ------------------------------------------------------------ | -------------------------------------------------------- |
-| Taking space                                                 | Giving space                                             |
-| Goal/content-oriented                                        | Relation-oriented                                        |
-| Persuading (reasoning), asserting, incentivizing (sanctioning) | Bridging (involving, listening, disclosing), attracting. |
-| Objectivity. Facts, events.                                  | Subjective experience of the other. Needs, emotions.     |
-
 #### Level of assertiveness
 
 - Ideal behaviour: find a balance based on each other's boundaries.
@@ -212,38 +161,14 @@ Specific forms
 | Behaviour                            | Too careful (slow)                | Attentive. Reconsidering.       | Too eager (fast)              |
 | Responsibility                       | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
 
-#### Bridging, Mediating, Negotiating
+## Feedback
 
-The difference between these can be a matter of framing.
+Anti-patterns
 
-- Ideal behaviour: depends on the role: from collaborating to competing.
-- Find a fair deal. Mutual gain, objective criteria.
+- Hamburger. A negative message hidden within fake compliments.
+- Hit and run. Push feedback onto someone and then leave.
 
-|      |          | Bridging         | Mediation            | Negotiation         |
-| ---- | -------- | ---------------- | -------------------- | ------------------- |
-| Why  | Purpose  | Explore needs    | Shared goal.         | Individual goals    |
-| What | End-goal | Learn and relate | Mutual gain. Win-win | Zero-sum game       |
-| How  | Emphasis | Relation         | Interests            | Emphasize positions |
 
-Framing messages allows positive and negative aspects be emphasized.
-
-| Collaboratively                                  | Competently                                                  |
-| ------------------------------------------------ | ------------------------------------------------------------ |
-| I think you're right.                            | I knew that already                                          |
-| I like that idea.                                | That's unrealistic. <br />That will take forever.<br />I can't do that. |
-| I thought X. Can you show me what I'm missing?   | You are wrong.                                               |
-| I see some challenges. How would you approach X? | X is a blocker.                                              |
-
-**Addressing Conflict**
-
-- Don't offer a compromise too soon. First aim for a shared understanding of both perspectives. Ensure that the other party understands your problem. Move away from a negotiation-oriented conversation to an open, learning conversation.
-
-**Negotiating**
-
-- Distinguish people from problems.
-- Emphasize intent and value, rather than positions.
-- Show/develop multiple options with varying benefits.
-- Use objective criteria, to cultivate an attitude of fairness.
 
 ## Background
 

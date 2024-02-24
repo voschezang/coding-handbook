@@ -44,9 +44,42 @@ The style may change, as more trust is build up.
 
 
 
+Conversation is based on trust and shared understanding.
+
+
+
+<img src="../img/junction-communication.png" alt="junction-communication" style="height:15em;" />
+
+
+
+Sections
+
+- Deliver information. Share experience.
+
+  - Local observations.
+  - Disclose thoughts or feelings
+  - Show appreciation. Opinions or judgement.
+  - Share related experiences.
+
+- Invite information. Involve the other.
+
+  - "Tell me more"
+
+  - "What about you?"
+
+  - "What did you mean with ...?"
+
+- Active listening.
+
+
+
 ## Topics
 
-See communication principles.
+Individuals can be strongly goal-oriented, people-oriented or thought-oriented. In conversations the emphasis may lie on these respective styles. See [personality](../psychology/personality.md) and [DISC](https://en.wikipedia.org/wiki/DISC_assessment).
+
+<img src="../img/results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
+
+Converstations can move between content, form, relation and context. See [communication triangle](communication-triangle.md).
 
 
 
@@ -64,12 +97,13 @@ Group conversation types.
 
 
 
-|              | Small Talk          | Passionate Talk | Deep Conversation     |
-| ------------ | ------------------- | --------------- | --------------------- |
-| **Content**  | Anything            | Specifics       | Personal experiences  |
-| **Form**     | Casual, superficial | Directed        | 1:1                   |
-| **Relation** | Non-personal        | Shared interest | Trust & vulnerability |
-| **Pace**     | Fast                | Energetic       | Careful               |
+|              | Small Talk          | Passionate Talk  | Deep Conversation     |
+| ------------ | ------------------- | ---------------- | --------------------- |
+| **Content**  | Anything            | Specifics        | Personal experiences  |
+| **Form**     | Casual, superficial | Directed         | 1:1                   |
+| **Relation** | Non-personal        | Shared interest  | Trust & vulnerability |
+| **Pace**     | Fast                | Energetic        | Careful               |
+| **Scope**    | Explore             | Continue further | Dive deep             |
 
 
 
@@ -81,9 +115,38 @@ Move from small talk to deep conversations (and back)
 
 1. Greeting. Make contact. Acknowledge each other. Set expectations.
 2. Content.
-3. Goodbye. Commit to future actions.
+3. Goodbye. 
+   1. Start signalling towards ending the conversation.
+   2. Commit to future actions.
+
 
 ![conversation-deep-dive](../img/conversation-deep-dive.png)
+
+Attitude
+
+- Be interested, rather than trying to be interesting. Notice something that attracts you.
+- Connection > perfection
+- Emphasize non-verbal communication over literal text.
+- Dance around. Play. Use tension and release.
+
+The form can vary from formal to exageration, irony or sarcasm.
+
+
+
+Typical phrases
+
+- *"Tell me more"*
+- *"What did you mean with ...?"*
+
+
+
+## Active Listening
+
+Listening and empathy.
+
+<img src="../img/active-listening.png" alt="active-listening" style="width:80%;" />
+
+
 
 ### Professional conversations
 

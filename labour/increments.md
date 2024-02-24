@@ -17,6 +17,8 @@ Scaling of products can have several forms.
 
 ![product-scaling](../img/product-scaling.png)
 
+See also [Picasso's bull](https://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm).
+
 
 
 ## Predictability & Adaptability

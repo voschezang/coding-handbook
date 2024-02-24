@@ -6,6 +6,13 @@ Discovery is about alignment, planning and testing. Also see [requirements](proj
 
 ## Overview
 
+Approaches
+
+- Discover what people want, and build it.
+- Start with what you can build and discover out to make people want it.
+
+
+
 Discovery consists of:
 
 - Discovering new product ideas.

@@ -70,7 +70,9 @@ Agile is associated with:
 
 ### Empiricism
 
-Obtain knowedge through experience, rather than *a priori* theory. This relies on:
+> Succeed through a rapid progression of failures.
+
+Obtain knowedge through experience, rather than *a priori* theory. Use experiments to learn. This relies on:
 
 - Transparancy. Shared understanding.
 - Inspection. Reflecting on what we have done, continuously.

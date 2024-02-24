@@ -6,6 +6,10 @@ This document is compatible with the  [Scrum guide](https://scrumguides.org/scru
 
 ## Overview
 
+Paradoxically, Scrum and sprints are about pausing. First change direction, then sprint, then reflect and adapt.
+
+
+
 ### Context
 
 Scrum is designed to help cross-functional teams manage a single [product](../labour/products-projects-initiatives.md) in a [complex environment](https://en.wikipedia.org/wiki/Cynefin_framework). Such environments are characterised by having many *unknown unknowns*, rather than just *known unknowns*. E.g. developping a *new* product for a *new* market.
@@ -23,8 +27,6 @@ Finally, Scrum is based on self-organizing teams.
 
 ### Core
 
-#### Values
-
 First and foremost, Scrum is based around **trust**. It prescribes a few values. These are considered vital to do Scrum effectively.
 
 - 5 core [values](#values):  Focus, Respect, Openness, Courage, Commitment (FROCC).
@@ -35,7 +37,7 @@ First and foremost, Scrum is based around **trust**. It prescribes a few values.
 |          | Transparency             | Inspection               | Adaption            |
 | -------- | ------------------------ | ------------------------ | ------------------- |
 | **What** | Progress and the product | Progress and the product | Work and processes  |
-| **When** |                          | Regularly                | Based on experience |
+| **When** | When needed              | Regularly                | Based on experience |
 
 
 
@@ -77,12 +79,12 @@ At first sight, the original guide may seem unnecessarily strict and even dogmat
 
 ## Values
 
-Scrum values people over processes. It advocates for the following values:
+Scrum values people over processes. It advocates for the following values (FROCC):
 
-- **Commitment**. Set realistic goals and try to achieve them as a team.
 - **Focus** on the current sprint and work together as a team.
-- **Openness** towards stakeholders and towards each other. Transparency is vital for learning.
 - **Respect** each other.
+- **Openness** towards stakeholders and towards each other. Transparency is vital for learning.
+- **Commitment**. Set realistic goals and try to achieve them as a team.
 - **Courage** to work on tough problems rather than blindly following traditional practices.
 
 Teams should discover themselves how they can apply these values in practice, in their organization.
@@ -93,7 +95,7 @@ Teams should discover themselves how they can apply these values in practice, in
 
 > Inspection is useless if you don't want to change.
 
-Scrum values empiricism and lean thinking.
+Scrum values empiricism and lean thinking. See [agile](../software-industry/agile.md).
 
 1. Transparency: continuously make observations and collect data.
 2. Inspection: periodically analyze the current state in order to detect and predict possible (undesirable) consequences.
@@ -155,7 +157,7 @@ Scrum does not replace project managers. Management is considered external to sc
 
 Managers that spend their time firefighting. Micromanagement, PO without authority, too many dependencies. [Alienated](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation) developers that are unaware of the purpose of their work. A group of individuals rather than an aligned team.
 
-
+Schedule driven rather than business value driven. A bias for predefined dates and features.
 
 #### Product Owner
 
@@ -179,6 +181,7 @@ Responsible for:
 A Scrum Master (SM) is accountable for the Scrum Process and the effectiveness of the team. The SM manages people and processes, but from a distance. This allows the SM to be a more objective observer. The end-goal is for the rest of the team to take ownership. The style can vary from leading to facilitating. A few important activities are:
 
 - Removing impediments. This may require escalation to the rest of the organization.
+- Let the team(s) work empricially. Facilitate the right environment .
 - Educating the organization on Scrum.
 - Coaching of team members.
 
@@ -235,7 +238,12 @@ The **Scrum teams** consists of the SM and Development team. It excludes stakeho
 
 #### Sprint
 
-Sprints are short projects with a fixed length and a goal (outcome). Scrum specifies a few sprint-specific events:
+Sprints are short projects with a fixed length and a goal (outcome).
+
+- ▶️ Run forward during sprints. Optimize flow.
+- ⏸️ Pause between sprints. Reflect and adapt. Change direction.
+
+Scrum specifies a few sprint-specific events:
 
 1. Sprint Planning: define a single Sprint Goal and a plan to achieve it.
 2. Sprint Review: an interactive session to share progress with stakeholders and get feedback from them.

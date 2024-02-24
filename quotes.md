@@ -119,8 +119,10 @@ Note that the validity of the following statements is dependent on certain *impl
 - Actual imposters don't get imposter syndrome.
 - Being busy is not caused by a lack of time.
 - No action = an action. Doing nothing can be a deliberate action.
+- I have enough.
 - Minimize work to maximize outcomes.
 - Not all those who wander are lost.
+- Everyone is right, partially.
 - Procrastination is not a time management problem.
 - Rest is more important than repetition.
 - Simple is harder then complex.
@@ -157,6 +159,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Parallelization of work is easy (silos), but working together is hard.
 * [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
 * Agile is a ~~mindset~~ value system rather than a framework. Something to *apply*, rather than to *do*.
+* Agile is not the goal, agility is.
 * [Imposing](https://www.martinfowler.com/bliki/AgileImposition.html) Agile is not agile.
 * Agile at scale requires *descaling*. I.e. make components independent s.t. they can move freely.
 * Scrum does not imply agile.

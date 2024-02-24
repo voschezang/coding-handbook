@@ -75,7 +75,22 @@ Necessary conditions.
   - Intake session to align expectations and set an initial objective. Check the expectations with respect to coaching itself.
   - Repeated conversational sessions that end with action points.
 
-### Team Coaching
+### Energy Field
+
+The relation between people is partially invisible and not said out loud. It can be addressed indirectly, without over-suggesting or forcing a direction.
+
+Weather metaphors
+
+- 🌡️ What is the temperature in this room?
+  - ♨️ It’s getting hot.
+  - ❄️ That’s cold.
+- ☀️ Do you feel the sun shining?
+- ☁️ I notice some clouds.
+- ⛅ The sun is starting to get through.
+- 🍃 I feel a light breeze. Air is starting to flow.
+- 🌪️ That felt like a tornado.
+
+## Team Coaching
 
 Team coaching focusses on the relationship between team members. The members from a system, that can be addressed as a whole.
 
@@ -99,6 +114,7 @@ Systems view
 
 - *Invite* team members to provide feedback and relflection, rather than filling in how they behaved. E.g. *"How did you feel after that meeting?"*, rather than *"I noticed that you rushed and ...."*.
 - Align and check assumptions.
+- Avoid secrets between team members. As a workaround, you can share "anonymous" messages.
 
 
 
@@ -107,6 +123,27 @@ Systems view
 Balance the attention and input of all coachees.
 
 <img src="../img/coach-sharing.png" alt="coach-sharing" style="width:70%;" />
+
+
+
+### Alignment Coaching
+
+Alignment may be needed if there is tension. A certain layer of trust is needs to be established before you can discuss sensitive topics.
+
+
+
+<img src="../img/communication-layers.png" alt="communication-layers" style="width:70%;" />
+
+### Conflict Tree
+
+Tension may originate from a conflict between desires or positions. Question this conflict by either
+
+- Discovering underlying interests, which may originate from shared goals.
+- Discover desired outcomes, which may lead to shared values.
+
+
+
+![tree-conflict](../img/tree-conflict.png)
 
 
 
@@ -170,7 +207,7 @@ Contract between coach and the coachee. The latter can be a team.
 
 ```markdown
 1. Introduction. what do you want to get out of this?
-2. Context. What is important in these conversations?
+2. Context. Park the content 🅿️. What is important in these conversations?
 3. Relationship. What do you need from each other?
 4. Responsibility. How can we ensure that we keep these agreements? How can we make this easier?
 ```
@@ -270,8 +307,13 @@ What do you feel?
 
 Reveal the system back to itself.
 
+Given a statement X, ask the following questions.
+
+1. How much do you recognize X?
+2. How much do you want to change your position?
+
 <img src="../img/constellation.png" alt="constellation" style="width:50%;" />
 
+With multiple dimensions. The circles indicate positions. Arrows can be added to incite desired change.
 
-
-<img src="../img/constellation-directional.png" alt="constellation-directional" style="width:60%;" />
+<img src="../img/constellation-directional.png" alt="constellation-directional" style="width:70%;" />
