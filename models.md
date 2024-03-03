@@ -54,7 +54,9 @@ Personality
 
 <img src="img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="width:60%;" />
 
+Confidence, trust, reputation
 
+<img src="img/quadrants-trust-reputation.png" alt="quadrants-trust-reputation" style="width:80%;" />
 
 ## Product
 
