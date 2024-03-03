@@ -6,9 +6,33 @@
 
 Communication is dynamic, rather than static. It flows between pushing and pulling, and between goals and relation. You can take space and later give it back.
 
+Communication changes when moving in and out [deep conversation](conversations.md).
 
 
-## Direction
+
+## Casual Conversation
+
+🔦 Question the other. Demand a reaction.
+
+💭 Voice your thoughts or feelings. Disclose your opinion or make assertions about the environment.
+
+👂 Be interested. Be aware of non-verbal communication.
+
+
+
+**Communication styles (casual conversations)**
+
+| Focus    | Direction    | Communication styles | Space         |
+| -------- | ------------ | -------------------- | ------------- |
+| Content  | Move forward | Push, question 🫳     | Take space    |
+| Relation | Connect      | Pull, invite 🫴       | Welcome space |
+| Relation | Empathize    | Listening 👂          | Create space  |
+
+
+
+![communication-styles-casual](../img/communication-styles-casual.png)
+
+## Deep Conversation
 
 Communication can focus on moving forward (towards a goal), connecting to each other, or to slow down and reconsider. See [change](../subjects/change.md). Also see [styles](https://www.zuidema.nl/blog/stijlflexibiliteit-welke-stijl-zet-jij-in-om-effectief-te-communiceren).
 
@@ -18,11 +42,13 @@ Communication can focus on moving forward (towards a goal), connecting to each o
 
 
 
-| Focus    | Direction      | Communication styles       | Space         |
-| -------- | -------------- | -------------------------- | ------------- |
-| Content  | Moving forward | Pushing, commanding 🫳      | Take space    |
-| Relation | Connecting     | Pulling, inviting 🫴        | Welcome space |
-| Context  | Slow down      | Avoid, diffuse, disengange | Create space  |
+**Communication styles (deep conversations)**
+
+| Focus    | Direction    | Communication styles      | Space         |
+| -------- | ------------ | ------------------------- | ------------- |
+| Content  | Move forward | Push, command 🫳           | Take space    |
+| Relation | Connect      | Pull, invie 🫴             | Welcome space |
+| Context  | Slow down    | Avoid, diffuse, disengage | Create space  |
 
 
 

@@ -36,6 +36,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality).
 - Language is restrictive. It allows concepts to be expressed, but in a biased way.
 - Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
+- All big data comes from the [past](https://en.wikipedia.org/wiki/Selection_bias).
 
 ### Quality / Value
 

@@ -264,3 +264,12 @@ Technical
     - Linear regression
     - Decision Tree
     - (Deep) Neural Network, back-propagation, multilayer perceptron
+
+
+
+## Coaching-related Questions
+
+- How are you? *(in a genuine way)*
+- How can I help you win?
+- How can I help you move forward?
+- Where shall we begin?
