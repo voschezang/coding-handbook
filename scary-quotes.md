@@ -11,6 +11,7 @@
 - We've finished our ~~Agile~~ DevOps transition.
 - This is an autonomous system that requires no human intervention at all.
 - The AI has joined a religion.
+- We’ve spend so much time with research, there is no need to additional user testing.
 
 Programming
 

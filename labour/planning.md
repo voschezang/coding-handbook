@@ -74,9 +74,10 @@ Instead of unpredictable waterfall stages,  *just* do DevOps. Maintain a stable 
 
 A backlog is a list of future work and past ideas. It can range from *wish-list* to a *commitment*. It functions as:
 
-- A communication tool for a product team and its stakeholders. It shows the priority of projects relative to each other.
-- A list of commitments
-- An estimation of technical debt
+- A scheduling mechanism.
+- A prioritation device.
+- An inventory of technical debt and risks.
+- A list of commitments.
 
 Also see [requirements-engineering](../requirements-engineering.md).
 

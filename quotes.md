@@ -99,6 +99,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - 2 great decisions > 100 small decisions.
 - Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
 - Think in decades, rather than years.
+- May our dreams become our plans.
 
 ### Time to market
 
@@ -125,11 +126,14 @@ Note that the validity of the following statements is dependent on certain *impl
 - Everyone is right, partially.
 - Procrastination is not a time management problem.
 - Rest is more important than repetition.
+- *More* testing creates more development work
+- *Less* testing means that there is no time for development work
 - Simple is harder then complex.
 - The past does not exist (in the present).
 - Tracking performance reduces performance.
 - You can learn patience fast.
 - Stories about animals are about humans.
+- Obstacles are the way.
 
 ## Software Engineering
 

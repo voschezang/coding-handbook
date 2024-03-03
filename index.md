@@ -112,7 +112,7 @@
 
 ## Result
 
-[labour/results.md](labour/results.md)
+[labour/results.md](labour/realization.md)
 
 ## Subject
 

@@ -8,6 +8,16 @@ Bets are tools to *test beliefs*. They are light-weight versions of [scientific 
 
 
 
+Considerations. Considering stakeholders and customers:
+
+- Are they willing to bet everything on a single release?
+- Are they willing to use prototypes and user-testing to optimize in iterations?
+- Do they want to hear bad news?
+- Do they believe in risks? E.g. new features that could have adverse effects.
+- Do they want to validate beliefs?
+
+
+
 ## Beliefs
 
 Bets imply a level of uncertainty. Start by making uncertainty explicit and transparent.

@@ -41,5 +41,12 @@ Types of value
 
 **Value chain**
 
+Practice
+
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact-project" style="width:80%;" />
 
+
+
+Planning
+
+![output-outcome-impact-reversed](../img/output-outcome-impact-reversed.png)

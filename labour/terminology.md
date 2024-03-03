@@ -6,6 +6,10 @@ This terminology is borrowed from Agile and Scrum.
 
 ## Tools
 
+**Backlog**
+
+See [planning](planning.md).
+
 **MVP**
 See [product management](../management/product-management.md)
 
@@ -30,8 +34,17 @@ This way of working emphasizes storytelling and narratives. It puts an emphasis 
 
 
 **Narrative**
+Communal understanding.
+
 Convey the feeling of an ideal state. E.g.*"1000 songs in your pocket"*
-This is independent of the required input effort.
+
+- This is independent of the required input effort.
+
+**Narrative collapse**
+
+When stories stop [linking](https://en.wikipedia.org/wiki/Hyperreality) to reality.
+
+- E.g. news programs that debate opinions, rather than covering reality. News seems to lack consequences, similar to episodes from a sitcom.
 
 **Persona**
 The main character. A model (or proxy) of the target market or audience. E.g. a typical user with a certain background.

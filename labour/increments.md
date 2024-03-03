@@ -1,6 +1,24 @@
 # Product Increments
 
-Projects can be optimized for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See also [requirements](project-requirements.md).
+[toc]
+
+## Overview
+
+Projects can be optimized for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See also [requirements](project-requirements.md), [bets](bets.md) and [Agile](../software-industry/agile.md).
+
+
+
+Types of increments.
+
+- Intermediate deliverables within a project or initiative.
+- Phases within the lifecycle of a product.
+
+
+
+Planning phases.
+
+- What to build (discovery)
+- How to build it (delivery)
 
 
 
@@ -16,8 +34,6 @@ Scaling of products can have several forms.
 
 
 ![product-scaling](../img/product-scaling.png)
-
-See also [Picasso's bull](https://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm).
 
 
 
@@ -43,7 +59,7 @@ Mock components if you want to test the product as a whole. Replace mocks and st
 
 
 
-The following example visualizes the different increments in the context of building a church.
+The following example visualizes the different increments in the context of building a church. See also [Picasso's bull](https://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm).
 
 ![product-increments](../img/product-increments.png)
 

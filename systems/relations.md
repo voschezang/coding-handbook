@@ -46,6 +46,26 @@ The alignment of agents may change over time. Their behaviour can be flexible or
 
 ### Commands and events
 
+Organizational structure can range from hierarchical to flat.
+
+![orchestration-choreography-orgs](../img/orchestration-choreography-orgs.png)
+
+
+
+Hierarchies allow commands to be distributed efficiently.
+
+As an example, consider the relations between an employer and thier employees.
+
+**Commands** flow along the hierarchy.
+
+- The employer can give commands to employees. E.g. assignments or priorities.
+- The employees can obey or challenge these commands.
+- Either can break the contract (hierarchy)
+
+**Messages** can be send in any direction, even between employees. This includes proposals and opinions.
+
+
+
 |                 | Command      | Event          |
 | --------------- | ------------ | -------------- |
 | **Example**     | `doThis`     | `thisHappened` |

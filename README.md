@@ -60,17 +60,17 @@ Systems
 <li><a href="labour/terminology.md">Terminology</a></li>
 	<ul style="margin: 0;">
 	  <li><a href="labour/products-projects-initiatives.md">Products, projects, initiatives</a></li>
+    <li><a href="labour/lifecycle.md">Product Lifecycle</a></li>
   </ul>
-  <li><a href="labour/planning.md">Planning</a></li>
-<li>Product of labour</li>
+<li><a href="labour/realization.md">Realization</a></li>
 <ul style="margin: 0;">
-  <li><a href="labour/results.md">Results</a></li>
-  <li><a href="labour/lifecycle.md">Product Lifecycle</a></li>
 	<li><a href="labour/discovery.md">Discovery</a></li>
   <ul style="margin: 0;">
+    <li><a href="labour/goals.md">Goals</a></li>
+    <li><a href="labour/planning.md">Planning</a></li>
     <li><a href="labour/bets.md">Bets</a></li>
   </ul>
-	<li><a href="labour/delivery.md">Delivery</a></li>
+	<li><a>Delivery</a></li>
   <ul style="margin: 0;">
     <li><a href="labour/increments.md">Increments</a></li>
     <li><a href="labour/initiatives.md">Initiatives</a></li>
@@ -92,6 +92,7 @@ Systems
 <li><a href="management/goal-templates.md">Goals setting</a></li>
 </ul>
 </details>
+
 Technological
 
 <details>
