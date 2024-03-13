@@ -10,4 +10,3 @@ The mind is influenced by thoughts, feelings, behaviour and external influences.
 
 <img src="../img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:70%;" />
 
-#### 

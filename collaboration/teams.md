@@ -17,7 +17,7 @@ Typical roles are:
 
 > Authority implies responsibility.
 
-A (servant) leader is not just responsible to lead its followers, but more so to help (facilitate) them. The usefulness of the leader justifies their position.
+A (servant) leader is not just responsible to lead its followers, but more so to help (facilitate) them. The usefulness of the leader *justifies* their position.
 
 
 
@@ -39,6 +39,8 @@ Based on the broader organization, the team may be accountable to a section of a
 
 ## Health & Performance
 
+Psychological safety is not an absense of conflict, but rather the ability to address it.
+
 
 
 ### Discovery
@@ -52,7 +54,10 @@ Based on the broader organization, the team may be accountable to a section of a
 
 **Red flags**
 
+Reflect:
+
 - Is there trust?
+- Is conflict acknowledged? How is it addressed?
 - Is there a shared goal?
 - Is there miscommunication?
 - Are risks transparent?

@@ -35,7 +35,7 @@ An organization can be
 
 
 
-### Unified Perspective
+## Unified Perspective
 
 ```
 object = function = system = organization
@@ -150,3 +150,12 @@ A system can be understood in the following dimensions.
   - (Political) power can be autocratic or democratic.
 
 The nature of the relations may give rise to emergent properties. E.g. fluid dynamics, swarm behaviour, flocking.
+
+
+
+## Other
+
+**Ashby's Law**
+
+In order to manage a system effectively, a control system must have at least as much [variety](https://en.wikipedia.org/wiki/Variety_(cybernetics)) as the system that it manages.
+

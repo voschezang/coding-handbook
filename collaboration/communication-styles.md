@@ -103,6 +103,22 @@ Connecting to the other may involve:
 
 
 
+## Challenging
+
+Requests and opinions can be challenged. One can use coaching or confronting stances. A few examples:
+
+- Agreeable. *"I feel you, but also consider ..."*
+- Polite. *"You mentioned X. Can we discuss that?"*
+- Objective. *"Let's explore this from the perspective of ..."*
+- Direct. *"I do see an alternative."*
+- Assertive. *"That is not comletely true."*
+- Aggressive. *"That is completely wrong."*
+- Personal. *"You are mistaken."*
+
+Conflict can be escalated.
+
+
+
 ## Bridging, Mediating, Negotiating
 
 <img src="../img/bridging-mediation-negotiation.png" alt="bridging-mediation-negotiation" style="width:80%;" />
@@ -137,3 +153,32 @@ Framing messages allows positive and negative aspects be emphasized.
 - Emphasize intent and value, rather than positions.
 - Show/develop multiple options with varying benefits.
 - Use objective criteria, to cultivate an attitude of fairness.
+
+
+
+## Facilitating
+
+>  Listening means showing interest
+
+Facilitating styles
+
+- Active listening. Non-verbal communication. E.g. nodding.
+- Repeating
+  - Summarizing
+  - Paraphrasing. And then checking. And then re-paraphrasing. *"Such and so. Is that right?"*
+  - Requesting.
+    - *"Can you say that again?"*
+    - *"Can you summarize that in one sentence?"*
+  - Proposing. *"We could do ..."*
+
+- Checking. *"Did you mean ...?"*
+
+
+
+Levels of listening.
+
+1. Paying **attention**. Non-verbal signals.
+
+2. Summarizing, **paraphrasing** and checking.
+3. Capture the **intent** behind a message, rather than the message itself.
+

@@ -362,12 +362,14 @@ The **size** or weight of PBIs is a proxy for the effort required to finish it. 
 - Time-based estimation. Based on the amount of resources available.
 - Complexity-based estimation. Independent of the amount of resources.
 
-The product **vision expresses** the avlue that a product should deliver, and to whom. [Ideally](https://www.scrum.org/resources/characteristics-product-vision) it is:
+The **product vision** expresses the avlue that a product should deliver, and to whom. [Ideally](https://www.scrum.org/resources/characteristics-product-vision) it is:
 
 - Aspritational. Encouraging.
 - Transparent and consise.
 - Human and relatable. Emphasizing users and stakeholders.
 - Clear and unambiguous. What to do and what not to do.
+
+Shared understanding it vital. It is most usefull when the team is fully aware of it.
 
 ### Commitments
 

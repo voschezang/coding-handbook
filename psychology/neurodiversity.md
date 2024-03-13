@@ -35,3 +35,22 @@ Note that these are not inherently disfunctional. Rather, they would be disfunct
 
 
 
+**Professional**
+
+Typical paradoxes.
+
+- Challenge
+  - Desire for *autonomy* and to *interact closely* with colleagues (and have clear boundaries).
+  - Desire to solve complex problems (*go deep*) and also see the bigger picture (*go wide*).
+- Stimuli / sensitivity.
+  - Prefering to work on *multiple tasks* and also feeling *overwhelmed* quickly.
+  - Preference to have challenging and dynamic work and also needing space to rest.
+
+
+
+Workarounds / interventions.
+
+- Concrete abstract objectives. Emphasis on *what* rather than *how*.
+- Clear roles.
+- Offices with a mix of brain-friendly spaces and social spaces.
+

@@ -1,23 +1,38 @@
 # Meetings
 
->  Meeting is just a euphemism for "unproductive collaboration".
+> Meeting is just a euphemism for "unproductive collaboration".
 
+[toc]
 
+## Overview
 
-Purpose
+The main **purpose** of a meeting can be goal-oriented or relation-oriented.
 
-- Share information.
+- Share information or make a decision.
 - Improve a relationship. Connect to each other.
 
 
 
-Meeting types
+The **method** can vary from a presentation to a workshop.
 
-- Meeting.
+- Standard meeting. Planning, decision making and alignment.
   - Make a decision and get everyone on board. Coordinate plans.
-  - Check-in. Align. Do this regularly, e.g. daily, weekly, monthly.
+  - Check-in. Align. Sometimes regularly, e.g. daily, weekly, monthly.
 - Workshop. Do actual work, together in the same time and place.
-- Lecture. Broadcast information..
+- Lecture. Broadcast information.
+
+
+
+## Preparation
+
+Tools to improve meetings.
+
+- Share a public agenda beforehand. Let participants decide how to prepare and whether to join.
+- Read-in agenda. Ensure a shared understanding with an introduction.
+- Opening / ice-breaker. Set expectations and explain the scope.
+- Chair or facilator role. Assign someone to keep track of things.
+- Minutes of meeting (MoM). Publish meeting notes.
+- Explicit action or focus points.
 
 
 
@@ -71,7 +86,7 @@ See also [goals-planning-strategy](../management/goals-planning-strategy.md#Meet
 
 
 
-#### 1:1 Meetings
+## 1:1 Meetings
 
 Scope
 

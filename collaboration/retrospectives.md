@@ -288,19 +288,33 @@ Inspired by [Jnana yoga](https://en.wikipedia.org/wiki/Jnana_yoga).
 ```markdown
 - Drive. What gives you motivation and energy?
 - Discernment. Detachement.
-	- ❤️ What do you *like*? 
-	- ♻️ What is *good* for you?
+	- ❤️ What do you *like*? What do you want to do now?
+	- ♻️ What is *good* for you? What would you have wanted to do a year from now?
 - Dispassion. How easy is it to defer or delay work?
   *"Focus means saying no"*
 ```
 
 
 
-### 5x Why
+### RCA: 5x Why
 
-Given a problem or event. Why did this happen?
+> There is never one problem.
 
-- And why did that happen?
+> People are never impediments, but roles can be.
+
+Root cause analysis (RCA). Get to the root of a problem.
+
+Asking `why` can be confronting. To invite openness, make it smaller.
+
+- Make it specific.
+- Make it abstract. *"What could we do in the future?"*
+
+```markdown
+# Given a problem or event.
+- Start positive. What went well?
+- Why did this happen?
+  - And why did that happen?
     - And why?
+      - And why?
         - And why?
-            - And why?
+```

@@ -14,6 +14,12 @@
 
 <img src="img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
 
+People-oriented (who), result-oriented (what), thought-oriented (meta-how).
+
+<img src="img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:50%;" />
+
+
+
 <img src="img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
 
 <img src="img/change-management.png" alt="change-management" style="width:30%;" />
@@ -53,6 +59,10 @@ Personality
 
 
 <img src="img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="width:60%;" />
+
+<img src="img/quadrant-objective-social.png" alt="quadrant-objective-social" style="width:70%;" />
+
+
 
 Confidence, trust, reputation
 

@@ -1,9 +1,8 @@
 # Relations
 
-A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](scale.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md)
+A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](scale.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md) and personal [relations](../psychology/relations.md).
 
 [toc]
-
 
 ## Autonomy and Control
 
@@ -44,7 +43,7 @@ The alignment of agents may change over time. Their behaviour can be flexible or
 
 
 
-### Commands and events
+### Commands and Events
 
 Organizational structure can range from hierarchical to flat.
 
@@ -84,7 +83,7 @@ Event-based patterns
 
 
 
-## Types of Relations
+### Information Sharing
 
 Information can be send in the form of commands, events or requests. It can be send one-to-one or broadcasted. The information can be part of the core domain, it may support the core domain, or it can be generic.
 
