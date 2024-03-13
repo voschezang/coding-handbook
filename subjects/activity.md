@@ -91,6 +91,12 @@ The time-horizon can range from immediate, to long-term.
 
 
 
+## Intent
+
+<img src="../img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:50%;" />
+
+
+
 ## References
 
 - Byung-Chul Han. *The Scent of Time: A Philosophical Essay on the Art of Lingering*

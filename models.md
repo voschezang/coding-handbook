@@ -16,7 +16,7 @@
 
 People-oriented (who), result-oriented (what), thought-oriented (meta-how).
 
-<img src="img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:50%;" />
+<img src="img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="zoom:35%;" />  <img src="img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
 
 
 
@@ -56,7 +56,7 @@ Personality
 
 <img src="img/personality-blue-red-yellow-green.png" alt="personality-blue-red-yellow-green" style="width:60%;" />
 
-
+<img src="img/quadrant-personality-examiner-charmer.png" alt="quadrant-personality-examiner-charmer" style="width:60%;" />
 
 <img src="img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="width:60%;" />
 

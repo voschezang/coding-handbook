@@ -2,6 +2,16 @@
 
 [toc]
 
+## Roles
+
+- Product owner. Goal/thought oriented. Envision plans.
+- Developers. Task oriented. Challenge and execute plans.
+- Scrum master. People oriented. Facilitate collaboration and process.
+
+
+
+<img src="../img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="zoom:40%;" />
+
 ## Scale
 
 Scrum can be scaled up in several ways. The following models adhere to Scrum's framework. In general, a single product is associated with a dedicated PO, a Product Backlog, a Product Goal, an Increment and a Sprint Goal.

@@ -24,6 +24,8 @@ The nature of personal relations can vary.
 
 
 
-<img src="../img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:50%;" />
+<img src="../img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="zoom:35%;" />  <img src="../img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
+
+
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />

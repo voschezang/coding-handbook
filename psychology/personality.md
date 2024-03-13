@@ -111,6 +111,21 @@ Expression of personality in an environment.
 
 
 
+#### Roles
+
+The four colors map to roles within an organization.
+
+|                 | Examiner         | Challenger         | Charmer         | Harmonizer      |
+| --------------- | ---------------- | ------------------ | --------------- | --------------- |
+| **Desire**      | To understand    | Voice your opinion | Connect         | Adapt           |
+| **Need**        | To be understood | Be heard           | Get along       | Peace           |
+| **Orientation** | Task-oriented    | Task-oriented      | People-oriented | People-oriented |
+| **Style**       | Adapt            | Give               | Give            | Adapt           |
+
+<img src="../img/quadrant-personality-examiner-charmer.png" alt="quadrant-personality-examiner-charmer" style="width:60%;" />
+
+
+
 ### Keirsey Quadrants
 
 Values and purpose. See [Keirsey temperament sorter](https://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter)
