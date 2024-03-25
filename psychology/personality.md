@@ -126,6 +126,21 @@ The four colors map to roles within an organization.
 
 
 
+**Interview styles**
+
+- Task oriented.
+  - Examiner. Desire to understand. Get it right.
+  - Challenger. Desire to raise your voice. Be heard.
+- People oriented.
+  - Harmonizer. Desire to connect. Adapt.
+  - Charmer. Desire to get along. Be liked. Make compliments, tell jokes.
+
+
+
+<img src="../img/quadrant-examiner-challenger-charmer-harmonizer.png" alt="quadrant-examiner-challenger-charmer-harmonizer" style="width:60%;" />
+
+
+
 ### Keirsey Quadrants
 
 Values and purpose. See [Keirsey temperament sorter](https://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter)

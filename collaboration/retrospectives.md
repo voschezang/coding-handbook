@@ -145,6 +145,8 @@ Name events that made you feel either:
 
 
 
+## Goal setting / focus
+
 ### Value Chain
 
 Focus on the value chain.
@@ -159,7 +161,33 @@ Verify
 
 
 
-## Goal setting
+### Value Proposition
+
+<img src="../img/service-provider-consumer.png" alt="service-provider-consumer" style="height:6em;" />
+
+
+
+<img src="../img/gains-pains.png" alt="gains-pains" style="width:60%;" />
+
+
+
+|                    | Service Provider      | Service Consumer         |
+| ------------------ | --------------------- | ------------------------ |
+| **Identity** (who) | Products and services | User profile             |
+| **Purpose** (why)  | Mission / vision      | Job / role               |
+| **Gains**          | Gain creators         | Benefits                 |
+| **Pains**          | Pain relievers        | Liabilities, impediments |
+
+
+
+|                    | A Team Member         | Rest of the Team         |
+| ------------------ | --------------------- | ------------------------ |
+| **Identity** (who) | Activities / services | Roles of team members    |
+| **Purpose** (why)  | Goals                 | Role in the organization |
+| **Gains**          | Gain creators         | Benefits                 |
+| **Pains**          | Pain relievers        | Liabilities, impediments |
+
+
 
 ### Remember the future
 

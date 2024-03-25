@@ -62,6 +62,8 @@ Use documentation to recall conversations rather than as an alternative for them
 
 #### User Stories
 
+> A user's story. How a user would call the feature.
+
 A user story has three components. See [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming).
 
 | Component    | Action                                                       |
