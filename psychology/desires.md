@@ -1,12 +1,14 @@
 # Desire
 
-[toc]
+Two flavours of a simple model for desire and human needs.
+
+1. The primary layer is physical and psychological safety. E.g. food, water, shelter.
+2. The middle layer relates to the position (belonging) in a society. Either a status or ability to participate. A typical metric is net worth.
+3. The top layer relates to forms of enlightenment. Actualizing ones true potential. Being at peace.
 
 
 
-## Social Desires
-
-See [personality](personality.md).
+<img src="../img/desire.png" alt="desire" style="width:90%;" />
 
 
 
