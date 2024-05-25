@@ -47,12 +47,18 @@ Consistency
 
 
 
-# Complaints
+## Complaints
 
 - Bussiness: Dev is slow! Dev never reaches their schedule!
 - Dev: Bussiness keeps changing priorities!
 - Dev: Bussiness doesn't trust us!
 - Management: the shift to agile/DevOps/OKRs didn't work!
+
+
+
+*Design* is just coloring in stuff, how hard can it be?
+
+*Development* is just coding stuff, how hard can it be?
 
 
 

@@ -29,6 +29,8 @@ Note that the validity of the following statements is dependent on certain *impl
 * Nobody ever got fired for buying IBM.
 * Self-discipline is the willingness to be uncomfortable.
 * Authority implies responsibility.
+* Follow your own advice.
+* The main problem is clarity.
 
 ### Models & Language
 
@@ -90,6 +92,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Attribution is required for learning (investigation), but it doesn't require (over-)sanctioning.
     * Rather than suppressing blame, regulate it and challenge allegations. Decouple attribution from causality, intentionality and context.
 * Activity does not imply achievement.
+* Rules are made up.
 
 ### Focus
 
@@ -101,6 +104,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - Say no to *good* opportunities s.t. you can focus on those rare, *great* opportunities.
 - Think in decades, rather than years.
 - May our dreams become our plans.
+- It matters not.
 
 ### Time to market
 
@@ -130,11 +134,14 @@ Note that the validity of the following statements is dependent on certain *impl
 - *More* testing creates more development work
 - *Less* testing means that there is no time for development work
 - Simple is harder then complex.
-- The past does not exist (in the present).
 - Tracking performance reduces performance.
+- The past does not exist (in the present).
 - You can learn patience fast.
+- Go fast but don’t hurry
 - Stories about animals are about humans.
 - Obstacles are the way.
+- Information wants to be free.
+- The past does not exist.
 
 ## Software Engineering
 

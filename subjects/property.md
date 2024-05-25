@@ -53,3 +53,13 @@ Possession can be based on:
 - Ownership. 3rd party protection. Social convention. Persistent
 - Purpose. Possession holds because there there is emotional or utility.
 
+
+
+**Fairness**
+
+The following conventions may hold in a given situation.
+
+- Equal (uniform) distribution
+- 1st possession. "I called it"
+- Rights based on past agreements
+- Implicit agreements. "Stay together until the end"

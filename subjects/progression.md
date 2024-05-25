@@ -44,6 +44,22 @@ A three-steps pattern. In general, small (fast) cycles are less disruptive.
 
 
 
+## Multivariate
+
+In reality, progress can be seen from different views. During progression towards an objective, an agent may move in different directions, before finding another optimum.
+
+The following model shows repeated (cyclic) movement in the `x` and `y` dimensions. Progress in the `z` dimension is continuous, even though it looks like the agent is moving around an objective.
+
+
+
+
+
+<img src="../img/plot-multivariate-progress-2d.png" alt="plot-multivariate-progress-2d" style="width:80%;" />
+
+<img src="../img/plot-multivariate-progress-3d.png" alt="plot-multivariate-progress-3d" style="width:40%;" />
+
+
+
 ## Innovator's dilemma
 
 New innovations need room to realize their potential value.
