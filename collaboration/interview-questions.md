@@ -183,6 +183,12 @@ Technical
 
 ## Example Questions
 
+**Context**
+
+- What have other candidates shown that impressed you?
+
+
+
 **Personal Questions**
 
 - Personal, but public oriented
@@ -254,6 +260,8 @@ Technical
 
 **Technical Questions**
 
+- Science
+  - How do you come up with a good hypothesis?
 - Software Engineering
   - What do you think of Dev vs. Ops vs. DevOps?
 - Software Architecture

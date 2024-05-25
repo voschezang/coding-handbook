@@ -59,6 +59,17 @@ Note that rules can be set both by a central power and they may emerge from comm
 
 
 
+## Society
+
+Power structures in organiations of society may show the following types.
+
+- Power based societies. Castes.
+  - E.g. forms of feudalism and capitalism. A working class and a ruling class.
+- Hierarchy. Bureaucracies. Boundaries are made up of designed rules. They are more fine-grained than castes.
+  - Incentive to move up the corporate ladder.
+  - E.g. the catholic church, the military, governments.
+- Meritocracy. Performance based societies. Bias for individual performance. Individuals get the responsibility to choose their own path.
+
 
 
 

@@ -122,18 +122,9 @@ The four colors map to roles within an organization.
 | **Orientation** | Task-oriented    | Task-oriented      | People-oriented | People-oriented |
 | **Style**       | Adapt            | Give               | Give            | Adapt           |
 
+An examiner wants to get it right. A charmer wants to get along. They may make compliments and tell jokes.
+
 <img src="../img/quadrant-personality-examiner-charmer.png" alt="quadrant-personality-examiner-charmer" style="width:60%;" />
-
-
-
-**Interview styles**
-
-- Task oriented.
-  - Examiner. Desire to understand. Get it right.
-  - Challenger. Desire to raise your voice. Be heard.
-- People oriented.
-  - Harmonizer. Desire to connect. Adapt.
-  - Charmer. Desire to get along. Be liked. Make compliments, tell jokes.
 
 
 

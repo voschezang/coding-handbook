@@ -365,7 +365,9 @@ The value that the average employee brings can be expressed as:
 A "fair" salary has the following preconditions (excluding benefits etc.). It should be comparable to:
 
 - Other roles. E.g. the level of difficulty and responsibility.
-- Other employees. E.g. knowledge, skill, experience.
+- Other employees. E.g. knowledge, skill, experience, personality (e.g. resilience, integrity, temperament).
+  - In Dutch: `kennis, kunde, ervaring, karakter`
+
 
 ## Motivation & Productivity
 
