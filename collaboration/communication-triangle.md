@@ -30,6 +30,14 @@ Move naturally between corners for a good, balanced conversation flow. Avoid dwe
 
 
 
+## Form
+
+Effective communication combines different forms. Note that part of an audience will relate more with message in specific forms.
+
+<img src="../img/communication-forms-triangle.png" alt="communication-forms-triangle" style="width:50%;" />
+
+
+
 **Perspectives**
 
 First, second, third position.
@@ -37,5 +45,4 @@ First, second, third position.
 1. The self. I, how I see/feel/hear it.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
-
 
