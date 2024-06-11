@@ -46,6 +46,17 @@ Note that there is a difference bewteen what you like and what is good for you.
 
 
 
+### Models
+
+This model excludes the feedback loop.
+
+<img src="../img/attention-awareness.png" alt="attention-awareness" style="width:80%;" />
+
+
+
 
 
 ![experience-perception-attention](../img/experience-perception-attention.png)
+
+
+

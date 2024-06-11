@@ -1,5 +1,9 @@
 # Desire
 
+In psychology, desire relates to an subject and a change. See [ego](ego.md) and [identity](../subjects/identity.md).
+
+
+
 Two flavours of a simple model for desire and human needs.
 
 1. The primary layer is physical and psychological safety. E.g. food, water, shelter.
@@ -26,7 +30,7 @@ Typical desires:
 
 
 
-The difference is sometimes highlighted in **resumes**. These may either:
+The difference is highlighted in **resumes**. These may either:
 
 - Rely on self-promotion of achievements. Emphasize individual results.
 - Show the relation to authorities. I.e. membership to prestigeous organizations. Contribution to team results.
