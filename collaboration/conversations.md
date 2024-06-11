@@ -182,7 +182,7 @@ After making contact, sitting down and small talk, continue to a deeper conversa
 - Eventually, move towards concrete, alternative **behaviour** that could help.
 - Let the conversation end with action points. Check whether these match the preferences of the coachee.
 
-<img src="../img/conversation-model.png" alt="conversation-model" style="width:70%;" />
+<img src="../img/conversation-model.png" alt="conversation-model" style="width:80%;" />
 
 **Side stepping**
 

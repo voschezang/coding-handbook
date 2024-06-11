@@ -1,4 +1,4 @@
-# Communication Triangle
+# Communication Triangles
 
 [toc]
 
@@ -10,6 +10,15 @@ Dimensions
 - Focus on the present, focus on the future.
 - Command or invite.
 - Form or content.
+
+
+
+Communication consists of several layers.
+
+- ✉️ The message. The content.
+- 🎁 Packaging
+- 🚚 Delivery
+- 🌐 Context
 
 
 

@@ -55,16 +55,16 @@ Criticism
 - Attribute blame to personality
 - Overgeneralization (always and never)
 
-Contempt
+🙄 Contempt
 
 - Criticizing while looking down on the other
 
-Defensiveness
+🛡️ Defensiveness
 
 - Taking a defensive stance, whataboutism
 - Counterattacking. “But you also did ...”
 
-Stonewalling
+🧱 Stonewalling
 
 - Completely shutting the other one off
 - Extreme Distancing
@@ -94,7 +94,6 @@ Dyadic completion. If there is a victim, then the automatic response is to assig
 | 💭 **Distracter** | Avoid conflict                   | Harmony > tension      |                  |
 | 🪷 **Placater**   | Apologize, pray                  | Aid > aggression       | "Please help me" |
 | 🤡 **Leveler**    | Downplay problems                | Peace > panic          | "Just be calm"   |
-
 
 
 

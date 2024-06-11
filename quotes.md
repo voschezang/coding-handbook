@@ -31,6 +31,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Authority implies responsibility.
 * Follow your own advice.
 * The main problem is clarity.
+* It’s not what you want to say. It’s what they need to hear.
 
 ### Models & Language
 
@@ -54,6 +55,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Good enough > perfection. Perfection leads to [overfitting](https://en.wikipedia.org/wiki/Overfitting). Only unicorns are perfect.
     * Continuous improvement is better than delayed perfection.
 * In der Beschränkung zeigt sich erst der Meister.
+* Vinyl records don’t have adds.
 
 ### Processes / Output
 
@@ -105,6 +107,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - Think in decades, rather than years.
 - May our dreams become our plans.
 - It matters not.
+- How can one possibly pay attention to a book with no pictures in it?
 
 ### Time to market
 
@@ -142,6 +145,16 @@ Note that the validity of the following statements is dependent on certain *impl
 - Obstacles are the way.
 - Information wants to be free.
 - The past does not exist.
+- What I like most about vinyl is the cost and inconvenience.
+- Learning implies unlearning.
+
+## Leisure
+
+* You don’t need to be an expert to be creative.
+* It’s drawing, not rocket science.
+* Dolce far niente.
+* The best intelligence test is what we do with our leisure.
+* Time is a game played beautifully by children.
 
 ## Software Engineering
 
@@ -164,6 +177,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Choosing the right methodology < being able to adjust & experiment (as a team)
   * If your theoretically sound methodology is not working, then switching to an entirely new method will not help you. Instead learn to adjust and experiment.
 * *Distributed* does not imply *decoupled*.
+* Spiders are the only web designers that like finding bugs.
 
 ### Collaboration
 

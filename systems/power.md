@@ -73,4 +73,3 @@ Power structures in organiations of society may show the following types.
 
 
 
-

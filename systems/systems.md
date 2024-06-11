@@ -12,7 +12,7 @@ The structure of organizations can be evolved or manufactured.
 
 |               | Organic Organizations       | Rigid Organizations |
 | ------------- | --------------------------- | ------------------- |
-| **Purpose**   | Emerged                     | External            |
+| **Origin**    | Emerged                     | External            |
 | **Structure** | Evolution                   | Revolution          |
 | **Purpose**   | Inherent, self-preservation | External            |
 
