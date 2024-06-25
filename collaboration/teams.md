@@ -6,7 +6,9 @@ A team is a set of players that work together to achieve a shared goal.
 
 ## Overview
 
-A team is a group of individuals that works together with a specific purpose. The functioning of a team depends on its structure, its members and the environment. Diversity is given by individual personality differences and chosen roles. Decision making may happen by agreement, consensus or hierarcy.
+A team is a group of individuals that works together with a specific purpose. The functioning of a team depends on its structure, its members and the environment. Diversity is given by individual personality differences and chosen roles. 
+
+Decision making may happen by agreement, consensus or hierarcy. It can be reactive or pro-active.
 
 Typical roles are:
 
@@ -43,27 +45,6 @@ Psychological safety is not an absense of conflict, but rather the ability to ad
 
 
 
-### Discovery
-
-1. Look & **feel**. Use intuition.
-2. **Listen** to customers, stakeholders and employees.
-3. Monitor effectiveness, predictability and efficiency.
-4. Reflect on environment-specific factors such as autonomy, maturity, health, motivation, resilience.
-
-
-
-**Red flags**
-
-Reflect:
-
-- Is there trust?
-- Is conflict acknowledged? How is it addressed?
-- Is there a shared goal?
-- Is there miscommunication?
-- Are risks transparent?
-
-
-
 ### Success
 
 *What make a team good?*
@@ -84,6 +65,54 @@ In addition, there are more fine grained signals:
 - There is accountability of results.
 - Stakeholders trust the team.
 - Team members find purpose or meaning in their work.
+
+
+
+### Dual Model
+
+Two dimensions: team maturity and team performance. The former revolves around collaboration and empiricism. The latter revolves around the result of work.
+
+Team maturity
+
+- Trust. Vibe. Can people sit in a room together?
+- Psychological safety. Do people address conflict?
+- Inspect & adaption of *execution* of work. Is work being done to *preserve* the organization?
+- Inspect & adaption of *improvement*. Is work being done to *expand* the organization?
+- Inspect & adaption of radical (political) *change*. Is the team able to *act* and change their identity (structure)?
+
+Team performance
+
+- Surviving. The team reacts to its environment.
+- In control. The team acts pro-actively.
+- Focussed on organizational objectives.
+- Predictability.
+
+
+
+![map-team-maturity-performance](../img/map-team-maturity-performance.png)
+
+
+
+### Discovery
+
+1. Look & **feel**. Use intuition.
+2. **Listen** to customers, stakeholders and employees.
+3. Monitor effectiveness, predictability and efficiency.
+4. Reflect on environment-specific factors such as autonomy, maturity, health, motivation, resilience.
+
+
+
+**Red flags**
+
+Reflect:
+
+- Is there trust?
+- Is conflict acknowledged? How is it addressed?
+- Is there a shared goal?
+- Is there miscommunication?
+- Are risks transparent?
+
+
 
 
 
