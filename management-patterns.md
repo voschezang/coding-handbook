@@ -119,15 +119,6 @@ Team level
 
 - Attention to results
 
-## Culture
-
-**Trust** consists of
-
-- Credibility
-- Empathy
-- Reliability
-- Self-interest (as opposed to greater good)
-
 ### Corporate Culture
 
 > Stuff that people do without noticing it

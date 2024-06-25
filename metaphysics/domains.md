@@ -79,6 +79,19 @@ Note that the components in each perspective are subject to *different* forces. 
 
 
 
+**Lifecycle stages**
+
+See [lifecycle.md](../systems/lifecycle.md).
+
+|                         | 💲 Business Organization           | 💡 Non-profit Organization        |
+| ----------------------- | --------------------------------- | -------------------------------- |
+| **Inorganic domain**    | Existence.                        | Existence.                       |
+| **Biological domain**   | Quality, variance (risk), scale.  | Quality, variance (risk), scale. |
+| **Social domain**       | Market dynamics. Competition.     | Collaboration.                   |
+| **Intellectual domain** | Successors. Environmental impact. | Ideology.                        |
+
+
+
 ## Health
 
 The domains can be mapped to Aristotle's [four causes](https://en.wikipedia.org/wiki/Four_causes).

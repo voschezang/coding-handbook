@@ -32,6 +32,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Follow your own advice.
 * The main problem is clarity.
 * It’s not what you want to say. It’s what they need to hear.
+* Don’t let markets decide what to do.
 
 ### Models & Language
 
@@ -155,6 +156,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Dolce far niente.
 * The best intelligence test is what we do with our leisure.
 * Time is a game played beautifully by children.
+* My TV isn't HD that's too real.
 
 ## Software Engineering
 

@@ -6,6 +6,16 @@ See also [knowledge](knowledge.md), [modeling](modeling.md), [attitude](learning
 
 ## Overview
 
+Learning is as much unlearning as it is learning.
+
+- Add. Grow. Optimize further.
+- Subtract. Generalize.
+- Harmonize / synthesize. Use better (simpler) models.
+
+Knowledge is baggage. The more knowledge one has, the more difficult is to appreciate something that is not in line with that knowledge.
+
+
+
 Learning is facilitated by [models](modelling.md). Learning is the process of updating these models.
 
 - As humans, we use [mental models](mental-models.md) to make sense of the world. In practice, we create these ourselves.

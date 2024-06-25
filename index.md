@@ -1,5 +1,7 @@
 # Index
 
+Terms that relate to multiple documents or categories. See also [models](models.md).
+
 [toc]
 
 ## Activity
@@ -26,23 +28,27 @@
 
 [collaboration/conversations.md](collaboration/conversations.md)
 
-## DevOps
-
-[software-industry/devops.md]()
-
-## Goal
+## Goals
 
 [labour/goals.md](labour/goals.md)
 
 [management/goals-planning-strategy.md](management/goals-planning-strategy.md)
 
-## Function
+## Function & Relations
 
 [domain-modelling/relations.md](domain-modelling/relations.md)
 
-## Health
+[systems/relations](systems/relations.md)
+
+## Health & Life
 
 [psychology/health.md](psychology/health.md)
+
+[psychology/desires.md](psychology/desires.md)
+
+[labour/lifecycle](labour/lifecycle.md)
+
+[systems/lifecycle](systems/lifecycle.md)
 
 [metaphysics/quality.md](metaphysics/quality.md)
 
@@ -131,3 +137,4 @@
 [software-industry/values.md](software-industry/values.md)
 
 [software-industry/devops.md](software-industry/devops.md)
+

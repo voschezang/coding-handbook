@@ -34,6 +34,17 @@ Changes van vary from being large and disruptive, to gradual shifts.
 
 
 
+### Etymology
+
+The term progression relates to terms such as regression, transgression and aggression. Two Latin roots are:
+
+-  `gradi`: to step
+- `gradatio`: a gradiation, a stepping
+
+One can take a step forward or backward. One can skip a step, or a step can be missing.
+
+
+
 ## Thesis-antithesis-synthesis
 
 A three-steps pattern. In general, small (fast) cycles are less disruptive.

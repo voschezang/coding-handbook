@@ -151,15 +151,16 @@ Specific forms
 #### Level of assertiveness
 
 - Ideal behaviour: find a balance based on each other's boundaries.
+- Assertiveness is the expression of self-worth (dignity).
 
-|                                      | Sub-assertive                     | Assertive                       | Aggressive                    |
-| ------------------------------------ | --------------------------------- | ------------------------------- | ----------------------------- |
-| Balance between directness, respect. | Indirect                          | Direct + respect                | Direct - respect              |
-| Balance between relation, goal.      | Relation > goal                   | Relation + goal                 | Goal > relation               |
-| Boundaries                           | Lowering boundaries               | Maintaining boundaries          | Going over boundaries         |
-| Flexibility                          | Too agreeable                     | Authentic. In line with desire. | Too defensive                 |
-| Behaviour                            | Too careful (slow)                | Attentive. Reconsidering.       | Too eager (fast)              |
-| Responsibility                       | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
+|                            | Sub-assertive                     | Assertive                       | Aggressive                    |
+| -------------------------- | --------------------------------- | ------------------------------- | ----------------------------- |
+| **Directness and respect** | Indirect                          | Direct + respect                | Direct - respect              |
+| **Relation and goal**      | Relation > goal                   | Relation + goal                 | Goal > relation               |
+| **Boundaries**             | Lowering boundaries               | Maintaining boundaries          | Over-stepping boundaries      |
+| **Flexibility**            | Too agreeable                     | Authentic. In line with desire. | Too defensive                 |
+| **Behaviour**              | Too careful (slow)                | Attentive. Reconsidering.       | Too eager (fast)              |
+| **Responsibility**         | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
 
 ## Feedback
 

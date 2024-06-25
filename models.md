@@ -38,6 +38,10 @@ Experience
 
 
 
+<img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
+
+
+
 ## Quadrants
 
 ### Psychology

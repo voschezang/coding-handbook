@@ -58,3 +58,12 @@ In two dimensions
 
 <img src="../img/psychological-needs.png" alt="psychological-needs" style="width:60%;" />
 
+
+
+**Jobs**
+
+Purpose of a job
+
+- The core method to measure self-worth.
+- A means to obtain leisure.
+

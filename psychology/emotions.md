@@ -68,6 +68,7 @@ Emotions communicate *qualities* and personal needs. This communication is direc
 |                          | 🙂 Happiness               | ☹️ Sadness                | 😠 Anger                        | 😨 Fear                      |
 | ------------------------ | ------------------------- | ------------------------ | ------------------------------ | --------------------------- |
 | **Purpose**              | Indicate quality          | Indicate loss of quality | Indicate disruption of quality | Indicate risks to quality   |
+| **Change**               | Progression               | Regression               | Transgression                  | Potential regression        |
 | **Social**               | Connect *more,* broadcast | Connect *less,* retreat  | Push existing relations        | Question environment        |
 | **Individual Behaviour** | Immerse, trust            | Pause, step back         | Be assertive                   | Be careful. Stay alert.     |
 | **Extreme Behaviour**    | Cheer, moan, laugh        | Retreat, cry             | Be aggressive                  | Lose confidence. Be anxious |
@@ -101,7 +102,7 @@ Note that attraction and repulsion are heavly affected by managebility (e.g. age
 
 
 
-### Physiological states
+## Physiological states
 
 Feelings that indicate physiological states.
 
@@ -114,10 +115,6 @@ Feelings that indicate physiological states.
 
 
 Trust is associated with pleasantness, recognition and familiarity. Distrust is associated with uncertainty and risk.
-
-
-
-<img src="../img/sympathetic-nervous-system.png" alt="sympathetic-nervous-system" style="width:60%;" />
 
 
 
@@ -162,9 +159,34 @@ These signal an imbalance.
 
 
 
+## Coping
+
+**Tools (by acronyms)**
+
+These are considered healthy.
+
+
+
+AAA
+
+1. Awareness. By paying attention.
+2. Acceptance of the new reality.
+3. Agency. Exercise influence.
+
+
+
+RAIN
+
+1. Recognize
+2. Allow
+3. Investigate
+4. Nurture
+
+
+
 ### Avoiding emotions
 
-> Suppressing takes energy but embracing frees up energy
+> Suppressing takes energy. embracing frees up energy.
 
 Emotions can be unpleasant. People use different strategies to  avoid them.
 
@@ -175,3 +197,4 @@ Emotions can be unpleasant. People use different strategies to  avoid them.
 Avoidance may result in either a less vibrant (numb) life, or in eruptions of emotions at a later point in time. Note that in case of eruptions of emotions, the emotions themselves are merely signals of an underlying problem.
 
 Experiencing negative emotions is unpleasant, but it can avoid future problems.
+
