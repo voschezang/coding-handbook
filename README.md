@@ -1,6 +1,8 @@
 # Coding Handbook
 
-This is a diverse collection of ideas surrounding software engineering. It features ideas related to computer science, systems theory, management and human behaviour. It is meant as a living document that organizes thoughts and ideas. It does not contain advice.
+This repository attempts to ***decode*** organizations and the people within. It features ideas and patterns from many different domains, such as computer science, management, and psychology. It is meant as a living document that organizes thoughts and ideas. 
+
+Disclaimer, this repository does not contain advice.
 
 ## Index
 

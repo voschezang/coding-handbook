@@ -35,6 +35,12 @@ An organization can be
 
 
 
+Construction is the process of forming a organized structure out of individual subjects.
+
+Deconstructuction is the opposite. Breaking down an organization into individual parts.
+
+
+
 ## Unified Perspective
 
 ```
@@ -47,21 +53,87 @@ An **object** can be understood as a **function** with respect to it's context. 
 
 This results in the following levels. Based on [domains](../reality/structures.md).
 
+
+
+Outside views
+
+1. **Functional** view. The external purpose of the object. The relation between its inputs and outputs.
+2. **Evolutionary** view. The lifecycle or growth of the object. Its origin and maturity.
+
+Inside views
+
+1. **Social** view. The dynamcis of the internal internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
+2. **Component** view. The structure of the individual parts. Its materials.
+
+
+
+|                       | Lens     | Emphasis                       | Model          | Domain              |
+| --------------------- | -------- | ------------------------------ | -------------- | ------------------- |
+| **Functional view**   | Context  | Purpose                        | Value delivery | Intellectual domain |
+| **Evolutionary view** | Time     | Being 🌱🪴🌳🍂                     | Lifecycle      | Biological domain   |
+| **Social view**       | Dynamics | Relations between components 🕸️ | System         | Social domain       |
+| **Component view**    | Material | Individual components          | Application    | Biological domain   |
+
+
+
+### Desire
+
+The purpose of the system differs for each perspective.
+
+
+
+#### Functional view
+
+A single core purpose. Either:
+
+- **Processor**. Process (produce) information or materials and *transform* them. E.g. components in a value chain.
+- **Storage**. Store valuable objects and retrieve them at a later point in *time*.
+- **Platform**. *Facilitate* service providers and consumers. See [platform management](../organization/platform.md).
+
+ <img src="../img/system-types.png" alt="system-types" style="width:80%;" />
+
+#### Evolutionary view
+
+The objective changes over time. From exploration to expansion to preservation.
+
+| Phase                 | Objective            | Format      | Why                        |
+| --------------------- | -------------------- | ----------- | -------------------------- |
+| 1. 🌱 **Exploration**  | Positioning          | Starting up | Find an existential reason |
+| 2. 🪴 **Expansion**    | Integration          | Scaling up  | Fulfill the reason         |
+| 3. 🌳 **Preservation** | Avoid disintegration | Sustaining  | Stay viable                |
+
+#### Social view
+
+These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
+
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="zoom:50%;" />
+
+#### Component view
+
+Components can be treated a subjects or organized structures.
+
+- Subjects have a two desires. Satisfaction and improved quality. See [desires](../psychology/desires.md).
+- Organizations have a function, lifecycle and exhibits internal dynamics.
+
+
+
+### Alternative perspective
+
 1. **Functional** view. The external purpose of the object.
 2. **Social** view. The interaction of the internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
 3. **Agent** view. The components themselves. Their lifecycle.
 4. **Material** view. The content that a component is made of.
 
-|              | Functional view     | Social view             | Agent view          | Material view             |
-| ------------ | ------------------- | ----------------------- | ------------------- | ------------------------- |
-| **Focus**    | Context             | System components       | Specific components | Elements of components    |
-| **Emphasis** | Purpose             | Interaction & relations | Lifecycle of agent  | Infrastructure for agents |
-| **Model**    | Value delivery      | System                  | Application         | Framework                 |
-| **Domain**   | Intellectual domain | Social domain           | Biological domain   | Inorganic domain          |
+|              | Functional view     | Social view                 | Agent view         | Material view             |
+| ------------ | ------------------- | --------------------------- | ------------------ | ------------------------- |
+| **Focus**    | Context             | Dynamics between components | System components  | Specific components       |
+| **Emphasis** | Purpose             | Interaction & relations     | Lifecycle of agent | Infrastructure for agents |
+| **Model**    | Value delivery      | System                      | Application        | Framework                 |
+| **Domain**   | Intellectual domain | Social domain               | Biological domain  | Inorganic domain          |
 
 <img src="../img/system-views.png" alt="system-views" style="width:60%;" />
 
-#### Double articulation
+### Double articulation
 
 A function can be said to emerge from a pair of transformations.
 

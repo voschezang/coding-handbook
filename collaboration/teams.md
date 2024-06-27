@@ -23,7 +23,22 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 
 
-### Purpose
+## Succes & Sustainability
+
+Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
+
+- The satisfaction of team members. Whether members want to engage in the team.
+- Team maturity. Whether the team is stable and works empirically.
+
+
+
+<img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
+
+
+
+
+
+### Performance
 
 > Deliver value ≠ solving problems
 
@@ -39,13 +54,11 @@ Based on the broader organization, the team may be accountable to a section of a
 
 
 
-## Health & Performance
+### Health
 
 Psychological safety is not an absense of conflict, but rather the ability to address it.
 
-
-
-### Success
+#### Success
 
 *What make a team good?*
 
@@ -68,7 +81,7 @@ In addition, there are more fine grained signals:
 
 
 
-### Dual Model
+#### Dual Model
 
 Two dimensions: team maturity and team performance. The former revolves around collaboration and empiricism. The latter revolves around the result of work.
 
@@ -91,7 +104,9 @@ Team performance
 
 ![map-team-maturity-performance](../img/map-team-maturity-performance.png)
 
+Note the similarity to [organizational](../systems/lifecycle.md) desires.
 
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="zoom:50%;" />
 
 ### Discovery
 

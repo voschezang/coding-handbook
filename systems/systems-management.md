@@ -102,20 +102,21 @@ See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). B
 <details>
 <summary><b>Sequence flows and communication flows</b></summary>
 <br>
-<img src="img/bpmp-simple.png" alt="bpmp-simple" style="width:80%;" />
+<img src="../img/bpmp-simple.png" alt="bpmp-simple" style="width:80%;" />
 </details>
 
 <details>
 <summary><b>Ownership</b></summary>
 <br>
-<img src="img/bpmp-ownership.png" alt="bpmp-ownership" style="width:80%;" />
+<img src="../img/bpmp-ownership.png" alt="bpmp-ownership" style="width:80%;" />
 </details>
 
 <details>
 <summary><b>Responsibility</b></summary>
 <br>
-<img src="img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:80%;" />
+<img src="../img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:80%;" />
 </details>
+
 
 ### Single Chains
 
