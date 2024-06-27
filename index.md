@@ -28,6 +28,14 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 [collaboration/conversations.md](collaboration/conversations.md)
 
+## Desire
+
+[systems/systems](systems/systems.md)
+
+[subjects/desire.md](subjects/desires.md)
+
+[psychology/desires.md](psychology/desires.md)
+
 ## Goals
 
 [labour/goals.md](labour/goals.md)

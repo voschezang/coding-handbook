@@ -112,7 +112,7 @@ These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wi
 
 Components can be treated a subjects or organized structures.
 
-- Subjects have a two desires. Satisfaction and improved quality. See [desires](../psychology/desires.md).
+- Subjects have two types of desires: satisfaction and improved quality. See [subjects/desire.md](subjects/desires.md).
 - Organizations have a function, lifecycle and exhibits internal dynamics.
 
 

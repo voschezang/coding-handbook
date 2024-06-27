@@ -1,8 +1,10 @@
 # Desire
 
-In psychology, desire relates to an subject and a change. See [ego](ego.md) and [identity](../subjects/identity.md).
+In psychology, desire relates to an subject and a change. See [subjects desire](../subjects/desire.md),  [ego](ego.md) and [identity](../subjects/identity.md).
 
+[toc]
 
+## Pyramid Model
 
 Two flavours of a simple model for desire and human needs.
 
