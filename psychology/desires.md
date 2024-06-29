@@ -1,6 +1,6 @@
 # Desire
 
-In psychology, desire relates to an subject and a change. See [subjects desire](../subjects/desire.md),  [ego](ego.md) and [identity](../subjects/identity.md).
+In psychology, desire relates to an subject and a change. See [desire (subjects)](../subjects/desire.md),  [ego](ego.md) and [identity](../subjects/identity.md).
 
 [toc]
 

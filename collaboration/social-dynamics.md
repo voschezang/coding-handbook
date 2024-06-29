@@ -1,6 +1,6 @@
 # Social Dynamics
 
-See also [personality](../psychology/personality.md)
+See also [personality](../psychology/personality.md) and [desire](../systems/systems.md).
 
 [toc]
 
@@ -94,7 +94,6 @@ Dyadic completion. If there is a victim, then the automatic response is to assig
 | 💭 **Distracter** | Avoid conflict                   | Harmony > tension      |                  |
 | 🪷 **Placater**   | Apologize, pray                  | Aid > aggression       | "Please help me" |
 | 🤡 **Leveler**    | Downplay problems                | Peace > panic          | "Just be calm"   |
-
 
 
 

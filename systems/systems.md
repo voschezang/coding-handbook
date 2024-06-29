@@ -106,7 +106,17 @@ The objective changes over time. From exploration to expansion to preservation.
 
 These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
 
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="zoom:50%;" />
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:60%;" />
+
+
+
+Progress toward higher layers is done through gaining power, creating structure, optimization, and creating values. Note that progression towards spirituality or impulsion is not inherently good. It is useful in a specific environment and it has side-effects.
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
+
+
+
+
 
 #### Component view
 

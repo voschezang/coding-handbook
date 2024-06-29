@@ -1,10 +1,10 @@
 # Modelling
 
-Principles of [modelling](https://en.wikipedia.org/wiki/Scientific_modelling), statistics and machine learning. Note that a model can be either mathematical or conceptual (e.g. a flowchart).
+Principles of [modelling](https://en.wikipedia.org/wiki/Scientific_modelling), statistics and machine learning. Note that a model can be either mathematical or conceptual (e.g. a flowchart). See also [statistics](../math/statistics.md).
 
+[toc]
 
-
-**Good models**
+## Overview
 
 Properties of good models (internal)
 
@@ -30,8 +30,6 @@ Risks
 - [All models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong). A model is never equal to reality. Models make oversimplifications.
   - The real world can only be explained by multiplicity of models.
   - Multiple models can be correct; they may provided different perspectives of the same phenomena.
-- There is no [free lunch](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff); making models specific to 1 dataset decreases the performance on all others (i.e. generalization).
-  - Models are exclusive by nature. They are biassed to a given scenario and context.
 - Generalization gap: performance on a test set is always worse than performance on the training set.
 - Garbage in, garbage out: designing models requires reliable data.
 - There is a difference between [validation & verification](https://en.wikipedia.org/wiki/Verification_and_validation).
@@ -41,6 +39,20 @@ Risks
 
 - If an event is observed frequently, then analogies can help.
 - If a process is novel, but the inner process is understood, then it can be beneficial to start with fundamentals.
+
+
+
+### Bias-variance tradeoff
+
+There is no [free lunch](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff); making models specific to one dataset decreases the performance on all others (i.e. generalization).
+
+Models are exclusive by nature. They are biassed to a given scenario and context.
+
+
+
+### Precision and Recall
+
+
 
 
 
@@ -83,7 +95,9 @@ Distinguish between the inside view and the [outside view](https://buttondown.em
 
 ## Evolution
 
-This concerns evolution in the theoretical sense. Evolution can be defined as iterative improvement by granular steps. This can be used in mathematical optimization, but it can also be used to explain behaviour of successful organizations, apps, or [memes](https://en.wikipedia.org/wiki/Memetics).
+*(This concerns evolution in the theoretical sense, rather than the biological phenomenon)*
+
+Evolution can be defined as iterative improvement by granular steps. This can be used in mathematical optimization, but it can also be used to explain behaviour of successful organizations, apps, or [memes](https://en.wikipedia.org/wiki/Memetics).
 
 The evaluation of states is done using an [*objective*](https://en.wikipedia.org/wiki/Loss_function) (e.g. *fitness, loss, utility, reward*, *stock price*).
 

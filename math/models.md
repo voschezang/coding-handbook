@@ -154,4 +154,4 @@ In physics, the following terms are used:
 2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
 
 **Fourier Series**
-[Fourier series](https://en.wikipedia.org/wiki/Fourier_series).	
+[Fourier series](https://en.wikipedia.org/wiki/Fourier_series).
