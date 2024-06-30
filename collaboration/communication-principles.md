@@ -200,4 +200,3 @@ Bottled up emotions build up and can create tension. Risks:
 - The emotions reduce the capability for (active) listening. Truly listening requires an open mindset.
 - Risk of “explosions”.
 
-## References

@@ -15,6 +15,8 @@ Agile values, based on the [Agile manifesto](https://agilemanifesto.org/). The r
 | 3.   | Customer collaboration       | Contract negotiation        |
 | 4.   | Responding to change         | Following a plan            |
 
+In addition, it appreciates [empiricism](../intelligence/empiricism.md).
+
 These affect products, people and processes.
 
 In practice, this requires:
@@ -65,26 +67,6 @@ Agile is associated with:
 - A happier and more relaxed work environment.
 - More agency and involvement in decision making.
 - Less meetings and deadlines
-
-
-
-### Empiricism
-
-> Succeed through a rapid progression of failures.
-
-Obtain knowedge through experience, rather than *a priori* theory. Use experiments to learn. This relies on:
-
-- Transparancy. Shared understanding.
-- Inspection. Reflecting on what we have done, continuously.
-- Adaption. Update plans when you obtain new information.
-
-
-
-|              | Transparency             | Inspection                 | Adaption                         |
-| ------------ | ------------------------ | -------------------------- | -------------------------------- |
-| **Question** | What do we do? For whom? | How is it going?           | What can we improve?             |
-| **Method**   | ➡️➡️➡️ Value chain          | 🔁 Feedback loops           | 🔀 Be able to adapt               |
-| **Enabled**  | Shared understanding     | Reflection & conversations | Owernship, self-organizing teams |
 
 
 

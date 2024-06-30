@@ -23,9 +23,9 @@ Goals are a tools that can be used in several ways. E.g. inspire groups or focus
 |      | Core                              | Performance            |
 | ---- | --------------------------------- | ---------------------- |
 | ⭐    | Align on a direction (north star) | Focus performance      |
-| 💡    | Enlighten                         | Amplify performance    |
+| 💡    | Inspire                           | Amplify performance    |
 | ⚡    | Energize                          | Invite performance     |
-| 🔦    | Shine a light on                  | Understand performance |
+| 🔦    | Enlighten                         | Understand performance |
 | 🚦    | Warn                              | Assess performance     |
 
 Goals can originate from
