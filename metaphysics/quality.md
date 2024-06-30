@@ -20,16 +20,3 @@ Static quality
 
 
 <img src="../img/worldview-quality.png" alt="worldview-quality" style="width:80%;" />
-
-
-
-## Health
-
-|                       | Person                            | Corporate Department     |
-| --------------------- | --------------------------------- | ------------------------ |
-| **Material health**   | Physiological health              | Health of employees      |
-| **Life-cycle health** | Nutrition, growth                 | Support from management  |
-| **Positional health** | Health of relationships           | Health of bureaucracy    |
-| **Functional health** | Ability to participate in society | Ability to deliver value |
-
-See [organization](../systems/system).

@@ -30,11 +30,13 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 ## Desire
 
-[systems/systems](systems/systems.md)
+[systems/desire](systems/desire.md)
 
-[subjects/desire.md](subjects/desires.md)
+[subjects/desire.md](subjects/desire.md)
 
 [psychology/desires.md](psychology/desires.md)
+
+[psychology/mind-body.md](psychology/mind-body.md)
 
 ## Goals
 

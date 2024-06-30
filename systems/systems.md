@@ -67,54 +67,27 @@ Inside views
 
 
 
-|                       | Lens     | Emphasis                       | Model          | Domain              |
-| --------------------- | -------- | ------------------------------ | -------------- | ------------------- |
-| **Functional view**   | Context  | Purpose                        | Value delivery | Intellectual domain |
-| **Evolutionary view** | Time     | Being 🌱🪴🌳🍂                     | Lifecycle      | Biological domain   |
-| **Social view**       | Dynamics | Relations between components 🕸️ | System         | Social domain       |
-| **Component view**    | Material | Individual components          | Application    | Biological domain   |
+|                       | Lens     | Emphasis                             | Model          | Domain              |
+| --------------------- | -------- | ------------------------------------ | -------------- | ------------------- |
+| **Functional view**   | Context  | Why / Purpose                        | Value delivery | Intellectual domain |
+| **Evolutionary view** | Time     | When / Being 🌱🪴🌳🍂                    | Lifecycle      | Biological domain   |
+| **Social view**       | Dynamics | How / Relations between components 🕸️ | System         | Social domain       |
+| **Component view**    | Material | What / Individual components         | Application    | Biological domain   |
 
 
 
-### Desire
-
-The purpose of the system differs for each perspective.
+See [organizational desire](desire.md).
 
 
 
-#### Functional view
-
-A single core purpose. Either:
-
-- **Processor**. Process (produce) information or materials and *transform* them. E.g. components in a value chain.
-- **Storage**. Store valuable objects and retrieve them at a later point in *time*.
-- **Platform**. *Facilitate* service providers and consumers. See [platform management](../organization/platform.md).
-
- <img src="../img/system-types.png" alt="system-types" style="width:80%;" />
-
-#### Evolutionary view
-
-The objective changes over time. From exploration to expansion to preservation.
-
-| Phase                 | Objective            | Format      | Why                        |
-| --------------------- | -------------------- | ----------- | -------------------------- |
-| 1. 🌱 **Exploration**  | Positioning          | Starting up | Find an existential reason |
-| 2. 🪴 **Expansion**    | Integration          | Scaling up  | Fulfill the reason         |
-| 3. 🌳 **Preservation** | Avoid disintegration | Sustaining  | Stay viable                |
-
-#### Social view
-
-These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
-
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:60%;" />
 
 
+#### Component view
 
-Progress toward higher layers is done through gaining power, creating structure, optimization, and creating values. Note that progression towards spirituality or impulsion is not inherently good. It is useful in a specific environment and it has side-effects.
+Components can be treated a subjects or organized structures.
 
-![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
-
-
+- Subjects have two types of desires: satisfaction and improved quality. See [subjects/desire.md](subjects/desires.md).
+- Organizations have a function, lifecycle and exhibits internal dynamics.
 
 
 

@@ -27,6 +27,8 @@ In intuitive learning, the environment is designed to facilitate learning. The l
 
 For studying, specific topics are chosen deliberately.
 
+See [structure](../metaphysics/structure.md).
+
 |                 | Intuitive                          | Studying                           |
 | --------------- | ---------------------------------- | ---------------------------------- |
 | **Core**        | Appreciation, discovery, immersion | Abstraction and deep understanding |
