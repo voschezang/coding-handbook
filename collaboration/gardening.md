@@ -2,7 +2,7 @@
 
 The gardening approach leverages agency and diversity of the garden. It provides guard rails in which plants can grow. It addresses weed (bad habits) periodically.
 
-
+[toc]
 
 ## Context
 
@@ -18,6 +18,10 @@ The subjects can be junior, senior or new team members.
 
 
 ## Principles
+
+It can be difficult to find a the right balance between coaching, mentoring and delegating. Ideally there are clear expectations, motivational goals and engagement.
+
+
 
 ### TEAM
 
@@ -46,8 +50,6 @@ Cross-functional teams. Diversity in experience and specialziation. Similar to a
 Transparency, inspection and adaption. See [empiricism](../intelligence/empiricism.md).
 
 <img src="../img/experiment-inspect-iterate.png" alt="experiment-inspect-iterate" style="width:50%;" />
-
-
 
 ## Persona's
 
