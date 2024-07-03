@@ -27,12 +27,12 @@ It can be difficult to find a the right balance between coaching, mentoring and 
 
 Inspired by the TEAM acronym from See *Hunt, Gather, Parent*.
 
-|                          | **Intent**                                        | **Practice**                              |
-| ------------------------ | ------------------------------------------------- | ----------------------------------------- |
-| **Together**             | Participation over delegation                     | Pair up                                   |
-| **Encourage**            | Inherent motivation                               | Incentives over rules                     |
-| **Autonomy**             | Initiative of members                             | Discover what members want, but cannot do |
-| **Minimal Interference** | Avoid micromanagement / spoon-feeding information | Provide room to struggle & learn          |
+|                          | **Intent**                                        | **Practice**                                           |
+| ------------------------ | ------------------------------------------------- | ------------------------------------------------------ |
+| **Together**             | Participation over delegation                     | Pair up                                                |
+| **Encourage**            | Inherent motivation                               | Incentives over rules, <br />opportunity over problems |
+| **Autonomy**             | Initiative of members                             | Discover what members want, but cannot do              |
+| **Minimal Interference** | Avoid micromanagement / spoon-feeding information | Provide room to struggle & learn                       |
 
 This does require proper guard rails. 
 
@@ -47,9 +47,17 @@ Cross-functional teams. Diversity in experience and specialziation. Similar to a
 
 ### Empiricism
 
-Transparency, inspection and adaption. See [empiricism](../intelligence/empiricism.md).
+Transparency, inspection and adaption. See [empiricism](../intelligence/empiricism.md). This requires the willingness to take risks, which requires psychological safety.
 
 <img src="../img/experiment-inspect-iterate.png" alt="experiment-inspect-iterate" style="width:50%;" />
+
+
+
+### Psychological Safety
+
+See [teams](teams.md).
+
+<img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
 
 ## Persona's
 

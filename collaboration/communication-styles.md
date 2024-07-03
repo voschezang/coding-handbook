@@ -47,7 +47,7 @@ Communication can focus on moving forward (towards a goal), connecting to each o
 | Focus    | Direction    | Communication styles      | Space         |
 | -------- | ------------ | ------------------------- | ------------- |
 | Content  | Move forward | Push, command 🫳           | Take space    |
-| Relation | Connect      | Pull, invie 🫴             | Welcome space |
+| Relation | Connect      | Pull, invite 🫴            | Welcome space |
 | Context  | Slow down    | Avoid, diffuse, disengage | Create space  |
 
 

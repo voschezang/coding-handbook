@@ -27,7 +27,7 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
 
-- The satisfaction of team members. Whether members want to engage in the team.
+- The satisfaction of team members. Whether members want to engage in the team. Whether they feel safe and dare to speak up.
 - Team maturity. Whether the team is stable and works empirically.
 
 
