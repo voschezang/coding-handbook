@@ -1,8 +1,6 @@
 # Coaching
 
-Coaching is about providing a soundboard, through questioning. It's oriented towards potential and results.
-
-See also [goals](../organization/goals.md), [purpose](activity/purpose.md).
+Coaching is about providing a soundboard, through questioning (feedback). It's oriented towards potential and results. See also [goals](../organization/goals.md), [purpose](activity/purpose.md).
 
 [toc]
 
@@ -15,17 +13,34 @@ Coaching revolves around the preferences of the coachee. It consists of a series
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
 
-Coaching does not imply a problem. It can be used to improve or maintain performance.
+Coaching does not imply a problem. It is not a medical intervention. It can be used to improve or maintain performance.
 
 
 
-Two main modes are: critical and supporting.
+Two main modes are: critical and supporting. These map to [thinking](proposals.md) in problems or opportunities. Note that the difference is more than just reframing problems as opportunities. Rather, is about appreciating positive aspects, and their potential.
 
-|              | Critical Coach           | Supporting                          |
-| ------------ | ------------------------ | ----------------------------------- |
-| **Core**     | Challenge, direct        | Empathy, understanding, inspiration |
-| **Attitude** | Avoid failure, do better | Learn from experience               |
-| **Energy**   | Pushing, sprinting       | Growing, step by step               |
+|               | Critical Coach                    | Supporting                                              |
+| ------------- | --------------------------------- | ------------------------------------------------------- |
+| **Lens**      | Problem-oriented.                 | Opportunity-oriented. Improve what goes well.           |
+| **Core**      | Challenge. Change (fix) problems. | Empathy. Appreciation of what goes wel, inspire growth. |
+| **Attitude**  | Avoid failure, do better          | Learn from experience                                   |
+| **Obstacles** | Fight obstacles                   | Deconstruct obstacles                                   |
+| **Energy**    | Pushing, sprinting                | Growing, step by step                                   |
+
+**Avoiding problems**
+
+It important that the supporting coach does not avoid problems or discomfort. There is a place to acknowledge reality and any resulting feelings. From there one can more forward.
+
+A coach can help to reframe problems. Any problem implies a challenge. Coping mechanisms from coachees may point to a hidden strength (to endure). For example, fear may signal care for someone else.
+
+- A side effect of this is that the coachee starts from a solid base: a understanding of their stengths.
+
+**Rejecting problems**
+
+Factors thay may prevent people from addressing problems.
+
+- 👈 Patterns of blame or victimhood. Over-emphasise problems. Lingering too long in negative emotions. Inability to take initiative.
+- 🥶 Too much presssure to change. Being in a frozen state.
 
 ### Intent & Purpose
 
@@ -83,7 +98,7 @@ Weather metaphors
 
 - 🌡️ What is the temperature in this room?
   - ♨️ It’s getting hot.
-  - ❄️ That’s cold.
+  - ❄️ That feels cold.
 - ☀️ Do you feel the sun shining?
 - ☁️ I notice some clouds.
 - ⛅ The sun is starting to get through.

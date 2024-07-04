@@ -1,24 +1,49 @@
 # Story Mapping
 
+Story mapping is a technique to discover what to do. It focusses on providing **shared understanding**. By doing this, problems are deconstructed until the solution becomes clear.
+
 [toc]
 
 ## Overview
 
-Story mapping is a technique to discover what to do. It focusses on providing shared understanding. By doing this, problems are deconstructed until the solution becomes clear.
-
-It can be used in several phases of the product [lifecycle](lifecycle.md), and it applies to both discovery and delivery phases.
+Story mapping can be used in several phases of the product [lifecycle](lifecycle.md), and it applies to both discovery and delivery phases.
 
 
-
-### Purpose
 
 >  Shared documents ≠ shared understanding 
 
-Goals. Ordered by importance.
+Purpose.
 
 1. Develop a shared understanding.
 2. Promote shared ownership. Make team members feel heard. Be inlusive.
 3. Create shared documents to remember the conversations.
+
+
+
+### Workshop Template
+
+```markdown
+# ⭐ Purpose
+Connect and align. Reach a shared understanding together.
+
+# 🚀 Outcome
+A shared understanding of the goal and the path towards it.
+
+# 📅 Agenda
+A conversation about
+
+- Where will we go?
+- Where are we now?
+- What lies in in between? What else?
+- What's the next step (increment)? 
+
+# 📖 Pre-read
+ Any documents that brings everyone up to speed.
+```
+
+
+
+![path-to-goal](../img/path-to-goal.png)
 
 
 

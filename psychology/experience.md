@@ -88,6 +88,19 @@ Note that the last type is controversial. In the western scientific community, a
 
 
 
+**Parts of yourself**
+
+> (Alice) I knew who I was this morning, but I’ve changed a few times since then.
+
+People tend to experience differences as reaction to environments. A generic term for this is *parts*; which relates to the different parts of your*self*. For example, someone may talk differently towards their close family than to their work colleagues. Someone may lose their temper, and later reflect "I was not myself".
+
+Two related concepts are.
+
+- Your shadow. The part of yourself that is not visible. Subconscious patterns that influence your experience.
+- Your demons. Parts of yourself that act out of guilt or shame. See [chakras](mind-body.md).
+
+
+
 ## Frustration and Depression
 
 Depression is not just a result of working too hard. Some contributing factors:

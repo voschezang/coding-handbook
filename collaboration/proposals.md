@@ -4,32 +4,18 @@
 
 ## Overview
 
-1. Set context. Connect to the audience. *Why is this relevant to you, now?*
-2. Align on the need for change. A problem or opportunity. See *call to action*.
-3. Align on the solution. The path forward.
+There are three phases: `relation-question-answer`
+
+1. Set context. Connect to the audience. Involve them. *Why is this relevant to you, now?*
+2. Align on the need for change. Question the current state. A problem or opportunity. See *call to action*.
+3. Align on the next step. Consider solutions (answers). A path forward. See [story-mapping](../labour/story-mapping.md).
 
 
 
-## Workshop Template
+**Anti-patterns**
 
-```markdown
-# ⭐ Purpose
-Connect and align.  Reach a shared understanding together.
-
-# 🚀 Outcome
-A shared understanding of the goal and the path towards it.
-
-# 📅 Agenda
-A conversation about
-
-- Where could we go?
-- Where are we now?
-- What lies in in between? What else?
-- What's the next step? 
-
-# 📖 Pre-read
- Any documents that brings everyone up to speed.
-```
+- Delegating the problem. *X is a problem, so you need to change."*
+- Bias for a fixed solution.
 
 
 
@@ -47,8 +33,9 @@ Effects
 
 |                 | Opportunity                  | Problem                   |
 | --------------- | ---------------------------- | ------------------------- |
-| **Perspective** | Capability, upside, value    | Risks, downside           |
+| **Perspective** | Potential, upside, value     | Risks, downside           |
 | **Bias**        | Increase value               | Reduce cost               |
+| **Origin**      | Capability, strengths        |                           |
 | **Attitude**    | Optimistic, welcome change 🫴 | Critical, demand change 🫳 |
 | **Appeal**      | Inspiration, vision          | Danger                    |
 | **Method**      | Impove or scale up           | Protect or mitigate       |
