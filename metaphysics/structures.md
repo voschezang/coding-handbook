@@ -184,6 +184,18 @@ Higher level structures tend to show emerging behaviour. They overcome (transcen
 
 
 
+## Ghosts
+
+*A person is a pattern.*
+
+*Death does not erase that pattern.*
+
+*Rather, it transforms it.*
+
+*The person becomes a legacy.*
+
+
+
 ## References
 
 - R. M. Pirsig. *Lila: An Inquiry into Morals*

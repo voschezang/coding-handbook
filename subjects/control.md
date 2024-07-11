@@ -1,6 +1,6 @@
 # Control & Guidance
 
-Control implies structure. It attempts to avoid disorder and uncertainty.
+Control implies structure. It attempts to avoid disorder and uncertainty. An alternative to control are incentives. These stimulate "right" behaviour.
 
 [toc]
 

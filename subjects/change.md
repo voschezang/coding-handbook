@@ -4,6 +4,12 @@ Change is a **deviation** of a standard trajectory. It is inherently dynamic. It
 
 [toc]
 
+## Overview
+
+Behaviour is the product of habits and change. Habits are (learned) patterns of behaviour. Change may be deliberate, based on a desire.
+
+
+
 ## Context
 
 The main types of activity are: continuation, deviation and rejection. See [activity](activity.md).
@@ -43,6 +49,14 @@ Change requires effort
 
 
 ## Drive
+
+An agent has inherent desires. Based on beliefs about the external world and their capabilities, the agent updates their internal rules. Their behaviour is a result of these rules and the environment.
+
+
+
+<img src="../img/desire-intent-behaviour.png" alt="desire-intent-behaviour" style="width:80%;" />
+
+
 
 Change is determined by:
 

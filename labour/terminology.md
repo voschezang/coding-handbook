@@ -72,6 +72,10 @@ In order to be valuable a product should be usable and feasible to build. Respon
 
 
 
+<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
+
+
+
 Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees. It results in:
 
 1. Delivery: Provide value to users, based on a production process.

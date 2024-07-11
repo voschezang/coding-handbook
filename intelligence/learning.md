@@ -6,11 +6,32 @@ See also [knowledge](knowledge.md), [modeling](modeling.md), [attitude](learning
 
 ## Overview
 
+There are two types of learning
+
+- Learning skills. Embodying knowledge. Appreciation and application.
+- Understanding. Obtaining knowledge. Theory.
+
+
+
+> Experiential learning does not require scientific experiments.
+
+Methods. There is a massive difference between living in a culture and studying a culture.
+
+- Children learn through exposure, practice and sharing experience. *What is it like to do this?*
+
+- Academics learn through study and deconstruction. Bias for optics. *What does the result look like.*
+
+
+
 Learning is as much unlearning as it is learning.
 
 - Add. Grow. Optimize further.
 - Subtract. Generalize.
 - Harmonize / synthesize. Use better (simpler) models.
+
+
+
+> Knowledge is both a vehicle and a cage.
 
 Knowledge is baggage. The more knowledge one has, the more difficult is to appreciate something that is not in line with that knowledge.
 
@@ -39,6 +60,12 @@ See [structure](../metaphysics/structure.md).
 | **Association** | Children that play                 | Adults that work                   |
 
 Playing, acting, role playing are all forms of learning. They let you explore both alternate realities andt the extreme of the current reality.
+
+
+
+> In relationships we grow
+
+Learning from others...
 
 
 

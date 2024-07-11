@@ -34,6 +34,85 @@ Personality traits are underlying or stable patterns of ones personality. Strong
 
 
 
+### Individual traits and characteristics
+
+Discomfort
+
+- Vulnerability. Being exposed to potential danger or harm.
+- Courage. The willingness to be vulnerable, to confront agony.
+- Patience.
+
+Value
+
+- Dignity. Self-worth, self-respect, self-care.
+- Assertiveness. The expression of dignity.
+
+Truth
+
+- Sincerity. Acting in line with your personal values, desires and beliefs.
+- Authenticity. Acting in line with your personal values and desires, despite external influence.
+- Integrity. A mix of authenticity, honesty, responsibility, reliability. Whether you are yourself.
+
+Compassion
+
+- Sympathy. Understanding someone's experience.
+- Empathy. Sharing someone's experiencing.
+- Passion
+- Care
+- Consideration
+
+
+
+#### Authenticity
+
+Wild, untamed.
+
+
+
+Effects
+
+- Withholding leads to withdrawing and rejecting
+- Revealing leads to connecting
+
+
+
+Not authentic
+
+- Cautious
+- Careful
+- Guarded
+- Hestitant
+- Restrained
+
+
+
+#### Integrity
+
+> Do the right thing
+
+Integrity means:
+
+- Feel your feelings. Express your emotions. Be authentic.
+- Speak authentically and candidly. Address tension and discomfort.
+- Take responsibility. Claim responsibility and agency rather than blaming and criticizing.
+- Be reliable. Follow through on agreements. Communicate surprises early.
+
+
+
+Transparent communication
+
+  - Congruent. Message, form and intent match. This costs [less energy](https://en.wikipedia.org/wiki/Cognitive_dissonance).
+  - Direct but respectful. E.g. "I do have a strong opinion on this" vs. "This is absurd!".
+  - Complete. Consider your senses, feelings, thoughts. Consider what you want for yourself and for someone else.
+
+
+
+See Jim Dethmer.
+
+
+
+### Models
+
 [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) model.
 
 1. Extravert (outward) - Introvert (inward). Getting vs. costing energy from others.

@@ -96,4 +96,3 @@ Dyadic completion. If there is a victim, then the automatic response is to assig
 | 🤡 **Leveler**    | Downplay problems                | Peace > panic          | "Just be calm"   |
 
 
-

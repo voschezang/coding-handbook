@@ -72,6 +72,16 @@ Confidence, trust, reputation
 
 <img src="img/quadrants-trust-reputation.png" alt="quadrants-trust-reputation" style="width:80%;" />
 
+## Venn Diagrams
+
+<img src="img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:40%;" />
+
+
+
+<img src="img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
+
+
+
 ## Product
 
 Outcome & impact
@@ -102,3 +112,4 @@ Roles
 
 
 
+<img src="img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />

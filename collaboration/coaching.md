@@ -257,6 +257,8 @@ Purpose: zoom in towards core values and motivation.
 
 **Qualities & Allergies**
 
+>  Each obstacle implies a strengths. 
+
 Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md) and also [personality](../psychology/personality.md).
 
 ```markdown
@@ -267,6 +269,8 @@ List of
   - Challenge: how to overcome the pittfall.
   - Allergy: the opposite of the quality.
 ```
+
+
 
 <img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="width:60%;" />
 

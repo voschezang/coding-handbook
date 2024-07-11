@@ -1,6 +1,10 @@
 # Experience
 
-Experience is an activity. It consists of feeling and thinking.
+[toc]
+
+## Overview
+
+Experience is an activity. It consists of feeling (perceiving) and thinking. Both are driven by human nature, personal desires and external stimuli. Humans have limited control over their thoughts and their behaviour.
 
 > How you feel ≠ what you feel.
 
@@ -17,8 +21,6 @@ Sensation is done with three representational systems.
 - Visual - seeing
 
 Other feelings (hunger, temperature) are left out in this model.
-
-
 
 
 
@@ -50,7 +52,27 @@ This model excludes the feedback loop.
 
 <img src="../img/attention-awareness.png" alt="attention-awareness" style="width:80%;" />
 
+Humans act as agents. See [change](../subjects/change.md).
 
+<img src="../img/desire-intent-behaviour.png" alt="desire-intent-behaviour" style="width:80%;" />
+
+
+
+There exist various models to explain experience of stimuli and sensations.
+
+- "Common sense". Physiological reaction is caused by emotion, which is caused by an intense event.
+- [James-Lange](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory). Emotion is a result of a by a physiological reaction to an intense event.
+- [Cannon-Bard](https://en.wikipedia.org/wiki/Cannon%E2%80%93Bard_theory). Emotion and arousal are affected by subcortical brain activity (reptillian brain).
+- [Schachter-Singer](https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion). Emotion is a result of appraisal of a physicological reactions to an intense event.
+
+
+
+Phases
+
+1. Sensation. Observing stimuli. Electrical signals and hormones in the human body.
+2. Perception. Registering stimuli.
+3. Attention. Becoming conscious of stimuli. Feeling, hearing or seeing.
+4. Memory. Virtual stimuli. Historical or imagined.
 
 
 

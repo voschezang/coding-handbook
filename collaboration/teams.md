@@ -23,22 +23,30 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 
 
-## Succes & Sustainability
+## Team Performance
 
-Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
+Team performance tends to flow. It will naturally go up and down over time and it is influenced by many external factors.
 
-- The satisfaction of team members. Whether members want to engage in the team. Whether they feel safe and dare to speak up.
-- Team maturity. Whether the team is stable and works empirically.
+- In extreme cases the average performance can increase or decrease to a new level.
+- Teams can try to improve continuously 
 
-
-
-<img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
+<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
 
 
 
+The performance of teams and departments is the result of three key factors.
+
+|            | Value Delivery          | Value Creation   | Value Enabling              |
+| ---------- | ----------------------- | ---------------- | --------------------------- |
+| **Core**   | Products & services     | Production       | (Organizational) Capability |
+| **Target** | Customers               | Engineering      | Social dynamics             |
+| **What**   | *Build the right thing* | *Build it right* | *Ability to build*          |
+
+<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
 
 
-### Performance
+
+### Value Delivery
 
 > Deliver value ≠ solving problems
 
@@ -51,6 +59,21 @@ A team needs to balance effectiveness, efficiency and predictability.
 Based on the broader organization, the team may be accountable to a section of a value chain. The scope of a team may be oriented towards discovery, delivery, or impact. See [results](../labour/realization.md) and [goals](../subject/goal.md).
 
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:80%;" />
+
+
+
+
+
+## Sustainability
+
+Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
+
+- The satisfaction of team members. Whether members want to engage in the team. Whether they feel safe and dare to speak up.
+- Team maturity. Whether the team is stable and works empirically.
+
+
+
+<img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
 
 
 
