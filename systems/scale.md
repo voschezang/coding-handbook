@@ -16,6 +16,8 @@ Each component has a *bounded context*. This is an internal, local model. These 
 
 
 
+
+
 **Scaling Agile**
 
 > Agile transformations are done by removing obstacles, rather than by enforcing change.
@@ -34,3 +36,11 @@ At certain scales, the structure incentivizes **local** optimizations due to the
 
 - In functional teams this could lead to strict SLAs and slow handovers.
 - In feature teams this can lead to diverging features. This increases duplication.
+
+
+
+## Product Scale
+
+See [product increments](../labour/increments.md).
+
+![product-scaling](../img/product-scaling.png)

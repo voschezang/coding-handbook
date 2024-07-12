@@ -4,6 +4,14 @@ A system or organization can be understood as a [network](https://en.wikipedia.o
 
 [toc]
 
+## Structure
+
+In theory, information flows top-down and a bottom-up.
+
+<img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
+
+
+
 ## Autonomy and Control
 
 The short-term behaviour of agents in a system determined by their *a priori* configuration and their (local) interaction. Interaction can be driven by demands or individual preferences. These interactions result in [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) and [choreography](https://en.wikipedia.org/wiki/Service_choreography), respectively. The former relies on command-driven communication that are pushed to specific agents. The latter is associated with agents that observe their surroundings and react autonomously.

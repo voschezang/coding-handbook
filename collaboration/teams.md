@@ -64,6 +64,12 @@ Based on the broader organization, the team may be accountable to a section of a
 
 
 
+In additon, value can be split up in current and potential value. The latter consists of growth and unrelalized value.
+
+<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
+
+
+
 ## Sustainability
 
 Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.

@@ -4,9 +4,21 @@ Making plans, following plans and updating plans. Also see [goals](../organizati
 
 [toc]
 
+## Overview
+
 > Plans are worthless, but planning is everything. Execution > strategy.
 
 > Good strategy means saying no.
+
+
+
+Strategy has a top-down and a bottom-up component. Plans are usually created high level, and thought out in detail down the line.
+
+Operations consists of repetition. It may involve lengthy projects and agile project increments.
+
+<img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
+
+
 
 ## Terminology
 
