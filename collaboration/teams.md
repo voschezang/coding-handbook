@@ -25,6 +25,8 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 ## Team Performance
 
+### Context
+
 Team performance tends to flow. It will naturally go up and down over time and it is influenced by many external factors.
 
 - In extreme cases the average performance can increase or decrease to a new level.
@@ -36,17 +38,17 @@ Team performance tends to flow. It will naturally go up and down over time and i
 
 The performance of teams and departments is the result of three key factors.
 
-|            | Value Delivery          | Value Creation   | Value Enabling              |
-| ---------- | ----------------------- | ---------------- | --------------------------- |
-| **Core**   | Products & services     | Production       | (Organizational) Capability |
-| **Target** | Customers               | Engineering      | Social dynamics             |
-| **What**   | *Build the right thing* | *Build it right* | *Ability to build*          |
+|            | Value Delivery          | Value Creation   | Value Enabling                |
+| ---------- | ----------------------- | ---------------- | ----------------------------- |
+| **Core**   | 📦 Products & services   | ⚙️ Production     | 🕸️ (Organizational) Capability |
+| **Target** | 👤 Customers             | 🛠️ Engineering    | ❤️‍🩹 Social dynamics            |
+| **What**   | *Build the right thing* | *Build it right* | *Ability to build*            |
 
 <img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
 
 
 
-### Value Delivery
+#### Value Delivery
 
 > Deliver value ≠ solving problems
 
@@ -70,7 +72,18 @@ In additon, value can be split up in current and potential value. The latter con
 
 
 
-## Sustainability
+#### Organizational Capability
+
+Social dynamics
+
+Factors
+
+- Team members and their dynamics. Team member satisfaction, team maturity.
+- Underlying factors: culture, principles, process
+
+<img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
+
+### Succes & Sustainability
 
 Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
 
@@ -80,6 +93,10 @@ Team performance relates to the expectations of it's functioning. It's input and
 
 
 <img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
+
+External factors
+
+- Trust. How much do stakeholders trust the team? How much transparency do they experience?
 
 
 
@@ -116,13 +133,20 @@ Two dimensions: team maturity and team performance. The former revolves around c
 
 Team maturity
 
-- Trust. Vibe. Can people sit in a room together?
-- Psychological safety. Do people address conflict?
-- Inspect & adaption of *execution* of work. Is work being done to *preserve* the organization?
-- Inspect & adaption of *improvement*. Is work being done to *expand* the organization?
-- Inspect & adaption of radical (political) *change*. Is the team able to *act* and change their identity (structure)?
+- Psychological safety
+  - Vibe. Can people sit in a room together? Are they communicating authentically?
+  - Courage. How people address conflict? Do people voice disagreement?
 
-Team performance
+- Transparancy
+  - Transparancy of expectations. Towards team members and stakeholders.
+  - Transparancy of results. Reflection of results and decisions.
+
+- Autonomy
+  - Decisiveness. Speed of decision making. Willinness to make difficult decisions.
+  - Agency. Able to implement (radical) change. Is the team able to *act* and change their identity (structure)?
+
+
+Group performance. Value delivery
 
 - Surviving. The team reacts to its environment.
 - In control. The team acts pro-actively.

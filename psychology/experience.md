@@ -121,6 +121,8 @@ Two related concepts are.
 - Your shadow. The part of yourself that is not visible. Subconscious patterns that influence your experience.
 - Your demons. Parts of yourself that act out of guilt or shame. See [chakras](mind-body.md).
 
+> Go face your demons
+
 
 
 ## Frustration and Depression
