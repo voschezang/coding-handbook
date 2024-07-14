@@ -20,6 +20,12 @@ People-oriented (who), result-oriented (what), thought-oriented (meta-how).
 
 
 
+<img src="img/triangle-intellect-emotional-organizational.png" alt="triangle-intellect-emotional-organizational" style="width:50%;" />
+
+
+
+
+
 <img src="img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
 
 <img src="img/change-management.png" alt="change-management" style="width:30%;" />

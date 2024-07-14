@@ -121,7 +121,19 @@ Two related concepts are.
 - Your shadow. The part of yourself that is not visible. Subconscious patterns that influence your experience.
 - Your demons. Parts of yourself that act out of guilt or shame. See [chakras](mind-body.md).
 
+
+
+**Demons**
+
+Demons is an analogy of the "dark" parts of the self. E.g. fears, shame, insecurities. 
+
 > Go face your demons
+
+Understanding your demons is a typical part of therapy and behavioural change. Healing involves recognizing patterns and learning new patterns.
+
+> Befriend your demons
+
+Demons do not have to be inherently bad. They can be genuine parts of the self. They often have had a benefit in certain historical situations.
 
 
 

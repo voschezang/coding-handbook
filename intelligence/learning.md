@@ -23,6 +23,18 @@ Methods. There is a massive difference between living in a culture and studying 
 
 
 
+<img src="../img/learning-knowledge-capability.png" alt="learning-knowledge-capability" style="width:50%;" />
+
+
+
+Intellectual capability consits of intellect, emotional intelligence and organizational intelligence. Having great ideas is does not imply the ability to share them. Nor to convince people to appreicate them.
+
+<img src="../img/triangle-intellect-emotional-organizational.png" alt="triangle-intellect-emotional-organizational" style="width:60%;" />
+
+
+
+
+
 Learning is as much unlearning as it is learning.
 
 - Add. Grow. Optimize further.
