@@ -42,6 +42,12 @@ Risks to individual freedom.
 
 
 
+These layers map to layers of [desire](desire.md).
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
+
+
+
 Another extreme is an organic organization. Here, the survival and thriving of the organization is valued more than it's external utility.
 
 
@@ -69,7 +75,6 @@ Power structures in organiations of society may show the following types.
   - Incentive to move up the corporate ladder.
   - E.g. the catholic church, the military, governments.
 - Meritocracy. Performance based societies. Bias for individual performance. Individuals get the responsibility to choose their own path.
-
 
 
 

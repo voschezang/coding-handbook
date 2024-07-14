@@ -80,17 +80,6 @@ See [organizational desire](desire.md).
 
 
 
-
-
-#### Component view
-
-Components can be treated a subjects or organized structures.
-
-- Subjects have two types of desires: satisfaction and improved quality. See [subjects/desire.md](subjects/desires.md).
-- Organizations have a function, lifecycle and exhibits internal dynamics.
-
-
-
 #### Component view
 
 Components can be treated a subjects or organized structures.

@@ -2,6 +2,13 @@
 
 Terms that relate to multiple documents or categories. See also [models](models.md).
 
+- Reality. Subjects and systems.
+- Abstraction of realiy. Qualities, information, metaphysics.
+
+<img src="img/reality-subjects-systems.png" alt="reality-subjects-systems" style="width:80%;" />
+
+
+
 [toc]
 
 ## Activity

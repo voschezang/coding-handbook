@@ -34,19 +34,18 @@ Types of organisms
 1. Viruses
 2. Bacteria
 3. Plants. Rhizomes.
-4. Animals. E.g. mammals. Humans
+4. Animals. E.g. mammals, humans.
 
 
 
 **Social structures**
 
 1. [Symbiosis](https://en.wikipedia.org/wiki/Symbiosis). E.g. [pollination](https://en.wikipedia.org/wiki/Pollination).
-2. Family
-3. [Kinship](https://en.wikipedia.org/wiki/Kinship)
+2. Families, [kin](https://en.wikipedia.org/wiki/Kinship).
 4. Businesses
-5. Society
-6. Culture
-7. Nation
+5. Societies
+6. Cultures
+7. Nations
 8. Ecosystems
 
 

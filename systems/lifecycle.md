@@ -26,7 +26,7 @@ The scale and direction tends to vary. Organizations may have a fractal structur
 
 These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Note the similarity with [individual desires](../psychology/desire.md).
 
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="zoom:50%;" />
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:70%;" />
 
 
 
