@@ -5,7 +5,9 @@ Terms that relate to multiple documents or categories. See also [models](models.
 - Reality. Subjects and systems.
 - Abstraction of realiy. Qualities, information, metaphysics.
 
-<img src="img/reality-subjects-systems.png" alt="reality-subjects-systems" style="width:80%;" />
+<img src="img/reality-subjects-systems.png" alt="reality-subjects-systems" style="width:90%;" />
+
+<img src="img/reality-abstraction-qualiy-meta.png" alt="reality-abstraction-qualiy-meta" style="width:50%;" />
 
 
 
