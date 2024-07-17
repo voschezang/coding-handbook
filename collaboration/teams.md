@@ -25,63 +25,9 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 ## Team Performance
 
-### Context
-
-Team performance tends to flow. It will naturally go up and down over time and it is influenced by many external factors.
-
-- In extreme cases the average performance can increase or decrease to a new level.
-- Teams can try to improve continuously 
-
-<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
+See [team performance](team-performance).
 
 
-
-The performance of teams and departments is the result of three key factors.
-
-|            | Value Delivery          | Value Creation   | Value Enabling                |
-| ---------- | ----------------------- | ---------------- | ----------------------------- |
-| **Core**   | 📦 Products & services   | ⚙️ Production     | 🕸️ (Organizational) Capability |
-| **Target** | 👤 Customers             | 🛠️ Engineering    | ❤️‍🩹 Social dynamics            |
-| **What**   | *Build the right thing* | *Build it right* | *Ability to build*            |
-
-<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
-
-
-
-#### Value Delivery
-
-> Deliver value ≠ solving problems
-
-In general, a team aims to deliver *value* to stakeholders. The definition of value may change over time and depends on the needs of the stakeholders.
-
-A team needs to balance effectiveness, efficiency and predictability.
-
-<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
-
-Based on the broader organization, the team may be accountable to a section of a value chain. The scope of a team may be oriented towards discovery, delivery, or impact. See [results](../labour/realization.md) and [goals](../subject/goal.md).
-
-<img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:80%;" />
-
-
-
-
-
-In additon, value can be split up in current and potential value. The latter consists of growth and unrelalized value.
-
-<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
-
-
-
-#### Organizational Capability
-
-Social dynamics
-
-Factors
-
-- Team members and their dynamics. Team member satisfaction, team maturity.
-- Underlying factors: culture, principles, process
-
-<img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
 
 ### Succes & Sustainability
 

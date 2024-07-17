@@ -6,11 +6,19 @@ Note: This document covers the activity management, rather than the organization
 
 ## Overview
 
-Management is about *facilitating* the delivery of value. E.g. creating an environment where resources can produce value. The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
+Management involves responsibility of a *subject*: e.g. a system, organization, project or product. This subject is functioning within an *environment*: e.g. a market or organization.
 
->  Good management is situational
+> Good management is situational
 
-Management involves a *subject*: e.g. a system, organization, project or product. In addition, this subject is functioning within an *environment*: e.g. a market or organization.
+The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value. The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
+
+
+
+### Succes
+
+See [team performance](../collaboration/team-performance).
+
+<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:50%;" />
 
 
 
@@ -21,8 +29,6 @@ Management involves a *subject*: e.g. a system, organization, project or product
 In theory, effectiveness is most strongly influenced by responsiveness and stakeholder concern. The latter factors are influenced by team autonomy and continuous improvement. Management support influences all factors, but indirectly.
 
 <img src="../img/effectiveness-factors.png" alt="effectiveness-factors" style="width:80%;" />
-
-
 
 
 
@@ -58,15 +64,9 @@ This loops requires three competencies: perception, decision making and communic
 
 Fundamentally, the functioning of a system follows the following phases.
 
-1. **Planning**.
+1. **Planning**. Making plans.
 2. **Execution**. I.e. following plans.
 3. **Adapting**. Not following plans. E.g. changing the direction or position of the system.
-
-
-
-#### Autonomy
-
-When the components in a system are autonomous
 
 
 
@@ -351,7 +351,22 @@ Typical solutions: ship orders in increments, vertical integration, store resour
 
 
 
-## Management per Type
+## Management Roles
+
+A general manager may be accountable for "everything". In large organizations, this accountability is split up to dedicated roles.
+
+| Role                        | Accountability                         | Context                       |
+| --------------------------- | -------------------------------------- | ----------------------------- |
+| Context manager             | Positioning of a system or department. | Stakeholders & customers      |
+| Delivery manager            | Value delivery.                        | Customers, resources, chains  |
+| Engineering manager         | Engineering quality & predictability.  | Technology & capability       |
+| People manager              | Capability of employees.               | Performance & well-being      |
+| Project (portfolio) manager | A set of projects                      | Time, scope, cost, risks      |
+| Product manager             | Product value. Vision and realization. | Discovery & delivery of value |
+
+
+
+## Management Types
 
 Levels
 
@@ -364,6 +379,8 @@ Levels of assignments
 - Execute a plan
 - Develop a plan / find a solution to a given problem
 - Discover the right problem
+
+
 
 **Change Management**
 

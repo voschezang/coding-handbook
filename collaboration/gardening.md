@@ -59,13 +59,6 @@ See [teams](teams.md).
 
 <img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
 
-## Persona's
-
-- Old guard. Been around for a while. Is already connected. Conservative.
-- New guard. Fresh eyes. Eager. Make new connections. Progressive.
-- Senior team member. Interested in planning. Has learned from mistakes.
-- Junior team member. Interested in proving themselves. Still has to learn.
-
 
 
 ## References

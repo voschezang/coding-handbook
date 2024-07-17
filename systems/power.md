@@ -1,5 +1,7 @@
 # Power
 
+See also [control](../control.md).
+
 Decisions are made and forwarded according to a [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy). This power structure may be:
 
 - Explicit or implicit.

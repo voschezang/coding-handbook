@@ -6,7 +6,25 @@ https://retromat.org/en/
 
 [toc]
 
-**Purpose**
+## Overview
+
+Purpose
+
+- Activation. Align on a desire for change (improve).
+- Motivation. Inspire each other. Confirm the current direction.
+- Inclusion. Connect to each other. Relate to each other.
+
+
+
+Methods
+
+- Reflect on past results
+- Reflect on decision making an commitments
+- Reflect on teamwork and collaboratation.
+
+
+
+Purpose (2)
 
 - Reflect /  inspect
 - Connect to each other as a team. Explore:
@@ -16,7 +34,7 @@ https://retromat.org/en/
 
 
 
-**Principles**
+Principles
 
 - Use a warmup exercise to set the mood. Manage expectations.
 - Use multiple time-boxed exercises to stimulate a good balance of going wide and going deep.

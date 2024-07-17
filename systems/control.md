@@ -19,6 +19,12 @@ Similar to [light](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality),
 
 
 
+Rules have (un)expected side effects. Incentives are designed for side-effects. This is similar to positional chess strategies, where you think 3 steps ahead. Incentives focus on improving the likelihood of desired behaviour.
+
+
+
+<img src="../img/rules-incentives-results.png" alt="rules-incentives-results" style="height:24em;" />
+
 ### Particle view
 
 Control specific objects. Move them exactly where you want them to be.
