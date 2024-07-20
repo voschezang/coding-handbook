@@ -109,6 +109,12 @@ In an organization, these may be combined in a single information management sys
 
 ![purpose-discovery](../img/purpose-discovery.png)
 
+
+
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
+
+
+
 **Separation of roles**
 
 Activities

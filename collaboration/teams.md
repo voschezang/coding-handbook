@@ -29,6 +29,10 @@ See [team performance](team-performance).
 
 <img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
 
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
+
+
+
 External factors
 
 - Trust. How much do stakeholders trust the team? How much transparency do they experience?
