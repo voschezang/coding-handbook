@@ -105,6 +105,8 @@ In an organization, these may be combined in a single information management sys
 
 ![goals-to-plans](../img/goals-to-plans.png)
 
+
+
 ![purpose-discovery](../img/purpose-discovery.png)
 
 **Separation of roles**

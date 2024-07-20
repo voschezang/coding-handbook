@@ -57,7 +57,7 @@ Transparency, inspection and adaption. See [empiricism](../intelligence/empirici
 
 See [teams](teams.md).
 
-<img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
 
 
 

@@ -10,11 +10,6 @@ A team is a group of individuals that works together with a specific purpose. Th
 
 Decision making may happen by agreement, consensus or hierarcy. It can be reactive or pro-active.
 
-Typical roles are:
-
-- A leader and followers.
-- Juniors and seniors.
-
 
 
 > Authority implies responsibility.
@@ -25,20 +20,14 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 ## Team Performance
 
-See [team performance](team-performance).
-
-
-
-### Succes & Sustainability
-
 Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
 
 - The satisfaction of team members. Whether members want to engage in the team. Whether they feel safe and dare to speak up.
 - Team maturity. Whether the team is stable and works empirically.
 
+See [team performance](team-performance).
 
-
-<img src="../img/pyramid-team-performance-satisfaction.png" alt="pyramid-team-performance-satisfaction" style="width:60%;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
 
 External factors
 
@@ -49,27 +38,6 @@ External factors
 ### Health
 
 Psychological safety is not an absense of conflict, but rather the ability to address it.
-
-#### Success
-
-*What make a team good?*
-
-The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
-
-1. **Vibe**. There is a pleasant vibe in the team. You can feel that the team is happy. Usually this requires physiological safety.
-2. **Expectations**. There is *transparency* on expectations. This includes expectations from stakeholders and from team members themselves.
-3. **Team results**. There is *transparency* and reflection on on team results. They are compared to original goals.
-4. **Resilience**. The team is able to deal with setbacks.
-
-In addition, there are more fine grained signals:
-
-- Individual team members are content within their team and with each other. The team works in harmony.
-- There is transparency w.r.t. work, roles and responsibility.
-- Conflict is addressed openly.
-- The team takes ownership of short- and long-term goals.
-- There is accountability of results.
-- Stakeholders trust the team.
-- Team members find purpose or meaning in their work.
 
 
 
@@ -125,8 +93,6 @@ Reflect:
 - Is there a shared goal?
 - Is there miscommunication?
 - Are risks transparent?
-
-
 
 
 

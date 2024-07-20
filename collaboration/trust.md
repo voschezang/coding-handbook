@@ -45,3 +45,19 @@ Trust consists of reliability and integrity.
 
 
 <img src="../img/intent-impact-effect.png" alt="intent-impact-effect" style="width:40%;" />
+
+
+
+## Safety
+
+Psychological safety is both necessary at a human level and a organiational level. It helps the latter in having productive discussions and transparancy.
+
+
+
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
+
+Stories (inspirational)
+
+-  [The Power of Authenticity: Mike Robbins](https://www.youtube.com/watch?v=d4iFAAUscVA)
+-  [The power of vulnerability | Brené Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o)
+

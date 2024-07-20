@@ -1,10 +1,57 @@
 # Team Performance
 
-Team performance consists of the delivery of value, now and in the future. It touches the capability to keep doing this, even when the environment changes. This document emphasises value delivery. See [teams](teams.md) for other factors, such as team maturity, team satisfaction and the team's environment.
+Team performance is complex and controversial concept. Comparing the performance of different teams is difficult. It is a mix of value delivery, productivity and capability. See [teams](teams.md) for other factors, such as team health, maturity and satisfaction.
 
 [toc]
 
 ## Overview
+
+Team performance focusses on production: planning and execution. It makes uses of capabilities to deliver a service to a customer that benefits from it. For businesses this results in profit.
+
+<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="width:80%;" />
+
+Striclty speaking, **performance** is captured by productivity and the quality of the product. Capability can be measured by *agility*: the speed at which the organization can realize new ideas and deliver results. It consists of organizational capability and technical capability.
+
+- Team **succes** can be defined as a mix of performance and team health (satisfaction).
+
+|                   | ⚙️ Capability                                                 | 📦 Production                                                 | 👤 Delivery            |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
+| **Key factor**    | Agility, Maturity                                            | Productivity                                                 | Value                 |
+| **Key metric**    | Lead time ([TTM](https://en.wikipedia.org/wiki/Time_to_market)) | Flow                                                         | Revenue (ROI)         |
+| **Other metrics** | Decisiveness                                                 | Throughput, [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair) | Customer satisfaction |
+| **Ideal growth**  | Linear                                                       | Stable                                                       | Exponential           |
+
+
+
+The following roles provide **accountability**:
+
+- Product manager. *Build the right thing.* *What is produced.*
+- Engineers. *Build it right.* *How it is produced*
+
+
+
+## Succes
+
+The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
+
+1. **Vibe**. There is a pleasant vibe in the team. You can feel that the team is happy. Usually this requires physiological safety.
+2. **Expectations**. There is *transparency* on expectations. This includes expectations from stakeholders and from team members themselves.
+3. **Team results**. There is *transparency* and reflection on on team results. They are compared to original goals.
+4. **Resilience**. The team is able to deal with setbacks.
+
+In addition, there are more fine grained signals:
+
+- Individual team members are content within their team and with each other. The team works in harmony.
+- There is transparency w.r.t. work, roles and responsibility.
+- Conflict is addressed openly.
+- The team takes ownership of short- and long-term goals.
+- There is accountability of results.
+- Stakeholders trust the team.
+- Team members find purpose or meaning in their work.
+
+
+
+## Improvement
 
 > Team performance converges
 
@@ -16,18 +63,6 @@ This inherent instability is what makes it important to strive for continuous im
 
 
 
-The performance of teams and departments is the result of three key factors.
-
-|                    | Value Delivery                      | Value Creation                                               | Value Enabling                                               |
-| ------------------ | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Core**           | 📦 Products & services               | ⚙️ Production                                                 | 🕸️ (Organizational) Capability                                |
-| **Intent**         | *Build the right thing*             | *Build it right*                                             | *Ability to build*                                           |
-| **Accountability** | The value chain                     | Quality of products                                          | Ability to *act*                                             |
-| **Metrics**        | Revenue, ROI, customer satisfaction | [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair), deployment frequency | [TTM](https://en.wikipedia.org/wiki/Time_to_market), organizational health |
-| **Growth**         | ↗️ Monotonic growth, acceleration    | ➡️ Operate with constant velocity                             | 🔄 Shift direction. Stay aligned.                             |
-| **Result**         | *What is produced*                  | *How it is produced*                                         | *Capability to produce*                                      |
-| **Focus**          | Outcome, predictability             | Throughput & quality                                         | Adaptability, coordination                                   |
-
 Note that good metrics depends on the context. Metrics such as output (volume), resource utilization and number of incidents are considered anti-patterns.
 
 <img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
@@ -37,24 +72,24 @@ Note that good metrics depends on the context. Metrics such as output (volume), 
 Typical phases of each factor.
 
 - Value delivery evolves form producing something to producing something valuable, consistently, in line with organizaitonal strategy.
-- Value production evolves from firefighting to strategic production.
+- Value production evolves from firefighting to strategic production. Move from firefighting hats to cowboy hats to engineering hats.
 - Organizational capability evolves from reacting to change to pro-actively adapting.
 
 
 
 ![performance-delivery-production-capability](../img/performance-delivery-production-capability.png)
 
-
-
-### A Machine
-
-Value creation and organizational capability aim to form a well-oiled machine. A product manager aims to utilize this machine to realize a vision, which results in value for customers.
-
-<img src="../img/production-outcome.png" alt="production-outcome" style="width:30em;" />
+Organizational capability is closely related to team maturity. They emphasise different sides of collaboration and resilience.
 
 
 
-## Value Delivery
+Any two dimensions can be visualized in a map.
+
+![map-team-maturity-performance](../img/map-team-maturity-performance.png)
+
+## Dimensions
+
+### Value Delivery
 
 > Deliver value ≠ solving problems
 
@@ -62,7 +97,7 @@ In general, a team aims to deliver *value* to stakeholders. The definition of va
 
 <img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
 
-### Discovery & Delivery
+#### Discovery & Delivery
 
 Delivery is contingent on a good view of what would be valuable. Product delivery is preceded by product *discovery*. See [results](../labour/realization.md) and [goals](../subject/goal.md).
 
@@ -72,7 +107,7 @@ Delivery is contingent on a good view of what would be valuable. Product deliver
 
 
 
-### Delivery Methods
+#### Delivery Methods
 
 Delivery of value entails effectiveness, efficiency and predictability.
 
@@ -86,15 +121,11 @@ Delivery is usually done by completing projects. Projects have a duration, scope
 
 
 
-## Value Creation
+### Capability
 
-Value creation could involve anything that is necessary to provide a product or service. A typical example is engineering.
+Capability consists of organizational capability and technological capability.
 
-
-
-## Organizational Capability
-
-Organizational capability considers the individual team and the organization that it is a part of. This includes team maturity and agility. It may cover the dynamics between team members, their development and thier satisfaction.
+- Organizational capability considers the individual team and the organization that it is a part of. This includes team maturity and agility. It may cover the dynamics between team members, their development and thier satisfaction.
 
 
 

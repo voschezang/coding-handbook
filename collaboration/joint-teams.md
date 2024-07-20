@@ -6,14 +6,14 @@ Diversity includes
 
 - Diversity in maturity. E.g. junior and senior team members. Old and new guard.
 - Diversity expertise. A cross-functional or multi-disciplinary team.
-- Diversity in personality and culture.
+- Diversity in personality and culture. People that are goal-oriented, thought-oriented and relation-oriented. 
 
 
 
 Benefits of diversity
 
-- Team members will learn from others. This incentivizes personal (profressional) development.
-- Team members will help others. This contributes to a feeling of competence.
+- Team members will learn from others. This incentivizes personal (profressional) development. And they'll learn to trust team members.
+- Team members will help others. People will see the impact of their effort.
 - Team members get  see others fail and learn. This contributes to a growth mindset.
 - Teaching junior members creates self-awareness and incentivizes questioning old patterns.
 - Cognitive diversity reduced tunnel vision and boosts innovation.
