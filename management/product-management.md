@@ -1,6 +1,6 @@
 # Product Management
 
-This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It excludes [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
+This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
 
 [toc]
 
@@ -8,13 +8,47 @@ This document explores the management of [products and projects](../labour/produ
 
 Product management revolves around:
 
-1. Designing a product vision and strategy.
-2. Discovering the market fit. Understanding the users and customers.
-3. Delivering the product customers. 
+1. **Designing** a product (business) vision.
+2. **Discovering** the market fit. Understanding the users and customers.
+3. **Delivering** the product to customers. 
 
-It requires continuous collaborating with specialists.
+At the same time, it consists of collaborating with partners and managing production.
 
 
+
+### Contextual View
+
+Running a business involves collaboration and [management](https://en.wikipedia.org/wiki/Business_Model_Canvas).
+
+- It is centered around a **value proposition**.
+- **Activity**. Coordinating partners and resources in order to realize the proposition.
+- **Channels**. Delivering to customers. Developing relationships with customers.
+
+
+
+<img src="../img/grid-business-partners-customers-value.png" alt="grid-business-partners-customers-value" style="width:70%;" />
+
+
+
+### Internal View
+
+Value delivery is the result of realization of a vision. See [performance](../collaboration/team-performance.md).
+
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
+
+Value delivery is contingent upon production and capability.
+
+<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
+
+
+
+[Discovery](../labour/discovery.md) and [delivery](../labour/realization.md) involve [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
+
+<img src="../img/prototype-to-release.png" alt="prototype-to-release" style="width:90%;" />
+
+
+
+## Project Management
 
 **From project to product**
 
