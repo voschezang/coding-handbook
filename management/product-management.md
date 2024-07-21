@@ -32,6 +32,8 @@ Running a business involves collaboration and [management](https://en.wikipedia.
 
 ### Internal View
 
+<img src="../img/production-outcome.png" alt="production-outcome" style="height:4em;" />
+
 Value delivery is the result of realization of a vision. See [performance](../collaboration/team-performance.md).
 
 <img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
@@ -40,15 +42,43 @@ Value delivery is contingent upon production and capability.
 
 <img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
 
+Value is a mix of direct value and growth.
+
+<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
 
 
-[Discovery](../labour/discovery.md) and [delivery](../labour/realization.md) involve [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
-
-<img src="../img/prototype-to-release.png" alt="prototype-to-release" style="width:90%;" />
 
 
 
-## Project Management
+## Value Delivery
+
+Value delivery can be understood in two directions. See [delivery](../labour/realization.md).
+
+**1.** Ideas guide production, which results in increments, which are delivered to users, which provides them value, which results in profit.
+
+<img src="../img/output-outcome-impact.png" alt="output-outcome-impact-project" style="width:80%;" />
+
+
+
+**2.** Ideas guide target conditions, which guide planning, which results in initiatives, which result in execution. 
+
+
+
+![output-outcome-impact-reversed](../img/output-outcome-impact-reversed.png)
+
+See also [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
+
+
+
+### How
+
+<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
+
+
+
+## Background
+
+### Project Management
 
 **From project to product**
 
@@ -72,7 +102,7 @@ In uncertain environments, projects will usually fail to meet either time, cost 
 
 
 
-## Strategy
+### Strategy
 
 Ansoff's matrix. Product-Market Expansion Grid. Uncertainty increases from top-left to the bottom-right.
 
@@ -95,7 +125,7 @@ Philosophy
 
 
 
-## Background
+### Terminology
 
 **Software as a service**
 
@@ -196,11 +226,13 @@ A product that is kept alive for political or personal reasons rather than marke
 - What patterns do you see developing?
 - Where would you focus more/less on?
 
-### Possible Processes from Idea to Implementation
 
-From objective to discovery to delivery. Note that these phases could happen in parallel.
 
-Formal steps
+### Realization Processes
+
+From objective to discovery to delivery.
+
+**Formal steps**
 
 1. Initial idea.
 2. Let it grow. Re-think it or share it with other people.

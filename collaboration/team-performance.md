@@ -32,6 +32,20 @@ There are many other roles. E.g. problem solving, removing impediments and coach
 
 
 
+### Value Delivery
+
+>  Deliver value ≠ solving problems
+
+Delivery is contingent on a good view of what would be valuable. Product delivery is preceded by product *discovery*. See [results](../labour/realization.md) and [goals](../subject/goal.md).
+
+In general, a team aims to deliver *value* to stakeholders. The definition of value is context-dependent. There can be an emphasis on current or potential value. The latter consists of growth and unrelalized value. See [realization](../labour/realization.md).
+
+<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
+
+
+
+
+
 ## Succes
 
 The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
@@ -50,6 +64,48 @@ In addition, there are more fine grained signals:
 - There is accountability of results.
 - Stakeholders trust the team.
 - Team members find purpose or meaning in their work.
+
+
+
+### Cost of Succes
+
+Succes has several risks. It is not guaranteed to be sustainable. 
+
+- The nature of these risks can be either long-term consequences or immediate side-effects.
+
+- It can result in increased stress, competition and stagnation.
+
+
+
+#### Risks
+
+**Immediate issues**, as side-effect of succeeding.
+
+- Effects on employees
+  - Alienation due to standardization and scale. Less personal involvement and care.
+  - More responsibility due to the organization depending on the product.
+  - More responsibility due to customers depending on the product.
+  - Declining collaboration, due to increased competition of team members..
+- Technical problems
+  - Security and compliance issues after changing too rapidly.
+
+
+
+Limited **sustainability**. Lower agility, higher operating cost.
+
+- Business agility
+
+  - Decreased profitability after attracting competitors.
+  - Inability to adapt to market changes, after over-indexing on a specific solution.
+  - Becoming extremely conserative and risk-averse, after reaching a local optimum.
+
+- Mismatch in capability
+
+  - Higher expectations of the team from management.
+  - Higher expectations of the product from customers.
+
+  - Technical debt after prioritizing short term performance over long term performance.
+  - Higher complexity. Higher maintenance cost.
 
 
 
@@ -89,41 +145,9 @@ Any two dimensions can be visualized in a map.
 
 ![map-team-maturity-performance](../img/map-team-maturity-performance.png)
 
-## Dimensions
-
-### Value Delivery
-
-> Deliver value ≠ solving problems
-
-In general, a team aims to deliver *value* to stakeholders. The definition of value is context-dependent. There can be an emphasis on current or potential value. The latter consists of growth and unrelalized value.
-
-<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
-
-#### Discovery & Delivery
-
-Delivery is contingent on a good view of what would be valuable. Product delivery is preceded by product *discovery*. See [results](../labour/realization.md) and [goals](../subject/goal.md).
 
 
-
-<img src="../img/prototype-to-release.png" alt="prototype-to-release" style="width:90%;" />
-
-
-
-#### Delivery Methods
-
-Delivery of value entails effectiveness, efficiency and predictability.
-
-<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
-
-
-
-Delivery is usually done by completing projects. Projects have a duration, scope and cost.
-
-<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="height:15em;" />
-
-
-
-### Capability
+## Capability
 
 Capability consists of organizational capability and technological capability.
 
