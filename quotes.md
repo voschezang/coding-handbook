@@ -46,6 +46,7 @@ Note that the validity of the following statements is dependent on certain *impl
 
 * Assembly of Japanese bicycle [require](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) great peace of mind.
 * [Quality](https://en.wikipedia.org/wiki/Aesthetics) cannot be defined, but we all know what it is.
+* [Succes](collaboration/team-performance.md) is in the past.
 * Stylized products [look](https://en.wikipedia.org/wiki/Fa%C3%A7ade) like they're made with care.
 * Investment implies discomfort.
 * Being poor is expensive. Limited access to resources prohibits the use long-term investments.
@@ -100,6 +101,7 @@ Note that the validity of the following statements is dependent on certain *impl
 ### Focus
 
 - Solving problems > delivering more functionality.
+- Performance is not about [metrics](collaboration/team-performance.md).
 - Patience ≠ doing nothing
 - Subtract to add. [Narrow](https://en.wikipedia.org/wiki/Scope_creep) your focus. Doing less means you can do more of what's left.
 - Add one, lose two.
@@ -148,6 +150,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - The past does not exist.
 - What I like most about vinyl is the cost and inconvenience.
 - Learning implies unlearning.
+- I don’t want to disrupt this silence.
 
 ## Leisure
 
@@ -157,6 +160,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * The best intelligence test is what we do with our leisure.
 * Time is a game played beautifully by children.
 * My TV isn't HD that's too real.
+* Once you let go of music being correct, you can do whatever you want.
 
 ## Software Engineering
 

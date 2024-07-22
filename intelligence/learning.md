@@ -43,6 +43,12 @@ Learning is as much unlearning as it is learning.
 
 
 
+> You don’t learn bowling by studying guardrails.
+
+Skills are developed by incremental succes. E.g. repeatedly failing and getting up. A teacher should encourage students, rather than telling them what not to do.
+
+
+
 > Knowledge is both a vehicle and a cage.
 
 Knowledge is baggage. The more knowledge one has, the more difficult is to appreciate something that is not in line with that knowledge.

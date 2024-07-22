@@ -44,7 +44,13 @@ Experience
 
 
 
+## Pyramids
+
 <img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
+
+<img src="img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:70%;" />
+
+<img src="img/pyramid-organiational-desire.png" alt="pyramid-organiational-desire" style="width:60%;" />
 
 
 

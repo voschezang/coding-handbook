@@ -66,6 +66,12 @@ Frame topics as questions. E.g. "How will we approach this?" rather than *"Metho
 
 A *product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/Product_(business)) and [services](https://en.wikipedia.org/wiki/Service_(economics)) that are used by a *user* and paid for by a *customer*. The *stakeholder* supports the products and aims to eventually profit it, either financially or in some other way. The product is usually build and delivered by employees of an organization. The product is optimized for a target market, but can also be delivered to a boundary market.
 
+> “The product” does not exist
+
+It is a simplification of all the different services that create value. The product is not a constant, it changes over time. It evolves, together with the environment.
+
+
+
 In order to be valuable a product should be usable and feasible to build. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA.
 
 <img src="../img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:45%;" />

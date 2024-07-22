@@ -19,7 +19,7 @@ Striclty speaking, **performance** is captured by productivity and the quality o
 | **Key factor**    | Agility, Maturity                                            | Productivity                                                 | Value                 |
 | **Key metric**    | Lead time ([TTM](https://en.wikipedia.org/wiki/Time_to_market)) | Flow                                                         | Revenue (ROI)         |
 | **Other metrics** | Decisiveness                                                 | Throughput, [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair) | Customer satisfaction |
-| **Ideal growth**  | Linear                                                       | Stable                                                       | Exponential           |
+| **Ideal growth**  | Incrementally                                                | Stable average                                               | Exponential           |
 
 
 
@@ -42,11 +42,21 @@ In general, a team aims to deliver *value* to stakeholders. The definition of va
 
 <img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
 
-
+Theoretically value can grow indefinitely. In practice growth accelerates and then slows down.
 
 
 
 ## Succes
+
+> Performance is not about metrics.
+
+While it is useful to find metrics that correlate with succes, metrics are never the goal.
+
+> Succes is in the past.
+
+Past succes can be measurable. Succes in the current moment is a prediction (estimation)
+
+
 
 The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
 
@@ -152,6 +162,8 @@ Any two dimensions can be visualized in a map.
 Capability consists of organizational capability and technological capability.
 
 - Organizational capability considers the individual team and the organization that it is a part of. This includes team maturity and agility. It may cover the dynamics between team members, their development and thier satisfaction.
+- Technological capability increases by finishing increments of work. Growth is limited by maintainability and operating cost.
+- Organizational capability is the result of social dynamics. It can be increased by streamlining, restructuring or expanding the organization
 
 
 
