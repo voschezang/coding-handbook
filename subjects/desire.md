@@ -61,6 +61,8 @@ Difference in quality. More pleasure, less pain. Now as well as in the future.
   - Excitement. Energy. Arousal. Surprise.
 
 - 📉 Less pain. Avoiding unpleasant feelings. Avoiding discomfort, frustration.
+  - Dissociate or mitigate. E.g. not paying attention.
+
 
 **Position**. Expectations on how you will feel in the future.
 

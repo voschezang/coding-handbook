@@ -16,6 +16,12 @@ At the same time, it consists of collaborating with partners and managing produc
 
 
 
+Two perspectives are a contextual view and an internal view. These map to the value and production chains.
+
+<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="height:15em;" />
+
+
+
 ### Contextual View
 
 Running a business involves collaboration and [management](https://en.wikipedia.org/wiki/Business_Model_Canvas).

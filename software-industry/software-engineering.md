@@ -168,6 +168,16 @@ Rely on unit-tests (checks) to verify that requirements or specifications are me
 **Anti-pattern**
 Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are slow, unmaintainable and too sensitive.
 
+#### System Verification
+
+❤️‍🩹 Is the system **healthy**? Is it degrading?
+
+⌛ How **soon** will we know? How are we notified?
+
+👀 Are we **aware** of all components (and roles)?
+
+🛠️ Are we **in control**? Is the system manageable? Are we able to deploy changes?
+
 ### Other Metrics
 
 - Lead time

@@ -6,6 +6,8 @@ Team performance is complex and controversial concept. Comparing the performance
 
 ## Overview
 
+### Production Flow
+
 Team performance focusses on production: planning and execution. It makes uses of capabilities to deliver a service to a customer that benefits from it. For businesses this results in profit.
 
 <img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="width:80%;" />
@@ -23,12 +25,23 @@ Striclty speaking, **performance** is captured by productivity and the quality o
 
 
 
+### Roles
+
+There are two main accountabilities: the value chain and the production chain. These focus on  delivering value and production quality, respectively.
+
+<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="height:15em;" />
+
 The following roles provide **accountability**:
 
 - Product manager. *Build the right thing.* *What is produced.*
 - Engineers. *Build it right.* *How it is produced*
 
-There are many other roles. E.g. problem solving, removing impediments and coaching.
+
+
+In addition, there are many **activities** that create value. 
+
+- Creation. E.g. design, development.
+- Enabling. E.g. coaching, removing impediments.
 
 
 
