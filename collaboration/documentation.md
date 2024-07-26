@@ -17,7 +17,7 @@ Respect the audience.
 
 ## Scalable Status Updates
 
-The consider the following modes of scaling. See [communication patterns](systems/communication-patterns.md).
+Consider the following modes of scaling. See [communication patterns](systems/communication-patterns.md).
 
 1. One-to-many. E.g. an employer to employees.
 2. Many-to-one. E.g. an employee to an employer or manager.
@@ -35,7 +35,7 @@ The consider the following modes of scaling. See [communication patterns](system
 
 > You can write a weekly update in 7 days.
 
-- Write down signals during the week. Investigate the most relevant or urgent ones.
+- Write down signals during the week. Discuss these these and determine which are the most relevant.
 - After each week, select the most relevant signals and ideas.
 
 **Style / Tone**
@@ -44,18 +44,18 @@ The consider the following modes of scaling. See [communication patterns](system
 
 1. Start with the core message - from a high level. E.g. a single sentence (hook).
 
-2. If desired, add additional 
+2. Use appreciation. Use an optimistic style. Think in opportunities. Be liberal in giving compliments.
 
-3. Then, list positive and neutral points. Be liberal in giving compliments.
+3. Finally, consider problems or risks.
 
-4. Finally, list negative points and risks briefly but objectively. *Decouple* objective events from opinion and speculation.
+   1. Do this objectively. *Decouple* objective events from opinion and speculation.
 
-   1. Leave the solution open. Avoid converging into a single solution (tunnel-vision). E.g.:
+4. Leave the solution open. Avoid converging into a single solution (tunnel-vision). E.g.:
 
-      ```markdown
-      - "I'm thinking about this ~~initiative~~ outcome."
-      - "There are at least 3 directions to change this."
-      ```
+   ```markdown
+   - "I'm thinking about this ~~initiative~~ outcome."
+   - "There are at least 3 directions to change this."
+   ```
 
 ## Template: One-to-many
 

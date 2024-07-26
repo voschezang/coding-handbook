@@ -1,5 +1,7 @@
 # Leadership
 
+Leadership is the ability to connect, in the context of an organization. Communication [styles](communication-styles.md) play a huge role, whether in-person or [textual](documentation.md).
+
 
 
 ## Types
@@ -9,8 +11,6 @@ Two extreme leadership styles are authoritative and surrendered leadership.
 - The former finds strength in power and control. It values conformity.
 - The latter finds strength in courage and empowerment. It values diversity (difference).
 
-Also see [gardening](gardening.md).
-
 |                 | **Authoritative**                   | Surrendered                            |
 | --------------- | ----------------------------------- | -------------------------------------- |
 | **Core**        | Power                               | Empowerment (trust)                    |
@@ -18,6 +18,13 @@ Also see [gardening](gardening.md).
 | **Behaviour**   | Control, command, challenge         | Encourage, incentivize, facilitate     |
 | **Personality** | Assertive, confident, goal-oriented | Authentic, courage                     |
 | **Environment** | Competitive                         | Collaborative                          |
+
+
+
+Minimal inteference. See [gardening](gardening.md).
+
+- Guard rails make it easier to trust people to act autonomously.
+- Acceptance of the present. Not trying to fix everything or coach everyone.
 
 
 

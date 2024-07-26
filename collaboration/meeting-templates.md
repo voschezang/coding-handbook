@@ -10,7 +10,7 @@
 
 ```markdown
 ⭐ **Purpose**
-Develop a shared understanding of ...
+Develop a shared understanding of _subject_.
 
 🚀 **Outcome**
 Record the story-chain: the goal and the path towards it.
@@ -35,11 +35,10 @@ Any background on the topic.
 
 ```markdown
 ⭐ **Purpose** 
-Develop a shared understanding about the plan and its context.
+Develop a shared understanding about the plan for _subject_.
 
 🚀 **Outcome**
 Record the result of a conversation (key points).
-
 
 📅 **Agenda**
 For each story:
@@ -58,7 +57,7 @@ For each story:
 
 ```markdown
 ⭐ **Purpose** 
-Take a moment to stand still. Slow down. Reconsider what we are doing.
+Take a moment to stand still. Reconsider what we are doing.
 
 🚀 **Outcome**
 Shared understanding of ...

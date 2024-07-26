@@ -459,6 +459,30 @@ Types
 
 ### Expectation management
 
+Tool
+
+1. What *do* you expect?
+2. This is what you *can* expect. This is what *we* will do.
+
+
+
+Overview
+
+- Discuss problems or opportunities (strengths). What stands out.
+- Discuss change. What stand out over time.
+- Check expectations. What do you expect?
+- Check desires. What would be a great result?
+
+
+
+Narrative
+
+- Communication per day, week, month and year.
+
+
+
+#### Dual approach
+
 Ensure expectations are aligned at the beginning.
 
 - Under-promise (and over-deliver) to stakeholders. Avoid uncertainty and build trust.
@@ -468,11 +492,6 @@ Ensure expectations are aligned at the beginning.
 - Over-promise internally, in order to motivate employees.
   - Include a *short-term* planning, that is specific. Include *full* requirements.
   - In addition, prefer learning over blaming.
-
-Technique:
-
-1. What *do* you expect?
-2. This is what you *can* expect. This is what *we* will do.
 
 
 
