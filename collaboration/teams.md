@@ -18,13 +18,9 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 
 
-### Team Success
+### Team Performance
 
 A successful team is happy, stable and effective. See [team success](team-success.md).
-
-
-
-### Team Performance
 
 Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
 

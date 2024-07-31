@@ -6,13 +6,6 @@
 
 ## Overview
 
-The main **purpose** of a meeting can be goal-oriented or relation-oriented.
-
-- Share information or make a decision.
-- Improve a relationship. Connect to each other.
-
-
-
 The **style** can be:
 
 - `Disrupt-resolve`. Question the current state.
@@ -50,16 +43,53 @@ These approaches question:
 
 
 
+### Meeting Types
+
+The main purpose of a meeting can be goal-oriented or relation-oriented.
+
+#### Production-oriented
+
+| Type         | Core             | Examples                          |
+| ------------ | ---------------- | --------------------------------- |
+| 🗺️ Look back  | Where are we?    | Retrospective, risk storming      |
+| 🧭 Look ahead | Where do we go?  | Quarterly planning, story mapping |
+| ⚙️ Production | Achieve results. | Workshop                          |
+
+#### Relation-oriented
+
+| Type                       | Core                  |
+| -------------------------- | --------------------- |
+| 💡 Inspiration / motivation | Share a vision.       |
+| ⭐ Alignment                | Share a target.       |
+| ❤️ Connect / appreciate     | Strengthen relations. |
+
+#### Control-oriented
+
+| Type           | Core                      |
+| -------------- | ------------------------- |
+| ❔ Interview.   | Understand a subject.     |
+| ❓Challenge     | Question a subject.       |
+| ☑️ Status check | Comply to a model (rules) |
+
+
+
+**Anti-patterns**
+
+- Fake accountability. Use check-in meeting to receive status updates, without commitment or clear outcomes.
+- Knowledge sharing without alignment with organizational strategy.
+
+
+
 ## Preparation
 
-Tools to improve meetings.
+Tools to improve meetings. See [meeting templates](meeting-templates.md).
 
 - Share a public agenda beforehand. Let participants decide how to prepare and whether to join.
-- Read-in agenda. Ensure a shared understanding with an introduction.
+- Read-in introduction. To be read together. Ensure shared understanding.
 - Opening / ice-breaker. Set expectations and explain the scope.
 - Chair or facilator role. Assign someone to keep track of things.
 - Minutes of meeting (MoM). Publish meeting notes.
-- Explicit action or focus points.
+- Explicit expectations on purpose and outcomes.
 
 
 
