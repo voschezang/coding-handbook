@@ -1,16 +1,14 @@
 # Team Performance
 
-Team performance is complex and controversial concept. Comparing the performance of different teams is difficult. It is a mix of value delivery, productivity and capability. See [teams](teams.md) for other factors, such as team health, maturity and satisfaction.
+A team is a set of players that work together to achieve a shared goal. Their performance is the ability to make progress towards this goal. This may involves adaption and innovation. Comparing the performance of different teams is difficult. It is a mix of value delivery, productivity and capability. See [teams](teams.md) and [team success](team-success.md).
 
 [toc]
 
 ## Overview
 
-### Production Flow
+Team performance focusses on production: planning and execution. It makes uses of capabilities to deliver a service to a customer that benefits from it. For businesses this results in profit. The latter is dependent on many external factors. See [product management](product-management.md).
 
-Team performance focusses on production: planning and execution. It makes uses of capabilities to deliver a service to a customer that benefits from it. For businesses this results in profit.
-
-<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="width:80%;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
 
 Striclty speaking, **performance** is captured by productivity and the quality of the product. Capability can be measured by *agility*: the speed at which the organization can realize new ideas and deliver results. It consists of organizational capability and technical capability.
 
@@ -22,6 +20,16 @@ Striclty speaking, **performance** is captured by productivity and the quality o
 | **Key metric**    | Lead time ([TTM](https://en.wikipedia.org/wiki/Time_to_market)) | Flow                                                         | Revenue (ROI)         |
 | **Other metrics** | Decisiveness                                                 | Throughput, [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair) | Customer satisfaction |
 | **Ideal growth**  | Incrementally                                                | Stable average                                               | Exponential           |
+
+
+
+<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="height:7em;" />
+
+
+
+> Performance is not about metrics.
+
+While it is useful to find metrics that correlate with succes, metrics are never the goal.
 
 
 
@@ -59,38 +67,13 @@ Theoretically value can grow indefinitely. In practice growth accelerates and th
 
 
 
-## Succes
+## Cost of Succes
 
 > Performance is not about metrics.
 
 While it is useful to find metrics that correlate with succes, metrics are never the goal.
 
-> Succes is in the past.
 
-Past succes can be measurable. Succes in the current moment is a prediction (estimation)
-
-
-
-The strongest signal is when you can feel that the team is happy or productive. Note that a team can function well, despite a difficult environment. Some major signals are:
-
-1. **Vibe**. There is a pleasant vibe in the team. You can feel that the team is happy. Usually this requires physiological safety.
-2. **Expectations**. There is *transparency* on expectations. This includes expectations from stakeholders and from team members themselves.
-3. **Team results**. There is *transparency* and reflection on on team results. They are compared to original goals.
-4. **Resilience**. The team is able to deal with setbacks.
-
-In addition, there are more fine grained signals:
-
-- Individual team members are content within their team and with each other. The team works in harmony.
-- There is transparency w.r.t. work, roles and responsibility.
-- Conflict is addressed openly.
-- The team takes ownership of short- and long-term goals.
-- There is accountability of results.
-- Stakeholders trust the team.
-- Team members find purpose or meaning in their work.
-
-
-
-### Cost of Succes
 
 Succes has several risks. It is not guaranteed to be sustainable. 
 
@@ -100,7 +83,7 @@ Succes has several risks. It is not guaranteed to be sustainable.
 
 
 
-#### Risks
+### Risks
 
 **Immediate issues**, as side-effect of succeeding.
 

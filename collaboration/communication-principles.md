@@ -162,6 +162,8 @@ Specific forms
 | **Behaviour**              | Too careful (slow)                | Attentive. Reconsidering.       | Too eager (fast)              |
 | **Responsibility**         | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
 
+
+
 ## Feedback
 
 Anti-patterns

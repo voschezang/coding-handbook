@@ -13,6 +13,13 @@ The main **purpose** of a meeting can be goal-oriented or relation-oriented.
 
 
 
+The **style** can be:
+
+- `Disrupt-resolve`. Question the current state.
+- `Accept-inspire`. Stand still, accept the present state. Then look for opportunities.
+
+
+
 The **method** can vary from a presentation to a workshop.
 
 - Standard meeting. Planning, decision making and alignment.
@@ -20,6 +27,26 @@ The **method** can vary from a presentation to a workshop.
   - Check-in. Align. Sometimes regularly, e.g. daily, weekly, monthly.
 - Workshop. Do actual work, together in the same time and place.
 - Lecture. Broadcast information.
+
+
+
+### Style
+
+Ordinary meetings become part of business as usual.
+
+Occasionally there is a need to be *dynamic*. Addressing conflict is vital for an engaged discussion. Two approaches are to lead with either challenge or inspiration. See [proposals](proposals.md).
+
+These approaches question:
+
+- Question the present. Question observed thought or behaviour patterns.
+- Question possibilities. Given an idealistic desire, question the obstacles.
+
+|                | Challenge               | Inspire                   |
+| -------------- | ----------------------- | ------------------------- |
+| **Style**      | Problem-oriented        | Opportunity-oriented      |
+| **Flow**       | Challenge, then resolve | Accept, then inspire      |
+| **Conflict**   | Question the present.   | Question future obstacles |
+| **Engagement** | Based on fear           | Relate to shared desire   |
 
 
 

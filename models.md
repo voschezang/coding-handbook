@@ -42,6 +42,8 @@ Experience
 
 <img src="img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
 
+<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />
+
 
 
 ## Pyramids
@@ -52,7 +54,7 @@ Experience
 
 <img src="img/pyramid-organiational-desire.png" alt="pyramid-organiational-desire" style="width:60%;" />
 
-
+<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />
 
 ## Quadrants
 

@@ -12,11 +12,13 @@ Communication changes when moving in and out [deep conversation](conversations.m
 
 ## Casual Conversation
 
-🔦 Question the other. Demand a reaction.
+Styles
 
-💭 Voice your thoughts or feelings. Disclose your opinion or make assertions about the environment.
+- 🔦 Question the other. Demand a reaction.
 
-👂 Be interested. Be aware of non-verbal communication.
+- 💭 Voice your thoughts or feelings. Disclose your opinion or make assertions about the environment.
+
+- 👂 Be interested. Be aware of non-verbal communication.
 
 
 

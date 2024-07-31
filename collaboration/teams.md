@@ -18,18 +18,26 @@ A (servant) leader is not just responsible to lead its followers, but more so to
 
 
 
-## Team Performance
+### Team Success
+
+A successful team is happy, stable and effective. See [team success](team-success.md).
+
+
+
+### Team Performance
 
 Team performance relates to the expectations of it's functioning. It's input and output. It is contingent on two layers.
 
 - The satisfaction of team members. Whether members want to engage in the team. Whether they feel safe and dare to speak up.
 - Team maturity. Whether the team is stable and works empirically.
 
-See [team performance](team-performance).
+See [team performance](team-performance.md).
 
-<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:12em;" />
 
-<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
+
+
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="height:12em;" />
 
 
 
@@ -77,7 +85,7 @@ Group performance. Value delivery
 
 Note the similarity to [organizational](../systems/lifecycle.md) desires.
 
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="zoom:50%;" />
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="height:18em;" />
 
 ### Discovery
 
@@ -167,60 +175,7 @@ Phases
 
 
 
-### Health Indicators
-
-Perspectives
-
-- Breakdown by activity: making plans, following plans and adapting plans.
-
-- Breakdown by context: team view, functional view, strategic view.
-
-
-
-For a typical software development team, this could result in the following metrics. See also the [Spotify health model](https://engineering.atspotify.com/2014/09/squad-health-check-model/).
-
-|                     | Quality                  | Resilience                                   |
-| ------------------- | ------------------------ | -------------------------------------------- |
-| **Human view**      | Team dynamics and health | Ability to deal with setbacks.               |
-| **Functional view** | Daily operation          | Ability to deal with disruption.             |
-| **Strategic view**  | Ability to plan ahead    | Ability to adapt. Consistency over time      |
-| **Execution view**  | Quality of projects      | Predictability. E.g. lead time of increments |
-
-The following table depicts a visual interpretation.
-
-- Similar columns are placed next to each other to highlight possible correlation.
-- The column *expected* is filled in optimistically.
-
-| Perspective         | Metric                       | Expected                              | Currently                                | Recently                                 | Historically                             |
-| ------------------- | ---------------------------- | ------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| **Human view**      | Team health                  | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:green">good</span>    | <span style="color:green">good</span>    |
-|                     | Resilience                   | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:green">good</span>    |
-| **Functional view** | Unplanned operations         | <span style="color:green">good</span> | <span style="color:green">good</span>    | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       |
-|                     | Standard operations          | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> |
-| **Strategic view**  | Planning                     | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:orange">medium</span> |
-| **Execution**       | Lead time of increments      | <span style="color:green">good</span> | <span style="color:orange">medium</span> | <span style="color:red">bad</span>       | <span style="color:orange">medium</span> |
-|                     | Quality of finished projects | <span style="color:green">good</span> | <span style="color:green">good</span>    | <span style="color:orange">medium</span> | <span style="color:orange">medium</span> |
-
-Examples for team health.
-
-|                 | <span style="color:green">good</span>       | <span style="color:red">bad</span>        |
-| --------------- | ------------------------------------------- | ----------------------------------------- |
-| **Autonomy**    | We feel in control                          | We just follow orders                     |
-| **Team health** | We are motivated en enjoy working together. | Individuals are able to cope.             |
-| **Learning**    | We learned things recently.                 | We don't have time to invest in learning. |
-
-Examples for strategic health.
-
-|                             | <span style="color:green">good</span> | <span style="color:red">bad</span> |
-| --------------------------- | ------------------------------------- | ---------------------------------- |
-| **Mission**                 | We know where we're heading.          | We have many priorities.           |
-| **Unplanned operations**    | We are able to deal with disruptions. | We are constantly disrupted.       |
-| **Planned operations**      | We feel in control.                   | We are always short of resources.  |
-| **Lead time of increments** | We deliver quickly.                   | We keep getting interrupted.       |
-
-
-
-#### Models
+## Models
 
 Models that provide insight and can be used to predict effectiveness.
 
@@ -257,52 +212,4 @@ T7 Model of Team Effectiveness
 - External factors
     - Team leader fit
     - Team support from the organization
-
-
-
-## Way of Working
-
-For teams and departments.
-
-
-
-**Structure**
-
-- Size of teams, departments.
-- Diversity. Generalists or specialists.
-- Power structure. Separation of roles. E.g. head of product, R&D, HR.
-
-**Communication**
-
-- Format: textual - verbal
-- Clustering: pairing - group meetings
-- Interaction: with nearby teams - with other departments
-- Awareness of each other's work
-- Consistency of performance
-
-**Purpose**
-
-- Internal incentives (e.g. passion) or external incentives (e.g. compensation).
-- Focus on individual performance or team performance.
-- Idealistic or pragmatic (e.g. commercial) goals.
-
-**Planning**
-
-- Oriented towards the what or the how
-- Oriented towards initiatives or outcomes
-- Oriented towards large milestones or small increments.
-- Frequency of planning. Pace of change.
-
-**Operation**
-
-- Ratio between BAU or change.
-- Ratio between unplanned or planned work.
-- Amount of standardization and experimentation.
-
-**Reflection**
-
-- Frequency of reflection.
-- Importance of commitments.
-- Ambition of commitments: optimistic or realistic.
-- Accountability of commitments.
 

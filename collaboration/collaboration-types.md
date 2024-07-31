@@ -2,6 +2,16 @@
 
 [toc]
 
+## Overview
+
+Styles. From short to long term. From concrete to abstract contracts.
+
+- Command-driven. The employer tells the employee what to do.
+- Desire-driven. The employer shares their desire with the employee. The employee reacts to his.
+- Intent-driven. The employee anticipates the needs of the employer. E.g. propose initiatives.
+
+
+
 ## Conversations
 
 See also [social dynamics](social-dynamics.md) and [personalities](../psychology/personality.md).
@@ -59,13 +69,13 @@ Types of emotional conversations ([NVC](https://en.wikipedia.org/wiki/Nonviolent
 
 - Self-empathy. Noticing the thoughs and feelings of the self - without judgement.
 - Receiving empathically. Connecting with the other. Immersing fully with the other - without interpreting or understanding them.
-- Expressing honestly. By default, this would involve an observation, feeling, need AND a request. See [communication](communication.md)
+- Expressing honestly. By default, this would involve an observation, feeling, need AND a request. See [communication](communication.md).
 
 
 
 ### Conflict
 
-
+See [conflict](conflict.md).
 
 ### In self-managing teams
 

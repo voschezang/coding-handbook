@@ -31,12 +31,12 @@ Effects
 - Fear may make people more conservative.
 - Losing something tends to be overvalued in comparison to gaining something. E.g. losing all of your wealth is a greater change than doubling your wealth.
 
-|                 | Opportunity                  | Problem                   |
-| --------------- | ---------------------------- | ------------------------- |
-| **Perspective** | Potential, upside, value     | Risks, downside           |
-| **Bias**        | Increase value               | Reduce cost               |
-| **Origin**      | Capability, strengths        |                           |
-| **Attitude**    | Optimistic, welcome change 🫴 | Critical, demand change 🫳 |
-| **Appeal**      | Inspiration, vision          | Danger                    |
-| **Method**      | Impove or scale up           | Protect or mitigate       |
+|                 | Opportunity                                    | Problem                   |
+| --------------- | ---------------------------------------------- | ------------------------- |
+| **Perspective** | Potential, upside, value, capability, strength | Risks, downside           |
+| **Origin**      | Accept, then inspire.                          | Disrupt, then resolve.    |
+| **Attitude**    | Optimistic, welcome change 🫴                   | Critical, demand change 🫳 |
+| **Appeal**      | Inspiration, vision                            | Danger                    |
+| **Method**      | Impove or scale up                             | Protect or mitigate       |
+| **Bias**        | Increase value                                 | Reduce cost               |
 

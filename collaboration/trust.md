@@ -56,6 +56,10 @@ Psychological safety is both necessary at a human level and a organiational leve
 
 <img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
 
+Disclosing needs makes one vulnerable. It can be followed by denial or rejection.
+
+
+
 Stories (inspirational)
 
 -  [The Power of Authenticity: Mike Robbins](https://www.youtube.com/watch?v=d4iFAAUscVA)

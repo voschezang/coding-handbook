@@ -55,3 +55,14 @@ First, second, third position.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
 
+
+
+## State of Mind
+
+Layers
+
+- State of  mind. Self esteem. *How you feel about yourself.*
+
+  
+
+<img src="../img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />

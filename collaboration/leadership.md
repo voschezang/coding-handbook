@@ -2,7 +2,7 @@
 
 Leadership is the ability to connect, in the context of an organization. Communication [styles](communication-styles.md) play a huge role, whether in-person or [textual](documentation.md).
 
-
+[toc]
 
 ## Types
 
@@ -39,6 +39,17 @@ Other types are transformational and transactional leadership
 ## Decision making
 
 Decision making can be autocratic or democratic.
+
+
+
+## Inclusion
+
+Inclusion
+
+- Include (encourage) other participants. 
+  - Pivot. what do you think? How does that sound to you? Do you agree?
+  - Circle back. You were saying? Tell me more
+- Listen non-verbally. Engage with with whole group
 
 
 

@@ -48,6 +48,10 @@ Conversation is based on trust and shared understanding.
 
 
 
+Continue: dive in
+
+Pivot away: shift topic
+
 <img src="../img/junction-communication.png" alt="junction-communication" style="height:15em;" />
 
 
@@ -70,6 +74,30 @@ Sections
   - "What did you mean with ...?"
 
 - Active listening.
+
+
+
+> No is the beginning of a discussion
+
+Don’t start arguing. Instead:
+
+1. Understand their reason for saying no. *"What makes you say no?"*
+2. See what is possible. *“You seem hesitant. What makes you consider it?”*
+
+Then
+
+1. Facilitate. Make a suggestion. *“If x then we could y”*
+2. Inspire. *“Image that x. We could do z!!”*
+
+
+
+
+
+**Anti-patterns**
+
+- Too much questioning
+- Too much pivoting
+- Boasting. 1-upping. Pivot to your own achievements after someone shares theirs.
 
 
 

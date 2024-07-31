@@ -32,7 +32,7 @@ Running a business involves collaboration and [management](https://en.wikipedia.
 
 
 
-<img src="../img/grid-business-partners-customers-value.png" alt="grid-business-partners-customers-value" style="width:70%;" />
+<img src="../img/grid-business-partners-customers-value.png" alt="grid-business-partners-customers-value" style="height:12em;" />
 
 
 
@@ -42,7 +42,7 @@ Running a business involves collaboration and [management](https://en.wikipedia.
 
 Value delivery is the result of realization of a vision. See [performance](../collaboration/team-performance.md).
 
-<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="height:12em;" />
 
 Value delivery is contingent upon production and capability.
 

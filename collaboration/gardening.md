@@ -61,6 +61,30 @@ See [teams](teams.md).
 
 
 
+#### AAA
+
+Many (work) environments have emotional challenges. E.g. dealing with setbacks, competition or incidents. This acronym provides a path to address these.
+
+- This is about addressing radical change. This differs from handling day-to-day change, as seen in hectic (chaotic) environments.
+
+Caore: Slow down, rather than jumping to conclusions, or reacting immediately. Find *grounding*, before acting.
+
+1. Awareness. By paying attention.
+2. Acceptance of the new reality.
+3. Agency. Exercise influence.
+
+
+
+## Communication
+
+- Be liberal in share needs and desires. Then others can be considerate.
+  - Sharing doubts is enough. Doubts are just a signal.
+
+- Make requests rather than demands. Autonomy means that people can say no.
+  - Pressure can be increased through facilitation and sanctioning. Communicate consequences.
+
+
+
 ## References
 
 *Hunt, Gather, Parent* 
