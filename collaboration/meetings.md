@@ -49,6 +49,8 @@ The main purpose of a meeting can be goal-oriented or relation-oriented.
 
 #### Production-oriented
 
+This follows the cycle of work items: `plan-do-check-act`. Accountability is built in, through a focus on results.
+
 | Type         | Core             | Examples                          |
 | ------------ | ---------------- | --------------------------------- |
 | 🗺️ Look back  | Where are we?    | Retrospective, risk storming      |

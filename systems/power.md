@@ -80,3 +80,25 @@ Power structures in organiations of society may show the following types.
 
 
 
+**History**
+
+In history, power has had different forms.
+
+- In an autocracy.
+  - Control of land grants power. To allow exploitation the land itself, of merchants, workers.
+  - Control of virtual land grants power. E.g. communication channels.
+
+- In free markets.
+  - Production power. Future wealth.
+  - Wealth. To attract capabilities.
+
+
+
+**Trinity**
+
+Institutions and roles that grant power.
+
+- 👑 The crown. A king. Power given by strength.
+- 🙏 The church. A priest. Power given by faith (trust).
+- 💰 Trade networks. A merchant. Power given through currency and logistics.
+

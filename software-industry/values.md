@@ -54,9 +54,9 @@ See [Scrum guide](collaboration/scrum-guide.md).
 
 > Visualize-Stabilize-Optimize. 
 
-First you have to find the right challenge (e.g. the bottleneck). Second you have to find stability, otherwise you cannot reliably control it. Only then you can start to optimize.
+> Plan-Do-Check-Act
 
-- The long-term version of this is [PDCA](https://en.wikipedia.org/wiki/PDCA).
+See [Kanban](../collaboration/kanban.md) and [PDCA](https://en.wikipedia.org/wiki/PDCA).
 
 
 

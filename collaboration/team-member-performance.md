@@ -4,14 +4,15 @@ Performance evaluations are standard in many organizations. Usually they are don
 
 
 
-Approaches
+Three approaches.
 
-- Focus on performance. *What did they achieve? In what ways did they contribute?*
-- Focus on potential. *What is their capability?*
+- Foucs on **fit** in a role. *How do they fit in the team?*
+- Focus on **performance**. *What did they achieve? In what ways did they contribute?*
+- Focus on **potential**. *What is their capability?*
 
-The former may be followed up by a improvement plan. *What is impeding performance?*
+The first approaches may be followed up by a improvement plan. *What is impeding performance?*
 
-The latter considers knowledge, skill, experience and personality. It emphasises future value over success in the past environment.
+The latter approach considers *knowledge, skill, experience and personality*. It emphasises future value over success in the past environment.
 
 
 
@@ -74,4 +75,25 @@ Delivery
 
 
 <img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
+
+
+
+### Capability-based Perspective
+
+This focusses on the question: *Does the subject have the right capabilities?*
+
+
+
+- Knowledge
+  - Domain expertise
+
+- Skill
+  - Communication
+  - Collaboration
+
+- Experience
+- Personality
+  - Pro-activeness. *Does the subject take initiative?*
+  - Ownership. 
+  - Trust / accountability / commitment.
 
