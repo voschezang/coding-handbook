@@ -4,20 +4,47 @@ Leadership is the ability to connect, in the context of an organization. Communi
 
 [toc]
 
-## Types
+## Context
 
-Two extreme leadership styles are authoritative and surrendered leadership.
+> Good leadership is situational
 
-- The former finds strength in power and control. It values conformity.
-- The latter finds strength in courage and empowerment. It values diversity (difference).
+Leadership can be optimized for an environment. Its affected by the leader, the followers, the [environment](https://en.wikipedia.org/wiki/Cynefin_framework) and the objective.
 
-|                 | **Authoritative**                   | Surrendered                            |
-| --------------- | ----------------------------------- | -------------------------------------- |
-| **Core**        | Power                               | Empowerment (trust)                    |
-| **Style**       | Be in control                       | Minimal interference, welcome autonomy |
-| **Behaviour**   | Control, command, challenge         | Encourage, incentivize, facilitate     |
-| **Personality** | Assertive, confident, goal-oriented | Authentic, courage                     |
-| **Environment** | Competitive                         | Collaborative                          |
+- In a *simple* environment, follow best practices. Execution of work involves following pre-determined steps.
+
+- In a *complex* environment, develop your own practice. Execution of work involves adaption and autonomy.
+
+Leadership may be problem-oriented or opportunity-oriented. See [proposals](proposals.md).
+
+
+
+## Dual Model
+
+Two extremes in leadership styles are authoritative and surrendered leadership.
+
+- The former finds strength in power. It optimizes for control. It values conformity. 
+- The latter finds strength in courage and empowerment. It optimizes for autonomy. It values diversity (difference).
+
+
+
+The leadership style
+
+|                  | Authoritative Leadership       | Surrendered Leadership              |
+| ---------------- | ------------------------------ | ----------------------------------- |
+| **Core**         | Power                          | Empowerment (trust)                 |
+| **Method**       | Give orders. Control. Enforce. | Set expectations. Welcome autonomy. |
+| **Bias**         | Goal-oriented.                 | Relation-oriented.                  |
+| **Attitude**     | Rational. Risk-averse.         | Optimistic. Hopeful.                |
+| **Environments** | Competitive or structured      | Collaborative and safe              |
+| **Desire**       | Survival, performance          | Harmony, connection, growth         |
+
+The leader
+
+|                   | Authoritative Leader             | Surrendered Leader                  |
+| ----------------- | -------------------------------- | ----------------------------------- |
+| **Personality**   | Assertive, confident, determined | Authentic, brave, warm              |
+| **Risk**          | Aggressive, ruthless, cold       | Sub-assertive, soft                 |
+| **Communication** | Control, command, challenge.     | Encourage, incentivize, facilitate. |
 
 
 
@@ -33,6 +60,15 @@ Other types are transformational and transactional leadership
 - Transformational leadership is about inspiration and growth. Mentor others and belief in change.
 - Transactional leadership is about performance. Focus on targets and reward good behaviour.
 - Servant leadership is about inclusion and engagement. Coaching and support others.
+
+
+
+## Trinity Model
+
+|               | Aggressor | Saviour            | Visionary   |
+| ------------- | --------- | ------------------ | ----------- |
+| **Emphasis**  | Power     | Emphasise problems | Opportunity |
+| **Followers** | Fear      | Trust              | Hope        |
 
 
 

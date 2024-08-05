@@ -77,8 +77,11 @@ This follows the cycle of work items: `plan-do-check-act`. Accountability is bui
 
 **Anti-patterns**
 
-- Fake accountability. Use check-in meeting to receive status updates, without commitment or clear outcomes.
+- Fake accountability. Use check-in meeting to receive status updates, without commitment or clear outcomes. If there was real accountability, the stakeholders would've already been updated.
 - Knowledge sharing without alignment with organizational strategy.
+- No agenda. Keep discussing new topics, rather than following up on previous topics.
+  - *"How is it going with ...?"*. 
+
 
 
 
