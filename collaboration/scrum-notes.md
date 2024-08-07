@@ -26,9 +26,15 @@ In order to ensure alignment on a single Sprint goal, planning and retrospective
 - Planning sessions can be divided into shared and individual parts. The former focusses on the *why* and *what*, whereas the latter focusses on the *how*.
 - Retrospective sessions should at least reflect on the Sprint as a whole, including the shared outcome. They can be complemented by team-specific sessions that reflect on inter-sprint events.
 
-
-
 See [systems](../systems/structure.md).
+
+
+
+**Anti-patterns**
+
+- Water-Scrum-fall. Waterfall with the following steps. `Planning-Scrum-release`
+
+
 
 ### Models
 
@@ -86,3 +92,12 @@ Workarounds
 
 
 
+## Anti Scrum
+
+>  Scrum doen’t work!
+
+Consider:
+
+- Did it help you to plan?
+- Did it help you to adapt your plan?
+- Did it help you to learn?

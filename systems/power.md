@@ -102,3 +102,12 @@ Institutions and roles that grant power.
 - 🙏 The church. A priest. Power given by faith (trust).
 - 💰 Trade networks. A merchant. Power given through currency and logistics.
 
+
+
+**Balance**
+
+In democracies, parties may co-exist in a symbiotic-like state. One needs other.
+
+- Conservatives and progressives. Advocate for stability versus change.
+- Populists and bad conservatives. Populists presents themselves as saviours of the poor goverment policies (as underdog). The conservatives needs the thread of populists to justify their power.
+

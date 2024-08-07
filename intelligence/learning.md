@@ -87,6 +87,21 @@ Learning from others...
 
 
 
+**Improvement effort**
+
+| Investment | Effort                           |
+| ---------- | -------------------------------- |
+| 1 min.     | Read a quote / tweet             |
+| 15 min.    | Watch a video                    |
+| 1 hour     | Watch a lecture                  |
+| 10 hours   | Read a book                      |
+| 100 hours  | Do a training                    |
+| 3 months   | Follow a class                   |
+| 2 year     | Follow a course                  |
+| 5 years    | Work in an organization (domain) |
+
+ 
+
 ## Formal Learning
 
 [Learning cycles](https://en.wikipedia.org/wiki/Learning_cycle). See [Kolb](https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning).

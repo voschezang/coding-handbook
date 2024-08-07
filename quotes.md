@@ -33,14 +33,18 @@ Note that the validity of the following statements is dependent on certain *impl
 * The main problem is clarity.
 * It’s not what you want to say. It’s what they need to hear.
 * Don’t let markets decide what to do.
+* [God](https://en.wikipedia.org/wiki/God_is_dead) is dead.
+* [Capitalism](https://en.wikipedia.org/wiki/Yanis_Varoufakis) is dead.
 
 ### Models & Language
 
 - Everything is a theory and could be proven wrong.
-- Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality).
-- Language is restrictive. It allows concepts to be expressed, but in a biased way.
+- All models are wrong.
+- Models are useful *because* they are wrong.
 - Developing [models](https://en.wikipedia.org/wiki/Model) is the greatest skill. True genius is found in the ability to simplify.
 - All big data comes from the [past](https://en.wikipedia.org/wiki/Selection_bias).
+- Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality).
+- Language is restrictive. It allows concepts to be expressed, but in a biased way.
 
 ### Quality / Value
 

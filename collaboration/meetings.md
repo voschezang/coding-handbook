@@ -43,7 +43,19 @@ These approaches question:
 
 
 
-### Meeting Types
+### Personal Meeting Types
+
+For one-on-one meetings.
+
+- Check in / alignment. Deliver news. Blow off steam.
+- Coaching. Discuss objectives and obstacles.
+- Conflict. Challenge each other.
+- Structured working. Commitment and accountability. SLA's.
+- Attention to results
+
+
+
+### Work Meeting Types
 
 The main purpose of a meeting can be goal-oriented or relation-oriented.
 

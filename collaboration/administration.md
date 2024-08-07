@@ -49,7 +49,7 @@ Consider:
 - Team performance
 ```
 
-### Temporal documents
+### Historical documents
 
 These describe the system from a specific perspective, at a specific date.
 

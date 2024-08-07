@@ -63,6 +63,12 @@ Layers
 
 - State of  mind. Self esteem. *How you feel about yourself.*
 
-  
+
+
+If you’re happy with yourself then you will relate.
+
+If you're sad then you'll close off.
+
+
 
 <img src="../img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />

@@ -155,6 +155,10 @@ Any two dimensions can be visualized in a map.
 
 ## Capability
 
+Capability is the ability to innovate. The speed at change can be implemented.
+
+
+
 Capability consists of organizational capability and technological capability.
 
 - Organizational capability considers the individual team and the organization that it is a part of. This includes team maturity and agility. It may cover the dynamics between team members, their development and thier satisfaction.

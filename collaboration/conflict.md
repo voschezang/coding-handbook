@@ -23,3 +23,8 @@ Critique implies a desire. A wish or a need. It often has the form of a negation
 - *"You didn't do what you promised"* → desire for conformity / stability.
 - *"You're never have time for me"* → desire for attention/ recognition
 
+
+
+Prompts
+
+- (with beginner's mind) *Was it your intention to upset me?*

@@ -23,6 +23,10 @@ Rules have (un)expected side effects. Incentives are designed for side-effects. 
 
 
 
+Incentives rely on attitude (intent). *Make it easy to do X.*
+
+Policies are enforced. *Make it mandatory to do X.*
+
 <img src="../img/rules-incentives-results.png" alt="rules-incentives-results" style="height:24em;" />
 
 ### Particle view

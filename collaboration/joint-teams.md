@@ -21,6 +21,26 @@ Benefits of diversity
 
 
 
+**Dynamics**
+
+Team dynamics ebb and flow. 
+
+- Team members naturally optimize their own role. This changes the their dynamics.
+- The team changes over time. Junior members grow into seniors, and seniors move on to new roles.
+
+<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
+
+
+
+**Team Growth**
+
+Styles
+
+- Step by step. New team members start learning an initial part of the work. Then they practice and contribute. Then then extend their role.
+- Analytical. New team members study theory. Then they observe from the background. When they find something significant, they jump in.
+
+
+
 ## Persona's
 
 - Old guard. Been around for a while. Is already connected. Conservative.

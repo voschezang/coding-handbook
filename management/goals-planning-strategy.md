@@ -129,6 +129,16 @@ Metrics
 
 
 
+ **Milestones**
+
+- outcome milestones vs output (work) milestones
+
+- customer-centric milestones vs effort-based milestones
+
+ 
+
+
+
 ## (Planning) Living Roadmap
 
 > Great outcome > meeting initial requirements.

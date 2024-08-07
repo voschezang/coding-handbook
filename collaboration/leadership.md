@@ -18,6 +18,12 @@ Leadership may be problem-oriented or opportunity-oriented. See [proposals](prop
 
 
 
+**Anti-pattern**
+
+- Broadcasting without connection. Sharing a message, without appreciating how it is received.
+
+
+
 ## Dual Model
 
 Two extremes in leadership styles are authoritative and surrendered leadership.

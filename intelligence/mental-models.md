@@ -1,6 +1,6 @@
 # Mental Models
 
-Mental models are personal views of an environment. They are never correct or complete, but they can be useful. The ability to develop these models is as important as the static models themselves. See [modelling](modelling.md).
+Mental models are personal ideas that affect how one perceives the world. They are never correct or complete. In fact, they are useful because they show the boundaries of a theory. The ability to develop these models is as important as the models themselves. See [modelling](modelling.md).
 
 [toc]
 

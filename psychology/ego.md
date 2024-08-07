@@ -49,3 +49,14 @@ After finding a new shared identity, a new sub-culture may - theoretically - mov
 
 
 See also: Byung-Chul Han.
+
+
+
+## Inner Child
+
+The child within us is a rebel.
+
+- *You say yes? I say no*
+- *You want me to? Now I don’t want to*
+- *You don’t want me to? Now i want to*
+- *Don’t think about X - I will think about X*
