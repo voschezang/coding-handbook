@@ -1,5 +1,7 @@
 # Meeting Templates
 
+These are written for self-managing teams. The underlying purpose is to be a great team and to achieve results.
+
 [toc]
 
 ## Lookahead
@@ -75,4 +77,32 @@ Shared understanding of ...
 - Consider the current targets on the roadmap.
 - Consider the team objectives.
 ```
+
+
+
+### Project / Roadmap Progress
+
+Reflect on commitments and update expectations. Activate each other when necessary.
+
+- This is not a *planning* session. If a handful of projects needs to be adjusted then that can be done after the meeting.
+
+```markdown
+⭐ **Purpose** 
+Shared understanding of the quarterly plan. Reduce ambiguity.
+
+🚀 **Outcome**
+- Awareness of each topic (e.g. epics).
+- Awareness of parts that need adjustment.
+
+📅 **Agenda**
+For each topic
+- Where are we w.r.t. the goal? E.g. what deliverable
+- What do we expect?
+
+📖 **Pre-read / preparation**
+- The order (priority) of projects in this quarter.
+- The goals of the projects that are _in progress_.
+```
+
+
 
