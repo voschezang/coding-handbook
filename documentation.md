@@ -161,7 +161,7 @@ Planning / Strategy.
 Contacts.
  - Team members and stakeholders.
  - Dependencies.
- 
+
 **Ad hoc documentation**
 Ad hoc guides. Historical guides that do not have to maintained.
  - Meeting Notes.

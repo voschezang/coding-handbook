@@ -35,9 +35,13 @@ What to document per point
 
 
 
-## Template
+## Templates
 
-This is an addition to public documents. Don't copy JIRA, but rather extend it with information that is not suitable for JIRA.
+This is an addition to public documents. 
+
+- Don't copy JIRA, but rather extend it with information that is not suitable for it.
+
+
 
 ### Static documents
 
@@ -48,6 +52,8 @@ Consider:
 - Team success
 - Team performance
 ```
+
+
 
 ### Historical documents
 

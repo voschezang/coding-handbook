@@ -88,11 +88,15 @@ Confidence, trust, reputation
 
 ## Venn Diagrams
 
-<img src="img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:40%;" />
+<img src="img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="height:16em;" />
 
 
 
-<img src="img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
+<img src="img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:14em;" />
+
+<img src="img/product-production-capability.png" alt="product-production-capability" style="height:18em;" />
+
+
 
 
 
