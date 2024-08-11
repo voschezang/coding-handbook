@@ -92,7 +92,7 @@ Confidence, trust, reputation
 
 
 
-<img src="img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:14em;" />
+<img src="img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
 
 <img src="img/product-production-capability.png" alt="product-production-capability" style="height:18em;" />
 

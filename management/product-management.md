@@ -1,20 +1,26 @@
 # Product Management
 
-This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md) and [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
+This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md), [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
 
 [toc]
 
 ## Overview
 
-Product management revolves around:
+**Components**
 
-1. **Designing** a product (business) vision.
-2. **Discovering** the market fit. Understanding the users and customers.
-3. **Delivering** the product to customers. 
-
-At the same time, it consists of collaborating with partners and managing production.
+1. People. An organization, developers and customers.
+2. Products and services. Markets and competitors.
 
 
+
+**Activities**
+
+1. Discovery. Channels and methods to deliver value.
+2. Delivery. Realizing a vision. Responding to change.
+
+
+
+**Value Chain**
 
 Two perspectives are a contextual view and an internal view. These map to the value and production chains.
 
@@ -38,15 +44,19 @@ Running a business involves collaboration and [management](https://en.wikipedia.
 
 ### Internal View
 
-<img src="../img/production-outcome.png" alt="production-outcome" style="height:4em;" />
-
 Value delivery is the result of realization of a vision. See [performance](../collaboration/team-performance.md).
 
 <img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="height:12em;" />
 
 Value delivery is contingent upon production and capability.
 
+
+
 <img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
+
+
+
+## Value Delivery
 
 Value is a mix of direct value and growth.
 
@@ -54,9 +64,7 @@ Value is a mix of direct value and growth.
 
 
 
-
-
-## Value Delivery
+### What
 
 Value delivery can be understood in two directions. See [delivery](../labour/realization.md).
 
@@ -77,6 +85,12 @@ See also [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
 
 
 ### How
+
+Three innovation horizons. From exploitation to exploration.
+
+1. Current cash-flow (value): profitable now. Risk: they may become a commodity.
+2. High-growth businesses: will become cash-flow.
+3. Growth options: will potentially become growth.
 
 <img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
 
@@ -148,24 +162,6 @@ Philosophy
 - Analogies to fuel imagination.
 - Present features as solutions
 
-**Product Portfolio**
-
-Three innovation horizons. From exploitation to exploration.
-
-1. Current cash-flow (value): profitable now. Risk: they may become a commodity.
-2. High-growth businesses: will become cash-flow.
-3. Growth options: will potentially become growth.
-
-**Types of Customers and Stakeholders**
-
-For software products.
-
-- The product-owner or project-manager
-- The business (the rest of the organization)
-
-- The users of a platform (e.g. sellers on ebay)
-- The end-users (e.g. buyers on ebay)
-
 **Market**
 
 > Good strategy means saying no.
@@ -204,7 +200,7 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 
 
-## Patterns & Anti-patterns
+## Anti-patterns
 
 [Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE) - overview by Henrik Kniberg
 
@@ -226,43 +222,4 @@ A [locally optimized, simplified version](https://twitter.com/johncutlefish/stat
 **Zombie product**
 A product that is kept alive for political or personal reasons rather than market demand.
 
-**Bottlenecks**
 
-- What is holding you back?
-- What patterns do you see developing?
-- Where would you focus more/less on?
-
-
-
-### Realization Processes
-
-From objective to discovery to delivery.
-
-**Formal steps**
-
-1. Initial idea.
-2. Let it grow. Re-think it or share it with other people.
-3. Prioritize it.
-4. Build it. This requires development capacity.
-5. Release it. This requires stakeholder and/or customer management.
-
-**Implementation agnostic idea**
-
-1. Narrative: `I wish my app would do X`
-2. Short preparation `Is this technically feasible?`, `Can this be split up?`
-3. Prioritization, then specification, then re-evaluation.
-4. Implementation, then (gradual) release
-
-**Low-hanging fruit / technical  possibility**
-
-1. Technical possibility: `We could connect X to Y`
-2. Brain-storm of implications and possibilities: `What are the advantages for the user?`
-3. Prioritization
-4. Implementation, then (gradual) release.
-
-**Risk-based**
-
-1. Signal of a risk.
-2. Analysis of exposure and possible counter-strategies.
-3. Prioritization of chosen strategy.
-4. ...

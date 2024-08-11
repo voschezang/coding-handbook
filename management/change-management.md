@@ -6,8 +6,6 @@ This relates to organizational change. From culture to processes. This is more c
 
 ## Overview
 
-
-
 **Types of change**
 
 1. Trivial change. This includes improvements that are obviously beneficial and accepted by a majority. They may not need additional attention from a manager.
@@ -31,6 +29,13 @@ Change covers any activity that falls outside business-as-usual (BAU). Change-ob
 See [requirements](../organization/requirements.md).
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
+
+
+
+Optimize for:
+
+- Risk: small changes. Standardization
+- Efficiency: batches
 
 
 

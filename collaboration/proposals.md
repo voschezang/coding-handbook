@@ -7,7 +7,10 @@
 There are three phases: `relation-question-answer`
 
 1. Set context. Connect to the audience. Involve them. *Why is this relevant to you, now?*
-2. Align on the need for change. Question the current state. A problem or opportunity. See *call to action*.
+2. Align on the need for change.
+   1. Question the current state. A problem or opportunity. See *call to action*.
+   2. Question the future. Show a great vision.
+
 3. Align on the next step. Consider solutions (answers). A path forward. See [story-mapping](../labour/story-mapping.md).
 
 
