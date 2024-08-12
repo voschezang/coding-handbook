@@ -37,13 +37,16 @@ Any background on the topic.
 
 ```markdown
 # ⭐ Purpose
-Develop a shared understanding about the plan for _subject_.
+Develop a shared understanding about initiatives.
 
 # 🚀 Outcome
-Record the result of a conversation (key points).
+For each user story
+- Decide acceptance criteria. _"How we know the story is done"_
+- A conversation about the plan.
+- A vote of confidence on the complexity (likelihood)
 
 # 📅 Agenda
-For each story:
+For each user story:
 - Present the goal and a plan to reach it. 
 - Discuss expecations and risks.
 - Estimate the complexity / effort
