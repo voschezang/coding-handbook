@@ -10,25 +10,13 @@ Management involves responsibility of a *subject*: e.g. a system, organization, 
 
 > Good management is situational
 
-The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value. The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
+The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value. 
 
+> Management is a [scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) problem
 
+The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
 
-### Succes
-
-See [team performance](../collaboration/team-performance).
-
-<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:50%;" />
-
-
-
-<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
-
-
-
-In theory, effectiveness is most strongly influenced by responsiveness and stakeholder concern. The latter factors are influenced by team autonomy and continuous improvement. Management support influences all factors, but indirectly.
-
-<img src="../img/effectiveness-factors.png" alt="effectiveness-factors" style="width:80%;" />
+<img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
 
 
 
@@ -37,12 +25,6 @@ In theory, effectiveness is most strongly influenced by responsiveness and stake
 This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
 See also [organization-structure](../systems/structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
-
-
-
-**Anti-pattern**
-
-- Take a component out of a system, fix it, and put it back.
 
 
 

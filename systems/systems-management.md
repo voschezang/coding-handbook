@@ -49,7 +49,7 @@ Mathematically, the behaviour of a system can be described in several [levels](h
 
 **Alternative systems**
 
-<img src="../img/system-types.png" alt="system-types" style="width:80%;" />
+<img src="../img/system-types.png" alt="system-types" style="height:9em;" />
 
 
 

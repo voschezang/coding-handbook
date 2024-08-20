@@ -8,6 +8,17 @@ This document presents a liberal taxonomy of labour, work and management. It is 
 
 ## Overview
 
+Labour relates to management, leadership and collaboration.
+
+- Developing systems
+  - Management of organizations, teams, products. Guiding attention. Discerning core from context.
+- Participating in a system
+  - Leadership. Vision, decision making, accountability.
+  - Collaboration and coordination.
+  - Individual contribution.
+
+
+
 ### Labour
 
 Labour revolves around production. From input to output. From an initiative to an outcome.

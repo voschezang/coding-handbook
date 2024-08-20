@@ -20,3 +20,23 @@ Static quality
 
 
 <img src="../img/worldview-quality.png" alt="worldview-quality" style="width:80%;" />
+
+
+
+## Experience
+
+Great quality does not imply great experience.
+
+E.g. quality of media consists of:
+
+- Quality of the media itself
+- Quality of experience when consuming the media.
+  - *What is your experience when consuming it?*
+- Quality of your relation to the object
+  - *What is the value for you? Do you care about the origin, author?*
+
+Great experience can mean
+
+- High entertainment value
+- Other
+

@@ -54,3 +54,11 @@ BAU
 
 In the context of a team, work and projects are considered to be *business as usual* (BAU). The term *change* is reserved for radical changes. E.g. changes in the structure of the team itself.
 
+
+
+## Team Effectiveness
+
+In theory, effectiveness is most strongly influenced by responsiveness and stakeholder concern. The latter factors are influenced by team autonomy and continuous improvement. Management support influences all factors, but indirectly.
+
+<img src="../img/effectiveness-factors.png" alt="effectiveness-factors" style="width:80%;" />
+
