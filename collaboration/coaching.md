@@ -8,7 +8,7 @@ Coaching is about providing a soundboard, through questioning (feedback). It's o
 
 > Help people (teams) move from who they are now, to who they’ll be in the future, in a way that maximizes well-being.
 
-Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](conversations.md) in which:
+Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](conversations.md). Hence it implies [trust](trust.md). In these converstaions:
 
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
@@ -143,7 +143,7 @@ Balance the attention and input of all coachees.
 
 ### Alignment Coaching
 
-Alignment may be needed if there is tension. A certain layer of trust is needs to be established before you can discuss sensitive topics.
+Alignment may be needed if there is tension. A certain layer of [trust](trust.md) is needs to be established before you can discuss sensitive topics.
 
 
 

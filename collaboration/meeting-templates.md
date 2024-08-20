@@ -85,21 +85,27 @@ Shared understanding of ...
 
 ### Project / Roadmap Progress
 
-Reflect on commitments and update expectations. Activate each other when necessary.
+This template focusses on **expectation** management. It's about taking a step back and *acknowledging* where you are. Activate each other when necessary.
 
-- This is not a *planning* session. If a handful of projects needs to be adjusted then that can be done after the meeting.
+- This is not a *planning* session. It does not aim to optimize timelines. If a handful of projects needs to be adjusted then that can be done after the meeting.
+- This is not a *justification* session. Don't use it to attribute problems or find blame.
+- The session may result in action points. E.g. an in-depth session on specific initiatives.
 
 ```markdown
 # ⭐ Purpose
 Shared understanding of the quarterly plan. Reduce ambiguity.
 
 # 🚀 Outcome
+For developers:
 - Awareness of each topic (e.g. epics).
 - Awareness of parts that need adjustment.
 
+For stakeholders:
+- Transparancy. More accurate expectations.
+
 # 📅 Agenda
 For each topic
-- Where are we w.r.t. the goal? E.g. what deliverable
+- Where are we w.r.t. the goal? E.g. what deliverable.
 - What do we expect?
 
 # 📖 Pre-read / preparation
@@ -107,5 +113,13 @@ For each topic
 - The goals of the projects that are _in progress_.
 ```
 
+**Anti-pattern**
+
+- Interrogation without offering help. No collaboration (*together*).
+- Responding with critique (blame) after openness. Rather than welcoming honesty.
 
 
+
+## RCA
+
+...

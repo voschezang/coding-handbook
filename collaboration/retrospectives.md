@@ -1,6 +1,6 @@
 # Retrospectives
 
-
+[toc]
 
 ## Purpose
 
@@ -8,7 +8,7 @@ The benefit of retrospectives is twofold. In the short term it provides awarenes
 
 
 
-Benefit of doing *regular* retrospectives
+Benefit of doing **regular** retrospectives
 
 - Maintain psychological safety. Provide room to bring up up sensitive topics.
 - Facilitate discussions, conflict and show that it can be resolved.
@@ -17,18 +17,46 @@ Benefit of doing *regular* retrospectives
 
 
 
-Benefit of a *great* retrospective
+Benefit of a **great** retrospective
 
 - Each team members is engaged and gets a chance to contribute.
 - Attention for each team member. Each team member feels understood.
 
 
 
-Persona's
+**Persona's**
 
 - New team members. They haven't yet shown major contributions, but they have a beginner's mind and drive to improve.
 - Old guard. They have seen it all and accept the status quo. They may be reluctant to innovate.
-- The team as a whole. 
+- The team as a whole. Their goals may be in line with goals of individual team members.
+
+
+
+## Subject
+
+Retrospectives can focus either on a subject (topic) or the connection of the team itself.
+
+- Reflect on a topic. E.g. team goals.
+- Connection. Connect to each other, as a team. Be [present](presence.md) with each other.
+
+
+
+**Templates**
+
+```markdown
+# Connect to each other
+- Step away from (daily) activity.
+- Dive in
+- Dive out
+```
+
+
+```markdown
+# Reflect on a subject
+- Introduce the session. Warm up
+- Dive in.
+- Conclude the session.
+```
 
 
 

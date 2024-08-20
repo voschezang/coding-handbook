@@ -28,10 +28,10 @@ Key points to register.
 
 What to document per point
 
-- The intended purpose of X.
-- The resulting outcome of X.
-- The origin of X.
-- Who participated in X.
+1. The intended purpose of X.
+2. The resulting outcome of X.
+3. The origin of X.
+4. Who participated in X.
 
 
 

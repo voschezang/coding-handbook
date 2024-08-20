@@ -1,5 +1,7 @@
 # Experience
 
+This document covers human experience. It consists of attention, desire, activity and surrounding. Also see [experience](../subjects/experience.md).
+
 [toc]
 
 ## Overview
@@ -46,6 +48,12 @@ Note that there is a difference bewteen what you like and what is good for you.
 
 
 
+**Acceptance and control**
+
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:5em;" />
+
+
+
 ### Models
 
 This model excludes the feedback loop.
@@ -84,7 +92,48 @@ Phases
 
 
 
-## Attention and Dissociation
+## Attention and Presence
+
+### Association
+
+> Let go.
+
+To be present:
+
+- Feel your feelings. Don't think, don't imagine, don't recall, don't hope, don't worry. De-emphasize the future and the past.
+- Acknowledge the chaos of reality. Let go. Don't control, don't understand, don't restrict, don't block.
+
+Note that this is not feasible in many environments.
+
+
+
+**Presence**
+
+The experience of a person in the present moment.
+
+- *What is it like to be you?*
+  - *Where is your attention?*
+    - *What's on your mind? What do you feel?*
+    - *What do you notice?* E.g. sensation.
+  - *What is attracting you?* E.g. curiousity, sensuality, love.
+- *Where are you?* The surrounding.
+- *What are you doing?* Activity.
+
+All of these have negations. *What is absent? What do you not see?*
+
+<img src="../img/activity-attention-attraction.png" alt="activity-attention-attraction" style="height:24em;" />
+
+
+
+**Flow**
+
+Move from surface level observations to disclosing deeper personal information.
+
+<img src="../img/attraction-attitude-attention.png" alt="attraction-attitude-attention" style="height:24em;" />
+
+
+
+### Dissociation
 
 Dissociation can happen in many forms. A few common examles are daydreaming or taking a walk *on autopilot*, without paying attention to where you're going. 
 
@@ -110,11 +159,25 @@ Note that the last type is controversial. In the western scientific community, a
 
 
 
-**Parts of yourself**
+
+
+**Coping styles**
+
+- Surrender
+- Avoid
+- Reverse. Re-interpret the situation as pleasant.
+
+
+
+### Parts
+
+Parts of yourself
 
 > (Alice) I knew who I was this morning, but I’ve changed a few times since then.
 
 People tend to experience differences as reaction to environments. A generic term for this is *parts*; which relates to the different parts of your*self*. For example, someone may talk differently towards their close family than to their work colleagues. Someone may lose their temper, and later reflect "I was not myself".
+
+- Other terms for this concept are roles, modes, fantasies, strategies, alter egos. Recognizing parts allows people to connect to specific parts (give it a voice) and express themselves.
 
 Two related concepts are.
 

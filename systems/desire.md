@@ -1,5 +1,3 @@
-
-
 # Organizational Desire and Needs
 
 The purpose of the system differs for each perspective.

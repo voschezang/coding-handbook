@@ -4,6 +4,15 @@ Leadership is the ability to connect, in the context of an organization. Communi
 
 [toc]
 
+## Overview
+
+Leadership is a componsite of situational strategies. It consists inspiration and collaboration.
+
+- Inspiration implies a (power) imbalance. Followers aspire the leader's vision. The leader motivates the followers.
+- Collaboration is a fair exchange.
+
+
+
 ## Context
 
 > Good leadership is situational
@@ -15,6 +24,12 @@ Leadership can be optimized for an environment. Its affected by the leader, the 
 - In a *complex* environment, develop your own practice. Execution of work involves adaption and autonomy.
 
 Leadership may be problem-oriented or opportunity-oriented. See [proposals](proposals.md).
+
+
+
+Leadership implies collaboration.
+
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
 
 
 

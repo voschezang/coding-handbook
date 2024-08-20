@@ -9,6 +9,13 @@ Trust consists of
 
 
 
+It can be
+
+- Informal. Implied by behaviour. Confidence in each other.
+- Formal. Explicit agreements.
+
+
+
 Human communication is inherently ambiguous. It consists of multiple layers. 
 
 1. The initial message (**content**) needs to travel from one context (person) to another.
@@ -25,6 +32,12 @@ Human communication is inherently ambiguous. It consists of multiple layers.
 Note how this relates to [contracting](coaching.md) conversations.
 
 <img src="../img/communication-layers.png" alt="communication-layers" style="width:70%;" />
+
+
+
+> Accepting > controlling
+
+The need to control implies a lack of acceptance.
 
 
 

@@ -1,5 +1,12 @@
 # Attention
 
+When building systems, a major challenge is to decide where to direct attention to.
+
+- In engineering, this relates to observability.
+- In management, this relates to optimization.
+
+
+
 Per domain
 
 | Domain                      | Source    | Target      | Desire                                                       |

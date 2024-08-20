@@ -168,6 +168,16 @@ Typical phrases
 
 
 
+Break the ice
+
+- Break the tension. Take a step towards familiarity.
+
+Unbreak the ice (anti-pattern)
+
+- Close of a conversation. Leave the other stunned.
+
+
+
 ## Active Listening
 
 Listening and empathy.
