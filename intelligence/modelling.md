@@ -2,6 +2,8 @@
 
 Principles of [modelling](https://en.wikipedia.org/wiki/Scientific_modelling), statistics and machine learning. Note that a model can be either mathematical or conceptual (e.g. a flowchart). See also [statistics](../math/statistics.md).
 
+Modelling is about generating a distribution of results, rather than a single result. A step further would be to create a range of models, that each generate different types of distributions of results.
+
 [toc]
 
 ## Overview

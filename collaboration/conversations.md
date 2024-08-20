@@ -186,6 +186,16 @@ Listening and empathy.
 
 
 
+Agreeing and disagreeing. With details or intent. Note: all of these can be communicated without words.
+
+
+
+<img src="../img/quadrant-disagree-relation-content.png" alt="quadrant-disagree-relation-content" style="height:24em;" />
+
+
+
+
+
 ### Professional conversations
 
 Each level should be sufficient, before moving to the next level. Jumping to the last step may cause misunderstanding.

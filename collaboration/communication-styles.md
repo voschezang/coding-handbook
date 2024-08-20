@@ -130,11 +130,11 @@ The difference between these can be a matter of framing.
 - Ideal behaviour: depends on the role: from collaborating to competing.
 - Find a fair deal. Mutual gain, objective criteria.
 
-|      |          | Bridging         | Mediation            | Negotiation         |
-| ---- | -------- | ---------------- | -------------------- | ------------------- |
-| Why  | Purpose  | Explore needs    | Shared goal.         | Individual goals    |
-| What | End-goal | Learn and relate | Mutual gain. Win-win | Zero-sum game       |
-| How  | Emphasis | Relation         | Interests            | Emphasize positions |
+|          |              | Bridging         | Mediation            | Negotiation         |
+| -------- | ------------ | ---------------- | -------------------- | ------------------- |
+| **Why**  | **Purpose**  | Explore needs    | Shared goal.         | Individual goals    |
+| **What** | **End-goal** | Learn and relate | Mutual gain. Win-win | Zero-sum game       |
+| **How**  | **Emphasis** | Relation         | Interests            | Emphasize positions |
 
 Framing messages allows positive and negative aspects be emphasized.
 

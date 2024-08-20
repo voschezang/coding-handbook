@@ -18,7 +18,7 @@ To be present is to:
 
 ## Sharing experience
 
-The experience of a person in the present moment. From surface-level to to deep, personal information.
+The experience of a person in the present moment. From surface-level to to deep, personal information. See [experience](../psychology/experience.md).
 
 - **Surrounding**. *Where are you?*
 - **Activity** *What are you doing? What are you not doing?*
@@ -29,7 +29,25 @@ The experience of a person in the present moment. From surface-level to to deep,
 - **Desire** *What would you like? What do you need?*
 - **Identity** *Who are you?*
 
-These questions are phrased with minimal judgement. Judging experience takes you out of the present.
+
+
+These questions have an **interview** format. In real conversations, people tend to alternate communication styles. For example:
+
+- Non-verbal signals. E.g. nodding.
+- Sharing observations. *"I noticed that ..."*
+- Disclosing liking. *"That makes me feel..."*
+- Repetition. Emphasizing certain words, or summarizing content.
+- Suggestions. *"We could explore ..."*
+
+
+
+These questions are phrased with minimal **judgement**. Judging experience takes you out of the present.
+
+- When discussed openly, without judement, these topics tend to create a sense of connection.
+
+- When avoided or lying, these topics create disconnect.
+
+
 
 
 
