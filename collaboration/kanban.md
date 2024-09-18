@@ -2,13 +2,19 @@
 
 Kanban is a light-weight collaboration system designed to streamline production proceses. See [wiki](https://en.wikipedia.org/wiki/Kanban).
 
-
+[toc]
 
 ## Mindset
+
+**Generic workflow**
 
 > Visualize-Stabilize-Optimize. 
 
 First find the right challenge (e.g. the bottleneck). Second, find stability, otherwise you cannot reliably control it. Finally, you can start to optimize.
+
+
+
+**Daily workflow**
 
 > Plan-Do-Check-Act
 
@@ -21,6 +27,11 @@ First find the right challenge (e.g. the bottleneck). Second, find stability, ot
 > Stop starting, start finishing
 
 Kanban is a pull system. It puts an emphasis on finishing *work in progress* (WIP). It aims to finishing tasks before starting new tasks.
+
+WIP limits are a balance:
+
+- High limits give flexibility of picking up work. They increase the level of freedom: autonomy, flexibility.
+- Low limits enforce focus and result in better cycle time.
 
 
 

@@ -16,6 +16,21 @@ Models are exclusive by nature. They are biassed to a given scenario and context
 
 
 
+### Expected Value
+
+The likelihood of events.
+
+- The probability of all possible events: `P[X]`
+- The expected (average) value: `E[X]`
+- The variance (variability): `Var[X]`
+
+These properties can be understood at a deeper level. Consider:
+
+- The conditional expectation: `E[X | Y=y]`
+- The conditional variance: `Var[X | Y=y]`
+
+
+
 ### Class Imbalance
 
 In classification, data may not be distributed equally. E.g. a model that classifies any patient as healthy is useless, but it will still have a high accuracy for rare disseases.

@@ -1,6 +1,6 @@
 # Software Engineering
 
-Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](../management/product-management.md).
+Software development used to be *just* a chaotic, creative endeavour. However, gradually some **principles** are starting to emerge, making it more predictable and rigorous. The field seems to be inherently interdisciplinary. On the one hand it involves theoretical subjects such as [computer](https://en.wikipedia.org/wiki/Computer_science) and [computational](https://en.wikipedia.org/wiki/Computational_science) science, [information](https://en.wikipedia.org/wiki/Information_science) science, mathematics and statistics. On the other hand, it relates to people, product, project and operations management. See also [software product management](../management/product-management.md) and [testing](testing.md).
 
 [toc]
 
@@ -133,50 +133,6 @@ Although there is no consensus on the definition of "clean" code, some indisputa
 - Simple interfaces for public methods.
 
 See also [programming-paradigms.md](../computer-languages/programming-paradigms.md) and [style-guide.md](../computer-languages/style-guide.md).
-
-### Testing
-
-Also see *Integration & Delivery* below.
-
-> The entropy (complexity) of software without "good" tests can only increase. Tests allow features to be safely removed.
-
-The term testing is usually used for "checks". A distinction can be made based on the role of requirements.
-
-- No requirements: Testing. E.g. `observing, exploring, experimenting`.
-  - Learn something new. Do research. This is inherently unpredictable. Techniques to improve consistency are:
-    - Time-boxes. Zoom in and out.
-  - Black box: study the different inputs and outputs of a system.
-  - White box: study the inner systems.
-- Requirements: Checking.
-  - Verification and validation based on pre-specified requirements
-    - This can often be **automated**
-  - [TDD](https://en.wikipedia.org/wiki/Test-driven_development): write small tests (checks) first, and the implementation second.
-    - Strong TDD: Write a minimum failing test, write minimum code to fix the test, then refactor without introducing new behaviour.
-
-In the absence of pre-specified requirements it is still possible to list all the dimensions (properties) of the system and consider how they can be measured.
-
-No testing.
-
-- Develop a PoC, then evaluate whether it should be put into production, and only then continue with TDD on that specific feature. This means that there are no tests written for unused code.
-
-**Test Pyramid**
-Rely on unit-tests (checks) to verify that requirements or specifications are met. Decompose large integration tests.
-
-- UI should have unit-tests.
-- Tests for interfaces can be generated automatically.
-
-**Anti-pattern**
-Ice-cone: inverse testing pyramid. Too many integration and UI tests, which are slow, unmaintainable and too sensitive.
-
-#### System Verification
-
-❤️‍🩹 Is the system **healthy**? Is it degrading?
-
-⌛ How **soon** will we know? How are we notified?
-
-👀 Are we **aware** of all components (and roles)?
-
-🛠️ Are we **in control**? Is the system manageable? Are we able to deploy changes?
 
 ### Other Metrics
 

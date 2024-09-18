@@ -26,3 +26,4 @@ Rotate `f`<sup>`n`</sup>`(x) = x` for a given number `n`.
 [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 
 `f(x) = f( f( x) )`
+
