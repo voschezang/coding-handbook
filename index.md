@@ -1,29 +1,6 @@
 # Index
 
-Terms that relate to multiple documents or categories. See also [models](models.md).
-
-- Reality. Subjects and systems.
-- Abstraction of realiy. Qualities, information, metaphysics.
-
-
-
-Language tends to differ per domain. Certain language is more appropriate for particular domains.
-
-|              | Self        | Agent     | System             |
-| ------------ | ----------- | --------- | ------------------ |
-| **Example**  | A person    | A robot   | A team or business |
-| **Identity** | Ego         | Identity  | Identity           |
-| **Purpose**  | Desire      | Objective | Vision             |
-| **Origin**   | Birth       | Creation  | Shared visiongff   |
-| **Action**   | Personality | Behaviour | Performance        |
-
-
-
-<img src="img/reality-subjects-systems.png" alt="reality-subjects-systems" style="width:90%;" />
-
-<img src="img/reality-abstraction-qualiy-meta.png" alt="reality-abstraction-qualiy-meta" style="width:50%;" />
-
-
+Terms that relate to multiple documents or categories. See also [models](models.md) and [maps](index-maps.md).
 
 [toc]
 
