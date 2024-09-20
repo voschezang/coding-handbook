@@ -39,10 +39,3 @@ Two types of structure.
 
 
 
-
-
-
-
-
-
-

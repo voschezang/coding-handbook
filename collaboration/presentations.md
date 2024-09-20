@@ -1,5 +1,9 @@
 # Presentations
 
+See [storytelling](storytelling.md).
+
+
+
 Presenting ideas.
 
 1. The core message. The obvious ideas.

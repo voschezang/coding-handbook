@@ -7,7 +7,7 @@ When building systems, a major challenge is to decide where to direct attention 
 
 
 
-Per domain
+Attention across domains
 
 | Domain                      | Source    | Target      | Desire                                                       |
 | --------------------------- | --------- | ----------- | ------------------------------------------------------------ |

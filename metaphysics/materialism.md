@@ -55,7 +55,7 @@ The standard western view distinguishes between objective and subjective reality
 
 
 
-<img src="../img/worldview-western.png" alt="worldview-western" style="width:60%;" />
+<img src="../img/tree-worldview-western.png" alt="worldview-western" style="width:80%;" />
 
 
 

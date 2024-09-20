@@ -12,7 +12,7 @@ A subject can be:
 
 - *"Object of desire."* An object has <u>quality</u>. It is a structure.
 
-- *"A subject of the law."* A subject of a group. It is being controlled. It implies a <u>force</u>. It experiences a force.
+- *"A subject of the law."* A subject of a group. It is a relation. It implies a <u>force</u>. It experiences a force.
 
 
 
@@ -28,5 +28,4 @@ A subject can be:
     - [Requirements](requirements.md)
 - Context
     - [Property](property.md)
-
 

@@ -1,6 +1,6 @@
 # Management Principles
 
-Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](./goals-planning-strategy.md).
+Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](./goals-planning-strategy.md) and [accountability](accountability.md).
 
 [toc]
 
@@ -330,21 +330,6 @@ Typical solutions: DevOps, product-teams.
 - Sales prefers bulk orders due to costs
 
 Typical solutions: ship orders in increments, vertical integration, store resources in a central location
-
-
-
-## Management Roles
-
-A general manager may be accountable for "everything". In large organizations, this accountability is split up to dedicated roles.
-
-| Role                        | Accountability                         | Context                       |
-| --------------------------- | -------------------------------------- | ----------------------------- |
-| Context manager             | Positioning of a system or department. | Stakeholders & customers      |
-| Delivery manager            | Value delivery.                        | Customers, resources, chains  |
-| Engineering manager         | Engineering quality & predictability.  | Technology & capability       |
-| People manager              | Capability of employees.               | Performance & well-being      |
-| Project (portfolio) manager | A set of projects                      | Time, scope, cost, risks      |
-| Product manager             | Product value. Vision and realization. | Discovery & delivery of value |
 
 
 

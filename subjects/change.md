@@ -10,6 +10,12 @@ Behaviour is the product of habits and change. Habits are (learned) patterns of 
 
 
 
+Gradual change is based on an **evolution** of waves. It builds upon previous layers. It can be compared to a [superposition](https://en.wikipedia.org/wiki/Additive_synthesis).
+
+This contrasts to a **revolution**, which is disruptive. It is violent and distorts previous patterns (layers).
+
+
+
 ## Context
 
 The main types of activity are: continuation, deviation and rejection. See [activity](activity.md).

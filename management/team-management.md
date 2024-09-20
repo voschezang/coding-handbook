@@ -56,6 +56,19 @@ In the context of a team, work and projects are considered to be *business as us
 
 
 
+**Culture** can be defined as
+
+- Stuff that people do without noticing it.
+- The most extreme behaviours that are and aren't tolerated.
+
+Hierarchy ([source](https://en.wikipedia.org/wiki/Edgar_Schein))
+
+1. Artifacts. Clearly visible, even by outsiders.
+2. Values. Visible, but sometimes debated.
+3. Assumptions. What you "know" intuitively as an insider, but don't recognize as unique.
+
+
+
 ## Team Effectiveness
 
 In theory, effectiveness is most strongly influenced by responsiveness and stakeholder concern. The latter factors are influenced by team autonomy and continuous improvement. Management support influences all factors, but indirectly.

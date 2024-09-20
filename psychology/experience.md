@@ -1,10 +1,45 @@
 # Experience
 
-This document covers human experience. It consists of attention, desire, activity and surrounding. Also see [experience](../subjects/experience.md).
+This document covers conscious experience. It consists of attention, desire, activity and surrounding. Also see [experience](../subjects/experience.md).
 
 [toc]
 
 ## Overview
+
+Conscious experience is not a biological or social process. It can be reduced to a set of patterns that characterize a person.
+
+- Such patterns are called roles or habits. They are a mix of someone's desires, worldview and environment.
+- They affect attention and the sense of self. See [ego](ego.md).
+
+
+
+The states of the human body and mind can differ. A few examples.
+
+|                                  | Good state of mind (satisfaction)              | Bad state of mind (dissatisfaction)       |
+| -------------------------------- | ---------------------------------------------- | ----------------------------------------- |
+| **Good state of body (comfort)** | Joy and peace, trust                           | Loss of faith, dissatisfaction, pessimism |
+| **Bad state of body (unwell)**   | Winning at sports, despite physical exhaustion | Suffering from pysical injuries           |
+
+Note that there is a difference bewteen what you like and what is good for you.
+
+
+
+Experience can be inward, outward, individual and social. See [integral theory](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)).
+
+|                | Inward                     | Outward                       |
+| -------------- | -------------------------- | ----------------------------- |
+| **Individual** | Consciousness (subjective) | Behaviour (objective)         |
+| **Social**     | Culture. Shared ideas      | Processes, systems, structure |
+
+
+
+**Acceptance and control**
+
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:5em;" />
+
+
+
+### Activity
 
 Experience is an activity. It consists of feeling (perceiving) and thinking. Both are driven by human nature, personal desires and external stimuli. Humans have limited control over their thoughts and their behaviour.
 
@@ -23,34 +58,6 @@ Sensation is done with three representational systems.
 - Visual - seeing
 
 Other feelings (hunger, temperature) are left out in this model.
-
-
-
-Experience can be inward, outward, individual and social. See [integral theory](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)).
-
-|                | Inward                     | Outward                       |
-| -------------- | -------------------------- | ----------------------------- |
-| **Individual** | Consciousness (subjective) | Behaviour (objective)         |
-| **Social**     | Culture. Shared ideas      | Processes, systems, structure |
-
-
-
-**Body and mind**
-
-The states of the human body and mind can differ. A few examples.
-
-|                                  | Good state of mind (satisfaction)              | Bad state of mind (dissatisfaction)       |
-| -------------------------------- | ---------------------------------------------- | ----------------------------------------- |
-| **Good state of body (comfort)** | Joy and peace, trust                           | Loss of faith, dissatisfaction, pessimism |
-| **Bad state of body (unwell)**   | Winning at sports, despite physical exhaustion | Suffering from pysical injuries           |
-
-Note that there is a difference bewteen what you like and what is good for you.
-
-
-
-**Acceptance and control**
-
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:5em;" />
 
 
 

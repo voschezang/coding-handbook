@@ -13,7 +13,7 @@ Value considers what is *good* and *bad*. It can be divided into subjective and 
 
 
 
-![subjective-quality](../img/subjective-quality.png)
+![subjective-quality](../img/tree-subjective-quality.png)
 
 
 

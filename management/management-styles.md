@@ -18,9 +18,16 @@ Management consists of
 
 
 
-This document covers:
+Styles
 
-- Teams management.
+- Commanding
+- Positioning
+
+
+
+Sections
+
+- Teams management
 - Product management
 - Project management
 

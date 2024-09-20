@@ -1,6 +1,11 @@
 # Coaching
 
-Coaching is about providing a soundboard, through questioning (feedback). It's oriented towards potential and results. See also [goals](../organization/goals.md), [purpose](activity/purpose.md).
+Coaching is about providing a soundboard, through questioning (feedback). It's oriented towards potential and results. For more details, see:
+
+- [Coaching techniques](coaching-techniques.md)
+- [Coaching teams](coaching-teams.md)
+
+See also [goals](../organization/goals.md), [purpose](activity/purpose.md) and [retrospectives](retrospectives.md).
 
 [toc]
 
@@ -8,7 +13,7 @@ Coaching is about providing a soundboard, through questioning (feedback). It's o
 
 > Help people (teams) move from who they are now, to who they’ll be in the future, in a way that maximizes well-being.
 
-Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](conversations.md). Hence it implies [trust](trust.md). In these converstaions:
+Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](conversations.md). Hence it implies [trust](trust.md). In these conversations:
 
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
@@ -26,6 +31,8 @@ Two main modes are: critical and supporting. These map to [thinking](proposals.m
 | **Attitude**  | Avoid failure, do better          | Learn from experience                                   |
 | **Obstacles** | Fight obstacles                   | Deconstruct obstacles                                   |
 | **Energy**    | Pushing, sprinting                | Growing, step by step                                   |
+
+In contrast to therapy, coaching assumes that the subjects are healthy. It does try to heal or diagnose clients. It acknowledges problems, but does not dive in to deconstruct them. It guides clients to improve on their own pace, without needing to solve a crisis.
 
 **Avoiding problems**
 
@@ -89,57 +96,6 @@ Necessary conditions.
 - Sessions
   - Intake session to align expectations and set an initial objective. Check the expectations with respect to coaching itself.
   - Repeated conversational sessions that end with action points.
-
-### Energy Field
-
-The relation between people is partially invisible and not said out loud. It can be addressed indirectly, without over-suggesting or forcing a direction.
-
-Weather metaphors
-
-- 🌡️ What is the temperature in this room?
-  - ♨️ It’s getting hot.
-  - ❄️ That feels cold.
-- ☀️ Do you feel the sun shining?
-- ☁️ I notice some clouds.
-- ⛅ The sun is starting to get through.
-- 🍃 I feel a light breeze. Air is starting to flow.
-- 🌪️ That felt like a tornado.
-
-## Team Coaching
-
-Team coaching focusses on the relationship between team members. The members from a system, that can be addressed as a whole.
-
-<img src="../img/coach-team-system.png" alt="coach-team-system" style="width:50%;" />
-
-Coaching team requires a balance between addressing the team and individual members.
-
-A common pattern is to focus on the team at the start and the end of projects (iterations), and pay attention to on individual members during the middle of the projects. In between projects the team is given the room to to focus.
-
-
-
-Systems view
-
-- Everyone is right, partially.
-- Each team member is a voice of the system. Behaviour of an individual is a signal from the system.
-  - You are part of the system and also separate from it.
-
-
-
-**Stance**
-
-- *Invite* team members to provide feedback and relflection, rather than filling in how they behaved. E.g. *"How did you feel after that meeting?"*, rather than *"I noticed that you rushed and ...."*.
-- Align and check assumptions.
-- Avoid secrets between team members. As a workaround, you can share "anonymous" messages.
-
-
-
-**Triangle**
-
-Balance the attention and input of all coachees.
-
-<img src="../img/coach-sharing.png" alt="coach-sharing" style="width:70%;" />
-
-
 
 ### Alignment Coaching
 
@@ -206,128 +162,3 @@ Differences in problem solving:
 | **Questioning** | Ask open questions                | Answer questions                    | Provide advice                   |
 | **Mode**        | Facilitate subject                | Lead subject                        | Provide service to subject       |
 
-## Contracting
-
-The contracting phase aims to align expectations and give the coachee and coach a headstart. A contract is an informal or formal agreement on what to expect from each other. A less formal term would be *alliance*.
-
-> Trust comes before agreement.
-
-Start with developing a relation and building up trust. Initial agreements can be made on a abstract level. E.g. alignment on certain values or agreement on a title. Later agreements can be more specific.
-
-
-
-**Coach contract**
-
-Contract between coach and the coachee. The latter can be a team.
-
-```markdown
-1. Introduction. what do you want to get out of this?
-2. Context. Park the content 🅿️. What is important in these conversations?
-3. Relationship. What do you need from each other?
-4. Responsibility. How can we ensure that we keep these agreements? How can we make this easier?
-```
-
-**Team contract**
-
-Contract between team members
-
-```markdown
-1. Introduction. What do we want to get out of this?
-2. Context. What is important in these conversations?
-3. Relationship. What do you need from each other?
-4. Responsibility. How can we ensure that we keep these agreements? How can we make this easier?
-```
-
-## Templates
-
-**Compass**
-
-Purpose: zoom in towards core values and motivation.
-
-```markdown
-- Context
-- Static reality
- - Obstacles
- - Competence
- - Values
- - Ambition | big A
-- Potential
- - Goal | petit a
-```
-
-**Qualities & Allergies**
-
->  Each obstacle implies a strengths. 
-
-Purpose: understand extreme forms of behaviour. See [communication-principles](communication-principles.md) and also [personality](../psychology/personality.md).
-
-```markdown
-List of
-
-- Quality (a trait)
-  - Pitfalls of the quality. When there is too much of the quality.
-  - Challenge: how to overcome the pittfall.
-  - Allergy: the opposite of the quality.
-```
-
-
-
-<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="width:60%;" />
-
-**Needs (Maslow)**
-
-Purpose: understand where desires come from. See [desires](../psychology/desires.md).
-
-```markdown
-List of
-
-- Inherent needs
-  - Value. Based on difference.
-  - Desire. Change difference.
-  - Fear. Perceived risks.
-```
-
-
-
-**Actionable**
-
-```
-How likely do you feel/think this is to succeed? What would you need in addition?
-How motivated are you on a scale from 0-10? Why not higher/lower?
-```
-
-**Challenging**
-
-Prompts
-
-- Empathy. *"Seems like he had a reason for saying that."*
-- Dissociate. *"You are aware of the thought of X"*
-- Out of the box. *"What would need to be true for you to belief this?"*
-
-
-
-### Prompts
-
-```markdown
-What kind of person do you want to be in your (work-)relationships?
-What do you feel?
-```
-
-
-
-### Exercises
-
-#### Constellation
-
-Reveal the system back to itself.
-
-Given a statement X, ask the following questions.
-
-1. How much do you recognize X?
-2. How much do you want to change your position?
-
-<img src="../img/constellation.png" alt="constellation" style="width:50%;" />
-
-With multiple dimensions. The circles indicate positions. Arrows can be added to incite desired change.
-
-<img src="../img/constellation-directional.png" alt="constellation-directional" style="width:70%;" />

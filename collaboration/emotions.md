@@ -4,6 +4,16 @@ In professional environments, emotions tend to be undervalued. Instead, they are
 
 
 
+| Emotion   | Change               | Professional Terms                                |
+| --------- | -------------------- | ------------------------------------------------- |
+| 🙂 Joy     | Progression          | Approval, liking, compliments, pride, hope, trust |
+| ☹️ Sadness | Regression           | Reject, regret                                    |
+| 😡 Anger   | Transcression        | Complaints, frustration                           |
+| 😨 Fear    | Potential regression | Concerns, doubts, worries                         |
+| 🤢 Disgust | Potential regression | Disapproval                                       |
+
+
+
 Language
 
 | Professional Term                 | Term             |
@@ -13,16 +23,6 @@ Language
 | Agreement, respect                | Boundaries       |
 | Lessons learned                   | Regret           |
 | Constructive feedback             | Complaint        |
-
-
-
-| Professional Term                                 | Emotion   |
-| ------------------------------------------------- | --------- |
-| Approval, liking, compliments, pride, hope, trust | 🙂 Joy     |
-| Reject, regret                                    | ☹️ Sadness |
-| Concerns, doubts, worries                         | 😨 Fear    |
-| Complaints, frustration                           | 😡 Anger   |
-| Disapproval                                       | 🤢 Disgust |
 
 
 

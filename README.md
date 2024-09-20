@@ -1,8 +1,8 @@
 # Coding Handbook
 
-This repository attempts to ***decode*** organizations and the people within. It features ideas and patterns from many different domains, such as computer science, management, and psychology. It is meant as a living document that organizes thoughts and ideas. 
+This respository is a collection of ideas about collaboration. It connects experience, society and software engineering. The content is written in minimal form. It is meant to provoke discussion, rather than in-depth explainations.
 
-Disclaimer, this repository does not contain advice.
+*Disclaimer: this repository does not contain advice.*
 
 ## Index
 

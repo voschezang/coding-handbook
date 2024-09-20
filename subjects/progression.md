@@ -43,6 +43,8 @@ The term progression relates to terms such as regression, transgression and aggr
 
 One can take a step forward or backward. One can skip a step, or a step can be missing.
 
+See also [professional emotions](../collaboration/emotions.md).
+
 
 
 ## Thesis-antithesis-synthesis
