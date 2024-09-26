@@ -8,7 +8,7 @@ Subjects or agents have desire. Their identity determines their dreams (inherent
 
 A single model won't capture the complex landscape of desires of humans. Imagine sea waves, where there is a stable under-current, and dynamic surface-currents. There is never a single static desire.
 
-<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
+<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
 
 
 

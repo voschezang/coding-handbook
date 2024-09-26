@@ -6,6 +6,17 @@ In philosophy, there is a distinction between a (human) subject and a zombie. Th
 
 [toc]
 
+## Overview
+
+Experience is fundamentally dynamic. It's a verb: to experience. A first characteristic is the rate of change: being or becoming. This relates to the environment.
+
+- Being involves self-expression and authenticity. Desprite the environment.
+- Becoming involves adaptation, influence and control. Atuned to an environment.
+
+![waves-being-becoming](../img/waves-being-becoming.png)
+
+
+
 ## Hierarchy
 
 Behaviour and context:
@@ -59,5 +70,5 @@ The experience of an agent can be positive or negative. The agent may judge obse
 
 A neutral attitude is to tolerate the enviornment.
 
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="width:40em;" />
 

@@ -20,7 +20,7 @@ The states of the human body and mind can differ. A few examples.
 | **Good state of body (comfort)** | Joy and peace, trust                           | Loss of faith, dissatisfaction, pessimism |
 | **Bad state of body (unwell)**   | Winning at sports, despite physical exhaustion | Suffering from pysical injuries           |
 
-Note that there is a difference bewteen what you like and what is good for you.
+Note that there is a difference between what you like and what is good for you.
 
 
 
@@ -35,7 +35,7 @@ Experience can be inward, outward, individual and social. See [integral theory](
 
 **Acceptance and control**
 
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:5em;" />
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="width:35em;" />
 
 
 
@@ -43,9 +43,28 @@ Experience can be inward, outward, individual and social. See [integral theory](
 
 Experience is an activity. It consists of feeling (perceiving) and thinking. Both are driven by human nature, personal desires and external stimuli. Humans have limited control over their thoughts and their behaviour.
 
+
+
+<img src="../img/waves-thoughts-feelings.png" alt="waves-thoughts-feelings" style="width:40em;" />
+
+Waves interference occurs naturally. There may be harmony or dissonance. Waves can complement or disrupt each other.
+
+Feeling does not require *acting*. Surrendering to a feeling does not mean you indulge in it. It just means you stay with it for a moment.
+
+Attention cannot be focussed everywhere. Closing your eyes improves sensitivity of other senses.
+
+
+
+Other dimensions
+
+- Attention may inward or outward. Sensations can originate from senses or memories.
+- Energy can be low or high. E.g. high arousal.
+
+
+
+
+
 > How you feel ≠ what you feel.
-
-
 
 ![experience-thinking-sensing](../img/experience-thinking-sensing.png)
 

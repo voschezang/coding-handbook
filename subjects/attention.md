@@ -29,3 +29,11 @@ In society
 
 - Public attention. (Underlying) awareness of a subject.
 - Media attention. Coverage of subjects in news.
+
+
+
+Radius of attention
+
+- Me. First person. Inward.
+- You. Second person. Immediate surrounding. Another person.
+- We. Surrounding. Outward. Multiple persons.

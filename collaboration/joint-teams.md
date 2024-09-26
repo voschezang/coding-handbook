@@ -28,7 +28,7 @@ Team dynamics ebb and flow.
 - Team members naturally optimize their own role. This changes the their dynamics.
 - The team changes over time. Junior members grow into seniors, and seniors move on to new roles.
 
-<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
+<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
 
 
 

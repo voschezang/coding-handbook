@@ -33,7 +33,7 @@ WIP limits are a balance:
 - High limits give flexibility of picking up work. They increase the level of freedom: autonomy, flexibility.
 - Low limits enforce focus and result in better cycle time.
 
-
+<img src="../img/kanban-board.png" alt="kanban-board" style="width:25em;" />
 
 ## Anti-patterns
 

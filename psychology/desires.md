@@ -14,7 +14,7 @@ Two flavours of a simple model for desire and human needs.
 
 
 
-<img src="../img/desire.png" alt="desire" style="width:90%;" />
+<img src="../img/pyramid-desire.png" alt="desire" style="width:90%;" />
 
 Typical desires:
 

@@ -45,7 +45,7 @@ Components can be treated both as subjects and as organized structures.
 - Subjects have two types of desires: satisfaction and improved quality. See [subjects/desire.md](../subjects/desire.md).
 - Organizations have a function, a lifecycle and exhibits internal dynamics.
 
-<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:50%;" />
+<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:50%;" />
 
 
 
