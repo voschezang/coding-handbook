@@ -32,29 +32,6 @@ Leadership and motivation.
 
 
 
-### Template: Matrices
-
-**Projects vs. Objectives**
-
-|                  | Objective A | Objective B | Objective C |
-| ---------------- | ----------- | ----------- | ----------- |
-| Project X        | o           |             | o           |
-| Project Y        | o           | o           |             |
-| Project Z        |             |             | o           |
-| ***Dependency*** | X, Y        | Y           | X,Z         |
-
-**Cost vs. Urgency**
-
-|                          | Not urgent | -         | Urgent    |
-| ------------------------ | ---------- | --------- | --------- |
-| **High risk / low cost** | Project X  |           |           |
-| **-**                    |            |           | Project Y |
-| **Low risk / High cost** |            | Project Z |           |
-
-
-
-
-
 ## JIT Planning
 
 Suppose the main constraint in a team is capacity. Then there is a need to focus on the most important tasks. This can be done by either:
