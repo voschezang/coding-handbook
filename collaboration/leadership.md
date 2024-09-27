@@ -67,6 +67,10 @@ The leader
 | **Risk**          | Aggressive, ruthless, cold       | Sub-assertive, soft                 |
 | **Communication** | Control, command, challenge.     | Encourage, incentivize, facilitate. |
 
+Surrendering
+
+- Surrendering is to accept the present. To staying with an experience, rather than controlling it.
+
 
 
 Minimal inteference. See [gardening](gardening.md).

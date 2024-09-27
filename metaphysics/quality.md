@@ -19,7 +19,7 @@ Static quality
 
 
 
-<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:80%;" />
+<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:45em;" />
 
 
 

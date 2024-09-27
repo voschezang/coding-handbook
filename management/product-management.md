@@ -28,6 +28,12 @@ Two perspectives are a contextual view and an internal view. These map to the va
 
 
 
+The value chain exists within an environment and a context. The scope of product manager stops at this boundary. The value chain is contingent upon organizational (and technical) capabilities. See [accountability](../collaboration/accountability.md).
+
+<img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:40em;" />
+
+
+
 ### Contextual View
 
 Running a business involves collaboration and [management](https://en.wikipedia.org/wiki/Business_Model_Canvas).
@@ -221,5 +227,4 @@ A [locally optimized, simplified version](https://twitter.com/johncutlefish/stat
 
 **Zombie product**
 A product that is kept alive for political or personal reasons rather than market demand.
-
 

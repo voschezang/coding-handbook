@@ -10,15 +10,15 @@ A team cannot function without *healthy* dynamics. Even predictable environment 
 
 Retrospectives help teams to improve. It addresses systematic issues and it improve connection (inclusivity) of the team. Moreover, doing retrospectives *regularly* influences the culture and expectations of team members. Good intentions will become habbits.
 
-The style of retrospectives tends to change as the team matures and grows. A facilitator may give the following explanation.
+The style of retrospectives tends to change as the team matures and grows.
 
-```
-1. The initial focus is connection with each other. Once we’ve developed more trust, I will initiate debate around important issues. 
-2. This will gradually lead to commitments. I'll help you to inspect these and make them more transparent. Commitments invite accountability - which can lead to confrontations. 
-3. In turn, we'll learn how to make this easier. Finally, we'll shift our attention to results.
-```
+1. Connection. Some sort of shared understanding. A basic level of trust. Communication will be problematic without this.
+2. Debate. Discuss agreements and events. Transparency and commitments.
+3. Focus on results. *What problems are we solving? How?*
 
 Note that result-oriented sessions can be perceived as more usefull, in a business sense. However, this requires a level of psychological safety - which is why the earlier steps are important.
+
+Visualization helps to understand what is happening, what is getting attention and where effort is being put towards. E.g. public documents, a Scrum/Kanban board, roadmaps.
 
 
 

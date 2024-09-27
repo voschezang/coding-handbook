@@ -29,6 +29,18 @@ Focus on flow, rather than control
 
 
 
+## Context
+
+A facilitator may give the following explanation.
+
+```
+1. The initial focus is connection with each other. Once we’ve developed more trust, I will initiate debate around important issues. 
+2. This will gradually lead to commitments. I'll help you to inspect these and make them more transparent. Commitments invite accountability - which can lead to confrontations. 
+3. In turn, we'll learn how to make this easier. Finally, we'll shift our attention to results.
+```
+
+
+
 ## Introductions
 
 ### Read the room

@@ -1,5 +1,17 @@
 # Structure
 
+[toc]
+
+## Overview
+
+Structure can be persistent or changing. Change may repeat itself or dissolve into uniformity.
+
+<img src="../img/continuity-creation-destruction.png" alt="continuity-creation-destruction" style="width:35em;" />
+
+
+
+## Dual Model
+
 Two types of structure.
 
 - `~` Dynamic structure. Fluid, like a wave.
@@ -16,7 +28,7 @@ Two types of structure.
 
 
 
-## Learning
+### Learning
 
 |            | Dynamic Learning           | Static Learning              |
 | ---------- | -------------------------- | ---------------------------- |
@@ -27,7 +39,7 @@ Two types of structure.
 
 
 
-## Society
+### Society
 
 |            | Dynamic Structure           | Static Structure                                             |
 | ---------- | --------------------------- | ------------------------------------------------------------ |
@@ -35,7 +47,6 @@ Two types of structure.
 | **Origin** | Evolved                     | Designed, planned                                            |
 | **How**    | Shared responsibility       | [Government](https://en.wikipedia.org/wiki/Separation_of_powers) |
 | **What**   | Culture, rituals, mythology | Laws, policies                                               |
-
 
 
 

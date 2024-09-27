@@ -66,7 +66,7 @@ In a system with limited resources, there is a need to balance attention.
 - Strong focus requires saying no.
 - Distributed focus lacks power.
 
-<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="height:8em;" />
+<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="height:8em;" />
 
 
 

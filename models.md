@@ -6,7 +6,7 @@
 
 <img src="img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:15em;" />   <img src="img/junction-goals-revenue.png" alt="junction-goals-revenue" style="height:15em;" />   <img src="img/junction-communication.png" alt="junction-communication" style="height:15em;" />
 
-
+<img src="img/junction-being-becoming.png" alt="junction-being-becoming" style="width:30em;" />
 
 
 

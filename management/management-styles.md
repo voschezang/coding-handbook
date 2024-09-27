@@ -69,3 +69,17 @@ Context: stakeholders & developers
 | `A` **Big desire** | Commitment | Vision and values    |
 | `α` **Attention**  | Method     | Results              |
 
+
+
+## People Management
+
+Core: organization of people
+
+Context: the organziation itself
+
+|                    | Commanding | Positioning          |
+| ------------------ | ---------- | -------------------- |
+| `Γ` **Context**    | Contracts  | Organizing principle |
+| `A` **Big desire** | ...        | Vision and values    |
+| `α` **Attention**  | Activity   | Expectations         |
+

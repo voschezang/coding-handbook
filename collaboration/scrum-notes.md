@@ -101,3 +101,5 @@ Consider:
 - Did it help you to plan?
 - Did it help you to adapt your plan?
 - Did it help you to learn?
+- Are you using it for the right type of work? (ratio BAU, change)
+
