@@ -88,13 +88,15 @@ Confidence, trust, reputation
 
 ## Venn Diagrams
 
-<img src="img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="height:16em;" />
+Organizational roles
+
+<img src="img/venn-valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:25em;" /><img src="img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="width:25em;" />
 
 
 
-<img src="img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
+Outside and inside views.
 
-<img src="img/product-production-capability.png" alt="product-production-capability" style="height:18em;" />
+<img src="img/venn-feasible-viable-desirable.png" alt="venn-feasible-viable-desirable" style="width:30em;" /><img src="img/product-production-capability.png" alt="product-production-capability" style="width:30em;" />
 
 
 
@@ -123,11 +125,3 @@ Scope
 <img src="img/scope-time-cost.png" alt="scope-time-cost" style="width:40%;" />   <img src="img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
 
 
-
-Roles
-
-<img src="img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:40%;" />
-
-
-
-<img src="img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />

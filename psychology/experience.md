@@ -33,9 +33,15 @@ Experience can be inward, outward, individual and social. See [integral theory](
 
 
 
-**Acceptance and control**
+### Acceptance & Control
+
+Attitude towards freedom
 
 <img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="width:35em;" />
+
+Attitude towards the environment
+
+<img src="../img/scale-accept-control-reject.png" alt="scale-accept-control-reject" style="width:30em;" />
 
 
 

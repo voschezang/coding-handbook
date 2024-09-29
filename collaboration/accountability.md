@@ -43,14 +43,13 @@ The value chain is centered around a **production chain**. This is an internal p
 
 Value creation is done in an environment. Everything within this environment enables value creation and delivery. The environment is also subject to influence from outside.
 
-<img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:50em;" />
+<img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:40em;" />
 
 Activities that **enable** value creation and delivery
 
 - Manage people and resources
 - Remove impediments
 - Coach teams
-
 
 
 

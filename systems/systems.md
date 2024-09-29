@@ -10,7 +10,7 @@ Let an **organization** be defined as *an interdependent set of components that 
 
 It consists of capability, production and a product. See [team performance](../collaboration/team-performance.md).
 
-<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="width:80%;" />
+<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="width:45em;" />
 
 
 

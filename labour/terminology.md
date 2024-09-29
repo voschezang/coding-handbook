@@ -72,13 +72,9 @@ It is a simplification of all the different services that create value. The prod
 
 
 
-In order to be valuable a product should be usable and feasible to build. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA.
+In order to be valuable a product should be usable, feasible and desirable. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA. See [accountability](../management/accountability.md).
 
-<img src="../img/valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:45%;" />
-
-
-
-<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
+<img src="../img/venn-valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:25em;" />
 
 
 

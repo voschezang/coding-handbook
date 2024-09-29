@@ -2,6 +2,8 @@
 
 Also see [collaboration](../collaboration/accountability).
 
+
+
 ## Management Roles
 
 A general manager may be accountable for "everything". In large organizations, this accountability is split up to dedicated roles.
@@ -17,6 +19,12 @@ A general manager may be accountable for "everything". In large organizations, t
 
 
 
+**Dynamics**
+
+<img src="../img/venn-valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:25em;" />     <img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="width:25em;" />
+
+
+
 ## Domains
 
 Value chain
@@ -25,4 +33,4 @@ Value chain
 
 Context & capability
 
-<img src="../img/value-chain-context-small.png" alt="value-chains-environment" style="width:30em;" />
+<img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:40em;" />

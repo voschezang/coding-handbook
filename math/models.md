@@ -55,6 +55,16 @@ Values may span over multiple dimensions. Dimensions may be correlated or uncorr
 - The *performance* of an algorithm may be correlated to *complexity*.
 - *Messiness* can be correlated to *creativeness*.
 
+
+
+A set of particles can be discretized over space, and transformed into a density function.
+
+<img src="../img/particles-discretize-density.png" alt="particles-discretize-density" style="width:40em;" />
+
+Alternatively, particles can be grouped into clusters.
+
+<img src="../img/particles-experssion-assemblage.png" alt="particles-experssion-assemblage" style="width:55em;" />
+
 ### Junctions
 
 Options
