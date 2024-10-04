@@ -140,6 +140,27 @@ In the real world, agents are always constrained.
 - Bounded rationality: asymmetric information causes agents to act sub-optimally.
 - Limited influence over environment.
 
+
+
+### Karma
+
+> What you do comes back.
+
+The following derivation explains effects of karma in certain environments.
+
+1. Propositions.
+   1. Actions have consequences
+   2. People repeat what they observe
+2. Together, these result in an accumulations of consequences.
+3. Consequences range from good to bad. Some are *universally* good (beneficial), some are universally bad (malicious).
+4. Actions with such consequences make the same consequences more likely.
+
+
+
+Sidenote: the existence of universal good is controversial.
+
+
+
 ## Entropy
 
 ![plot-entropy-complexity](../img/plot-entropy-complexity.png)

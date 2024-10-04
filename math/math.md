@@ -36,6 +36,3 @@ Many-worlds interpretation
 - The observer is entangled with he experiment.
 
 
-
-
-

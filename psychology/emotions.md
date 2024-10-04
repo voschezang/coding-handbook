@@ -8,11 +8,19 @@
 
 Emotions are a form of experience. They are dynamic in the sense that they are experienced. Emotions are intertwined with  feelings. Both experience and feeling are verbs that relate to activity.
 
+Layers of emotion
+
+1. A **feeling**. Contraction or expansion. Energy, stress or relaxation.
+2. An **emotion**. E.g. forms of joy, sadness, fear, anger, disgust.
+3. A **judgement**. Whether you can manage the situation and feeling.
+
+
+
 > Emotions can be experienced in endlessly new ways.
 
 Emotions revolve around quality (liking).
 
-1. **Experience** ranges from pleasant to unpleasant. They can be useful.
+1. **Experience** can be pleasant, unpleasant, numb or confusing.
 2. The **primary emotions** are happiness (joy), sadness, anger and fear. They indicate *quality*, or the loss of it.
 3. Physiological emotions relate to **physiological needs** such as hunger or thirst. E.g. fatigue or lust.
 4. Other emotions relate to social or **intellectual needs**. E.g. curiousity or sympathy.
@@ -23,6 +31,7 @@ Awareness of emotions.
 
 1. What you feel. Nuances in feelings.
 2. Why you feel it. Origin of feelings.
+3. What you need.
 
 
 

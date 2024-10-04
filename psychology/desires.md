@@ -23,12 +23,13 @@ Typical desires:
 
 
 
-|             | Individualist Model                          | Collectivist Model            |
-| ----------- | -------------------------------------------- | ----------------------------- |
-| **Success** | "My" status (social, economic, intellectual) | Community or ideology         |
-| **Example** | *Want to be the best*                        | *Desire to support an other*  |
-| **Bias**    | Global, objective metrics                    | Local, subjective connections |
-| **Risk**    | Optimize metrics                             | Stuck in tradition            |
+|                  | Individualist Model                          | Collectivist Model            |
+| ---------------- | -------------------------------------------- | ----------------------------- |
+| **Success**      | "My" status (social, economic, intellectual) | Community or ideology         |
+| **Example**      | *Want to be the best*                        | *Desire to support an other*  |
+| **Bias**         | Global, objective metrics                    | Local, subjective connections |
+| **Risk**         | Optimize metrics                             | Stuck in tradition            |
+| **Anti-virtues** | Poverty suggests laziness                    | Wealth suggests exploitation  |
 
 
 

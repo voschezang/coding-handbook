@@ -104,10 +104,10 @@ Evolution can be defined as iterative improvement by granular steps. This can be
 The evaluation of states is done using an [*objective*](https://en.wikipedia.org/wiki/Loss_function) (e.g. *fitness, loss, utility, reward*, *stock price*).
 
 ```python
-for each point in time:
- 1. copy the initial state(s)
-  2. mutate each copy
-  3. select the best copy as the next initial state
+for each moment in time:
+ 1. copy the initial state
+ 2. mutate each copy
+ 3. select the best copy as the next initial state
 ```
 
 This assumes a non-convex learning landscape (otherwise simpler methods such as [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) can be used).

@@ -6,32 +6,35 @@ The world consists of difference. Anything needs to differ to be observable. We 
 
 ## Overview
 
-1. The world consists of structure and disturbance.
-  1. Structures can be disturbed. Structures may be created or destroyed.
-
-2. **Structures** are interpreted as entities and organizations.
-  1. Entities have a beginning and ending.
-  2. Entities have an internal organization.
-  3. Organizations are connections of entities.
-  4. Entities are connected to other entities.
-  5. The function of organizations is their desire.
-
-3. **Entities** are subject to forces.
-4. **Agents** are entities that act.
-  1. Acting is either goal-oriented, realtion-oriented or self-expression.
-  2. Agents have experience.
-  3. Experience is a result of quality, sensitivity and dynamics.
-5. Quality is dynamic, static or absent.
+1. The world consists of uniformity and **disturbance**.
+2. Distrurbance can have **structure** or no structure (chaos). Structures may be created or destroyed.
+3. Structures are interpreted as **entities** and **organizations**.
+  4. Entities are defined through difference (boundaries). They have a beginning and ending. An inside and an outside.
+  5. Entities have an internal organization.
+  6. Organizations are connections of entities. Entities are connected to other entities.
+  7. The function of organizations is their desire.
+8. **Entities** are subject to forces.
+9. **Agents** are entities that act.
+  10. Acting is either goal-oriented, relation-oriented or self-expression.
+  11. Agents have experience.
+  12. Experience is a result of quality, sensitivity and dynamics.
+13. Quality is dynamic, static or absent.
 
 
 
 ## Hierarchy
 
+The world consists of emptiness and disturbance. Disturbance is the opposite of emptiness. It can be random (chaotic) or structured.
+
+<img src="../img/plot-waves-disturbance-chaotic.png" alt="plot-waves-disturbance-chaotic" style="width:50em;" />
+
+In two spatial dimensions, this may looks like this.
+
+<img src="../img/plot-waves-disturbance-chaotic-2d.png" alt="plot-waves-disturbance-chaotic" style="width:50em;" />
 
 
-### Disturbance
 
-Structures can be **disturbed**. This may eventually create new structures, or destroy them altogether. The beginning and ending of entities are disturbances. Their rise and fall.
+Disturbance can be structured. New structures can be created and destroyed. The beginning and ending of entities are disturbances. Their rise and fall.
 
 <img src="../img/continuity-creation-destruction.png" alt="continuity-creation-destruction" style="width:35em;" />
 

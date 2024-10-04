@@ -1,6 +1,6 @@
 # Systems Engineering
 
-Commont requirements of systems and new features.
+Commont requirements of systems and new features. See also [testing](../guides/test-more-effectively.md).
 
 *"Be in control"*
 

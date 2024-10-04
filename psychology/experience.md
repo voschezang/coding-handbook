@@ -68,8 +68,6 @@ Other dimensions
 
 
 
-
-
 > How you feel ≠ what you feel.
 
 ![experience-thinking-sensing](../img/experience-thinking-sensing.png)
@@ -82,7 +80,7 @@ Sensation is done with three representational systems.
 - Kinesthetic - feeling, touching
 - Visual - seeing
 
-Other feelings (hunger, temperature) are left out in this model.
+Note: other feelings (hunger, temperature) are left out in this model.
 
 
 
@@ -126,6 +124,22 @@ Phases
 
 ## Attention and Presence
 
+### Reaction
+
+There are three main types of reactions to intense feelings.
+
+- **Act** on the feeling. Express it. Let the feeling guide your action. `feeling -> acting`
+- **Immerse** yourself in the feeling. Stay with it. Without thinking. Without acting. `feeling -> feeling`
+- **Resolve** the feeling.  Cope with the feeling. E.g. breath and move to let energy dissipate. `feeling -> thinking`
+
+Immersion results in association. Feeling the feeling. The opposite is dissociation. 
+
+Resolving can be an avoidant strategy. See [emotions](emotions.md).
+
+![experience-attention-acting](../img/experience-attention-acting.png)
+
+
+
 ### Association
 
 > Let go.
@@ -148,6 +162,7 @@ The experience of a person in the present moment.
     - *What's on your mind? What do you feel?*
     - *What do you notice?* E.g. sensation.
   - *What is attracting you?* E.g. curiousity, sensuality, love.
+  - *What do you need/wish?*
 - *Where are you?* The surrounding.
 - *What are you doing?* Activity.
 
