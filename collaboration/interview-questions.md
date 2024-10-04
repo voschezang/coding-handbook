@@ -211,6 +211,7 @@ Technical
   - How do you develop yourself?
   - What are your weaker points?
     - Where do you want to improve?
+  - Tell me about a recent mistake you’ve made.
 - Job
   - Why do you want to work in this domain? Why this type of position?
   - Why this company (based on sector, size, impact, product)?
@@ -257,11 +258,13 @@ Technical
 - Non-standard
   - What is the weight/length/cost/range of X?
   - Teach me something in 1 minute.
+  - How many unicorns would fit in your bedroom?
 
 **Technical Questions**
 
 - Science
   - How do you come up with a good hypothesis?
+  - How would you test a system?
 - Software Engineering
   - What do you think of Dev vs. Ops vs. DevOps?
 - Software Architecture

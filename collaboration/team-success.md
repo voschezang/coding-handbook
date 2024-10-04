@@ -117,3 +117,4 @@ Team success is highly influenced by performance-related factors. E.g. accountab
 
 <img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:12em;" />
 
+ 

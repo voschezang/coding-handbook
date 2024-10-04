@@ -33,26 +33,6 @@ While it is useful to find metrics that correlate with succes, metrics are never
 
 
 
-### Roles
-
-There are two main accountabilities: the value chain and the production chain. These focus on  delivering value and production quality, respectively.
-
-<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="height:15em;" />
-
-The following roles provide **accountability**:
-
-- Product manager. *Build the right thing.* *What is produced.*
-- Engineers. *Build it right.* *How it is produced*
-
-
-
-In addition, there are many **activities** that create value. 
-
-- Creation. E.g. design, development.
-- Enabling. E.g. coaching, removing impediments.
-
-
-
 ### Value Delivery
 
 >  Deliver value ≠ solving problems
@@ -123,7 +103,7 @@ Team performance tends to flow. It can be brought up to a stable average. Afterw
 
 This inherent instability is what makes it important to strive for continuous improvement. From reacting to change to acting pro-actively.
 
-<img src="../img/onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
+<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
 
 
 
