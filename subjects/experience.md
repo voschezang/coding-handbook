@@ -10,10 +10,16 @@ In philosophy, there is a distinction between a (human) subject and a zombie. Th
 
 Experience is fundamentally dynamic. It's a verb: to experience. A first characteristic is the rate of change: being or becoming. This relates to the environment.
 
-- Being involves self-expression and authenticity. Desprite the environment.
-- Becoming involves adaptation, influence and control. Atuned to an environment.
+- Being involves self-expression and authenticity. Despite the environment.
+- Becoming involves adaptation, influence and control. Atuned to an (new) environment.
 
 ![waves-being-becoming](../img/waves-being-becoming.png)
+
+
+
+These concepts relate to change management and mindfulness.
+
+<img src="../img/map-being-becoming.png" alt="map-being-becoming" style="width:50em;" />
 
 
 

@@ -55,6 +55,10 @@ Grant access requests [based on](https://learn.microsoft.com/en-us/azure/archite
 
 Distributed denial of service.
 
+**Roles and scopes**
+
+<img src="../img/auth-roles-scopes.png" alt="auth-roles-scopes" style="width:30em;" />
+
 
 
 ## Encryption
