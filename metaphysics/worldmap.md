@@ -26,13 +26,23 @@ The world consists of difference. Anything needs to differ to be observable. We 
 
 The world consists of emptiness and disturbance. Disturbance is the opposite of emptiness. It can be random (chaotic) or structured.
 
-<img src="../img/plot-waves-disturbance-chaotic.png" alt="plot-waves-disturbance-chaotic" style="width:50em;" />
+In one dimension, signals may look like noise, peaks or [waves](../math/waves.md).
 
-In two spatial dimensions, this may looks like this.
+<img src="../img/plot-waves-disturbance-chaotic.png" alt="plot-waves-disturbance-chaotic" style="width:60em;" />
 
+<details>
+<summary>Plots in two dimensions</summary>
+<br>
+<p>This generalizes to multiple dimensions.</p>
 <img src="../img/plot-waves-disturbance-chaotic-2d.png" alt="plot-waves-disturbance-chaotic" style="width:50em;" />
+<p>Peaks may form clusters, which in turn may form form greater peaks.</p>
+<img src="../img/plot-waves-disturbance-clusters-2d.png" alt="plot-waves-disturbance-clusters-2d" style="width:50em;" />
+</details>
 
 
+### Dynamics
+
+Disturbance relate to space or time. Waves may seemingly move over water,
 
 Disturbance can be structured. New structures can be created and destroyed. The beginning and ending of entities are disturbances. Their rise and fall.
 
@@ -113,6 +123,12 @@ Some entities are subjects to **forces**. A force attracts an entity. This is a 
 
 <img src="../img/force-attraction.png" alt="force-attraction" style="width:20em;" />
 
+
+
+Desire and beliefs guide the reasoning process of the agent. This forms an intent. Based on the environment this leads to specific behaviour.
+
+<img src="../img/desire-intent-behaviour.png" alt="desire-intent-behaviour" style="width:80%;" />
+
 #### Acting
 
 Acting ranges from **being** to **becoming**.
@@ -137,6 +153,12 @@ Agents have **experience**. One can *discern* between:
 - What is *good* for them.
 
 <img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:40em;" />
+
+
+
+
+
+![experience-attention-acting](../img/experience-attention-acting.png)
 
 
 

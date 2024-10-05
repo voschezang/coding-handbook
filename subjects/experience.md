@@ -72,3 +72,7 @@ A neutral attitude is to tolerate the enviornment.
 
 <img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="width:40em;" />
 
+
+
+<img src="../img/scale-accept-control-reject.png" alt="scale-accept-control-reject" style="width:28em;" />
+
