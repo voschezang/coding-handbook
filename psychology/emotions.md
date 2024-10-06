@@ -14,6 +14,8 @@ Layers of emotion
 2. An **emotion**. E.g. forms of joy, sadness, fear, anger, disgust.
 3. A **judgement**. Whether you can manage the situation and feeling.
 
+The last layer depends on self-awareness and attitude. An example would be the fear of being afraid.
+
 
 
 > Emotions can be experienced in endlessly new ways.

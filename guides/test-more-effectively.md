@@ -18,7 +18,7 @@ Testing is surrounded by decision making.
 
 
 
-See also [software testing](../software-industry/testing.md) [hiring](collaboration/hiring.md) and [personality](../psychology/personality.md).
+See also [software testing](../software-industry/testing.md), [bets](../labour/bets.md), [hiring](collaboration/hiring.md) and [personality](../psychology/personality.md).
 
 [TOC]
 

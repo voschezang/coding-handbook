@@ -68,6 +68,20 @@ Other dimensions
 
 
 
+#### Being and becoming
+
+<img src="../img/map-being-becoming.png" alt="map-being-becoming" style="width:50em;" />
+
+
+
+Becoming can have many forms. The origin can be fear or desire. The attitude towards the environment can be submissive or aggressive. Attention can be associated or dissociated.
+
+<img src="../img/map-becoming-assertiveness-mobilization.png" alt="map-becoming-assertiveness-mobilization" style="width:40em;" />
+
+
+
+
+
 > How you feel ≠ what you feel.
 
 ![experience-thinking-sensing](../img/experience-thinking-sensing.png)
