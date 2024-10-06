@@ -1,6 +1,6 @@
 # Experience
 
-This document covers conscious experience. It consists of attention, desire, activity and surrounding. Also see [experience](../subjects/experience.md).
+This document focusses on conscious and human experience. It emphasises attitude, sensation and emotion. Also see [experience](../subjects/experience.md).
 
 [toc]
 

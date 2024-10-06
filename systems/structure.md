@@ -136,7 +136,7 @@ Note that the facade and the complementing services can be either function-orien
 
 Graphically, this can look like this. The bottom images (autonomy, matrix) are two extremes, where teams are optimized for a local purpose. Depend on the alignment and communication between teams the structure can be rigid.
 
-![org-arch](../img/org-arch.png)
+<img src="../img/org-arch.png" alt="org-arch" style="width:55em;" />
 
 There are two inherent boundaries between components. Often, each component is responsible (and optimized) for their own domain.
 

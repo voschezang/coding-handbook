@@ -6,7 +6,7 @@ First, let's distinguish the **production** process and its **product**. These y
 
 
 
-<img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:45em;" />
+<img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:35em;" />
 
 Note that all of this is influenced by the external world: the **context**. There is a boundary of things that are in control of the organization. Accountability cannot trancend this boundary.
 
@@ -50,7 +50,6 @@ Activities that **enable** value creation and delivery
 - Manage people and resources
 - Remove impediments
 - Coach teams
-
 
 
 

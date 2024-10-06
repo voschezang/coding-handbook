@@ -40,6 +40,10 @@ The difference is highlighted in **resumes**. These may either:
 
 
 
+In pure individualistic cultures there is an incentive to quickly grow up to be independent. Conversely, in collectivist cultures there is a bias to trust and rely on family or the community.
+
+
+
 **Types of needs**
 
 Standard human needs (Maslow).

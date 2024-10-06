@@ -50,11 +50,19 @@ Experience
 
 <img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
 
-<img src="img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:70%;" />
+<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />
 
 <img src="img/pyramid-organiational-desire.png" alt="pyramid-organiational-desire" style="width:60%;" />
 
-<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />
+<img src="img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="width:25em;" /> <img src="img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:30em;" />
+
+<img src="img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:70%;" />
+
+<img src="img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="width:30em;" />
+
+<img src="img/pyramid-desire.png" alt="pyramid-desire" style="width:55em;" />
+
+
 
 ## Quadrants
 
@@ -123,5 +131,4 @@ Focus
 Scope
 
 <img src="img/scope-time-cost.png" alt="scope-time-cost" style="width:40%;" />   <img src="img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
-
 

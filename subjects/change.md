@@ -93,9 +93,7 @@ Change is affected by the expected feasiblity of effort.
 
 Change can be welcomed or rejected. The intent and effects can be immediate or long-term.
 
-
-
-<img src="../img/change-behaviour.png" alt="change-behaviour" style="width:40%;" />
+<img src="../img/change-behaviour.png" alt="change-behaviour" style="width:25em;" />
 
 
 

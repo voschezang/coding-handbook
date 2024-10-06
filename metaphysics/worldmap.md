@@ -24,6 +24,12 @@ The world consists of difference. Anything needs to differ to be observable. We 
 
 ## Hierarchy
 
+This is a hierarchical breakdown of reality. From abstraction to specifics. It is based on a dual model: structures are interpreted both as entities and organizations.
+
+
+
+### Disturbance
+
 The world consists of emptiness and disturbance. Disturbance is the opposite of emptiness. It can be random (chaotic) or structured.
 
 In one dimension, signals may look like noise, peaks or [waves](../math/waves.md).
@@ -40,7 +46,7 @@ In one dimension, signals may look like noise, peaks or [waves](../math/waves.md
 </details>
 
 
-### Dynamics
+#### Dynamics
 
 Disturbance relate to space or time. Waves may seemingly move over water,
 
@@ -52,12 +58,12 @@ The *personifications* of these forces are Gaia, Apollo and Dionysus. Apollo is 
 
 <img src="../img/gaia-apollo-dionysus.png" alt="gaia-apollo-dionysus" style="width:30em;" />
 
-### Entities & Organizations
+### Double Articulation
 
 Structures have an inside and an ouside:
 
 - **Entities**, when viewed from outside. Entities have a function and a lifecycle.
-- **Organizations**, when viewed from inside.
+- **Organizations**, when viewed from inside. Ecosystems.
 
 An entity has a begin and end. A structure revolves: it is created and destructed.
 
@@ -66,6 +72,7 @@ An entity has a begin and end. A structure revolves: it is created and destructe
 An organization is a connection of entities. It evolves, as the underlying entities evolve. It has internal dynamics.
 
 - E.g. a tree consists of leaves: `🍃🍃🍃🍃`
+- E.g. a forest consists of trees: `🌲🌲🌲🌲`
 
 
 
@@ -109,6 +116,26 @@ Fundamentally there are three types of functions.
 
 <img src="../img/system-types.png" alt="system-types" style="width:80%;" />
 
+#### Vehicles
+
+Entities are either subjects, objects or vehicles. The latter type is used by subjects. This includes nations, corporations and teams.
+
+
+
+**Delivery & Strategy**
+
+Corporations tend to optimize for revenue or growth. In addition, they take strategy into account: the ability to growth in the future.
+
+<img src="../img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="width:25em;" />
+
+
+
+Departments and teams deliver a product or service. This is the result of a production process. Production is enabled through capability.
+
+<img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:30em;" />
+
+
+
 ### Subjects
 
 Some entities are subjects to **forces**. A force attracts an entity. This is a subjective phenomena. The force is a result of biassed view of the other entity.
@@ -119,7 +146,7 @@ Some entities are subjects to **forces**. A force attracts an entity. This is a 
 
 ### Agents
 
-**Agents** are entities that act in some way. The result of their behaviour is descibed as their desire. Desire is promoted by attraction.
+**Agents** are entities that act in some way. The result of their behaviour is descibed as their desire.
 
 <img src="../img/force-attraction.png" alt="force-attraction" style="width:20em;" />
 
@@ -181,6 +208,11 @@ Systems are organizations that...
 
 
 
+![orchestration-choreography](../img/orchestration-choreography.png)
+
+
+
+<img src="../img/network-structure.png" alt="network-structure" style="width:60%;" />
 
 
 

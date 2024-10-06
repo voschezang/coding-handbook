@@ -8,6 +8,12 @@ In philosophy, there is a distinction between a (human) subject and a zombie. Th
 
 ## Overview
 
+Experience of an agent consists of attention, awareness, activity, [desire](desire.md). The context is the [identity](identity.md) of the agent.
+
+
+
+## Activity
+
 Experience is fundamentally dynamic. It's a verb: to experience. A first characteristic is the rate of change: being or becoming. This relates to the environment.
 
 - Being involves self-expression and authenticity. Despite the environment.
@@ -17,9 +23,15 @@ Experience is fundamentally dynamic. It's a verb: to experience. A first charact
 
 
 
-These concepts relate to change management and mindfulness.
+These concepts relate to change management and mindfulness. Acting can be done based on problems or opportunities. An agent can adapt itself or the environment. See [human experience](../psychology/experience.md).
 
 <img src="../img/map-being-becoming.png" alt="map-being-becoming" style="width:50em;" />
+
+
+
+Change can be welcomed or rejected. The intent and effects can be immediate or long-term. See [change](change.md).
+
+<img src="../img/change-behaviour.png" alt="change-behaviour" style="width:25em;" />
 
 
 
