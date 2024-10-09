@@ -1,6 +1,6 @@
 # Team Coaching
 
-The coaching journey of a single person differs from that of a team. However, coaching techniques do translate naturally to groups and teams. The main difference is an emphasis on relationships, instead of individuals.
+The coaching journey of a single person differs from that of a team. However, coaching techniques do translate naturally to groups and teams. The main difference is an emphasis on relationships, instead of individuals. See also [professional emotions](emotions.md).
 
 [toc]
 
@@ -54,6 +54,21 @@ Weather metaphors
 - ⛅ The sun is starting to get through.
 - 🍃 I feel a light breeze. Air is starting to flow.
 - 🌪️ That felt like a tornado.
+
+
+
+Other metaphors
+
+- 🐘 Elephant in the room. A big obvious topic. You cannot go around this.
+- 🌊 Underlying current. Dynamics that affect the main topic.
+- 🧩 Stakes. What makes it significant.
+
+
+
+Style
+
+- Tension. Contraction. Shut down.
+- Expansion. Open up. Welcoming.
 
 
 

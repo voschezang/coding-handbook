@@ -26,7 +26,7 @@ Note that the expecation of improvement can be more pleasurable than obtaining t
 | **State** (present)      | Pleasure, comfort   | Appreciation (attitude) |
 | **Position** (potential) | Improved Capability | Connection, harmony     |
 
-<img src="../img/desire-satisfaction.png" alt="desire-satisfaction" style="width:80%;" />
+<img src="../img/cycle-desire-satisfaction.png" alt="desire-satisfaction" style="width:80%;" />
 
  This model shows an inherent conflict.
 

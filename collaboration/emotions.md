@@ -16,9 +16,19 @@ Emotions are hidden well in corporate environments. They are preceded by objecti
 
 
 
-## Problems
+## Attitude
 
 > Emotions need attention
+
+Emotions want to be recognized. People want to feel heard. Emotions themselves signal problems. Ignoring them creates problems.
+
+> Emotions require expression
+
+It's human nature to express emotions. Doing this appropriately allows you to become aware of the underlying problems. Once emotions are expressed they can be resolved. 
+
+
+
+## Problems
 
 Typical problems are related to planning and scheduling. However, there might be underlying emotions that are overlooked. Recognizing these may help to accept reality, reduce stress and improve effectiveness. 
 

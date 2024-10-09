@@ -8,9 +8,18 @@ Subjects and agents have experience: *What it is like to be you.*
 
 ## Overview
 
-Experience of an agent consists of [attention](attention.md), behaviour and [identity](identity.md). It is influenced by an environment. Identity drives [desire](desire.md).
+Experience of an agent consists of [attention](attention.md) and activity (behaviour). It is influenced by the dynamics of the environment.
 
+<img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:45em;" />
 
+There is a strong interplay between awareness (attention) and activity (behaviour).
+
+- Human agents have feelings and desires.
+- Other agents have goals and intent.
+
+<img src="../img/cycle-awareness-attention.png" alt="cycle-awareness-attention" style="width:40em;" />
+
+Experience exists in a context. [Identity](identity.md) drives [desire](desire.md).
 
 <img src="../img/triangle-experience-identity-activity-attention.png" alt="triangle-experience-activity-attention" style="width:35em;" />
 
@@ -67,10 +76,6 @@ Layers
 - Behaviour (external)
 - Thoughts and feelings (internal)
 - Underlying being (implicit)
-
-
-
-<img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:40em;" />
 
 
 
