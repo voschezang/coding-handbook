@@ -21,11 +21,11 @@ This document presents *classes* of reactions. Concrete example are added for cl
 
 
 
-## (Non)Violent Communication
+## (Non)Violent Communication (NVC)
 
-In this context, *violence* is a dimension from calm, considerate, respectful to intrusitve, challenging, aggresive communication.
+In this context, *violence* is a dimension from `calm, considerate, respectful` to `intrusitve, challenging, aggresive` communication. Violence means putting a burdon on the other. For example, a a question can be given as an invite or a demand. The latter requires a response (positive or negative) or a rejection from the other.
 
-Consider the act of "making your problem someone else's problem". This puts a burdon on another. Whether this is the right thing to do depends on context.
+Another example is the act of "making your problem someone else's problem". This puts a burdon on another. Whether this is the right thing to do depends on context.
 
 - This can be subtle as sharing doubts. *"I'm having doubts about our collaboration"*
 - This can be done aggresively, e.g. through criticism. *"You're not doing ..."*

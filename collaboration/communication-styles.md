@@ -22,6 +22,15 @@ Styles
 
 
 
+A question can be given as a demand or an invite.
+
+- A **question** is an *assignment*. The other can respond by answering correctly, incorrectly or rejecting the question.
+
+- A **wish** is an implicit assignment. The other may or may not acknowledge it.
+- An **assertion** is neutral. You can share an observation or feeling. The other may or may not hear it.
+
+
+
 **Communication styles (casual conversations)**
 
 | Focus    | Direction    | Communication styles | Space         |

@@ -77,7 +77,9 @@ Types of emotional conversations ([NVC](https://en.wikipedia.org/wiki/Nonviolent
 
 See [conflict](conflict.md).
 
-### In self-managing teams
+
+
+#### In self-managing teams
 
 Steps in an arising conflict.
 

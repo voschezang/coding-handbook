@@ -22,6 +22,10 @@ Communication consists of several layers.
 
 
 
+<img src="../img/triangle-communication-trust-content.png" alt="triangle-communication-trust-content" style="width:35em;" />
+
+
+
 ## Components
 
 Communication consists of more than [messages](messaging.md) (i.e. content). Two pillars are necessary in order to communicate a message: *process* and *relation*.

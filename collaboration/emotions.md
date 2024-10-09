@@ -1,8 +1,10 @@
 # Emotions
 
-In professional environments, emotions tend to be undervalued. Instead, they are framed as concerns or frustration. It is vital to acknowledge such emotions, and reflect on them.
+Emotions are hidden well in corporate environments. They are preceded by objectives and goals. Emotions themselves may be framed as concerns or frustration. Awareness of emotions may allow you to use (and trust) them.
 
+[toc]
 
+## Basic Emotions
 
 | Emotion   | Change               | Professional Terms                                |
 | --------- | -------------------- | ------------------------------------------------- |
@@ -14,7 +16,21 @@ In professional environments, emotions tend to be undervalued. Instead, they are
 
 
 
-Language
+## Problems
+
+> Emotions need attention
+
+Typical problems are related to planning and scheduling. However, there might be underlying emotions that are overlooked. Recognizing these may help to accept reality, reduce stress and improve effectiveness. 
+
+| Signal    | Problem              | Opposite  |
+| --------- | -------------------- | --------- |
+| **Busy**  | Not enough resources | Do less   |
+| **Hurry** | Not enough time      | Slow down |
+| **Worry** | Risks / danger       | Zoom out  |
+
+
+
+## Language
 
 | Professional Term                 | Term             |
 | --------------------------------- | ---------------- |
@@ -23,6 +39,7 @@ Language
 | Agreement, respect                | Boundaries       |
 | Lessons learned                   | Regret           |
 | Constructive feedback             | Complaint        |
+| Goals, objectives                 | Dreams           |
 
 
 

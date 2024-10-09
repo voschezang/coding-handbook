@@ -58,6 +58,10 @@ The *personifications* of these forces are Gaia, Apollo and Dionysus. Apollo is 
 
 <img src="../img/gaia-apollo-dionysus.png" alt="gaia-apollo-dionysus" style="width:30em;" />
 
+These personifications are forces of nature, rather than specific deities. Similar to concepts as mother earth, lady justice, Marianne.
+
+
+
 ### Double Articulation
 
 Structures have an inside and an ouside:
@@ -136,7 +140,20 @@ Departments and teams deliver a product or service. This is the result of a prod
 
 
 
-### Subjects
+### Relations
+
+#### Communication
+
+Communication consists of several layers.
+
+- ✉️ The message. The content.
+- 🎁 Packaging
+- 🚚 Delivery
+- 🌐 Context
+
+<img src="../img/triangle-communication-trust-content.png" alt="triangle-communication-trust-content" style="width:35em;" />
+
+#### Subjects
 
 Some entities are subjects to **forces**. A force attracts an entity. This is a subjective phenomena. The force is a result of biassed view of the other entity.
 
@@ -174,10 +191,29 @@ An alternative perspective is from acceptance to rejection. The latter results i
 
 #### Experience
 
-Agents have **experience**. One can *discern* between:
+Experience of an agent consists of [attention](../subjects/attention.md), behaviour and [identity](../subjects/identity.md). It is influenced by an environment. Identity drives [desire](../subjects/desire.md).
+
+
+
+Agents have an **identity**. E.g.
+
+```markdown
+**We      can    do         this     here**
+_identity belief capability behavior environment_
+```
+
+
+
+<img src="../img/triangle-experience-identity-activity-attention.png" alt="triangle-experience-activity-attention" style="width:35em;" />
+
+
+
+Agents have **experience**. It consists of multitasting and context switching. One can *discern* between:
 
 - What they *like*.
 - What is *good* for them.
+
+Agents might be sensitive (perceptive) of themselves and their environment.
 
 <img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:40em;" />
 
@@ -185,7 +221,7 @@ Agents have **experience**. One can *discern* between:
 
 
 
-![experience-attention-acting](../img/experience-attention-acting.png)
+<img src="../img/reaction-wait-act.png" alt="experience-attention-acting" style="width:35em;" />
 
 
 
@@ -213,7 +249,6 @@ Systems are organizations that...
 
 
 <img src="../img/network-structure.png" alt="network-structure" style="width:60%;" />
-
 
 
 

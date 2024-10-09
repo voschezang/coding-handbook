@@ -2,13 +2,17 @@
 
 Subjects and agents have experience: *What it is like to be you.*
 
-In philosophy, there is a distinction between a (human) subject and a zombie. The latter does not experience anything.
+- In philosophy, there is a distinction between a (human) subject and a zombie. The latter does not experience anything.
 
 [toc]
 
 ## Overview
 
-Experience of an agent consists of attention, awareness, activity, [desire](desire.md). The context is the [identity](identity.md) of the agent.
+Experience of an agent consists of [attention](attention.md), behaviour and [identity](identity.md). It is influenced by an environment. Identity drives [desire](desire.md).
+
+
+
+<img src="../img/triangle-experience-identity-activity-attention.png" alt="triangle-experience-activity-attention" style="width:35em;" />
 
 
 
@@ -64,6 +68,12 @@ Layers
 - Thoughts and feelings (internal)
 - Underlying being (implicit)
 
+
+
+<img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:40em;" />
+
+
+
 <img src="../img/attraction-attitude-attention.png" alt="attraction-attitude-attention" style="height:24em;" />
 
 
@@ -86,11 +96,13 @@ The experience of an agent can be positive or negative. The agent may judge obse
 
 
 
-A neutral attitude is to tolerate the enviornment.
+A neutral attitude is to tolerate the environment.
 
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="width:40em;" />
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="width:35em;" />
 
 
 
-<img src="../img/scale-accept-control-reject.png" alt="scale-accept-control-reject" style="width:28em;" />
+<img src="../img/reaction-wait-act.png" alt="experience-attention-acting" style="width:35em;" />
+
+<img src="../img/scale-accept-control-reject.png" alt="scale-accept-control-reject" style="width:27em;" />
 

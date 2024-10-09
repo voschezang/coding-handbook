@@ -41,6 +41,10 @@ The need to control implies a lack of acceptance.
 
 
 
+<img src="../img/triangle-communication-trust-content.png" alt="triangle-communication-trust-content" style="width:35em;" />
+
+
+
 ## Confidence
 
 Confidence is about uncertainty. In the presence of uncertainty, one can have faith.

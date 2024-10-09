@@ -19,6 +19,14 @@ Labour relates to management, leadership and collaboration.
 
 
 
+Labour may consist of:
+
+- Take and finish initiatives. Justify what you're doing.
+- Follow orders.
+- Give orders (delegate).
+
+
+
 ### Labour
 
 Labour revolves around production. From input to output. From an initiative to an outcome.

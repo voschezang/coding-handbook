@@ -79,4 +79,3 @@ In philosophy
 - In [modelling](../domain-modelling/domain-driven-design.md).
 - In [classical philosophy](https://en.wikipedia.org/wiki/Identity_(philosophy)).
 
-

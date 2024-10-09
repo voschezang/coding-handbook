@@ -152,7 +152,7 @@ Resolving can be an avoidant strategy. See [emotions](emotions.md).
 
 ![experience-attention-acting](../img/experience-attention-acting.png)
 
-
+<img src="../img/reaction-wait-act.png" alt="experience-attention-acting" style="width:35em;" />
 
 ### Association
 

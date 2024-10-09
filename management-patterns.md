@@ -74,6 +74,12 @@ Bureaucracy limits innovation
 - Bias against investment and experimentation. Assignment of minimal resources by default. Requirement to write down beforehand what the end result will be.
 - Waste through marketing/advertising: Employees compete against each other for funding.
 
+**3 lines of defense**
+
+1. Ops / business line
+2. Risk management, compliance
+3. Internal audit. Verify that 1 and 2 are working in the right way
+
 ## Management Types
 
 Subjects
