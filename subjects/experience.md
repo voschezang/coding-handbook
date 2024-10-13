@@ -8,7 +8,7 @@ Subjects and agents have experience: *What it is like to be you.*
 
 ## Overview
 
-Experience of an agent consists of [attention](attention.md) and activity (behaviour). It is influenced by the dynamics of the environment.
+Experience is fundamentally dynamic. It's a verb: to experience. Experience of an agent consists of [attention](attention.md) and activity (behaviour). It is influenced by the dynamics of the environment.
 
 <img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:45em;" />
 
@@ -27,7 +27,17 @@ Experience exists in a context. [Identity](identity.md) drives [desire](desire.m
 
 ## Activity
 
-Experience is fundamentally dynamic. It's a verb: to experience. A first characteristic is the rate of change: being or becoming. This relates to the environment.
+Agents observe the environment and act on it. Activity starts with a signal: a disruption. The agents *decides* how to react. Reactions range from amplifying the signal to diffusing the signal. The former involves quick action, and the latter involves recovery.
+
+<img src="../img/experience-attention-acting.png" alt="experience-attention-acting" style="width:45em;" />
+
+For human-like agents this translates to reacting to sensations. Reactions ranges from acting on it to calming down.
+
+<img src="../img/reaction-wait-act.png" alt="experience-attention-acting" style="width:35em;" />
+
+### Being and Becoming
+
+A more nuanced model considers the following states: being and becoming. This relates to the environment.
 
 - Being involves self-expression and authenticity. Despite the environment.
 - Becoming involves adaptation, influence and control. Atuned to an (new) environment.

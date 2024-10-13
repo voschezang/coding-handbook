@@ -78,7 +78,15 @@ Becoming can have many forms. The origin can be fear or desire. The attitude tow
 
 <img src="../img/map-becoming-assertiveness-mobilization.png" alt="map-becoming-assertiveness-mobilization" style="width:40em;" />
 
+People perceive the world differently. They can be present, distanced or overwhelmed. They can feel in control or helpless.
 
+There are three roles that form a [drama triangle](https://en.wikipedia.org/wiki/Karpman_drama_triangle). The villain blames others for problems. The victim is helpless and the hero saves the victim.
+
+<img src="../img/map-immersion-agency.png" alt="map-immersion-agency" style="width:40em;" />
+
+
+
+<img src="../img/map-attitude-agency.png" alt="map-attitude-agency" style="width:40em;" />
 
 
 
@@ -150,7 +158,7 @@ Immersion results in association. Feeling the feeling. The opposite is dissociat
 
 Resolving can be an avoidant strategy. See [emotions](emotions.md).
 
-![experience-attention-acting](../img/experience-attention-acting.png)
+
 
 <img src="../img/reaction-wait-act.png" alt="experience-attention-acting" style="width:35em;" />
 

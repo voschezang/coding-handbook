@@ -192,4 +192,4 @@ Levels of listening.
 
 2. Summarizing, **paraphrasing** and checking.
 3. Capture the **intent** behind a message, rather than the message itself.
-
+4. Strategic listening. Become aware of second-order effects.

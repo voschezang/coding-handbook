@@ -134,6 +134,18 @@ What do you feel?
 
 
 
+Dealing with sensitive / emotional topics. Don't start with investigation or solutioning.
+
+```
+RAIN
+1. Recognize. "This seems important to you."
+2. Allow. Let the coachee express it. Venting
+3. Investigate. Deconstruct it: events, feelings, needs.
+4. Move forward. Find ways to improve.
+```
+
+
+
 ### Exercises
 
 #### Constellation

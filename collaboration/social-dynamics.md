@@ -76,10 +76,12 @@ Criticism
 [Wiki](https://en.wikipedia.org/wiki/Karpman_drama_triangle) A *reactive* defense mechanism. Three roles that reinforce each other. They can be genuine or played. The latter is associated with hidden expectations.
 
 1. Victim. Subject of problems. Something was taken from them, without their consent. Hence they seek justice. "Everything is so hard"
-2. Villain (persecutor). Indicator of problems. "It's all their fault!"
-3. Hero (rescuer). Solver of problems (symptoms).
+2. Villain (persecutor). Indicator of problems. Blame, judgingment, angry, authoritarian. *"It's all their fault!"*
+3. Hero (rescuer). Solver of problems (symptoms). Enabling. *"Let me help you."*
 
 Dyadic completion. If there is a victim, then the automatic response is to assign (blame) a villain.
+
+<img src="../img/map-immersion-agency.png" alt="map-immersion-agency" style="width:40em;" />
 
 
 
@@ -94,5 +96,4 @@ Dyadic completion. If there is a victim, then the automatic response is to assig
 | 💭 **Distracter** | Avoid conflict                   | Harmony > tension      |                  |
 | 🪷 **Placater**   | Apologize, pray                  | Aid > aggression       | "Please help me" |
 | 🤡 **Leveler**    | Downplay problems                | Peace > panic          | "Just be calm"   |
-
 
