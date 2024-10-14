@@ -216,7 +216,7 @@ Roles and stances
 
 - Servant leader. Prioritize the needs of the team members while helping them to provide value.
 - Facilitator. Provide boundaries in which the team can collaborate.
-- Coach. Of individuals, the team and the organization. See [coaching](coaching.md).
+- Coach. Of individuals, the team and the organization. See [coaching](../communication/coaching.md).
 - Manager. Of impediments, waste, processes and culture.
 - Mentor
 

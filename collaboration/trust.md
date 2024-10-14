@@ -29,7 +29,7 @@ Human communication is inherently ambiguous. It consists of multiple layers.
 
 
 
-Note how this relates to [contracting](coaching.md) conversations.
+Note how this relates to [contracting](../communication/coaching.md) conversations.
 
 <img src="../img/communication-layers.png" alt="communication-layers" style="width:70%;" />
 

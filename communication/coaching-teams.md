@@ -1,6 +1,6 @@
 # Team Coaching
 
-The coaching journey of a single person differs from that of a team. However, coaching techniques do translate naturally to groups and teams. The main difference is an emphasis on relationships, instead of individuals. See also [professional emotions](emotions.md).
+The coaching journey of a single person differs from that of a team. However, coaching techniques do translate naturally to groups and teams. The main difference is an emphasis on relationships, instead of individuals. See also [professional emotions](../collaboration/emotions.md).
 
 [toc]
 

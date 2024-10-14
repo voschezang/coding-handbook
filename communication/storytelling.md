@@ -2,7 +2,7 @@
 
 Collaboration is surrounded by storytelling. From leaders that tell inspiring stories to presentations to partners to conversations with team members.
 
-See also [proposals](proposals.md), [presentations](presentations.md).
+See also [proposals](../collaboration/proposals.md), [presentations](./presentations.md).
 
 [toc]
 

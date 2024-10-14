@@ -107,7 +107,7 @@ Individuals can be strongly goal-oriented, people-oriented or thought-oriented. 
 
 <img src="../img/results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
 
-Converstations can move between content, form, relation and context. See [communication triangle](communication-triangle.md).
+Converstations can move between content, form, relation and context. See [communication triangle](triangle.md).
 
 
 

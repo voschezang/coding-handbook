@@ -14,7 +14,7 @@ Styles. From short to long term. From concrete to abstract contracts.
 
 ## Conversations
 
-See also [social dynamics](social-dynamics.md) and [personalities](../psychology/personality.md).
+See also [social dynamics](../collaboration/social-dynamics.md) and [personalities](../psychology/personality.md).
 
 ### Difficult Conversations
 
@@ -22,7 +22,7 @@ Three categories of "difficult" conversations:
 
 1. What happened?
 2. Emotions
-3. Identity. See [organization](organization.md#Identity).
+3. Identity. See [organization](../collaboration/organization.md#Identity).
 
 
 
@@ -69,13 +69,13 @@ Types of emotional conversations ([NVC](https://en.wikipedia.org/wiki/Nonviolent
 
 - Self-empathy. Noticing the thoughs and feelings of the self - without judgement.
 - Receiving empathically. Connecting with the other. Immersing fully with the other - without interpreting or understanding them.
-- Expressing honestly. By default, this would involve an observation, feeling, need AND a request. See [communication](communication.md).
+- Expressing honestly. By default, this would involve an observation, feeling, need AND a request. See [communication](../collaboration/communication.md).
 
 
 
 ### Conflict
 
-See [conflict](conflict.md).
+See [conflict](../collaboration/conflict.md).
 
 
 

@@ -1,6 +1,6 @@
 # Leadership
 
-Leadership is the ability to connect, in the context of an organization. Communication [styles](communication-styles.md) play a huge role, whether in-person or [textual](documentation.md).
+Leadership is the ability to connect, in the context of an organization. Communication [styles](../communication/communication-styles.md) play a huge role, whether in-person or [textual](documentation.md).
 
 [toc]
 

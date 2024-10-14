@@ -131,7 +131,7 @@ Social
 <ul style="margin: 1em;">
 <li>Communication</li>
 <ul style="margin: 0;">
-  <li><a href="collaboration/communication-principles.md">Communication principles</a> (human communication).</li>
+  <li><a href="communication/communication-principles.md">Communication principles</a> (human communication).</li>
   <li><a href="collaboration/messaging.md">Messaging</a> (verbally or non-verbally).</li>
   <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
   <li><a href="collaboration/retrospectives.md">Retrospective</a> exercises for reflection for groups.</li>
@@ -176,7 +176,7 @@ From abstract theory to application within a domain. For a full overview, see [t
 Themes
 
 - Quality, flow & systems: [domains](reality/structure.md), [organization](systems/system.md), [emotions](psychology/emotions.md).
-- Agile coaching. [coaching](collaboration/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](collaboration/coaching.md), [activity](subject/activity.md), [organization](systems/system.md), [systems](systems/systems-management.md).
+- Agile coaching. [coaching](communication/coaching.md), [Scrum](collaboration/scrum-guide), [coaching](communication/coaching.md), [activity](subject/activity.md), [organization](systems/system.md), [systems](systems/systems-management.md).
 
 **Perspective & Generalizability of Guidelines**
 

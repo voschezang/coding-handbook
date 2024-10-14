@@ -6,7 +6,7 @@
 
 Communication is dynamic, rather than static. It flows between pushing and pulling, and between goals and relation. You can take space and later give it back.
 
-Communication changes when moving in and out [deep conversation](conversations.md).
+Communication changes when moving in and out [deep conversation](../conversations.md).
 
 
 
@@ -41,15 +41,15 @@ A question can be given as a demand or an invite.
 
 
 
-![communication-styles-casual](../img/communication-styles-casual.png)
+![communication-styles-casual](../../img/communication-styles-casual.png)
 
 ## Deep Conversation
 
-Communication can focus on moving forward (towards a goal), connecting to each other, or to slow down and reconsider. See [change](../subjects/change.md). Also see [styles](https://www.zuidema.nl/blog/stijlflexibiliteit-welke-stijl-zet-jij-in-om-effectief-te-communiceren).
+Communication can focus on moving forward (towards a goal), connecting to each other, or to slow down and reconsider. See [change](../../subjects/change.md). Also see [styles](https://www.zuidema.nl/blog/stijlflexibiliteit-welke-stijl-zet-jij-in-om-effectief-te-communiceren).
 
 
 
-<img src="../img/junction-communication.png" alt="junction-communication" style="height:16em;" />
+<img src="../../img/junction-communication.png" alt="junction-communication" style="height:16em;" />
 
 
 
@@ -63,11 +63,11 @@ Communication can focus on moving forward (towards a goal), connecting to each o
 
 
 
-![communication-styles](../img/communication-styles.png)
+![communication-styles](../../img/communication-styles.png)
 
 
 
-<img src="../img/quadrants-communication-styles.png" alt="quadrants-communication-styles" style="width:90%;" />
+<img src="../../img/quadrants-communication-styles.png" alt="quadrants-communication-styles" style="width:90%;" />
 
 ### Pushing
 
@@ -132,7 +132,7 @@ Conflict can be escalated.
 
 ## Bridging, Mediating, Negotiating
 
-<img src="../img/bridging-mediation-negotiation.png" alt="bridging-mediation-negotiation" style="width:80%;" />
+<img src="../../img/bridging-mediation-negotiation.png" alt="bridging-mediation-negotiation" style="width:80%;" />
 
 The difference between these can be a matter of framing.
 

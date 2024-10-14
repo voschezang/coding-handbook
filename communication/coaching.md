@@ -2,10 +2,10 @@
 
 Coaching is about providing a soundboard, through questioning (feedback). It's oriented towards potential and results. For more details, see:
 
-- [Coaching techniques](coaching-techniques.md)
-- [Coaching teams](coaching-teams.md)
+- [Coaching techniques](./coaching-techniques.md)
+- [Coaching teams](./coaching-teams.md)
 
-See also [goals](../organization/goals.md), [purpose](activity/purpose.md) and [retrospectives](retrospectives.md).
+See also [goals](../organization/goals.md), [purpose](../collaboration/activity/purpose.md) and [retrospectives](../collaboration/retrospectives.md).
 
 [toc]
 
@@ -13,7 +13,7 @@ See also [goals](../organization/goals.md), [purpose](activity/purpose.md) and [
 
 > Help people (teams) move from who they are now, to who they’ll be in the future, in a way that maximizes well-being.
 
-Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](conversations.md). Hence it implies [trust](trust.md). In these conversations:
+Coaching revolves around the preferences of the coachee. It consists of a series of [conversations](../collaboration/conversations.md). Hence it implies [trust](../collaboration/trust.md). In these conversations:
 
 - The coach helps the coachee to see new perspectives and potential.
 - The coachee decides how to incorporate this.
@@ -22,7 +22,7 @@ Coaching does not imply a problem. It is not a medical intervention. It can be u
 
 
 
-Two main modes are: critical and supporting. These map to [thinking](proposals.md) in problems or opportunities. Note that the difference is more than just reframing problems as opportunities. Rather, is about appreciating positive aspects, and their potential.
+Two main modes are: critical and supporting. These map to [thinking](../collaboration/proposals.md) in problems or opportunities. Note that the difference is more than just reframing problems as opportunities. Rather, is about appreciating positive aspects, and their potential.
 
 |               | Critical Coach                    | Supporting                                              |
 | ------------- | --------------------------------- | ------------------------------------------------------- |
@@ -99,7 +99,7 @@ Necessary conditions.
 
 ### Alignment Coaching
 
-Alignment may be needed if there is tension. A certain layer of [trust](trust.md) is needs to be established before you can discuss sensitive topics.
+Alignment may be needed if there is tension. A certain layer of [trust](../collaboration/trust.md) is needs to be established before you can discuss sensitive topics.
 
 
 

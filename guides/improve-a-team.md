@@ -3,7 +3,7 @@
 Practice
 
 - [Retrospectives](../collaboration/retrospectives.md)
-- [Team coaching](../collaboration/coaching-teams.md)
+- [Team coaching](../communication/coaching-teams.md)
 - [Gardening](../collaboration/gardening.md)
 
 Theory

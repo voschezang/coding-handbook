@@ -1,6 +1,6 @@
 # Human Communication
 
-These models are valid for specific circumstances. I.e. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../organization/requirements.md) and [documentation](../documentation.md).
+These models are valid for specific circumstances. I.e. professional communication within a corporate setting. They are useful for collaborative interaction and trustworthy relations. See also [requirements engineering](../../organization/requirements.md) and [documentation](../../documentation.md).
 
 [toc]
 
@@ -46,7 +46,7 @@ Which role you are expected to take. This is determined by your history and the 
 
 Models
 
-- [Communication triangle](communication-triangle.md)
+- [Communication triangle](../communication-triangle.md)
 - Attention triangle
 - Inside, outside, other side
 - Four-sides message model
@@ -96,7 +96,7 @@ Relation
 - Transparency: from inside to outside.
 - Feedback: from other to outside.
 
-<img src="../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
+<img src="../../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
 
 #### Four-sides Model
 
@@ -122,7 +122,7 @@ An event can be deconstructed into three fundamental parts:
 2. The **impact**. What happened.
 3. The **effect** this had on the other. E.g. emotionally.
 
-<img src="../img/intent-impact-effect.png" alt="intent-impact-effect" style="width:40%;" />
+<img src="../../img/intent-impact-effect.png" alt="intent-impact-effect" style="width:40%;" />
 
 Incorporating these factors puts a *positional* argument into perspective.
 
@@ -140,7 +140,7 @@ Channels
 
 - **Email**. Ideals for broadcasts (one-to-many). Suitable for one-directional communication such as status updates. Useful as a conversation starter, rather than a one-directional channel.
 - **Phone** call. Ideal for quick feedback.
-- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](../management/management-principles.md)
+- **Meeting**. Multi-purpose. E.g. explore options, improve group relationships, determine the right approach. See [management-principles](../../management/management-principles.md)
 - **In-person** meeting. Emphasis on attitude and off-topic subjects.
 
 Specific forms
