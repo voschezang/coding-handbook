@@ -96,7 +96,7 @@ Relation
 - Transparency: from inside to outside.
 - Feedback: from other to outside.
 
-<img src="../../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
+<img src="../img/communication-self-other.png" alt="communication-self-other" style="width:45%;" />
 
 #### Four-sides Model
 
@@ -122,7 +122,7 @@ An event can be deconstructed into three fundamental parts:
 2. The **impact**. What happened.
 3. The **effect** this had on the other. E.g. emotionally.
 
-<img src="../../img/intent-impact-effect.png" alt="intent-impact-effect" style="width:40%;" />
+<img src="../img/intent-impact-effect.png" alt="intent-impact-effect" style="width:40%;" />
 
 Incorporating these factors puts a *positional* argument into perspective.
 

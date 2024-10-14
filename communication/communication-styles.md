@@ -41,7 +41,7 @@ A question can be given as a demand or an invite.
 
 
 
-![communication-styles-casual](../../img/communication-styles-casual.png)
+![communication-styles-casual](../img/communication-styles-casual.png)
 
 ## Deep Conversation
 
@@ -49,7 +49,7 @@ Communication can focus on moving forward (towards a goal), connecting to each o
 
 
 
-<img src="../../img/junction-communication.png" alt="junction-communication" style="height:16em;" />
+<img src="../img/junction-communication.png" alt="junction-communication" style="height:16em;" />
 
 
 
@@ -63,11 +63,11 @@ Communication can focus on moving forward (towards a goal), connecting to each o
 
 
 
-![communication-styles](../../img/communication-styles.png)
+![communication-styles](../img/communication-styles.png)
 
 
 
-<img src="../../img/quadrants-communication-styles.png" alt="quadrants-communication-styles" style="width:90%;" />
+<img src="../img/quadrants-communication-styles.png" alt="quadrants-communication-styles" style="width:90%;" />
 
 ### Pushing
 
@@ -130,9 +130,27 @@ Conflict can be escalated.
 
 
 
+## Saying no: Setting Boundaries
+
+Asserting yourself can be done in several stages. The following examples assumes that another is intrud
+
+1. Check assumptions. Ask for intent.
+2. Suggest an direction you like. Pro-actively.
+3. <u>Facilitate</u>. Suggest what you do want.
+4. 🛑 Signal the boundary. Clarify what you need.
+   1. 🚧 <u>Sanction</u>. Share consequences. Your value or need.
+   2. If nesesary, check if the boundary is clear.
+5. Uphold the boundary. Either:
+   1. ⬅️ Offer an alternative.
+   2. ↩️ Disengage completely
+
+<img src="../img/crossroads-boundaries.png" alt="crossroads-boundaries" style="width:40em;" />
+
+
+
 ## Bridging, Mediating, Negotiating
 
-<img src="../../img/bridging-mediation-negotiation.png" alt="bridging-mediation-negotiation" style="width:80%;" />
+<img src="../img/bridging-mediation-negotiation.png" alt="bridging-mediation-negotiation" style="width:80%;" />
 
 The difference between these can be a matter of framing.
 
