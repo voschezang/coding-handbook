@@ -137,12 +137,14 @@ Asserting yourself can be done in several stages. The following examples assumes
 1. Check assumptions. Ask for intent.
 2. Suggest an direction you like. Pro-actively.
 3. <u>Facilitate</u>. Suggest what you do want.
-4. 🛑 Signal the boundary. Clarify what you need.
+4. 🛑 Signal the boundary. Clarify *your* need.
    1. 🚧 <u>Sanction</u>. Share consequences. Your value or need.
    2. If nesesary, check if the boundary is clear.
 5. Uphold the boundary. Either:
    1. ⬅️ Offer an alternative.
    2. ↩️ Disengage completely
+
+
 
 <img src="../img/crossroads-boundaries.png" alt="crossroads-boundaries" style="width:40em;" />
 

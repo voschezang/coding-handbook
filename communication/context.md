@@ -1,6 +1,6 @@
 # Context in Communication
 
-Also see [communication styles](./communication-styles.md).
+Also see [communication styles](./styles.md).
 
 [toc]
 

@@ -131,7 +131,7 @@ Social
 <ul style="margin: 1em;">
 <li>Communication</li>
 <ul style="margin: 0;">
-  <li><a href="communication/communication-principles.md">Communication principles</a> (human communication).</li>
+  <li><a href="communication/principles.md">Communication principles</a> (human communication).</li>
   <li><a href="collaboration/messaging.md">Messaging</a> (verbally or non-verbally).</li>
   <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
   <li><a href="collaboration/retrospectives.md">Retrospective</a> exercises for reflection for groups.</li>
