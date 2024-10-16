@@ -1,6 +1,6 @@
 # Coding Handbook
 
-This respository is a collection of ideas about collaboration, in written and visual form. It connects experience, society and software engineering. The content is written in minimal form. It is meant to provoke discussion, rather than in-depth explainations.
+This respository is a collection of ideas about collaboration, in written and visual form. It connects experience, society and software engineering. It is used as a tool for learning - to map out ideas. It is meant to provoke discussion, rather than to offer in-depth explanations.
 
 *Disclaimer: this repository does not contain advice.*
 
