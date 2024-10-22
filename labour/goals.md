@@ -259,7 +259,6 @@ An action that will bring you closer to a result. These should be flexible, in o
 Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there is a risk of optimizing for metrics (proxies), instead than targets. This is countered by choosing new metrics (KRs) periodically and chaining them to qualitative objectives.
 
 **Health Indicators**
-
 Perpetual objectives or metrics that are kept stable. Any change induced by the current set OKRs should not degrade these.
 
 
