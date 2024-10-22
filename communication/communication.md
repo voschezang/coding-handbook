@@ -21,6 +21,8 @@ Practice
 - `1:1` Conversations. Casual or deep. From being with each other to influencing each other. 
   - Coaching & mentoring. Growth, result-oriented.
   - Influencing. Goal or relation oriented.
+    - Asserting boundaries. Saying no.
+    - Delivering news.
 
 
 

@@ -21,6 +21,11 @@ Note that all of this is influenced by the external world: the **context**. Ther
 | **Scope**          | Value chain                    | Production chain        | Team environment                                          |
 | **Value**          | Results, lead time             | Quality, throughput     | Agility, effectiveness, empiricism, consistency, maturity |
 
+Examples of accountabilities for capability:
+
+- Working empirically. Transparency, reflection.
+- Effectiveness. Ensuring commitments, attention to results.
+
 
 
 ## Value Chain

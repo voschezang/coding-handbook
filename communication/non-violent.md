@@ -40,6 +40,16 @@ Helping may involve
 
 <img src="../img/map-inner-world-challenge-reinforce.png" alt="map-inner-world-challenge-reinforce" style="width:45em;" />
 
+From the perspective of one's inner world.j
+
+- Disclose exposes one's identity
+- Listening informes someone's identity
+- You can act based on your destiny or help someone's destiny.
+
+<img src="../img/inner-worlds-identity-destiny.png" alt="inner-worlds-identity-destiny" style="width:35em;" />
+
+
+
 
 
 ![communication-styles-casual](../img/communication-styles-casual.png)

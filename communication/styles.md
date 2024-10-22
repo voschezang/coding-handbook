@@ -14,20 +14,11 @@ Communication changes when moving in and out deep conversation.
 
 Styles
 
-- 🔦 Question the other. Demand a reaction.
+- 🔦 Question the other. Demand a reaction or express  a wish.
 
 - 💭 Voice your thoughts or feelings. Disclose your opinion or make assertions about the environment.
 
 - 👂 Be interested. Be aware of non-verbal communication.
-
-
-
-A question can be given as a demand or an invite.
-
-- A **question** is an *assignment*. The other can respond by answering correctly, incorrectly or rejecting the question.
-
-- A **wish** is an implicit assignment. The other may or may not acknowledge it.
-- An **assertion** is neutral. You can share an observation or feeling. The other may or may not hear it.
 
 
 

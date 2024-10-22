@@ -32,11 +32,13 @@ It's human nature to express emotions. Doing this appropriately allows you to be
 
 Typical problems are related to planning and scheduling. However, there might be underlying emotions that are overlooked. Recognizing these may help to accept reality, reduce stress and improve effectiveness. 
 
-| Signal    | Problem              | Opposite  |
-| --------- | -------------------- | --------- |
-| **Busy**  | Not enough resources | Do less   |
-| **Hurry** | Not enough time      | Slow down |
-| **Worry** | Risks / danger       | Zoom out  |
+| Signal    | Problem              | Opposite      |
+| --------- | -------------------- | ------------- |
+| **Busy**  | Not enough resources | Do less       |
+| **Hurry** | Not enough time      | Slow down     |
+| **Worry** | Risks / danger       | Zoom out      |
+| **Lazy**  | Do little            | Show urgency  |
+| **Angry** | Things go wrong      | Understand it |
 
 
 

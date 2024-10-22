@@ -148,6 +148,18 @@ Note that attraction and repulsion are heavly affected by managebility (e.g. age
 
 
 
+## Judgements
+
+Judgements tend to be more persistent than emotions.
+
+| Certainty | Attitude | Judgement                |
+| --------- | -------- | ------------------------ |
+| Certain   | Hopeful  | Love                     |
+| Uncertain | Careful  | Like / dislike / neutral |
+| Certain   | Hopeless | Hate                     |
+
+
+
 ## Flow
 
 > Surf the waves of emotions.
