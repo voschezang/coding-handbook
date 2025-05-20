@@ -16,7 +16,7 @@
 
 People-oriented (who), result-oriented (what), thought-oriented (meta-how).
 
-<img src="img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="zoom:35%;" />  <img src="img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
+<img src="img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="width:45%;" />  <img src="img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
 
 
 

@@ -82,6 +82,7 @@ Not authentic
 - Careful
 - Guarded
 - Hestitant
+- Reserved
 - Restrained
 
 
@@ -186,7 +187,7 @@ Expression of personality in an environment.
 | **Preference**  | Analyze        | Fast action             | Together                        | Fairness, conservative |
 | **Active**      | Inward         | Outward                 | Outward                         | Inward                 |
 | **Orientation** | Task           | Task                    | People                          | People                 |
-| **Risk**        | Cold, cautious | Aggressive, controlling | Persuasive, Hasty               | Conforming, reliant    |
+| **Risk**        | Cold, cautious | Aggressive, controlling | Persuasive, hasty               | Conforming, reliant    |
 
 
 

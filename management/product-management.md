@@ -32,6 +32,8 @@ The value chain exists within an environment and a context. The scope of product
 
 <img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:40em;" />
 
+In some cases there are multiple value and production chains. For example a internal platforms (products) that enable  commercial products.
+
 
 
 ### Contextual View
@@ -92,7 +94,7 @@ See also [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
 
 ### How
 
-Three innovation horizons. From exploitation to exploration.
+Three innovation horizons. From exploitation to exploration. *Do you want it cheap, quick or good?*
 
 1. Current cash-flow (value): profitable now. Risk: they may become a commodity.
 2. High-growth businesses: will become cash-flow.
