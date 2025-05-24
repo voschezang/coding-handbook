@@ -62,6 +62,7 @@ Note that the validity of the following statements is dependent on certain *impl
     * Continuous improvement is better than delayed perfection.
 * In der Beschränkung zeigt sich erst der Meister.
 * Vinyl records don’t have adds.
+* Impossible doesn’t exist
 
 ### Processes / Output
 
@@ -114,10 +115,13 @@ Note that the validity of the following statements is dependent on certain *impl
 - Think in decades, rather than years.
 - May our dreams become our plans.
 - It matters not.
-- How can one possibly pay attention to a book with no pictures in it?
+- How can one possibly pay attention to a book with no pictures in 
+- If you’re lost, don’t race
 
 ### Time to market
 
+* Run before you walk.	
+* Always move fast, you never know who’s catching up.
 * Deliver sooner, rather than faster. Average throughput > total throughput.
   * Received value (by customer) > created value (inventory).
 * Planning > (having) plans.
@@ -129,6 +133,13 @@ Note that the validity of the following statements is dependent on certain *impl
 * Adding security to software after its been made is like [adding electricity and running water to a 1000 year old castle](https://twitter.com/jackrhysider/status/1453728265244315658).
 * There is nothing as permanent as the temporary.
 * Continuous improvement is better than delayed perfection.
+
+### Change
+
+- All creatures fear change, even the gods.
+- Laws are changed, tradition endures.
+- Think the unthinkable.
+- We need progress to fight regression.
 
 ### Paradoxes
 
@@ -156,7 +167,13 @@ Note that the validity of the following statements is dependent on certain *impl
 - Learning implies unlearning.
 - I don’t want to disrupt this silence.
 
-## Leisure
+### Poetic
+
+- They got so wrapped up in *elegance and class*, that they forgot what it was that an assassin was supposed to do.
+- As silent as a drop of black ink on a glass of clear water.
+- History is rarely made by reasonable men.
+
+## Leisure / Everyday
 
 * You don’t need to be an expert to be creative.
 * It’s drawing, not rocket science.
@@ -165,6 +182,12 @@ Note that the validity of the following statements is dependent on certain *impl
 * Time is a game played beautifully by children.
 * My TV isn't HD that's too real.
 * Once you let go of music being correct, you can do whatever you want.
+
+### Patience
+
+* I can outstare a statue and make it feel nervous.
+* Fishing teaches patience.
+* Impatience ≠ urgency
 
 ## Software Engineering
 
@@ -188,6 +211,7 @@ Note that the validity of the following statements is dependent on certain *impl
   * If your theoretically sound methodology is not working, then switching to an entirely new method will not help you. Instead learn to adjust and experiment.
 * *Distributed* does not imply *decoupled*.
 * Spiders are the only web designers that like finding bugs.
+* It’s not AI, it's just a trick.
 
 ### Collaboration
 
@@ -270,3 +294,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Java is so flexible that it has neither of the advantages of a strong type system and a dynamic one (with duck typing).
 * C++ has default arguments AND function overloading.
 * Modern languages should be expressive and extensible. E.g. allow for partial functions, Python's `@decorator`, Elm's `Maybe.andThen`, Kotlin's dataclasses.
+
+## Bad advice
+
+- Always push your luck.
+- Run before you walk.

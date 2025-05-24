@@ -1,4 +1,4 @@
-# How to Plan
+# How to Plan Less
 
 [toc]
 
