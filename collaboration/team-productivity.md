@@ -2,26 +2,32 @@
 
 This is a model for team productivity. It provides insight into dynamics such as stabilization and innovation. See also team [productivity](team-productivity.md) and [success](team-success.md).
 
+<img src="../img/dragon-productivity-cycle-bg.jpg" alt="dragon-productivity-cycle-bg" style="height:8em;" />
+
 ## Introduction
 
-Teams tend to evolve naturally through periods of instability and growth. Both productivity and value delivery fluctuate throughout these periods. The progression of productivity can be modelled as an evolution through distinct challenges, which are followed by shifts in priorities and productivity.
+Teams tend to evolve naturally through periods of instability and growth. Both productivity and value delivery fluctuate throughout these periods. A common approach is to balance the ratio between operations and strategic investment. However, a single ratio provides little control and predictive value. Our model offers a more refined view. It models the progression of productivity as an evolution through distinct challenges, and predicts shifts in priorities and productivity.
 
 
 
 <img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:21em;" />
 
-The following phases characterize a challenge in the team's evolution.
+The model is derived from the typical challenges faced by teams. Consider a fire brigade as analogy. Ordered by criticallity: recurring fires, traffic congestions, road detours, slack.
 
-1. 🔥 **Firefighing**. Sprinting towards immediate results. Activities are split between resolving incidents and training new hires. The backlog keeps growing.
-2. ⚖️ **Focus**. WIP is limitted to improve lead time and consistency. Work is shared more effectively in the team. Impediments are resolved earlier.
-3. ⚙️ **Flow**. The team is stabilizing and cycle time is improving. The team *just* needs time to pay off technical debt.
-4. 🚀 **Innovation**. There is room work strategically. The balance between operations and changes shifts.
+|                | 🔥🚒 Fires                                         | 🚗🚗🚗 Congestions              | 🚧 Detours                          | 🧯 Slack                                          |
+| -------------- | ------------------------------------------------ | ---------------------------- | ---------------------------------- | ------------------------------------------------ |
+| **Constraint** | Too much work                                    | Too much WIP                 | Too much tech. debt                | Outdated value proposition, lacking capabilities |
+| **Signals**    | Recurring incidents,skills gaps, growing backlog | Long queues, dependencies    | Complexity / clutter. Workarounds. | Ambition / growing potential                     |
+| **Solution**   | Hire more or reduce scope                        | Focus, improve collaboration | Invest time                        | Balance expectations                             |
 
-The phases are instable. Solving a challenge allows a transition to a new phase.
+For each constraint, a team may focus on the following solution.
 
+1. 🔥 **Firefighing**. Sprinting towards immediate results. Reacting to incidents. The backlog grows faster than the team can handle.
+2. 🔄 **Flow**. Stop starting, start finishing. Freeze backlog and finish WIP together. Reduce waste. Incorporate feedback earlier.
+3. 🪴 **Gardening**. Focus on quality, upkeep and cleanup. Pruning. Streamline complexity.
+4. 🚀 **Innovation**. Re-adjust value proposition and capabilities. Growing the team scope.
 
-
-The initial optimization is about balancing the challenge in the current phase with the eventual transition to a new phase. Surprisingly, the innovation phase tends to leads back to a previous phase.
+When a team does not commit to solving a single constraint, it might plateau. Likewise, if a team commits to too many constraints, their effort diffused and progress will falter. Ideally, when a team does succesfully lift a constraint it will transition on to a new phase.
 
 ## Unsustainable Productivity
 
@@ -46,7 +52,6 @@ The instable phases result to a characteristic pattern, not unlike to boom and b
 <img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="height:12em;" />
 
 Another analogy is that of (simulated) [annealing](https://en.wikipedia.org/wiki/Simulated_annealing). This optimization technique alternates stabilization (exploitation) with diversification (exploration). Local optimization is alternated with diversification to improve the global state.
-
 
 
 
