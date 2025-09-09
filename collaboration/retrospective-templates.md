@@ -221,6 +221,44 @@ Refine the initiatives for a given objective. [src](https://retromat.org/en/?id=
 
 ## Brainstorming / Sense making
 
+### Fiery Dragon
+
+See the illustration of a magnificient dragon eating it's own tail. Each of the quadrants represent a challenge. See [team productivity](team-productivity.md).
+
+- A. Firefighting. Too much incoming work. Reacting to incidents.
+- B. Traffic jams. Too much WIP (dependencies). Long queues.
+- C. Drowning in technical debt.
+- D. Trying to keeping up with business demand (changing requirements).
+
+Ask the team:
+
+- What challenges in the past weeks do you recognize?
+- How did the team react? What was the result?
+- Where are we heading now?
+
+<img src="../img/dragon-productivity-cycle.jpg" alt="dragon-productivity-cycle" style="height:18em;" />
+
+
+
+### Fire Brigade
+
+A fire brigade metaphor. Consider the obstacles of a fire brigade.
+
+1. Firefighting. Managing recurring incidents.
+2. Traffic congestions. Managing delays.
+3. Debris & litter. Technical debt. Managing workarounds.
+4. Slack. Idle time. Finding new opportunities.
+
+<img src="../img/fire-brigade-text.png" alt="fire-brigade-text" style="width:50%;" />
+
+Possible prompts
+
+- Which panel matches how you felt? Where do you expect to be next week?
+- Where is team energy concentrated? What’s the impact of that? How quickly does it change?
+- How does this view relate to the previous sprint goal (priority)?
+
+
+
 ### Sailboat
 
 Imagine sailing across the ocean.
