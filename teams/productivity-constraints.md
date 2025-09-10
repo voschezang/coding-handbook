@@ -1,6 +1,6 @@
 # Team Productivity
 
-This is a model for team productivity. It provides insight into dynamics such as stabilization and innovation. See also team [productivity](team-productivity.md) and [success](team-success.md).
+This is a model for team productivity. It provides insight into dynamics such as stabilization and innovation. See also team [productivity](team-productivity.md) and [success](success.md).
 
 <img src="../img/dragon-productivity-cycle-bg.jpg" alt="dragon-productivity-cycle-bg" style="height:8em;" />
 
@@ -8,17 +8,15 @@ This is a model for team productivity. It provides insight into dynamics such as
 
 Teams tend to evolve naturally through periods of instability and growth. Both productivity and value delivery fluctuate throughout these periods. A common approach is to balance the ratio between operations and strategic investment. However, a single ratio provides little control and predictive value. Our model offers a more refined view. It models the progression of productivity as an evolution through distinct challenges, and predicts shifts in priorities and productivity.
 
-
-
 <img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:21em;" />
 
 The model is derived from the typical challenges faced by teams. Consider a fire brigade as analogy. Ordered by criticallity: recurring fires, traffic congestions, road detours, slack.
 
 |                | 🔥🚒 Fires                                         | 🚗🚗🚗 Congestions              | 🚧 Detours                          | 🧯 Slack                                          |
 | -------------- | ------------------------------------------------ | ---------------------------- | ---------------------------------- | ------------------------------------------------ |
-| **Constraint** | Too much work                                    | Too much WIP                 | Too much tech. debt                | Outdated value proposition, lacking capabilities |
-| **Signals**    | Recurring incidents,skills gaps, growing backlog | Long queues, dependencies    | Complexity / clutter. Workarounds. | Ambition / growing potential                     |
-| **Solution**   | Hire more or reduce scope                        | Focus, improve collaboration | Invest time                        | Balance expectations                             |
+| **Constraint** | Too much work, components breaking down          | Too much WIP                 | Too much tech. debt                | Outdated value proposition, lacking capabilities |
+| **Signals**    | Recurring incidents,skills gaps, growing backlog | Long queues, dependencies    | Complexity / clutter, workarounds. | Ambition / growing potential                     |
+| **Solution**   | Hire more or reduce scope                        | Focus, improve collaboration | Make time                          | Balance expectations                             |
 
 For each constraint, a team may focus on the following solution.
 
@@ -35,7 +33,7 @@ The harder a team pushes towards the last phase, the greater the resistance it w
 
 - Natural entropy caused by new tooling, processes or scale. Need to maintain the newly developed tooling.
 - Organizational pressure to focus on lower-performing teams. Team members being be re-allocated.
-- Performance being penalized by higher expectations or workload. 
+- Performance being penalized by higher expectations or workload.
 - External changes that disrupt the team.
 - Experimentation being seen as a opportunity to cut costs.
 
@@ -47,11 +45,8 @@ This provides two paths forward.
 
 ## Long-term Productivity
 
-The instable phases result to a characteristic pattern, not unlike to boom and bust cycles in economics. Over-optimizing for growth and innovation will fail eventually, and result in a period of underperformance. 
+The instable phases result to a characteristic pattern, not unlike to boom and bust cycles in economics. Over-optimizing for growth and innovation will fail eventually, and result in a period of underperformance.
 
 <img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="height:12em;" />
 
 Another analogy is that of (simulated) [annealing](https://en.wikipedia.org/wiki/Simulated_annealing). This optimization technique alternates stabilization (exploitation) with diversification (exploration). Local optimization is alternated with diversification to improve the global state.
-
-
-

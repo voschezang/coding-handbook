@@ -2,8 +2,6 @@
 
 Performance evaluations are standard in many organizations. Usually they are done by a manager.
 
-
-
 Three approaches.
 
 - Foucs on **fit** in a role. *How do they fit in the team?*
@@ -14,19 +12,13 @@ The first approaches may be followed up by a improvement plan. *What is impeding
 
 The latter approach considers *knowledge, skill, experience and personality*. It emphasises future value over success in the past environment.
 
-
-
 **Anti-patterns**
 
 - Focus on evaluation and control, rather than working actively to improve performance.
 
-
-
 ## Performance models
 
-The following perspectives provide questions that can be discussed. Ideally the answers are used as input for planning sessions. See [team performance](team-performance.md) and [team success](team-success.md).
-
-
+The following perspectives provide questions that can be discussed. Ideally the answers are used as input for planning sessions. See [team performance](performance.md) and [team success](success.md).
 
 ### Team-based Perspective
 
@@ -47,11 +39,7 @@ Care for team vision
 - *Does the subject **engage** actively, in line with the team vision?*
 - *Does the subject engage in **improvement**?*
 
-
-
 <img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="height:12em;" />
-
-
 
 ### Performance-based Perspective
 
@@ -72,17 +60,11 @@ Delivery
 - Are the results leading to the right **outcomes**?
 - Is the **delivery** of results reliable and predictable?
 
-
-
 <img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
-
-
 
 ### Capability-based Perspective
 
 This focusses on the question: *Does the subject have the right capabilities?*
-
-
 
 - Knowledge
   - Domain expertise
@@ -94,6 +76,5 @@ This focusses on the question: *Does the subject have the right capabilities?*
 - Experience
 - Personality
   - Pro-activeness. *Does the subject take initiative?*
-  - Ownership. 
+  - Ownership.
   - Trust / accountability / commitment.
-

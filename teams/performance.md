@@ -1,6 +1,6 @@
 # Team Performance
 
-A team is a set of players that work together to achieve a shared goal. Their performance is the ability to make progress towards this goal. This may involves adaption and innovation. Comparing the performance of different teams is difficult. It is a mix of value delivery, productivity and capability. See [teams](teams.md) and [team success](team-success.md).
+A team is a set of players that work together to achieve a shared goal. Their performance is the ability to make progress towards this goal. This may involves adaption and innovation. Comparing the performance of different teams is difficult. It is a mix of value delivery, productivity and capability. See [teams](teams.md) and [team success](success.md).
 
 [toc]
 
@@ -21,21 +21,15 @@ Striclty speaking, **performance** is captured by productivity and the quality o
 | **Other metrics** | Decisiveness                                                 | Throughput, [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair) | Customer satisfaction |
 | **Ideal growth**  | Incrementally                                                | Stable average                                               | Exponential           |
 
-
-
 <img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="height:7em;" />
-
-
 
 > Performance is not about metrics.
 
 While it is useful to find metrics that correlate with succes, metrics are never the goal.
 
-
-
 ### Value Delivery
 
->  Deliver value ≠ solving problems
+> Deliver value ≠ solving problems
 
 Delivery is contingent on a good view of what would be valuable. Product delivery is preceded by product *discovery*. See [results](../labour/realization.md) and [goals](../subject/goal.md).
 
@@ -45,23 +39,17 @@ In general, a team aims to deliver *value* to stakeholders. The definition of va
 
 Theoretically value can grow indefinitely. In practice growth accelerates and then slows down.
 
-
-
 ## Cost of Succes
 
 > Performance is not about metrics.
 
 While it is useful to find metrics that correlate with succes, metrics are never the goal.
 
-
-
-Succes has several risks. It is not guaranteed to be sustainable. 
+Succes has several risks. It is not guaranteed to be sustainable.
 
 - The nature of these risks can be either long-term consequences or immediate side-effects.
 
 - It can result in increased stress, competition and stagnation.
-
-
 
 ### Risks
 
@@ -74,8 +62,6 @@ Succes has several risks. It is not guaranteed to be sustainable.
   - Declining collaboration, due to increased competition of team members..
 - Technical problems
   - Security and compliance issues after changing too rapidly.
-
-
 
 Limited **sustainability**. Lower agility, higher operating cost.
 
@@ -93,8 +79,6 @@ Limited **sustainability**. Lower agility, higher operating cost.
   - Technical debt after prioritizing short term performance over long term performance.
   - Higher complexity. Higher maintenance cost.
 
-
-
 ## Improvement
 
 > Team performance converges
@@ -105,13 +89,9 @@ This inherent instability is what makes it important to strive for continuous im
 
 <img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="width:60%;" />
 
-
-
 Note that good metrics depends on the context. Metrics such as output (volume), resource utilization and number of incidents are considered anti-patterns.
 
 <img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
-
-
 
 Typical phases of each factor.
 
@@ -119,33 +99,46 @@ Typical phases of each factor.
 - Value production evolves from firefighting to strategic production. Move from firefighting hats to cowboy hats to engineering hats.
 - Organizational capability evolves from reacting to change to pro-actively adapting.
 
-
-
 ![performance-delivery-production-capability](../img/performance-delivery-production-capability.png)
 
 Organizational capability is closely related to team maturity. They emphasise different sides of collaboration and resilience.
-
-
 
 Any two dimensions can be visualized in a map.
 
 ![map-team-maturity-performance](../img/map-team-maturity-performance.png)
 
+### Optimizing Performance
 
+Performance evaluation / reflection / planning for autonomous teams
+
+Note: not a replacement for one-on-one performance evaluations with a manager
+
+Attitude
+
+- Growth mindset, learn how to help each other
+- Team performance > individual performance
+
+Phases
+
+- Discovery
+  - What can we expect? / Where are we now?
+  - Objectives. What should we expect? What do we want to achieve in the next quarter?
+  - Results. Which results will show that we've reached these objectives?
+  - What are the obstacles?
+- Delivery
+  - Develop a plan to reach these results.
+    - E.g. how do we distribute work
+  - And/or how to do this in the future.
 
 ## Capability
 
 Capability is the ability to innovate. The speed at change can be implemented.
-
-
 
 Capability consists of organizational capability and technological capability.
 
 - Organizational capability considers the individual team and the organization that it is a part of. This includes team maturity and agility. It may cover the dynamics between team members, their development and thier satisfaction.
 - Technological capability increases by finishing increments of work. Growth is limited by maintainability and operating cost.
 - Organizational capability is the result of social dynamics. It can be increased by streamlining, restructuring or expanding the organization
-
-
 
 Social dynamics
 
@@ -155,4 +148,3 @@ Factors
 - Underlying factors: culture, principles, process
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
-
