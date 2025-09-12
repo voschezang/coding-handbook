@@ -6,16 +6,14 @@ Control implies structure. It attempts to avoid disorder and uncertainty. An alt
 
 ## Dual model
 
-Similar to [light](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality), there are two distinct views to control systems or subjects.
+There are two distinct views to control systems or subjects: focus on particles or waves (inspired by the duality of of [light](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)).
 
-
-
-|                 | Control           | Guidance              |
-| --------------- | ----------------- | --------------------- |
-| **Core**        | Objectives        | Positioning           |
-| **Consistency** | Rules, procedures | Habits, practice.     |
-| **Method**      | Targets           | Vision. A north star. |
-| **Optimize**    | Results           | Likelihood            |
+|                 | Control            | Guidance              |
+| --------------- | ------------------ | --------------------- |
+| **Core**        | Objectives         | Positioning           |
+| **Consistency** | Rules, procedures. | Habits, practice.     |
+| **Method**      | Targets            | Vision. A north star. |
+| **Optimize**    | Results            | Likelihood            |
 
 
 

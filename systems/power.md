@@ -16,7 +16,7 @@ Decisions are made and forwarded according to a [chain of command](https://en.wi
 
 
 
-Power in organizations can follow several [patterns](https://scholar.google.nl/scholar?hl=nl&as_sdt=0%2C5&q=+A+typology+of+organisational+cultures+-+Westrum&btnG=). Based on the flow of information, the following categories can be distinguished.
+Power in organizations can follow several [patterns](https://scholar.google.nl/scholar?hl=nl&as_sdt=0%2C5&q=+A+typology+of+organisational+cultures+-+Westrum). Based on the flow of information, the following categories can be distinguished.
 
 1. **Authoritative** (pathological): Strive for <u>power</u>. Follow chain of command. Compete for individual gain.
 2. **Bureaucratic**: Ensure fairness and resilience through <u>rules</u>. Maintain the status quo. Obey rules and policies.

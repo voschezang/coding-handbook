@@ -39,7 +39,7 @@ The triune brain can be mapped to the [4-domains](../metaphysics/domains.md) mod
 | **Satisfaction** | Biological needs     | Social needs, connection        | Intellectual needs       |
 | **Δ Pleasure**   | Reproduction, habits | Attention, appreciation, status | Discovery, understanding |
 
-<img src="../img/desire-satisfaction.png" alt="desire-satisfaction" style="width:80%;" />
+<img src="../img/cycle-desire-satisfaction.png" alt="desire-satisfaction" style="height:20em;" />
 
 
 

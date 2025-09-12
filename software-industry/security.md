@@ -80,7 +80,7 @@ def decode(msg, key):
     return msg - key
 
 # a sender can encode a msg using the shared key
-encoded_msg = encode(msg, key) # 0101
+encoded_msg = encode(msg, key) # 0101 (in binary)
 
 # a receiver can decode the msg using the shared key
 decoded_msg = decode(encoded_msg, key) # 1010

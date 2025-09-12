@@ -1,6 +1,6 @@
 # Lifecycle of Organizations
 
-Organizations tend to follow similar lifecycles. From [opening to endgame](../labour/lifecycle.md).
+Organizations tend to follow similar lifecycles. From opening to endgame. See also [product lifecycle](../labour/lifecycle.md).
 
 
 
@@ -24,7 +24,7 @@ The scale and direction tends to vary. Organizations may have a fractal structur
 
 
 
-These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Note the similarity with [individual desires](../psychology/desire.md).
+These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Note the similarity with [individual desires](../psychology/desires.md).
 
 <img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:70%;" />
 
@@ -34,3 +34,10 @@ These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wi
 
 
 
+Team productivity and lifecycle.
+
+<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:21em;" />
+
+Organizational evolution.
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)

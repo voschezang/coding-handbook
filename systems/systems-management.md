@@ -1,6 +1,6 @@
 # Systems
 
-This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../management/goals-planning-strategy.md).
+This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../management/alignment-strategy.md).
 
 [toc]
 
@@ -20,8 +20,6 @@ The relevant components in a system are called **resources**. This may include h
 - Stateful, "smart" but functional. E.g. a machine or a top-down organization.
 - Ethical. Desiring a goal.
 - Generative / autopoiesis. Be able to transform or re-design it's inner structure. Self-sustainable.
-
-
 
 ## External View
 
@@ -45,13 +43,9 @@ Mathematically, the behaviour of a system can be described in several [levels](h
 1. [**Velocity**](https://en.wikipedia.org/wiki/Velocity). The change of the system over time (or space).
 2. [**Acceleration**](https://en.wikipedia.org/wiki/Acceleration). How fast the system is changing.
 
-
-
 **Alternative systems**
 
 <img src="../img/system-types.png" alt="system-types" style="height:9em;" />
-
-
 
 ### Inventory
 
@@ -116,7 +110,6 @@ See [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation). B
 <br>
 <img src="../img/bpmn-responsibility.png" alt="bpmn-responsibility" style="width:80%;" />
 </details>
-
 
 ### Single Chains
 

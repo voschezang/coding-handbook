@@ -4,7 +4,7 @@ In psychology, desire relates to an subject and a change. See [desire (subjects)
 
 [toc]
 
-## Pyramid Model
+## Pyramids
 
 Two flavours of a simple model for desire and human needs.
 

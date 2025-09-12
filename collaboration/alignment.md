@@ -136,6 +136,7 @@ Strategy document
 - **Diagnosis**. Problem statement. Challenges & constraints.
 - **Policies**. Guidelines for decision making. Priorities. This may be treated as justification for actions.
   - Great policies will be controversial (otherwise they wouldn’t be needed).
+  - Define a time to revisit it. Long enough to be able to see the desired effects. Don't adapt the policy before then, to avoid premature conclusions.
 - **Actions**. Steps to undertake. A result of applying policies to the diagnosis.
 
 
@@ -146,6 +147,25 @@ Vision document
 - Narrative. A captivating story that covers:
   - The **value proposition**. Taking into account value for customers or partners.
   - The **capabilities** necessary to deliver the value proposition.
+
+
+
+## Conflicts
+
+Velicity conflicts. Worries that the project is going too slowly.
+
+- Solution: vizualize progress. This allows all parties to agree on the progress. The discussion can then move on to e.g. feasibility.
+
+
+
+Priority conflicts. Disagreement about the order of work. Steps:
+
+1. Explain the policies (values) that guide priority
+2. Then explain prioritized items
+3. Then relate this to the conflicts
+4. Then, re-evaluate your policies (values)
+
+Note: policies are often not explicit. Values is a more natural and informal alternative
 
 
 

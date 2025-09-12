@@ -35,6 +35,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * Don’t let markets decide what to do.
 * [God](https://en.wikipedia.org/wiki/God_is_dead) is dead.
 * [Capitalism](https://en.wikipedia.org/wiki/Yanis_Varoufakis) is dead.
+* Management studies optimize for teaching management.
 
 ### Models & Language
 

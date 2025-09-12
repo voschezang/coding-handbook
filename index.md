@@ -42,7 +42,7 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 [labour/goals.md](labour/goals.md)
 
-[management/goals-planning-strategy.md](management/goals-planning-strategy.md)
+[management/goals-planning-strategy.md](management/alignment-strategy.md)
 
 ## Function & Relations
 
@@ -147,4 +147,3 @@ Terms that relate to multiple documents or categories. See also [models](models.
 [software-industry/values.md](software-industry/values.md)
 
 [software-industry/devops.md](software-industry/devops.md)
-
