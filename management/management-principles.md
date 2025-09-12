@@ -1,6 +1,6 @@
 # Management Principles
 
-Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](./goals-planning-strategy.md) and [accountability](accountability.md).
+Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](./alignment-strategy.md) and [accountability](accountability.md).
 
 [toc]
 
@@ -10,7 +10,7 @@ Management involves responsibility of a *subject*: e.g. a system, organization, 
 
 > Good management is situational
 
-The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value. 
+The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value.
 
 > Management is a [scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) problem
 
@@ -18,15 +18,11 @@ The art of management is the intuition of what to focus on (and what to delegate
 
 <img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
 
-
-
 ### Systems view
 
 This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
 See also [organization-structure](../systems/structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
-
-
 
 #### Feedback loop
 
@@ -40,8 +36,6 @@ At minimum, the role of a manager can be explained as the conductor of an orches
 
 This loops requires three competencies: perception, decision making and communication. This creates an additional requirement: sufficient knowledge about both the domain and the resources of the system.
 
-
-
 #### Activity
 
 Fundamentally, the functioning of a system follows the following phases.
@@ -50,21 +44,15 @@ Fundamentally, the functioning of a system follows the following phases.
 2. **Execution**. I.e. following plans.
 3. **Adapting**. Not following plans. E.g. changing the direction or position of the system.
 
-
-
 ### Practice
 
 In practice, the role of a manager may include alignment, coaching, communication, facilitation, motivation, orchestration and strategy. This is influenced by the skills of employees and their responsibilities.
-
-
 
 Management consists of balances. For example:
 
 - Delegating some but not all.
 - Optimizing for the next quarter or for multiple decades.
 - Pursue an optimistic ideal or a realistic planning.
-
-
 
 **Other properties**
 
@@ -81,8 +69,6 @@ It involves a few *buckets*:
 - People (who). Motivation and trust.
 - Process (how). How the organization makes, executes and adapts plans.
 
-
-
 **Other activities**
 
 1. Set *optimistic* goals, prioritize them and make a *realistic* planning/estimation.
@@ -98,21 +84,15 @@ It involves a few *buckets*:
     - Perceive the need.
 3. Ensuring the availability of resources (incl. in the future).
 
-
-
 **General approach**
 
 - Know what *you* want
 - Know what *others* want
 - Find *ways* in which you can get it
 
-
-
 ### Performance
 
 See [systems-management](../systems/systems-management.md).
-
-
 
 **Effectiveness**
 
@@ -130,8 +110,6 @@ This involves
 
 - Continuous improvement of purposes, people, processes.
 - Continuous discovery of value and waste.
-
-
 
 **Measure of Success**
 
@@ -156,8 +134,6 @@ Note that measures of success can be biased by how a component is perceived. E.g
 
 Timeline, scope and capacity are related. If one changes, then at least one of the others will too.
 
-
-
 **In business**
 
 Components
@@ -167,8 +143,6 @@ Components
 - Reduce cost, now and in the future.
 - Avoid cost, now and in the future.
 - Increase leverage (eg platforms, automation), in the future.
-
-
 
 ### Attitude
 
@@ -203,8 +177,6 @@ Effects
 - Withholding leads to withdrawing and rejecting
 - Revealing leads to connecting
 
-
-
 ### Leadership
 
 Management often requires leadership. It may consist of:
@@ -224,8 +196,6 @@ The choice of leader can have different origins.
 
 - Traditional. Power is given externally. E.g. through a role, position, rank.
 - Emergent leadership. Power is given from within the group. E.g. through acceptance.
-
-
 
 ## Collaboration
 
@@ -257,7 +227,7 @@ Roles can be official and persistent, or informal and dynamic.
 
 **Persistence**
 
-One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](./goals-planning-strategy.md).
+One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](./alignment-strategy.md).
 
 **Team Performance**
 
@@ -268,8 +238,6 @@ Based on the Lencioni model (Five dysfunctions of a team):
 3. Level of **commitment** and dedication.
 4. Acceptance and avoidance of **accountability**. Do team members hold each other accountable? Is the team being held accountable?
 5. (In)attention to - collective - **results**. Do collective goals corresponds to personal goals?
-
-
 
 ### Feedback
 
@@ -311,8 +279,6 @@ Tools
 
 Compliment sandwich. Pack criticism in between seemingly softening compliments, instead of being straightforward and sincere.
 
-
-
 ### Departments
 
 Traditional conflicts between departments
@@ -331,8 +297,6 @@ Typical solutions: DevOps, product-teams.
 
 Typical solutions: ship orders in increments, vertical integration, store resources in a central location
 
-
-
 ## Management Types
 
 Levels
@@ -346,8 +310,6 @@ Levels of assignments
 - Execute a plan
 - Develop a plan / find a solution to a given problem
 - Discover the right problem
-
-
 
 **Change Management**
 
@@ -364,9 +326,7 @@ See [organization structure](../systems/structure.md).
 
 See [risk management](risk-management.md).
 
-
-
-### Stakeholder management 
+### Stakeholder management
 
 (managing up, opdrachtnemerschap)
 
@@ -410,10 +370,7 @@ Managing up
 
   - What would you do if you were me?
 
-
 Note: there is a differences between managing stakeholders and engaging with stakeholders.
-
-
 
 Types
 
@@ -422,16 +379,12 @@ Types
 - Compatible interests. E.g. providers and consumers of a service.
   - Emphasize results. Solve difficulties.
 
-
-
 ### Expectation management
 
 Tool
 
 1. What *do* you expect?
 2. This is what you *can* expect. This is what *we* will do.
-
-
 
 Overview
 
@@ -440,13 +393,9 @@ Overview
 - Check expectations. What do you expect?
 - Check desires. What would be a great result?
 
-
-
 Narrative
 
 - Communication per day, week, month and year.
-
-
 
 #### Dual approach
 
@@ -459,8 +408,6 @@ Ensure expectations are aligned at the beginning.
 - Over-promise internally, in order to motivate employees.
   - Include a *short-term* planning, that is specific. Include *full* requirements.
   - In addition, prefer learning over blaming.
-
-
 
 ### Time management
 
@@ -480,8 +427,6 @@ Time can be multiplied.
 
 - Teach others *why* and *what* instead of *how*. Empower others to do it independently.
 - Broadcasting instead of point-to-point communication. E.g. write a blog post or wiki instead of a long email.
-
-
 
 ### Performance management
 
@@ -506,8 +451,6 @@ Goals setting - types of people
 | **Low Trust**  | Poor               | Toxic / risk     |
 | **High Trust** | Growth opportunity | Optimum          |
 
-
-
 ### Process Management
 
 Based on the properties of [systems](../systems/systems-management.md) the following steps can be derived. See also [TOC](https://en.wikipedia.org/wiki/Theory_of_constraints).
@@ -522,8 +465,6 @@ Based on the properties of [systems](../systems/systems-management.md) the follo
 6. Two remaining challenges are:
     1. [Risk management](#Risk Management). E.g. finding optimal buffer-sizes.
     2. [Product management](./product-management.md). Adjust the target market. E.g. increase diversification or market segmentation.
-
-
 
 ## Miscellaneous
 

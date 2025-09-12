@@ -1,6 +1,6 @@
 # Project Requirements
 
-This document focusses on requirements for a single *unit* of work. This can be an initiative or a project. It follows a given [objective](../management/goals-planning-strategy.md) and [narrative](../management/results.md). Also see [requirements gathering](./discovery.md).
+This document focusses on requirements for a single *unit* of work. This can be an initiative or a project. It follows a given [objective](../management/alignment-strategy.md) and [narrative](../management/results.md). Also see [requirements gathering](./discovery.md).
 
 [toc]
 
@@ -10,8 +10,6 @@ Requirements are a form of [documentation](documentation.md). Their primary purp
 
 - Requirements may be hierarchical. E.g. multiple deliverables within a project.
 - Requirements may be written from different perspectives. E.g. a functional view, system view or component view.
-
-
 
 Standard factors
 
@@ -28,22 +26,16 @@ This can be complemented by media that clarifies the situation.
 
 - Tests (checks) *verify* requirements.
 
-
-
-> Shared documents ≠ shared understanding 
+> Shared documents ≠ shared understanding
 
 Documents are not supposed to be perfect. Rather, consider if the following questions are anwered.
 
 - How will this help the user or customer?
 - What will be the impact of this implementation?
 
-
-
 > *Complicated* is just a euphemism for "scary to think about".
 
 Investigate or resolve ambiguity.
-
-
 
 ### Scope
 
@@ -61,15 +53,11 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact" style="width:80%;" />
 
-
-
 |                 | ⚙️ Effort | 📦 Output        | 👤 Outcome | 📈 Impact             |
 | --------------- | -------- | --------------- | --------- | -------------------- |
 | **Factors**     | Skill    | Time/cost/scope | Behaviour | Environment, markets |
 | **Uncertainty** | Low      | Low to high     | High      | High                 |
 | **Results**     | Fast     | Fast            | Delayed   | Indirect             |
-
-
 
 <img src="../img/scope-time-cost.png" alt="scope-time-cost" style="height:16em;" />
 
@@ -81,8 +69,6 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 
 [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) define how a system is supposed to be. E.g. qualities such as being user-friendly and maintainable.
 
-
-
 ### Types of Requirements
 
 Requirements can be separated into critical and non-critical ones. See [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method).
@@ -92,11 +78,7 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 - *Could* have. Desirable, but only if time and resources permit.
 - *Won't* have. Explicitly excluded from the current scope.
 
-
-
 ## Specification
-
-
 
 **Template: a system**
 
@@ -110,8 +92,6 @@ Requirements can be separated into critical and non-critical ones. See [MoSCoW](
 Some tasks can be explained in a single sentence, but (large) tasks can be defined more thoroughly.
 
 Before closing a task an appropriate review may be done to validate whether its purpose has been fulfilled.
-
-
 
 #### Template: Project Pitch
 

@@ -78,8 +78,7 @@ Connecting to the other may involve:
 Asserting yourself can be done in several stages. The following examples assumes that another is intrud
 
 1. Check assumptions. Ask for intent.
-2. Suggest an direction you like. Pro-actively.
-3. <u>Facilitate</u>. Suggest what you do want.
+3. <u>Facilitate</u>. Suggest what you do want / a direction you like. Pro-actively.
 4. 🛑 Signal the boundary. Clarify *your* need.
    1. 🚧 <u>Sanction</u>. Share consequences. Your value or need.
    2. If nesesary, check if the boundary is clear.

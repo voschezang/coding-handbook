@@ -48,6 +48,14 @@ After making contact, sitting down and small talk, continue to a deeper conversa
 - Eventually, move towards concrete, alternative **behaviour** that could help.
 - Let the conversation end with action points. Check whether these match the preferences of the coachee.
 
+Prompts
+
+- **Context**: Where are you now?
+- **Obstacles**: What is keeping you back?
+- **Competence**: What *can* you do?
+- **Values**: What is most important to you here?
+- **Dreams**: What would you like 1-5 years from now? How would you want to feel?
+
 <img src="../img/conversation-model.png" alt="conversation-model" style="width:80%;" />
 
 **Side stepping**

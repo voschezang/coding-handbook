@@ -1,6 +1,6 @@
 # Product Management
 
-This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./goals-planning-strategy.md),  [management principles](../management-principles.md), [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
+This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./alignment-strategy.md),  [management principles](../management-principles.md), [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
 
 [toc]
 
@@ -11,14 +11,10 @@ This document explores the management of [products and projects](../labour/produ
 1. People. An organization, developers and customers.
 2. Products and services. Markets and competitors.
 
-
-
 **Activities**
 
 1. Discovery. Channels and methods to deliver value.
 2. Delivery. Realizing a vision. Responding to change.
-
-
 
 **Value Chain**
 
@@ -26,15 +22,11 @@ Two perspectives are a contextual view and an internal view. These map to the va
 
 <img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="height:15em;" />
 
-
-
 The value chain exists within an environment and a context. The scope of product manager stops at this boundary. The value chain is contingent upon organizational (and technical) capabilities. See [accountability](../collaboration/accountability.md).
 
 <img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:40em;" />
 
 In some cases there are multiple value and production chains. For example a internal platforms (products) that enable  commercial products.
-
-
 
 ### Contextual View
 
@@ -44,11 +36,7 @@ Running a business involves collaboration and [management](https://en.wikipedia.
 - **Activity**. Coordinating partners and resources in order to realize the proposition.
 - **Channels**. Delivering to customers. Developing relationships with customers.
 
-
-
 <img src="../img/grid-business-partners-customers-value.png" alt="grid-business-partners-customers-value" style="height:12em;" />
-
-
 
 ### Internal View
 
@@ -58,19 +46,13 @@ Value delivery is the result of realization of a vision. See [performance](../co
 
 Value delivery is contingent upon production and capability.
 
-
-
 <img src="../img/product-production-capability.png" alt="product-production-capability" style="width:55%;" />
-
-
 
 ## Value Delivery
 
 Value is a mix of direct value and growth.
 
 <img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
-
-
 
 ### What
 
@@ -80,17 +62,11 @@ Value delivery can be understood in two directions. See [delivery](../labour/rea
 
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact-project" style="width:80%;" />
 
-
-
-**2.** Ideas guide target conditions, which guide planning, which results in initiatives, which result in execution. 
-
-
+**2.** Ideas guide target conditions, which guide planning, which results in initiatives, which result in execution.
 
 ![output-outcome-impact-reversed](../img/output-outcome-impact-reversed.png)
 
 See also [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
-
-
 
 ### How
 
@@ -102,8 +78,6 @@ Three innovation horizons. From exploitation to exploration. *Do you want it che
 
 <img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
 
-
-
 ## Background
 
 ### Project Management
@@ -112,11 +86,7 @@ Three innovation horizons. From exploitation to exploration. *Do you want it che
 
 > Product management combines short term projects with long-living products.
 
-
-
 ![output-outcome-impact](../img/output-outcome-impact-product-project.png)
-
-
 
 **Not project, but project<u>s</u> management**
 Often, projects are executed in conjunction to each other. To avoid local optimization, the portfolio of products must be taken into account.
@@ -127,8 +97,6 @@ In uncertain environments, projects will usually fail to meet either time, cost 
 - A product strategy may consists of [multiple](https://en.wikipedia.org/wiki/Diversification_(finance)) initiatives that are designed to create a competitive edge.
 - Continuous product discovery. Iteratively testing beliefs.
 - Fast delivery of product increments.
-
-
 
 ### Strategy
 
@@ -150,8 +118,6 @@ Philosophy
 
 - MVP. Then iterate
 - Be insanely great (Apple).
-
-
 
 ### Terminology
 
@@ -206,8 +172,6 @@ Similar to markets, processes may have to be adjusted constantly. Do have regula
 
 ![plot-estimated-num-features](../img/plot-estimated-num-features.png)
 
-
-
 ## Anti-patterns
 
 [Agile Product Ownership](https://www.youtube.com/watch?v=502ILHjX9EE) - overview by Henrik Kniberg
@@ -229,4 +193,3 @@ A [locally optimized, simplified version](https://twitter.com/johncutlefish/stat
 
 **Zombie product**
 A product that is kept alive for political or personal reasons rather than market demand.
-

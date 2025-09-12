@@ -69,9 +69,7 @@ Trust consists of reliability and integrity.
 
 Psychological safety is both necessary at a human level and a organiational level. It helps the latter in having productive discussions and transparancy.
 
-
-
-<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:80%;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:16em;" />
 
 Disclosing needs makes one vulnerable. It can be followed by denial or rejection.
 

@@ -11,8 +11,6 @@ Leadership is a componsite of situational strategies. It consists inspiration an
 - Inspiration implies a (power) imbalance. Followers aspire the leader's vision. The leader motivates the followers.
 - Collaboration is a fair exchange.
 
-
-
 ## Context
 
 > Good leadership is situational
@@ -25,28 +23,20 @@ Leadership can be optimized for an environment. Its affected by the leader, the 
 
 Leadership may be problem-oriented or opportunity-oriented. See [proposals](proposals.md).
 
-
-
 Leadership implies collaboration.
 
 <img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
-
-
 
 **Anti-pattern**
 
 - Broadcasting without connection. Sharing a message, without appreciating how it is received.
 
-
-
 ## Dual Model
 
 Two extremes in leadership styles are authoritative and surrendered leadership.
 
-- The former finds strength in power. It optimizes for control. It values conformity. 
+- The former finds strength in power. It optimizes for control. It values conformity.
 - The latter finds strength in courage and empowerment. It optimizes for autonomy. It values diversity (difference).
-
-
 
 The leadership style
 
@@ -71,22 +61,16 @@ Surrendering
 
 - Surrendering is to accept the present. To staying with an experience, rather than controlling it.
 
-
-
-Minimal inteference. See [gardening](gardening.md).
+Minimal inteference. See [gardening](../teams/gardening.md).
 
 - Guard rails make it easier to trust people to act autonomously.
 - Acceptance of the present. Not trying to fix everything or coach everyone.
-
-
 
 Other types are transformational and transactional leadership
 
 - Transformational leadership is about inspiration and growth. Mentor others and belief in change.
 - Transactional leadership is about performance. Focus on targets and reward good behaviour.
 - Servant leadership is about inclusion and engagement. Coaching and support others.
-
-
 
 ## Trinity Model
 
@@ -95,24 +79,18 @@ Other types are transformational and transactional leadership
 | **Emphasis**  | Power     | Emphasise problems | Opportunity |
 | **Followers** | Fear      | Trust              | Hope        |
 
-
-
 ## Decision making
 
 Decision making can be autocratic or democratic.
-
-
 
 ## Inclusion
 
 Inclusion
 
-- Include (encourage) other participants. 
+- Include (encourage) other participants.
   - Pivot. what do you think? How does that sound to you? Do you agree?
   - Circle back. You were saying? Tell me more
 - Listen non-verbally. Engage with with whole group
-
-
 
 ## Other
 

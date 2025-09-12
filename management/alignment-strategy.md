@@ -1,6 +1,6 @@
-# Strategy & Planning
+# Alignment, Strategy & Planning
 
-Making plans, following plans and updating plans. Also see [goals](../organization/goals.md), [results](../labour/realization.md), [templates](goal-templates.md) and [planning](../labour/planning.md).
+This is related to this alignment on [alignment](../collaboration/alignment.md), extended with a focus on planning and management. Also see [goals](../organization/goals.md), [results](../labour/realization.md), [templates](goal-templates.md) and [planning](../labour/planning.md).
 
 [toc]
 

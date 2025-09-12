@@ -1,12 +1,12 @@
 # Management Styles
 
-See also [gardening](../collaboration/gardening.md).
+See also [gardening](../teams/gardening.md).
 
 [toc]
 
 ## Overview
 
->  Management is knowing what to pay attention to.
+> Management is knowing what to pay attention to.
 
 Management consists of
 
@@ -16,22 +16,16 @@ Management consists of
 
 - `α` Attention. Direct focus. Seize opportunities.
 
-
-
 Styles
 
 - Commanding
 - Positioning
-
-
 
 Sections
 
 - Teams management
 - Product management
 - Project management
-
-
 
 ## Teams Management
 
@@ -43,8 +37,6 @@ Core: people, capability, projects.
 | `A` **Big desire** | Align            | Team vision     |
 | `α` **Attention**  | Set expectations | Guide attention |
 
-
-
 ## Product Management
 
 Core: organization, developers, customers
@@ -54,8 +46,6 @@ Core: organization, developers, customers
 | `Γ` **Context**    | Functionality    | Capability      |
 | `A` **Big desire** | Roadmap          | Product vision  |
 | `α` **Attention**  | Set expectations | Guide attention |
-
-
 
 ## Project Management
 
@@ -69,8 +59,6 @@ Context: stakeholders & developers
 | `A` **Big desire** | Commitment | Vision and values    |
 | `α` **Attention**  | Method     | Results              |
 
-
-
 ## People Management
 
 Core: organization of people
@@ -82,4 +70,3 @@ Context: the organziation itself
 | `Γ` **Context**    | Contracts  | Organizing principle |
 | `A` **Big desire** | ...        | Vision and values    |
 | `α` **Attention**  | Activity   | Expectations         |
-

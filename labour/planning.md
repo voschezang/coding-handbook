@@ -1,6 +1,6 @@
 # Planning
 
-This document discusses methods for planning. It assumes a pre-defined given a set of goals and a [strategy](../management/goals-planning-strategy.md).
+This document discusses methods for planning. It assumes a pre-defined given a set of goals and a [strategy](../management/alignment-strategy.md).
 
 [toc]
 
@@ -17,7 +17,7 @@ A few common tools are:
 
 **Template**
 
-From [goals and strategy](../management/goals-planning-strategy.md).
+From [goals and strategy](../management/alignment-strategy.md).
 
 Alignment.
 
@@ -29,8 +29,6 @@ Leadership and motivation.
 1. Choose a single North Star Goal that is consistent.
 2. Choose an objective to focus on and find metrics (key results) to track the progress towards it.
 3. Decide on [initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes) that are abstract and *replaceable*.
-
-
 
 ## JIT Planning
 
@@ -44,8 +42,6 @@ Maximize flow and minimize inventory (i.e. unfinished tasks, unmerged code). Pre
 
 **Human resource management**
 Instead of unpredictable waterfall stages,  *just* do DevOps. Maintain a stable team-size by default and change it when the product demands it.
-
-
 
 ## Backlog
 
@@ -72,23 +68,21 @@ Items can be grouped together in several ways:
 Let the *product backlog* be defined as an ordered list of items that represent work that can be done in the future. Planned work can be administrated in the following ways.
 
 - Explicit: on the backlog.
-    - Rough ideas, goals, outcomes, results.
-    - Small, fully refined items (stories) that can be finished within a few weeks.
-    - Minor tasks that are no more than a day of work.
+  - Rough ideas, goals, outcomes, results.
+  - Small, fully refined items (stories) that can be finished within a few weeks.
+  - Minor tasks that are no more than a day of work.
 - Implicit: not on the backlog.
-    - In other systems.
-    - Alerts on a public dashboard that require attention.
-    - In documentation (readme, specification, or external documentation).
-        - Features that are currently supported, but that can be removed once they demand disappears.
-        - Limitations of current design or implementation.
-        - Possibilities of current approach / next steps.
-        - Known risks.
-    - Comments in source code (e.g. `TODO, SMELL`).
-    - Hidden in private (mental) notes. E.g. questions send over email.
+  - In other systems.
+  - Alerts on a public dashboard that require attention.
+  - In documentation (readme, specification, or external documentation).
+    - Features that are currently supported, but that can be removed once they demand disappears.
+    - Limitations of current design or implementation.
+    - Possibilities of current approach / next steps.
+    - Known risks.
+  - Comments in source code (e.g. `TODO, SMELL`).
+  - Hidden in private (mental) notes. E.g. questions send over email.
 
 Within a team it is unavoidable that there are "private" ideas that are not though out. Ideally they would be brought up whenever the idea is ready to be shared and (part of) the team has capacity to discuss it.
-
-
 
 ### Types of Tasks
 
@@ -116,8 +110,6 @@ In general there are two types of stories, both of which add value.
 
 - *User* stories. These are directly visible to end-users or stakeholders.
 - *Tech* stories. These are important, but their value is mostly visible internally. E.g. risk mitigation.
-
-
 
 ## Anti-patterns
 

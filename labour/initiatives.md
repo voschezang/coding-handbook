@@ -16,7 +16,7 @@ The initiative is meant to move from a *current stateI* to a *target state*. Thi
 
 <img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
 
-Choosing the right objective and initiatives is a challenge in itself. See [goals](../management/goals-planning-strategy.md).
+Choosing the right objective and initiatives is a challenge in itself. See [goals](../management/alignment-strategy.md).
 
 ## Templates
 
@@ -66,6 +66,3 @@ Additional infromation. How to realize the plan.
 | **Acceptence criteria** | Define boundaries         | When is it finished? What are the target conditions?         |
 | **Risks**               | Risk management           | What could go wrong?                                         |
 | **Dependencies**        | Make assumptions explicit |                                                              |
-
-
-

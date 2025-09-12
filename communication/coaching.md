@@ -5,7 +5,7 @@ Coaching is about providing a soundboard, through questioning (feedback). It's o
 - [Coaching techniques](./coaching-techniques.md)
 - [Coaching teams](./coaching-teams.md)
 
-See also [goals](../organization/goals.md), [purpose](../collaboration/activity/purpose.md) and [retrospectives](../collaboration/retrospectives.md).
+See also [goals](../organization/goals.md), [purpose](../collaboration/activity/purpose.md) and [retrospectives](../teams/retrospectives.md).
 
 [toc]
 
@@ -19,8 +19,6 @@ Coaching revolves around the preferences of the coachee. It consists of a series
 - The coachee decides how to incorporate this.
 
 Coaching does not imply a problem. It is not a medical intervention. It can be used to improve or maintain performance.
-
-
 
 Two main modes are: critical and supporting. These map to [thinking](../collaboration/proposals.md) in problems or opportunities. Note that the difference is more than just reframing problems as opportunities. Rather, is about appreciating positive aspects, and their potential.
 
@@ -101,8 +99,6 @@ Necessary conditions.
 
 Alignment may be needed if there is tension. A certain layer of [trust](../collaboration/trust.md) is needs to be established before you can discuss sensitive topics.
 
-
-
 <img src="../img/communication-layers.png" alt="communication-layers" style="width:70%;" />
 
 ### Conflict Tree
@@ -112,11 +108,7 @@ Tension may originate from a conflict between desires or positions. Question thi
 - Discovering underlying interests, which may originate from shared goals.
 - Discover desired outcomes, which may lead to shared values.
 
-
-
 ![tree-conflict](../img/tree-conflict.png)
-
-
 
 ## Context
 
@@ -161,4 +153,3 @@ Differences in problem solving:
 | **Method**      | Active listening<br />*What, how* | Teach, explain, <br />use analogies | Specific questions<br />*5x Why* |
 | **Questioning** | Ask open questions                | Answer questions                    | Provide advice                   |
 | **Mode**        | Facilitate subject                | Lead subject                        | Provide service to subject       |
-

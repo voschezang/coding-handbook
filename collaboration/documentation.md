@@ -15,6 +15,40 @@ Respect the audience.
 - Emphasize what works well. Be inspriational.
 - Mix text with sketches and models.
 
+## Template 1: One pager.
+
+Present a single idea.
+
+```markdown
+# Title
+_abstract: mention core theme and purpose
+
+## Introduction
+What is this about? Why should you care? What makes the topic challenging?
+
+## Section 1, 2, 3
+Deep dive
+```
+
+## Template 2: Theme
+
+Various lenses or models regarding a single topic.
+
+```markdown
+# Title
+_abstract: mention core theme and purpose
+
+## Overview
+Introduction of the topic.
+
+1. Lens 1
+2. Lens 2
+...
+
+## Section 1, 2, 3
+Deep dive
+```
+
 ## Scalable Status Updates
 
 Consider the following modes of scaling. See [communication patterns](systems/communication-patterns.md).

@@ -34,12 +34,13 @@ Effects
 - Fear may make people more conservative.
 - Losing something tends to be overvalued in comparison to gaining something. E.g. losing all of your wealth is a greater change than doubling your wealth.
 
-|                 | Opportunity                                    | Problem                   |
-| --------------- | ---------------------------------------------- | ------------------------- |
-| **Perspective** | Potential, upside, value, capability, strength | Risks, downside           |
-| **Origin**      | Accept, then inspire.                          | Disrupt, then resolve.    |
-| **Attitude**    | Optimistic, welcome change 🫴                   | Critical, demand change 🫳 |
-| **Appeal**      | Inspiration, vision                            | Danger                    |
-| **Method**      | Impove or scale up                             | Protect or mitigate       |
-| **Bias**        | Increase value                                 | Reduce cost               |
+|                   | Opportunity                                    | Problem                                  |
+| ----------------- | ---------------------------------------------- | ---------------------------------------- |
+| **Perspective**   | Potential, upside, value, capability, strength | Risks, downside                          |
+| **Origin**        | Accept, then inspire.                          | Disrupt, then resolve.                   |
+| **Attitude**      | Optimistic, welcome change 🫴                   | Critical, demand change 🫳                |
+| **Appeal**        | Inspiration, vision                            | Danger, control                          |
+| **Method**        | Impove or scale up                             | Protect, mitigate, analyze               |
+| **Bias**          | Increase value                                 | Reduce cost                              |
+| **Documentation** | A unified vision document                      | Strategy documents for specific problems |
 

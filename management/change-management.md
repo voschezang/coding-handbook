@@ -24,33 +24,23 @@ Change covers any activity that falls outside business-as-usual (BAU). Change-ob
 
 <img src="../img/junction-goals-revenue.png" alt="junction-goals-revenue" style="height:16em;" />
 
-
-
 See [requirements](../organization/requirements.md).
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />
-
-
 
 Optimize for:
 
 - Risk: small changes. Standardization
 - Efficiency: batches
 
-
-
 ## Practice
 
 > Change is about tension and release.
-
-
 
 Approaches for implementing change should take into account the structure of an organization.
 
 - In flat organizations the culture (mindset, alignment) may be prioritized over changes in processes.
 - In large organizations there can be a mix of top-down and bottom-up incentives. Changes in process may be enforced top-down.
-
-
 
 ### Proposing change
 
@@ -88,8 +78,6 @@ Given the intent to make a change, start with:
 3. **Answers**. Propose actions to take.
 
 Then make a plan.
-
-
 
 ### Planning change
 
@@ -141,4 +129,4 @@ Reaching goals usually requires change.
 
 With this in mind, three questions can be asked: What to change? What to change it to? How to do it?
 
-Also see [goals and strategy](./goals-planning-strategy.md).
+Also see [goals and strategy](./alignment-strategy.md).

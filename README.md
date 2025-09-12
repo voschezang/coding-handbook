@@ -60,19 +60,19 @@ Systems
 <ul style="margin: 1em;">
 <li><a href="labour/labour.md">Labour</a></li>
 <li><a href="labour/terminology.md">Terminology</a></li>
-	<ul style="margin: 0;">
-	  <li><a href="labour/products-projects-initiatives.md">Products, projects, initiatives</a></li>
+ <ul style="margin: 0;">
+   <li><a href="labour/products-projects-initiatives.md">Products, projects, initiatives</a></li>
     <li><a href="labour/lifecycle.md">Product Lifecycle</a></li>
   </ul>
 <li><a href="labour/realization.md">Realization</a></li>
 <ul style="margin: 0;">
-	<li><a href="labour/discovery.md">Discovery</a></li>
+ <li><a href="labour/discovery.md">Discovery</a></li>
   <ul style="margin: 0;">
     <li><a href="labour/goals.md">Goals</a></li>
     <li><a href="labour/planning.md">Planning</a></li>
     <li><a href="labour/bets.md">Bets</a></li>
   </ul>
-	<li><a>Delivery</a></li>
+ <li><a>Delivery</a></li>
   <ul style="margin: 0;">
     <li><a href="labour/increments.md">Increments</a></li>
     <li><a href="labour/initiatives.md">Initiatives</a></li>
@@ -84,7 +84,9 @@ Systems
 <details>
 <summary>Practice: <b>Management</b> of systems</summary>
 <ul style="margin: 1em;">
-<li><a href="management/management-principles.md">Principles</a></li>
+  <li><a href="collaboration/alignment.md">Alignment</a></li>
+  <li><a href="labour/goals.md">Goals</a></li>
+  <li><a href="management/management-principles.md">Principles</a></li>
 <ul style="margin: 0;">
   <li><a href="management/product-management.md">Product Management</a></li>
   <li><a href="management/project-management.md">Project Management</a></li>
@@ -134,7 +136,7 @@ Social
   <li><a href="communication/principles.md">Communication principles</a> (human communication).</li>
   <li><a href="collaboration/messaging.md">Messaging</a> (verbally or non-verbally).</li>
   <li><a href="collaboration/interview-questions.md">Interview Questions</a> (discovery).</li>
-  <li><a href="collaboration/retrospectives.md">Retrospective</a> exercises for reflection for groups.</li>
+  <li><a href="teams/retrospectives.md">Retrospective</a> exercises for reflection for groups.</li>
 </ul>
 <li>Creating value</li>
 <ul style="margin: 0;">
@@ -156,7 +158,7 @@ Other
 **Templates and exercises**
 
 - Interactive
-  - [Retrospective](collaboration/retrospectives.md) exercises.
+  - [Retrospective](teams/retrospectives.md) exercises.
   - [Brainstorming](intelligence/creativity.md#Prompts) prompts.
   - [Interview questions](collaboration/interview-questions.md).
 
@@ -169,8 +171,9 @@ Other
 From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-languages/programming-paradigms.md)
-- [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
+- [Alignment](collaboration/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
+- [Alignment](collaboration/alignment.md) > [Goals](labour/goals.md) > [Goal Templates](management/goal-templates.md) > [Strategy](management/alignment-strategy.md)
 - [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](management/project-management.md)
 
 Themes

@@ -11,8 +11,6 @@ The **style** can be:
 - `Disrupt-resolve`. Question the current state.
 - `Accept-inspire`. Stand still, accept the present state. Then look for opportunities.
 
-
-
 The **method** can vary from a presentation to a workshop.
 
 - Standard meeting. Planning, decision making and alignment.
@@ -20,8 +18,6 @@ The **method** can vary from a presentation to a workshop.
   - Check-in. Align. Sometimes regularly, e.g. daily, weekly, monthly.
 - Workshop. Do actual work, together in the same time and place.
 - Lecture. Broadcast information.
-
-
 
 ### Style
 
@@ -41,8 +37,6 @@ These approaches question:
 | **Conflict**   | Question the present.   | Question future obstacles |
 | **Engagement** | Based on fear           | Relate to shared desire   |
 
-
-
 ### Personal Meeting Types
 
 For one-on-one meetings.
@@ -52,8 +46,6 @@ For one-on-one meetings.
 - Conflict. Challenge each other.
 - Structured working. Commitment and accountability. SLA's.
 - Attention to results
-
-
 
 ### Work Meeting Types
 
@@ -85,17 +77,12 @@ This follows the cycle of work items: `plan-do-check-act`. Accountability is bui
 | ❓Challenge     | Question a subject.       |
 | ☑️ Status check | Comply to a model (rules) |
 
-
-
 **Anti-patterns**
 
 - Fake accountability. Use check-in meeting to receive status updates, without commitment or clear outcomes. If there was real accountability, the stakeholders would've already been updated.
 - Knowledge sharing without alignment with organizational strategy.
 - No agenda. Keep discussing new topics, rather than following up on previous topics.
-  - *"How is it going with ...?"*. 
-
-
-
+  - *"How is it going with ...?"*.
 
 ## Preparation
 
@@ -107,8 +94,6 @@ Tools to improve meetings. See [meeting templates](meeting-templates.md).
 - Chair or facilator role. Assign someone to keep track of things.
 - Minutes of meeting (MoM). Publish meeting notes.
 - Explicit expectations on purpose and outcomes.
-
-
 
 ## Goals
 
@@ -156,9 +141,7 @@ Signs of good meetings
 
   - All participants feel heard / welcome.
 
-See also [goals-planning-strategy](../management/goals-planning-strategy.md#Meetings).
-
-
+See also [goals-planning-strategy](../management/alignment-strategy.md#Meetings).
 
 ## 1:1 Meetings
 
@@ -201,4 +184,3 @@ Support
 
 - How can i help?
 - What was the most useful part of this conversation?
-

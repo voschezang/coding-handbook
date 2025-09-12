@@ -6,7 +6,16 @@ Also see [proposals](communication/proposals.md) and [documentation](documentati
 
 ## Introduction
 
-Alignment is foremost a scaling problem. The more people are involved, the harder it becomes. Aligning colleagues involves balancing opinions, ego's and incentives. Alignment with external parties brings even more challenges. This document attempts to give insight into styles and tools to maintain alignment.
+Alignment is foremost a scaling problem. The more people are involved, the greater the collision of opinions and needs. Aligning colleagues involves balancing opinions, ego's and incentives. Alignment with external parties brings even more challenges. This document attempts to give insight into styles and tools to maintain alignment.
+
+Different tools can be used to privide *gentle* alignment for larger organizations.
+
+- Conversations work well for small groups.
+- Hierarchy and roles provide structure for large groups.
+- Metrics allow many teams to follow specific directions.
+- Vision and strategies inform leaders to set out their individual direction.
+
+<img src="../img/alignment-scaling.png" alt="alignment-scaling" style="height:21em;" />
 
 ## Organizational Structure
 
@@ -39,7 +48,9 @@ These approaches use a variety of tools. Organizations tend to mix tools from bo
 | **Few teams**  | 🪜 Hierarchy            | 📈Metrics                             |
 | **Many teams** | 🏛️ Institutions         | 📄 Abstraction. Vision & strategies.  |
 
+Guidance requires a different perspective than control. It's rooted in acceptance, rather than toleration.
 
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
 
 ## Tools
 
@@ -70,9 +81,9 @@ Abstractions decouple strategy from execution. This provides flexibility and pro
 
 ### Vision & Strategy
 
-Most of the concepts surrounding strategy emerge from collaboration and experience. For brevity, this section focusses on the artefacs of such work: vision and strategy documents. It excludes the application of documents - the execution of strategy.
+Most of the concepts surrounding strategy emerge from collaboration and experience. For brevity, this section focusses on the artefacs of such work: vision and strategy documents. It excludes adaption of vision and strategies.
 
-This section considers a couple of artifacts.
+Consider the following artifacts.
 
 - Guidelines (procedures and runbooks) are the most specific.
 - Strategy documents consider specific constraints, but present systematic solutions.

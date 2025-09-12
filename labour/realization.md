@@ -6,7 +6,7 @@ Visions are *realized* through discovery and delivery.
 
 ## Overview
 
->  May our dreams become our plans
+> May our dreams become our plans
 
 Discovery and delivery are about realizing a vision.
 
@@ -27,15 +27,11 @@ At **planning** level. For individual initiatives and projects.
 
 Realization can happen in increments. Strategies typically optimize for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See [increments](increments).
 
-
-
 **Effectiveness**
 
 Value delivery can be done effectively, efficiently and predictably.
 
 <img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
-
-
 
 ## Value Chain
 
@@ -43,9 +39,7 @@ The result of a production process is called a product.
 
 <img src="../img/production-outcome.png" alt="production-outcome" style="height:5.5em;" />
 
- In software engineering this process typically has the phases: `requirements, analysis, design, implementation, testing, deployment`. 
-
-
+ In software engineering this process typically has the phases: `requirements, analysis, design, implementation, testing, deployment`.
 
 A *value chain* starts just before this production process and ends with the higher-order effects of the product. E.g. the resulting change in quality of life of users, or an increase in market value.
 
@@ -56,8 +50,6 @@ From discovering problems to solving problems.
 3. Delivery of the product to users.
 4. Increase in revenue or growth for the business.
 
-
-
 <img src="../img/output-outcome-impact.png" alt="output-outcome-impact-project" style="width:80%;" />
 
 ### Planning Level
@@ -65,8 +57,6 @@ From discovering problems to solving problems.
 Planning occurs in the reverse order of the value chain.
 
 ![output-outcome-impact-reversed](../img/output-outcome-impact-reversed.png)
-
-
 
 ### Uncertainty
 
@@ -80,11 +70,7 @@ See [requirements](project-requirements.md).
 
 Projects tend to have constraints: time, cost and scope.
 
-
-
 <img src="../img/scope-time-cost.png" alt="scope-time-cost" style="height:15em;" />
-
-
 
 ## Vision
 
@@ -94,11 +80,10 @@ Concrete ideas tend to originate from underlying desires.
 - A **mission** is existential. *"Why does this organization exist?"*
 - A **vision** is an alternative to the current reality. *"What future do we envision?"*
 
-See [strategy](../management/goals-planning-strategy.md).
+See [strategy](../management/alignment-strategy.md).
 
 ![purpose-discovery](../img/purpose-discovery.png)
 
 ## References
 
 - Patton. *User Story Mapping*
-

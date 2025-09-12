@@ -17,15 +17,11 @@ Labour relates to management, leadership and collaboration.
   - Collaboration and coordination.
   - Individual contribution.
 
-
-
 Labour may consist of:
 
 - Take and finish initiatives. Justify what you're doing.
 - Follow orders.
 - Give orders (delegate).
-
-
 
 ### Labour
 
@@ -45,8 +41,6 @@ Core & context
 
 ![mission-vision-strategy](../img/mission-vision-strategy.png)
 
-
-
 ### Organized labour
 
 Organized labour requires alignment and strategy. It moves from a mission to discovery to delivery.
@@ -55,7 +49,7 @@ Organized labour requires alignment and strategy. It moves from a mission to dis
 
 ## Purpose and Sustainability
 
->  Patience ≠ doing nothing
+> Patience ≠ doing nothing
 
 The purpose of any type of labour can be deconstructed in *discovery* and *delivery*. The former is both an [existential](https://en.wikipedia.org/wiki/Existentialism) question and a [validation](https://en.wikipedia.org/wiki/Verification_and_validation) of beliefs and posibilities. Delivery is more concrete, and consists of the following:
 
@@ -66,11 +60,9 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 <img src="../img/purpose-discovery-delivery.png" alt="purpose-discovery-delivery" style="width:40%;" />
 
-
-
 ## Objectives and Initiatives
 
-See [goals](../management/goals-planning-strategy.md) and [initiatives](initiatives.md).
+See [goals](../management/alignment-strategy.md) and [initiatives](initiatives.md).
 
 <img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
 
