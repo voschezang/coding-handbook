@@ -22,7 +22,7 @@ Discovery consists of:
 
 
 
-<img src="../img/prototype-to-release.png" alt="prototype-to-release" style="width:90%;" />
+<img src="../img/prototype-to-release.png" alt="prototype-to-release" style="max-height:14em;" />
 
 Discovery happens after a mission and vision are set.
 
