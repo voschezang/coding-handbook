@@ -123,7 +123,7 @@ Social
 <summary>Theory: <b>Intelligence</b> (and reasoning)</summary>
 <ul style="margin: 1em;">
 <li><a href="intelligence/knowledge.md">Knowledge</a> (and truth).</li>
-<li><a href="intelligence/creativity.md">Creativity</a> (exercises for brainstorming).</li>
+<li><a href="intelligence/creativity-templates.md">Creativity</a> (exercises for brainstorming).</li>
 <li><a href="intelligence/learning.md">Learning</a> (change and improvement).</li>
 <li><a href="intelligence/modelling.md">Models</a> and modelling principles.</li>
 </ul>
@@ -159,7 +159,7 @@ Other
 
 - Interactive
   - [Retrospective](teams/retrospectives.md) exercises.
-  - [Brainstorming](intelligence/creativity.md#Prompts) prompts.
+  - [Brainstorming](intelligence/creativity-templates.md#Prompts) prompts.
   - [Interview questions](collaboration/interview-questions.md).
 
 - Documentation

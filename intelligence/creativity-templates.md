@@ -4,8 +4,6 @@ For brainstorming, out-of-the-box thinking, problem solving, etc.
 
 Tags: `template`
 
-
-
 **Flow**
 
 Tension-release cycle for flow states
@@ -15,8 +13,6 @@ Tension-release cycle for flow states
 | Go wide          | Go deep       |
 | Explore          | Exploit       |
 | Embrace, say yes | Focus, say no |
-
-
 
 ## Prompts
 
@@ -31,8 +27,6 @@ When struck
 
 > Who would know how to approach this?
 
-
-
 ## Dimensions per prompt
 
 **Representational systems**
@@ -40,8 +34,6 @@ When struck
 - Kinesthetic - feeling
 - Auditory - hearing
 - Visual - seeing
-
-
 
 **Perspectives**
 
@@ -51,13 +43,9 @@ First, second, third position.
 2. The other, with whom I interact.  How they see/hear/feel
 3. An outside view. Someone who’s not involved. “Objective”
 
-
-
 ### Rubber duck
 
 Explain a problem to a rubber duck. Keep talking for 5 min.
-
-
 
 ### Contiuous Writing
 
