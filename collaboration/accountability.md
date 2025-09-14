@@ -10,8 +10,6 @@ First, let's distinguish the **production** process and its **product**. These y
 
 Note that all of this is influenced by the external world: the **context**. There is a boundary of things that are in control of the organization. Accountability cannot trancend this boundary.
 
-
-
 |                    | 📦 Product                      | ⚙️ Production            | 👤 Capability                                              |
 | ------------------ | ------------------------------ | ----------------------- | --------------------------------------------------------- |
 | **Accountability** | Value delivery (to customers)  | Quality (of production) | The environment                                           |
@@ -26,8 +24,6 @@ Examples of accountabilities for capability:
 - Working empirically. Transparency, reflection.
 - Effectiveness. Ensuring commitments, attention to results.
 
-
-
 ## Value Chain
 
 > *Build the right thing.*
@@ -38,11 +34,7 @@ Delivery of value is modelled by a **value chain**. The end-to-end process. Its 
 
 The value chain is centered around a **production chain**. This is an internal process that aims to optimize production quality and throughput: *how* it is produced.
 
-
-
 <img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="width:45em" />
-
-
 
 ## Environment
 

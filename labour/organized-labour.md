@@ -1,10 +1,10 @@
 # Organizing Labour
 
-This document explores the organization of labour. It considers rigourous processes for learning and managing work.
+The organization of labour involves planning, orchestration and execution. This document is a complement to [alignment](../collaboration/alignment.md).
 
 
 
-Consider the following structures. They are ordered by importance, from actual contribution to management.
+Consider the following structures. They are ordered by importance, from actual contribution to management of contributions.
 
 1. **Projects**. Organize increments of work. Work empirically & validate results.
 2. **Quality standards**. Organize quality of work.
@@ -29,7 +29,7 @@ Projects can be categorized based on the evolution of their solution. Initially,
 
 
 
-A project specification can be made as formal and thorough as desired. See [requirements](project-requirements.md). Regardles, all projects should include the following.
+A project specification can be made as formal and thorough as desired. See [requirements](project-requirements.md). Regardles, all projects should include the following:
 
 - 📋 A project **definition**. A title and abstract. An understanding of:
   - *What is going to change? How?*
@@ -40,10 +40,10 @@ A project specification can be made as formal and thorough as desired. See [requ
   - *Product* milestones. Valuable to customers / partners
   - *Learning* milestones. These improve positioning: your ability to deliver value. What you will achieve in between product increments.
 - 📅 **Check-in** intervals. For team members themselves and for stakeholders. The frequency depends on the domain. E.g.:
-  - Evaluate when finished, at date X
-  - Weekly standup, focussed on milestones or impediments
+  - Evaluate when finished, at date X.
+  - Weekly standup, focussed on milestones or impediments.
 - 📈 **Metrics** that track progress early & accurately. Combine leading and lagging indicators.
-  - E.g. MTTR, activations, retention
+  - E.g. MTTR, activations, retention, profit.
 
-These provide accountability and predictability. Verbal agreement can be sufficient, but shared documents will provide a more reliable source of truth. In either case there should be a decent level of trust in all parties involved. If there's no consensus, it's inevitable that people will disagree about the project's success, or who was responsible for it.
+These provide accountability and predictability. Verbal agreement can be sufficient, but shared documents will provide a more reliable source of truth. In either case there should be a decent level of [trust](../collaboration/trust.md) in all parties involved. If there's no consensus, it's inevitable that people will disagree about the project's success, or who was responsible for it.
 

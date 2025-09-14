@@ -1,6 +1,6 @@
 # Hiring
 
-Hiring people revolves around generalizing a couple of short interactions.
+Hiring people revolves around generalizing a couple of short interactions. See [performance](teams/individual-performance.md).
 
 
 
