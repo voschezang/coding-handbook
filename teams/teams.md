@@ -28,7 +28,7 @@ From an organizational view, a team touches various areas. See [product manageme
 
 ## Leadership
 
-See [leadership](../collaboration/leadership.md) and [alignment](../collaboration/alignment.md).
+See [leadership](../alignment/leadership-styles.md) and [alignment](../alignment/alignment.md).
 
 > Authority implies responsibility.
 

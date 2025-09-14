@@ -84,7 +84,7 @@ Systems
 <details>
 <summary>Practice: <b>Management</b> of systems</summary>
 <ul style="margin: 1em;">
-  <li><a href="collaboration/alignment.md">Alignment</a></li>
+  <li><a href="alignment/alignment.md">Alignment</a></li>
   <li><a href="labour/goals.md">Goals</a></li>
   <li><a href="management/management-principles.md">Principles</a></li>
 <ul style="margin: 0;">
@@ -171,9 +171,9 @@ Other
 From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-languages/programming-paradigms.md)
-- [Alignment](collaboration/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
+- [Alignment](alignment/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
-- [Alignment](collaboration/alignment.md) > [Goals](labour/goals.md) > [Goal Templates](management/goal-templates.md) > [Strategy](management/alignment-strategy.md)
+- [Alignment](alignment/alignment.md) > [Goals](labour/goals.md) > [Goal Templates](management/goal-templates.md) > [Strategy](management/alignment-strategy.md)
 - [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](management/project-management.md)
 
 Themes

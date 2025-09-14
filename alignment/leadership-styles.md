@@ -1,6 +1,6 @@
 # Leadership
 
-Leadership is the ability to connect, in the context of an organization. Communication [styles](../communication/styles.md) play a huge role, whether in-person or [textual](documentation.md).
+Leadership is the ability to connect, in the context of an organization. Communication [styles](../communication/styles.md) play a huge role, whether in-person or [textual](../collaboration/documentation.md).
 
 [toc]
 
@@ -21,7 +21,7 @@ Leadership can be optimized for an environment. Its affected by the leader, the 
 
 - In a *complex* environment, develop your own practice. Execution of work involves adaption and autonomy.
 
-Leadership may be problem-oriented or opportunity-oriented. See [proposals](proposals.md).
+Leadership may be problem-oriented or opportunity-oriented. See [proposals](../collaboration/proposals.md).
 
 Leadership implies collaboration.
 

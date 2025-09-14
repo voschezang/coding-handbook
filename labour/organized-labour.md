@@ -1,8 +1,6 @@
 # Organizing Labour
 
-The organization of labour involves planning, orchestration and execution. This document is a complement to [alignment](../collaboration/alignment.md).
-
-
+The organization of labour involves planning, orchestration and execution. This document is a complement to [alignment](../alignment/alignment.md).
 
 Consider the following structures. They are ordered by importance, from actual contribution to management of contributions.
 
@@ -12,8 +10,6 @@ Consider the following structures. They are ordered by importance, from actual c
 4. **Vision**. Keep successive objectives consistent (aligned).
 5. **Strategy**. Align strategy within an organization. Re-use solutions across domains.
 6. **KPI's**. Summarize performance across organizations.
-
-
 
 ## Projects
 
@@ -26,8 +22,6 @@ Projects can be categorized based on the evolution of their solution. Initially,
 | **Validate** a solution | Unknown unknowns |
 | **Develop** a solution  | Known unknowns   |
 | **Execute** a solution  | Known knowns     |
-
-
 
 A project specification can be made as formal and thorough as desired. See [requirements](project-requirements.md). Regardles, all projects should include the following:
 
@@ -46,4 +40,3 @@ A project specification can be made as formal and thorough as desired. See [requ
   - E.g. MTTR, activations, retention, profit.
 
 These provide accountability and predictability. Verbal agreement can be sufficient, but shared documents will provide a more reliable source of truth. In either case there should be a decent level of [trust](../collaboration/trust.md) in all parties involved. If there's no consensus, it's inevitable that people will disagree about the project's success, or who was responsible for it.
-

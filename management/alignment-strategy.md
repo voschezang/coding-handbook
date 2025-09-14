@@ -1,6 +1,6 @@
 # Alignment, Strategy & Planning
 
-This is related to this alignment on [alignment](../collaboration/alignment.md), extended with a focus on planning and management. Also see [goals](../organization/goals.md), [results](../labour/realization.md), [templates](goal-templates.md) and [planning](../labour/planning.md).
+This is related to this alignment on [alignment](../alignment/alignment.md), extended with a focus on planning and management. Also see [goals](../organization/goals.md), [results](../labour/realization.md), [templates](goal-templates.md) and [planning](../labour/planning.md).
 
 [toc]
 
@@ -10,21 +10,15 @@ This is related to this alignment on [alignment](../collaboration/alignment.md),
 
 > Good strategy means saying no.
 
-
-
 Strategy has a top-down and a bottom-up component. Plans are usually created high level, and thought out in detail down the line.
 
 Operations consists of repetition. It may involve lengthy projects and agile project increments.
 
 <img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
 
-
-
 ## Terminology
 
 ![mission-vision-strategy](../img/mission-vision-strategy.png)
-
-
 
 <table>
 <tr>
@@ -92,7 +86,6 @@ Operations consists of repetition. It may involve lengthy projects and agile pro
 </tbody>
 </table>
 
-
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
 In an organization, these may be combined in a single information management system (e.g. JIRA). The challenge is to
@@ -101,19 +94,11 @@ In an organization, these may be combined in a single information management sys
 - Use a limited level of detail.
 - Present different views of the same data. E.g. at different levels of abstraction and different time horizons.
 
-
-
 ![goals-to-plans](../img/goals-to-plans.png)
-
-
 
 ![purpose-discovery](../img/purpose-discovery.png)
 
-
-
 <img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="width:70%;" />
-
-
 
 **Separation of roles**
 
@@ -127,17 +112,11 @@ Metrics
 - Confidence levels for OKRs. Change-oriented
 - Health indicators. BAU-oriented.
 
-
-
  **Milestones**
 
 - outcome milestones vs output (work) milestones
 
 - customer-centric milestones vs effort-based milestones
-
- 
-
-
 
 ## (Planning) Living Roadmap
 
@@ -188,8 +167,6 @@ Follow up questions:
 - What's required to cut the timeline by half?
 - What required to double the impact?
 
-
-
 #### Template 1: Persistent Outcomes
 
 > Separate goals from dreams
@@ -211,16 +188,12 @@ This can be accompanied with the following:
 
 - A list of desired outcomes over time, on an exponential timescale. E.g. a month, quarter, year and 4 years.
 
-
-
 ## Alignment
 
 **Tools**
 
 - Documentation/text/email. Very efficient one way of communication.
 - Meetings. Fast feedback in groups.
-
-
 
 ### Meetings
 
@@ -232,8 +205,6 @@ Setting up dedicated ceremonies can help to ensure regular reflection, at the ri
 - Quarterly off-site review. Take an outside-view and reflect.
 
 See [meetings](../collaboration/meetings.md).
-
-
 
 ### Visualize
 
@@ -252,8 +223,6 @@ This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) boa
 
 <img src="../img/kanban-board.png" alt="kanban-board" style="width:40%;" />
 
-
-
 ## Project Portfolio
 
 Before creating a roadmap, one must choose the right projects or initiatives.
@@ -268,15 +237,11 @@ Below are a few templates
 - Desired States
 - Option pool. A mapping from initiatives to higher-level goals.
 
-
-
 ### Template: Portfolio / Option pool
 
 1. Determine & align on a *set* of core objectives. Avoid ordering this set by importance. E.g. `deliver value` now, and `contain cost`, `be agile` to be able to keep doing this in the future.
 2. Create an option pool of initiatives. Show how each initiative relates to a core objective.
 3. Compare the ROI, risk and compatibility of the initiatives.
-
-
 
 ### Visualizations
 
@@ -301,6 +266,3 @@ Decouple objectives from projects. Some projects may bring you closer to multipl
 This is again based on categories or themes, but this template emphasizes the option pool. The shape of the visualisation (when zoomed out) gives an indication of the amount of focus.
 
 <img src="../img/option-pyramid.png" alt="option-pyramid" style="width:70%;" />
-
-
-

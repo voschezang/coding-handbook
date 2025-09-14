@@ -1,6 +1,6 @@
 # Alignment
 
-Also see [proposals](communication/proposals.md) and [documentation](documentation.md).
+Also see [proposals](../collaboration/communication/proposals.md) and [documentation](../collaboration/documentation.md).
 
 [toc]
 
@@ -26,15 +26,11 @@ Next to scale, alignment depends on the structure of the organization and its pa
 3. A focus on **performance** re-aligns the organization. The organization aligns to certain metrics.
 4. The bias for metrics is mitigated by celebrating certains **ideals**. The organization aligns to a single mission or north star.
 
-
-
 ![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
-
-
 
 ## Control & Guidance
 
-There are two seemingly opposite philosophies to achieve alignment. See also systems [control](../systems/control.md).
+There are two seemingly opposite philosophies to achieve alignment. See also systems [control](../systems/control.md) and [leadership styles](./leadership-styles.md).
 
 1. 🎛️ **Control**. A direct, brute-force approach that uses *power* to obtain control. It relies on rules and directives.
 2. 🧭 **Guidance**. A softer, indirect style that uses *empowerment*. It involves receptivity, facilitation and incentives.
@@ -65,8 +61,6 @@ Guidance requires a different perspective than control. It's rooted in acceptanc
 
 <img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
 
-
-
 ## Abstractions
 
 Abstractions decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](../labour/goals.md).
@@ -77,17 +71,13 @@ Abstractions decouple strategy from execution. This provides flexibility and pro
 
 <img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
 
-See [vision and strategy](../management/vision-strategy.md).
-
-
+See [vision and strategy](./vision-strategy.md).
 
 ## Conflicts
 
 Velicity conflicts. Worries that the project is going too slowly.
 
 - Solution: vizualize progress. This allows all parties to agree on the progress. The discussion can then move on to e.g. feasibility.
-
-
 
 Priority conflicts. Disagreement about the order of work. Steps:
 
@@ -98,10 +88,8 @@ Priority conflicts. Disagreement about the order of work. Steps:
 
 Note: policies are often not explicit. Values is a more natural and informal alternative
 
-
-
 # References
 
-- F Laloux, *Reinventing Organizations.* 
+- F Laloux, *Reinventing Organizations.*
 - W. Larson, *An elegant puzzle. Systems of Engineering Management.*
 - R. Westrum, *A typology of organisational cultures*

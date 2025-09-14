@@ -12,5 +12,5 @@ Theory
 - [Teams](../teams/teams.md)
 - [Teams management](../management/team-management.md)
 - [Accountability](../collaboration/accountability.md)
-- [Alignment](../collaboration/alignment.md)
+- [Alignment](../alignment/alignment.md)
 - [Trust](../collaboration/trust.md)
