@@ -1,6 +1,6 @@
 # Goals
 
-See [labour](labour.md) and [behaviour]( ../behavioiur.md).
+See [labour](labour-legacy.md) and [behaviour]( ../behavioiur.md).
 
 [toc]
 
@@ -13,8 +13,6 @@ Goals are the expected results of efforts. They may be specific, measurable, ach
 - Higher-level objectives. These are more abstract.
 
 One can start an initiative to approach or reach goals.
-
-
 
 ## Function
 
@@ -33,21 +31,15 @@ Goals can originate from
 - A problem
 - An opportunity
 
-
-
-Goals can be 
+Goals can be
 
 - Static. Set quality standards. E.g. production quota.
 - Dynamic. Invite change.
-
-
 
 Goals can be formulated as
 
 - (Quota) targets or metrics.
 - Stories that relate to a (human) subject and some outcome.
-
-
 
 ## Planning
 
@@ -60,8 +52,6 @@ Different modes of planning:
 - **Bottom-up**. Focus on needs. Understand the current problems. Then address them. E.g. remove bottlenecks.
 
 The ideal type of planning depends on the environment. In many contexts, the steps that are required to reach an objective are not intuitive.
-
-
 
 ## Types of goals
 
@@ -79,8 +69,6 @@ Goals do not have to be *coupled* to plans
 
 - Make them realistic. Minimize scope and contain risk. Consider the available resources.
 - Make them time-bound. Ensure there is enough urgency.
-
-
 
 ## Formulating Goals
 
@@ -121,8 +109,6 @@ Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720)
 - Goals are create purely top-down. There is no consideration for local problems.
 - Goals are create purely bottom-up. It is biased to local optimization.
 - "Do the same as last year, but more efficient".
-
-
 
 ## Formulating a Goal
 
@@ -186,8 +172,6 @@ Defining goals
 
 For each goal, denote the assumptions and rationale. Be explicit in what's an assumption or uncertain.
 
-
-
 ## Models
 
 Mindset
@@ -200,16 +184,12 @@ Mindset
 | North Star Model     | Alignment     | Years              |
 | OKR Model            | Focus         | Months             |
 
-
-
 ### Bounded Optimization
 
 Set static goals to ensure a minimum standard of quality. Then optimize value within those bounds.
 
 1. **Static** goals. Minimal quality standards. Guard rails, rather than quality layers. Standard operations and maintenance.
 2. **Dynamic** goals. Change. These can require static goals to be adapted.
-
-
 
 ### North Star Model
 
@@ -222,8 +202,6 @@ Set static goals to ensure a minimum standard of quality. Then optimize value wi
 Visually:
 
 <img src="../img/current-target-state.png" alt="current-target-state" style="width:70%;" />
-
-
 
 ### OKR Model
 
@@ -261,8 +239,6 @@ Similar to [MBO](https://en.wikipedia.org/wiki/Management_by_objectives), there 
 **Health Indicators**
 Perpetual objectives or metrics that are kept stable. Any change induced by the current set OKRs should not degrade these.
 
-
-
 #### Guide
 
 How to design OKRs, given an initial idea.
@@ -272,6 +248,5 @@ How to design OKRs, given an initial idea.
     2. List realistic and unrealistic goals.
     3. List potential initiatives that are realistic
 2. Exploitation
-    1. Narrow down the objective. 
+    1. Narrow down the objective.
     2. Deconstruct the desired state into key results.
-

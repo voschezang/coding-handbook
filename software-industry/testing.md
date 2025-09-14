@@ -57,7 +57,9 @@ Types
 - 🐤 Smoke test. Regression tests. Find signals that are correlated with issues.
 - ⚡ Stress test. Find limits of a system.
 - 🆎 A/B test. Compare scenarios.
-- Beta test.
+- Acceptance test. Should we release the new feature?
+- Validation. Is the feature valuable to users?
+- Beta test. Pilot test. MVP test.
 
 
 

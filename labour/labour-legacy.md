@@ -105,18 +105,13 @@ Roles can be official and persistent, or informal and dynamic.
 
 **Modes of collaboration**
 
+See [productivity constraints](../teams/productivity-constraints.md)
+
 - Firefighting. Try to survive.
 - Maintenance. Optimize for efficiency.
 - Balanced. Focus on effectiveness. Plan and reflect.
 
-### Projects and processes
-
-- A process is a pre-defined method to do labour. It may involve repetition and it may be optimized by improving reliability and speed.
-- A [project](../management/project-management.md) involves a change of some sort. It's too unique or uncertain be be a process. It may require adaption.
-
-<img src="../img/process-project.png" alt="process-project" style="width:70%;" />
-
-#### Identity
+## Identity
 
 Labour can be performed by an [organization](../systems/system.md) or [system](../systems/systems-management.md). An organization may define itself on different levels. These influence decisions. For example, belief is a prerequisite for making changes - and can limit capability.
 
@@ -126,19 +121,6 @@ _identity belief capability behavior environment_
 ```
 
 See [organization](../collaboration/organization.md).
-
-## Labour Itself
-
-Labour can be categorized as follows. Based on [environments](https://cynefin.io/wiki/Cynefin), ranging from `chaotic-complex-complicated-obvious`.
-
-It may have the following forms:
-
-1. Research (theoretical, experimental), deconstruct the application domain.
-2. Development: novelty, effectiveness, build/improve an application. I.e. invest and introduce change.
-3. Operations: efficiency & quality, run a black-box application. I.e. cut cost and block change. Execute a process.
-4. Administration: consistency, manage a black-box application. Audit an executed process.
-
-*Management* of labour usually falls under operations or administration. It differentiates itself from "actual" work by distancing itself from it. E.g. through delegation or orchestration.
 
 ## Assignments
 

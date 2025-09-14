@@ -58,7 +58,7 @@ Systems
 <details>
 <summary>Practice: <b>Labour</b> (organization of work)</summary>
 <ul style="margin: 1em;">
-<li><a href="labour/labour.md">Labour</a></li>
+<li><a href="labour/labour-legacy.md">Labour</a></li>
 <li><a href="labour/terminology.md">Terminology</a></li>
  <ul style="margin: 0;">
    <li><a href="labour/products-projects-initiatives.md">Products, projects, initiatives</a></li>
@@ -140,7 +140,7 @@ Social
 </ul>
 <li>Creating value</li>
 <ul style="margin: 0;">
-  <li><a href="labour/labour.md">Labour</a> (work and management of work).</li>
+  <li><a href="labour/labour-legacy.md">Labour</a> (work and management of work).</li>
   <li><a href="systems/system.md">Organization</a> (identity)</li>
   <li><a href="systems/teams.md">Teams</a> (structure and effectiveness)</li>
 </ul>

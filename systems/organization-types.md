@@ -11,15 +11,11 @@ A comparison of three typical organizations. Examples are Egypt, Apple and the C
 | **Execution** (application)     | Institutions           | Departments             | ...                       |
 | **Rejection** (end-of-life)     | Treaty (asquisition)   | Bankrupcy or merger     | Dissolution               |
 
-
-
 Interdependence
 
 - Countries often form alliances with other countries.
 - Businesses compete with other businesses for market share.
 - Non-profit organziations may collaborate with other organizations and may compete for attention.
-
-
 
 ## Nested organizations
 
