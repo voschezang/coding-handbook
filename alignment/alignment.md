@@ -57,13 +57,13 @@ Guidance requires a different perspective than control. It's rooted in acceptanc
 - Structure & expectations. Compensate restriction with freedom in other areas.
 - Self-sustaining systems that protect the status quo.
 
-**Responsibilities** are often formalized. Typical responsibilities are products (projects), people (resources) and capabilities (technology). At greater scales, roles transform to functional teams and to departments (centers of expertice). See [product](../management/product-management.md) and [team](../management/team-management.md) management.
+**Responsibilities** are often formalized. Typical responsibilities are products (projects), people (resources) and capabilities (technology). At greater scales, roles transform to functional teams and to departments (centers of expertice). See [product](../management/product-management.md) and [team](../teams/team-management.md) management.
 
 <img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
 
 ## Abstractions
 
-Abstractions decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](../labour/goals.md).
+Abstractions decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md).
 
 - The world of **strategy** focusses on vision, alignment, and systems.
 

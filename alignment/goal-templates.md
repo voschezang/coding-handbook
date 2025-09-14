@@ -61,7 +61,7 @@ List the major risks and estimate their exposure (probability and probability of
 - Threads (external)
 - Vulnerabilities (internal)
 
-Use this to decide to invest in mitigation. See [management-principles](management-principles.md).
+Use this to decide to invest in mitigation. See [management-principles](../management/management-principles.md).
 
 #### Template: Desired States
 

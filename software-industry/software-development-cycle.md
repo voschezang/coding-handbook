@@ -6,9 +6,9 @@ The [structure of teams](../systems/structure.md) and departments has a great im
 
 A software development process usually consists of phases:
 
-- `requirements, analysis, design, implementation, testing, operations`. 
+- `requirements, analysis, design, implementation, testing, operations`.
 
-Some phases can be combined, e.g. using TDD. 
+Some phases can be combined, e.g. using TDD.
 
 In general, the following steps will increase quality:
 
@@ -16,17 +16,11 @@ In general, the following steps will increase quality:
 2. Adjust after obtaining new information. Go back and forth between consecutive phases.
 3. Do it twice. Iterate frequently. Strive to release "version 2". Prototype for `1x`, design for `100x`, and only then build for `10x`.
 
-
-
-
-
 ![project-increments-method](../img/project-increments-method.png)
-
-
 
 **Two extremes: from *efficient* to *predictable***
 
-See [project management](../management/project-management.md).
+See [project management](../legacy/project-management.md).
 
 1. Waterfall. A fixed project scope, price and deadline. Future changes are expensive.
     1. Designed for *throughput* and *stability*.

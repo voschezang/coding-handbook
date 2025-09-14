@@ -2,8 +2,6 @@
 
 Also see [collaboration](../collaboration/accountability).
 
-
-
 ## Management Roles
 
 A general manager may be accountable for "everything". In large organizations, this accountability is split up to dedicated roles.
@@ -17,13 +15,9 @@ A general manager may be accountable for "everything". In large organizations, t
 | Project (portfolio) manager | A set of projects                      | Time, scope, cost, risks      |
 | Product manager             | Product value. Vision and realization. | Discovery & delivery of value |
 
-
-
 **Dynamics**
 
 <img src="../img/venn-valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:25em;" />     <img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="width:25em;" />
-
-
 
 ## Domains
 

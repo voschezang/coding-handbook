@@ -1,6 +1,6 @@
 # Alignment, Strategy & Planning
 
-This is related to this alignment on [alignment](../alignment/alignment.md), extended with a focus on planning and management. Also see [goals](../organization/goals.md), [results](../labour/realization.md), [templates](goal-templates.md) and [planning](../labour/planning.md).
+This is related to this alignment on [alignment](../alignment/alignment.md), extended with a focus on planning and management. Also see [goals](../organization/goals.md), [results](./realization.md), [templates](../alignment/goal-templates.md) and [planning](./planning.md).
 
 [toc]
 
@@ -219,7 +219,7 @@ Visualizing work has a few benefits:
 - Alignment by making progress explicit.
 - Show bottlenecks that impede flow.
 
-This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) board. Such a board consists columns such as: `to-do, doing, done`. Each column may contain cards, which represent actions or tasks. See [product management](product-management.md).
+This can be done with a [kanban](https://en.wikipedia.org/wiki/Kanban_board) board. Such a board consists columns such as: `to-do, doing, done`. Each column may contain cards, which represent actions or tasks. See [product management](../management/product-management.md).
 
 <img src="../img/kanban-board.png" alt="kanban-board" style="width:40%;" />
 

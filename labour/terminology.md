@@ -8,7 +8,7 @@ This terminology is borrowed from Agile and Scrum.
 
 **Backlog**
 
-See [planning](planning.md).
+See [planning](../legacy/planning.md).
 
 **MVP**
 See [product management](../management/product-management.md)
@@ -25,13 +25,9 @@ A high-level, long-term goal that is used to show the direction to work towards.
 **Output, Outcome and Impact**
 See [requirements engineering](../management/requirements-engineering.md).
 
-
-
 ## Storytelling
 
 This way of working emphasizes storytelling and narratives. It puts an emphasis on purpose and end-results. It promotes shared understanding, natural language and pictures.
-
-
 
 **Narrative**
 Communal understanding.
@@ -58,8 +54,6 @@ A collection of user stories that can be finished in at most a handful of months
 **Questions**
 Frame topics as questions. E.g. "How will we approach this?" rather than *"Method 1.1.2"*.
 
-
-
 ## Products
 
 > A product is a vehicle to deliver value.
@@ -70,20 +64,14 @@ A *product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/P
 
 It is a simplification of all the different services that create value. The product is not a constant, it changes over time. It evolves, together with the environment.
 
-
-
-In order to be valuable a product should be usable, feasible and desirable. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA. See [accountability](../management/accountability.md).
+In order to be valuable a product should be usable, feasible and desirable. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA. See [accountability](../management/accountabilities.md).
 
 <img src="../img/venn-valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:25em;" />
-
-
 
 Following this terminology, a successful product would need to fulfill the desires of customers, users, stakeholders and employees. It results in:
 
 1. Delivery: Provide value to users, based on a production process.
 2. Transaction: Sell to customers.
-
-
 
 **Product Discovery**
 Deciding what to build, for whom, when.

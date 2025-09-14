@@ -141,7 +141,7 @@ Signs of good meetings
 
   - All participants feel heard / welcome.
 
-See also [goals-planning-strategy](../management/alignment-strategy.md#Meetings).
+See also [goals-planning-strategy](../legacy/alignment-strategy.md#Meetings).
 
 ## 1:1 Meetings
 

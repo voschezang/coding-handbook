@@ -1,6 +1,6 @@
 # Product Management
 
-This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](./alignment-strategy.md),  [management principles](../management-principles.md), [requirements-engineering](../requirements-engineering.md) and [results](../labour/realization.md).
+This document explores the management of [products and projects](../labour/products-projects-initiatives.md). It de-emphasises [business operations](https://en.wikipedia.org/wiki/Business_operations). See also [goals and strategy](../legacy/alignment-strategy.md),  [management principles](../management-principles.md), [requirements-engineering](../requirements-engineering.md) and [results](../legacy/realization.md).
 
 [toc]
 
@@ -56,7 +56,7 @@ Value is a mix of direct value and growth.
 
 ### What
 
-Value delivery can be understood in two directions. See [delivery](../labour/realization.md).
+Value delivery can be understood in two directions. See [delivery](../legacy/realization.md).
 
 **1.** Ideas guide production, which results in increments, which are delivered to users, which provides them value, which results in profit.
 
@@ -66,7 +66,7 @@ Value delivery can be understood in two directions. See [delivery](../labour/rea
 
 ![output-outcome-impact-reversed](../img/output-outcome-impact-reversed.png)
 
-See also [initiatives](../labour/initiatives.md) and [bets](../labour/bets.md).
+See also [initiatives](../legacy/initiatives.md) and [bets](../labour/bets.md).
 
 ### How
 

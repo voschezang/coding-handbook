@@ -21,7 +21,7 @@ Running an organization ([system](../systems/systems.md)) is a challenge in itse
 
 ## Projects
 
-Projects refer to change. Developing a product or feature, orchestrating an initiative or migration. See A [project](../management/project-management.md).
+Projects refer to change. Developing a product or feature, orchestrating an initiative or migration. See A [project](../legacy/project-management.md).
 
 Projects can be categorized based on the evolution of their solution. Initially, a new solution needs to be validated. This relies on prototyping, pilots and pivotting. Eventually, once a market fit is found, the solution needs to be developed. This bounds the complexity of the work, yet it's still requires innovation. Finally, after a solution has been applied routinely, it can be executed with high precision. See [agile](../software-engineering/agile.md).
 

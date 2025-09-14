@@ -10,7 +10,7 @@ Visions are *realized* through discovery and delivery.
 
 Discovery and delivery are about realizing a vision.
 
-- [Discovery](discovery.md) focusses on learning what to deliver. It involves planning, experimentation and using prototypes.
+- [Discovery](../labour/discovery.md) focusses on learning what to deliver. It involves planning, experimentation and using prototypes.
 - Delivery aims to realize the resulting plans.
 
 The two phases re-occur at various scales and phases in a product lifecycle.
@@ -25,7 +25,7 @@ At **planning** level. For individual initiatives and projects.
 - Discovery phase. *What to build?*
 - Delivery phase. *How to build it?*
 
-Realization can happen in increments. Strategies typically optimize for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See [increments](increments).
+Realization can happen in increments. Strategies typically optimize for efficiency or predictability. The former takes risk by building large increments. The latter minimizes risk by testing early. See [increments](../labour/increments).
 
 **Effectiveness**
 
@@ -45,7 +45,7 @@ A *value chain* starts just before this production process and ends with the hig
 
 From discovering problems to solving problems.
 
-1. Idea. A new product or feature. Verification of the idea. See [bets](./bets.md).
+1. Idea. A new product or feature. Verification of the idea. See [bets](../labour/bets.md).
 2. Development and its product. An implementation of the idea.
 3. Delivery of the product to users.
 4. Increase in revenue or growth for the business.
@@ -60,7 +60,7 @@ Planning occurs in the reverse order of the value chain.
 
 ### Uncertainty
 
-See [requirements](project-requirements.md).
+See [requirements](../labour/project-requirements.md).
 
 |                 | 📦 Output        | 👤 Outcome | 📈 Impact             |
 | --------------- | --------------- | --------- | -------------------- |
@@ -80,7 +80,7 @@ Concrete ideas tend to originate from underlying desires.
 - A **mission** is existential. *"Why does this organization exist?"*
 - A **vision** is an alternative to the current reality. *"What future do we envision?"*
 
-See [strategy](../management/alignment-strategy.md).
+See [strategy](./alignment-strategy.md).
 
 ![purpose-discovery](../img/purpose-discovery.png)
 

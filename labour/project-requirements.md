@@ -1,6 +1,6 @@
 # Project Requirements
 
-This document focusses on requirements for a single *unit* of work. This can be an initiative or a project. It follows a given [objective](../management/alignment-strategy.md) and [narrative](../management/results.md). Also see [requirements gathering](./discovery.md).
+This document focusses on requirements for a single *unit* of work. This can be an initiative or a project. It follows a given [objective](../legacy/alignment-strategy.md) and [narrative](../management/results.md). Also see [requirements gathering](./discovery.md).
 
 [toc]
 

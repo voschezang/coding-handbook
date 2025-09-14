@@ -52,30 +52,30 @@ Systems
 <li><a href="subjects/identity.md">Identity</a></li>
 <li><a href="subjects/change.md">Behaviour</a></li>
 <li><a href="subjects/activity.md">Activity</a></li>
-<li><a href="labour/goals.md">Goals</a></li>
+<li><a href="alignment/goals.md">Goals</a></li>
 </ul>
 </details>
 <details>
 <summary>Practice: <b>Labour</b> (organization of work)</summary>
 <ul style="margin: 1em;">
-<li><a href="labour/labour-legacy.md">Labour</a></li>
+<li><a href="legacy/labour.md">Labour</a></li>
 <li><a href="labour/terminology.md">Terminology</a></li>
  <ul style="margin: 0;">
    <li><a href="labour/products-projects-initiatives.md">Products, projects, initiatives</a></li>
     <li><a href="labour/lifecycle.md">Product Lifecycle</a></li>
   </ul>
-<li><a href="labour/realization.md">Realization</a></li>
+<li><a href="legacy/realization.md">Realization</a></li>
 <ul style="margin: 0;">
  <li><a href="labour/discovery.md">Discovery</a></li>
   <ul style="margin: 0;">
-    <li><a href="labour/goals.md">Goals</a></li>
-    <li><a href="labour/planning.md">Planning</a></li>
+    <li><a href="alignment/goals.md">Goals</a></li>
+    <li><a href="legacy/planning.md">Planning</a></li>
     <li><a href="labour/bets.md">Bets</a></li>
   </ul>
  <li><a>Delivery</a></li>
   <ul style="margin: 0;">
     <li><a href="labour/increments.md">Increments</a></li>
-    <li><a href="labour/initiatives.md">Initiatives</a></li>
+    <li><a href="legacy/initiatives.md">Initiatives</a></li>
     <li><a href="labour/project-requirements.md">Project Requirements</a></li>
   </ul>
 </ul>
@@ -85,15 +85,15 @@ Systems
 <summary>Practice: <b>Management</b> of systems</summary>
 <ul style="margin: 1em;">
   <li><a href="alignment/alignment.md">Alignment</a></li>
-  <li><a href="labour/goals.md">Goals</a></li>
+  <li><a href="alignment/goals.md">Goals</a></li>
   <li><a href="management/management-principles.md">Principles</a></li>
 <ul style="margin: 0;">
   <li><a href="management/product-management.md">Product Management</a></li>
-  <li><a href="management/project-management.md">Project Management</a></li>
-  <li><a href="management/change-management.md">Change Management</a></li>
+  <li><a href="legacy/project-management.md">Project Management</a></li>
+  <li><a href="legacy/change-management.md">Change Management</a></li>
   <li><a href="management/risk-management.md">Risk Management</a></li>
 </ul>
-<li><a href="management/goal-templates.md">Goals setting</a></li>
+<li><a href="alignment/goal-templates.md">Goals setting</a></li>
 </ul>
 </details>
 
@@ -140,7 +140,7 @@ Social
 </ul>
 <li>Creating value</li>
 <ul style="margin: 0;">
-  <li><a href="labour/labour-legacy.md">Labour</a> (work and management of work).</li>
+  <li><a href="legacy/labour.md">Labour</a> (work and management of work).</li>
   <li><a href="systems/system.md">Organization</a> (identity)</li>
   <li><a href="systems/teams.md">Teams</a> (structure and effectiveness)</li>
 </ul>
@@ -171,10 +171,10 @@ Other
 From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-languages/programming-paradigms.md)
-- [Alignment](alignment/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](management/project-management.md)
+- [Alignment](alignment/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](legacy/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
-- [Alignment](alignment/alignment.md) > [Goals](labour/goals.md) > [Goal Templates](management/goal-templates.md) > [Strategy](management/alignment-strategy.md)
-- [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](management/project-management.md)
+- [Alignment](alignment/alignment.md) > [Goals](alignment/goals.md) > [Goal Templates](alignment/goal-templates.md) > [Strategy](legacy/alignment-strategy.md)
+- [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](legacy/project-management.md)
 
 Themes
 

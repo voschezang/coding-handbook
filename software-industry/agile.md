@@ -25,19 +25,15 @@ In practice, this requires:
 - Awareness of the value chain and the freedom to improve it.
 - Short feedback loops. E.g. continuous integration.
 
-
-
 |                       | Agile                   | Non-Agile                    |
 | --------------------- | ----------------------- | ---------------------------- |
 | **Focus**             | Value & user experience | Cost & profit                |
 | **Structure**         | Self-organizing teams   | Isolated teams (silos)       |
 | **User requirements** | To be discovered        | Fixed, determined in advance |
 
-
-
 ### Example
 
-Given an environment with complex problems and ambiguous, uncertain or unstable requirements, there are several approaches one can take: 
+Given an environment with complex problems and ambiguous, uncertain or unstable requirements, there are several approaches one can take:
 
 - Start with better planning. Documenting as much as you can.
 - Start building the most likely solution and commit to finishing it.
@@ -45,8 +41,6 @@ Given an environment with complex problems and ambiguous, uncertain or unstable 
 - Start with prototypes to validate assumptions (validated learning). Work iteratively towards more realistic designs.
 
 The last two are agile approaches.
-
-
 
 ### Benefits
 
@@ -58,8 +52,6 @@ Agile attempts to:
 - Deliver value sooner, which means that the revenue stream starts sooner.
 - Be resilient to uncertainty and risks through agility.
 
-
-
 *Why should developers care?*
 
 Agile is associated with:
@@ -68,15 +60,11 @@ Agile is associated with:
 - More agency and involvement in decision making.
 - Less meetings and deadlines
 
-
-
 ## Delivery
 
-See [delivery](../labour/realization.md).
+See [delivery](../legacy/realization.md).
 
 <img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
-
-
 
 ### Agile and Waterfall Projects
 
@@ -90,17 +78,10 @@ Watefall-type projects start with full requirements. Development and testing hap
 | **Testing**         | Eventually                | Continuously            |
 | **Worst case**      | Project fails             | Project is insufficient |
 
-
-
 This graph shows the granularity of increment verses the development stages. The steepness of the line is associated with risk apetite.
 
 ![project-increments-method](../img/project-increments-method.png)
 
-
-
 For software projects the increments follow a typical form.
 
-
-
 ![project-increments-iterations](../img/project-increments-iterations.png)
-

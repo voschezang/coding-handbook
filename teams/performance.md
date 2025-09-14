@@ -31,9 +31,9 @@ While it is useful to find metrics that correlate with succes, metrics are never
 
 > Deliver value ≠ solving problems
 
-Delivery is contingent on a good view of what would be valuable. Product delivery is preceded by product *discovery*. See [results](../labour/realization.md) and [goals](../subject/goal.md).
+Delivery is contingent on a good view of what would be valuable. Product delivery is preceded by product *discovery*. See [results](../legacy/realization.md) and [goals](../subject/goal.md).
 
-In general, a team aims to deliver *value* to stakeholders. The definition of value is context-dependent. There can be an emphasis on current or potential value. The latter consists of growth and unrelalized value. See [realization](../labour/realization.md).
+In general, a team aims to deliver *value* to stakeholders. The definition of value is context-dependent. There can be an emphasis on current or potential value. The latter consists of growth and unrelalized value. See [realization](../legacy/realization.md).
 
 <img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
 

@@ -1,6 +1,6 @@
 # Project Management
 
-This document is about refining and implementing an assignment. Such an assignment can be for example a project or user-story. See also [wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), [product-management](./product-management.md)  [management principles](./management-principles.md) and [requirements-engineering](../requirements-engineering.md).
+This document is about refining and implementing an assignment. Such an assignment can be for example a project or user-story. See also [wikipedia](https://en.wikipedia.org/wiki/Outline_of_project_management), [product-management](../management/product-management.md)  [management principles](../management/management-principles.md) and [requirements-engineering](../requirements-engineering.md).
 
 [toc]
 
@@ -13,8 +13,6 @@ The following types of work are involved. They may be done in sequence or parall
   - This may include resourcing.
 - **Review** of the implementation. This includes communication to stakeholders.
 
-
-
 ### Refinement
 
 Alignment with:
@@ -23,15 +21,11 @@ Alignment with:
 - [Customers](https://en.wikipedia.org/wiki/Customer). E.g. the ones that will recipient some service or product.
 - Employees and hires.
 
-
-
 **Typical risks**
 
 - It is likely that *your interpretation* of the initial requirements is imperfect.
 - There can be *ambiguity* - or even imperfection - in the initial requirements. It may be beneficial to analyze the problem in advance.
 - During the implementation of the project the context may *change* - which could require deviations for the planning. Hence there is some risk management involved.
-
-
 
 ### Delegation and Specialization
 
@@ -42,8 +36,6 @@ Traditional organiaitons consist of a management (planning) and worker (executio
 ![plan-to-exe](../img/plan-to-exe.png)
 
 An alternative to this a flat organization with autonomous teams. These may combine the planning and execution layers.
-
-
 
 ### Autonomy
 
@@ -56,8 +48,6 @@ In order to run a project, a certain level of autonomy is required. This is a ba
 | Accountability | Authority  |
 
 **Anti-pattern**: Learned helplessness
-
-
 
 ## Planning
 

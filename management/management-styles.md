@@ -1,6 +1,6 @@
 # Management Styles
 
-See also [gardening](../teams/gardening.md).
+See also [leadership](../alignment/leadership-styles.md) styles and [gardening](../teams/gardening.md).
 
 [toc]
 

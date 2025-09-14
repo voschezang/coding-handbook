@@ -8,17 +8,13 @@ Story mapping is a technique to discover what to do. It focusses on providing **
 
 Story mapping can be used in several phases of the product [lifecycle](lifecycle.md), and it applies to both discovery and delivery phases.
 
-
-
->  Shared documents ≠ shared understanding 
+> Shared documents ≠ shared understanding
 
 Purpose.
 
 1. Develop a shared understanding.
 2. Promote shared ownership. Make team members feel heard. Be inlusive.
 3. Create shared documents to remember the conversations.
-
-
 
 ### Workshop Template
 
@@ -41,11 +37,7 @@ A conversation about
  Any documents that brings everyone up to speed.
 ```
 
-
-
 ![path-to-goal](../img/path-to-goal.png)
-
-
 
 ### Method
 
@@ -58,20 +50,16 @@ Steps
   - The main story. The value chain from start to end.
   - (Missing) details. Intermediate steps.
 - Delivery strategies.
-  - A release strategy. Deliverables and [results](realization.md).
+  - A release strategy. Deliverables and [results](../legacy/realization.md).
   - A learning strategy. Beliefs and [bets](bets.md). E.g. prototypes.
   - A development strategy. The implementation. See [delivery](delivery.md).
 
-
-
 ## Session Formats
 
-Attitude: beginner's mind. 
+Attitude: beginner's mind.
 
-- Be eager to discover and learn. 
+- Be eager to discover and learn.
 - Be open minded, without a hidden agenda or pre-defined plan.
-
-
 
 ### Preparation / Context
 
@@ -83,11 +71,9 @@ Opportunity
 - Why do they want it?
 - Why are we building it? How does it help us?
 
-
-
 ### Discovery process
 
-1. Tell a story, from beginning to [end](realization.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
+1. Tell a story, from beginning to [end](../legacy/realization.md). Go wide, rather than deep. Meanwhile, write down *keywords*.
    1. Split up large chunks from small chunks. Focous on the large chunks.
 
 2. Define the context.
@@ -100,22 +86,16 @@ Opportunity
    *(or, I might)* want to see `...`."
 4. Reflect on this, and determine what increments you can build next.
 
-
-
 ### Delivery process
 
 - Discuss what is technically feasible to build.
 - Relate it to what would provide value, based on the original story.
-
-
 
 Slicing options
 
 - **Good** enough. Vital components
 - **Better**. What investments would make it even better?
 - **Best**. What would make it fabulous?
-
-
 
 ## Example Mapping
 
@@ -126,11 +106,7 @@ This is an example mapping of a webstore. There are a few layers.
    1. Bare minimum steps.
    2. Bonus steps. These can be valuable but are not vital.
 
-
-
 ![story-map](../img/story-map.png)
-
-
 
 ## Example Increments
 
@@ -142,9 +118,6 @@ Ideally this happens after the market fit is tested.
 
 ![story-map-releases](../img/story-map-releases.png)
 
-
-
 ## References
 
 - Patton. *User Story Mapping*
-

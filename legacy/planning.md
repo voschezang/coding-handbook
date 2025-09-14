@@ -1,6 +1,6 @@
 # Planning
 
-This document discusses methods for planning. It assumes a pre-defined given a set of goals and a [strategy](../management/alignment-strategy.md).
+This document discusses methods for planning. It assumes a pre-defined given a set of goals and a [strategy](./alignment-strategy.md).
 
 [toc]
 
@@ -17,7 +17,7 @@ A few common tools are:
 
 **Template**
 
-From [goals and strategy](../management/alignment-strategy.md).
+From [goals and strategy](./alignment-strategy.md).
 
 Alignment.
 

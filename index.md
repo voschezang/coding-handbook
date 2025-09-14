@@ -18,7 +18,7 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 [subjects/progression.md](subjects/progression.md)
 
-[labour/goals.md](labour/goals.md)
+[labour/goals.md](alignment/goals.md)
 
 ## Communication
 
@@ -40,9 +40,9 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 ## Goals
 
-[labour/goals.md](labour/goals.md)
+[labour/goals.md](alignment/goals.md)
 
-[management/goals-planning-strategy.md](management/alignment-strategy.md)
+[management/goals-planning-strategy.md](legacy/alignment-strategy.md)
 
 ## Function & Relations
 
@@ -128,7 +128,7 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 ## Result
 
-[labour/results.md](labour/realization.md)
+[labour/results.md](legacy/realization.md)
 
 ## Subject
 
@@ -140,7 +140,7 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 ## Value
 
-[labour/value.md](labour/value.md)
+[labour/value.md](legacy/value.md)
 
 [metaphysics/value.md](metaphysics/value.md)
 

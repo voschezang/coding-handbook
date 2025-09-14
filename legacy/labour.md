@@ -27,9 +27,9 @@ Labour may consist of:
 
 Labour revolves around production. From input to output. From an initiative to an outcome.
 
-1. [initiatives](initiatives.md)
-2. [increments](increments.md)
-3. [results](realization.md)
+1. [initiatives](./initiatives.md)
+2. [increments](../labour/increments.md)
+3. [results](./realization.md)
 
 <img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
 
@@ -62,7 +62,7 @@ A secondary set of goals is to do this *sooner, safer* and *happier*.
 
 ## Objectives and Initiatives
 
-See [goals](../management/alignment-strategy.md) and [initiatives](initiatives.md).
+See [goals](./alignment-strategy.md) and [initiatives](./initiatives.md).
 
 <img src="../img/objective-initiative.png" alt="objective-initiative" style="width:50%;" />
 

@@ -10,7 +10,7 @@ Practice
 Theory
 
 - [Teams](../teams/teams.md)
-- [Teams management](../management/team-management.md)
+- [Teams management](../teams/team-management.md)
 - [Accountability](../collaboration/accountability.md)
 - [Alignment](../alignment/alignment.md)
 - [Trust](../collaboration/trust.md)

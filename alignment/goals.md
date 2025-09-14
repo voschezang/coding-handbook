@@ -1,6 +1,6 @@
 # Goals
 
-See [labour](labour-legacy.md) and [behaviour]( ../behavioiur.md).
+See [labour](../legacy/labour.md) and [behaviour]( ../behavioiur.md).
 
 [toc]
 

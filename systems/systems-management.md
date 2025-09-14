@@ -1,6 +1,6 @@
 # Systems
 
-This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../management/alignment-strategy.md).
+This document presents a few models that can be used to understand and deconstruct complex problems in large organizations. See also [goals & strategy](../legacy/alignment-strategy.md).
 
 [toc]
 

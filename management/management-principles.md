@@ -1,6 +1,6 @@
 # Management Principles
 
-Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](./alignment-strategy.md) and [accountability](accountability.md).
+Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](../legacy/alignment-strategy.md) and [accountabilities](accountabilities.md).
 
 [toc]
 
@@ -22,7 +22,7 @@ The art of management is the intuition of what to focus on (and what to delegate
 
 This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
 
-See also [organization-structure](../systems/structure.md), [systems-management](../systems/systems-management.md) and [change-management](change-management.md).
+See also [organization-structure](../systems/structure.md), [systems-management](../systems/systems-management.md) and [change-management](../legacy/change-management.md).
 
 #### Feedback loop
 
@@ -227,7 +227,7 @@ Roles can be official and persistent, or informal and dynamic.
 
 **Persistence**
 
-One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](./alignment-strategy.md).
+One-pagers. One page is enough to introduce an idea but does forces the writer to be concise. In addition they are well-suited for collaboration. Although they are abstract, the corresponding idea should be measurable in order to be effective. See [planning](../legacy/alignment-strategy.md).
 
 **Team Performance**
 
@@ -313,7 +313,7 @@ Levels of assignments
 
 **Change Management**
 
-See [change management](change-management.md).
+See [change management](../legacy/change-management.md).
 
 **Organization Management**
 See [organization structure](../systems/structure.md).
