@@ -80,7 +80,7 @@ Trust is associated with pleasantness, recognition and familiarity. Distrust is 
 
 ## Pleasantness & Activation
 
-Two dimensions can be distinguished in feelings and moods: **pleasantness** (quality) and **activation** (energy).
+Two dimensions can be distinguished in feelings and moods: **pleasantness** (quality) and **activation** (energy). See also [Yerkes-Dodson](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law).
 
 
 

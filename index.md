@@ -74,10 +74,6 @@ Terms that relate to multiple documents or categories. See also [models](models.
 
 [intelligence/knowledge.md](intelligence/knowledge.md)
 
-## Labour
-
-[subjects/labour.md](subjects/labour.md)
-
 ## Management
 
 [management](management)
@@ -105,6 +101,8 @@ Terms that relate to multiple documents or categories. See also [models](models.
 [metaphysics/structures.md](metaphysics/structures.md)
 
 [collaboration/teams.md](collaboration/teams.md)
+
+[organized-labour](labour/organized-labour.md)
 
 ## Product
 

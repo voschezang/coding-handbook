@@ -149,7 +149,7 @@ Components in a system may differ from each other w.r.t. specific dimensions. E.
 
 Components of a typical retail value chain. Due to regulation, not all components can be outsourced.
 
-<img src="../img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="width:70%;" />
+<img src="../img/map-commoditization-visibility.png" alt="map-commoditization-visibility" style="max-height:18em;" />
 
 **Changing the Technology**
 
@@ -224,7 +224,7 @@ The variance can be described by the following relation.
 
 Using [Bienaymé's identity](https://en.wikipedia.org/wiki/Bienaym%C3%A9%27s_identity), a general relation can be derived. Let `C` be a set of independent random variables. Then,
 
-<img src="../img/system-variance.png" alt="system-variance" style="width:20em;" />
+<img src="../img/system-variance.png" alt="system-variance" style="max-height:3.5em;" />
 
 where equality holds if the covariances are zero.
 

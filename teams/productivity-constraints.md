@@ -8,11 +8,11 @@ This is a model for team productivity. It provides insight into dynamics such as
 
 Teams tend to evolve naturally through periods of instability and growth. Both productivity and value delivery fluctuate throughout these periods. A common approach is to balance the ratio between operations and strategic investment. However, a single ratio provides little control and predictive value. Our model offers a more refined view. It models the progression of productivity as an evolution through distinct challenges, and predicts shifts in priorities and productivity.
 
-<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:21em;" />
+<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle"/>
 
 The model is derived from the typical challenges faced by teams. Consider a fire brigade as analogy. Ordered by criticallity: recurring fires, traffic congestions, road detours, slack.
 
-|                | 🔥🚒 Fires                                         | 🚗🚗🚗 Congestions              | 🚧 Detours                          | 🧯 Slack                                          |
+|                | 🔥 Recurring incidents                            | 🚗 Congestion                 | 🚧 Detours                          | 🧯 Slack                                          |
 | -------------- | ------------------------------------------------ | ---------------------------- | ---------------------------------- | ------------------------------------------------ |
 | **Constraint** | Too much work, components breaking down          | Too much WIP                 | Too much tech. debt                | Outdated value proposition, lacking capabilities |
 | **Signals**    | Recurring incidents,skills gaps, growing backlog | Long queues, dependencies    | Complexity / clutter, workarounds. | Ambition / growing potential                     |
@@ -50,3 +50,32 @@ The instable phases result to a characteristic pattern, not unlike to boom and b
 <img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="height:12em;" />
 
 Another analogy is that of (simulated) [annealing](https://en.wikipedia.org/wiki/Simulated_annealing). This optimization technique alternates stabilization (exploitation) with diversification (exploration). Local optimization is alternated with diversification to improve the global state.
+
+
+
+## Release Frequency
+
+Organizations guide productivity by setting a release frequency. Fast releases allow more immediate reactions to competition. However, there are various considerations. Release frequency is direclty related to batch size and efficiency. 
+
+- Greater batch sizes can improve resource utilization, through economies of scale. Repetition allows for optimization.
+- Overproduction can be used as a buffer against supply chain disruptions.
+
+There are various downsides to larger batch sizes.
+
+- **Risky big-bang releases:** Large, all-at-once deployments are harder to test and even harder to redirect if things go wrong.
+- **Complex coordination:** Bundling many features together requires significantly more planning and cross-team alignment.
+- **Incident response:** Long release cycles make it difficult to react to incidents. Urgent patches must be shipped as [hotfixes](https://en.wikipedia.org/wiki/Hotfix), which increases both risk and rework.
+- **Incentive to delay:** Longer cycles encourage teams to postpone releases, waiting to include "just one more feature" rather than shipping now.
+
+Our model provides multiple lenses to view release frequency. The table below shows the effects of release frequencies on different constraints.
+
+<img src="../img/map-constraints-release-frequency.png" alt="map-constraints-release-frequency" style="max-height:25em;" />
+
+Notes
+
+- ⚠️ Immediate escalation immediately is a feature, rather than a problem. Proper change management and administration makes it easy to connect to the necessary teams and resolve the issue immediately.
+- 💣 Large releases are a kind of pressure cooker. Errors go unnoticed, until the release date. Then they show up everywhere all at once.
+- ⚙️ "BAU" means: manage projects and dependencies. This is *business as usual* in large software organizations that use large release cycles.
+- 📦 Continuous delivery involves *canary deployments*. Releasing changes gradually to user, in order to mitigate the impact of incidents.
+- 🧑‍🔬 Continuous discovery refers to the discovery of a product/market fit. Automated experiments allow algorithms to be optimized for specific customer segments.
+
