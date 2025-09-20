@@ -62,26 +62,9 @@ Agile is associated with:
 
 ## Delivery
 
-See [delivery](../legacy/realization.md).
+See [delivery](../legacy/realization.md) and [release frequency](../labour/release-frequency.md).
 
-<img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
+<img src="../img/production-outcome.png" alt="production-outcome" style="max-height:6em;" />
 
-### Agile and Waterfall Projects
+<img src="../img/project-increments-method.png" alt="project-increments-method" style="max-height:18em;" />
 
-Watefall-type projects start with full requirements. Development and testing happens afterwards, in sequence. Agile approaches start earlier with (functional) testing and then improve the design in increments.
-
-|                     | Waterfall                 | Agile                   |
-| ------------------- | ------------------------- | ----------------------- |
-| **Optimize for**    | Throughput (output)       | Market fit (outcome)    |
-| **Scope**           | Requirements drive design | Discovery drives design |
-| **Decision making** | Theoretical (top-down)    | Empirical               |
-| **Testing**         | Eventually                | Continuously            |
-| **Worst case**      | Project fails             | Project is insufficient |
-
-This graph shows the granularity of increment verses the development stages. The steepness of the line is associated with risk apetite.
-
-![project-increments-method](../img/project-increments-method.png)
-
-For software projects the increments follow a typical form.
-
-![project-increments-iterations](../img/project-increments-iterations.png)

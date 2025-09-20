@@ -16,7 +16,7 @@ There are various downsides to larger batch sizes.
 - **Incident response:** Long release cycles make it difficult to react to incidents. Urgent patches must be shipped as [hotfixes](https://en.wikipedia.org/wiki/Hotfix), which increases both risk and rework.
 - **Incentive to delay:** Longer cycles encourage teams to postpone releases, waiting to include "just one more feature" rather than shipping now.
 
-## Productivity Constraints
+## Production Constraints
 
 Teams evolve over time. The table below shows the result of operational disruptions and release frequency. See [productivity constraints](../teams/productivity-constraints.md). 
 
@@ -29,4 +29,24 @@ Notes
 - ⚙️ "BAU" means: manage projects and dependencies. This is *business as usual* in large software organizations that use large release cycles.
 - 📦 Continuous delivery involves *canary deployments*. Releasing changes gradually to user, in order to mitigate the impact of incidents.
 - 🧑‍🔬 Continuous discovery refers to the discovery of a product/market fit. Automated experiments allow algorithms to be optimized for specific customer segments.
+
+### Agile and Waterfall Projects
+
+Watefall-type projects start with full requirements. Development and testing happens afterwards, in sequence. Agile approaches start earlier. Initially with (functional) testing and later with incremental improvements.
+
+|                     | Waterfall                 | Agile                   |
+| ------------------- | ------------------------- | ----------------------- |
+| **Optimize for**    | Throughput (output)       | Market fit (outcome)    |
+| **Scope**           | Requirements drive design | Discovery drives design |
+| **Decision making** | Theoretical (top-down)    | Empirical               |
+| **Testing**         | Eventually                | Continuously            |
+| **Worst case**      | Project fails             | Project is insufficient |
+
+This graph shows the granularity of increment verses the development stages. The steepness of the line is associated with risk apetite.
+
+![project-increments-method](../img/project-increments-method.png)
+
+For software projects the increments follow a typical form.
+
+![project-increments-iterations](../img/project-increments-iterations.png)
 

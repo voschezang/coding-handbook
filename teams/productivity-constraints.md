@@ -2,21 +2,21 @@
 
 This is a model for team productivity. It provides insight into dynamics such as stabilization and innovation. See also team [productivity](team-productivity.md) and [success](success.md).
 
-<img src="../img/dragon-productivity-cycle-bg.jpg" alt="dragon-productivity-cycle-bg" style="height:8em;" />
+[<img src="../img/dragon-productivity-cycle-bg.jpg" alt="dragon-productivity-cycle-bg" style="height:8em;" />](retrospective-templates.md#Fiery%20Dragon)
 
 ## Introduction
 
 Teams tend to evolve naturally through periods of instability and growth. Both productivity and value delivery fluctuate throughout these periods. A common approach is to balance the ratio between operations and strategic investment. However, a single ratio provides little control and predictive value. Our model offers a more refined view. It models the progression of productivity as an evolution through distinct challenges, and predicts shifts in priorities and productivity.
 
-<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle"/>
+<img src="../img/team-productivity-lifecycle.png" alt="team-productivity-lifecycle" style="max-height:20em;" />
 
 The model is derived from the typical challenges faced by teams. Consider a fire brigade as analogy. Ordered by criticallity: recurring fires, traffic congestions, road detours, slack.
 
-|                | 🔥 Recurring incidents                            | 🚗 Congestion                 | 🚧 Detours                          | 🧯 Slack                                          |
-| -------------- | ------------------------------------------------ | ---------------------------- | ---------------------------------- | ------------------------------------------------ |
-| **Constraint** | Too much work, components breaking down          | Too much WIP                 | Too much tech. debt                | Outdated value proposition, lacking capabilities |
-| **Signals**    | Recurring incidents,skills gaps, growing backlog | Long queues, dependencies    | Complexity / clutter, workarounds. | Ambition / growing potential                     |
-| **Solution**   | Hire more or reduce scope                        | Focus, improve collaboration | Make time                          | Balance expectations                             |
+|                | 🔥 Recurring incidents                                        | 🚗🚗 Congestion                                                | 🚧 Detours                                                    | 🧯 Slack                                                  |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| **Constraint** | Incidents divert focus. Unplanned work. Failing components. Growing backlog. | Too much WIP: unfinished projects, lingering tasks. Overloaded systems. Long queues. | Technical debt. Time lost on upkeep and cleanup. Constant workarounds | Lack of demand for the current capacity. Obsolete plans. |
+| **Signals**    | Recurring incidents,skills gaps, growing backlog             | Long queues, dependencies                                    | Complexity / clutter, workarounds.                           | Ambition / growing potential                             |
+| **Solution**   | Hire more or reduce scope                                    | Focus, improve collaboration                                 | Make time                                                    | Balance expectations                                     |
 
 For each constraint, a team may focus on the following solution.
 
@@ -55,13 +55,4 @@ Another analogy is that of (simulated) [annealing](https://en.wikipedia.org/wiki
 
 Organizations guide productivity by setting a release frequency. Fast releases allow more immediate reactions to competition, at the cost of local performance. The table below shows the result of operational disruptions and release frequency. Read more [here](../labour/release-frequency.md).
 
-<img src="../img/map-constraints-release-frequency.png" alt="map-constraints-release-frequency" style="max-height:25em;" />
-
-Notes
-
-- ⚠️ Immediate escalation is a feature, rather than a problem. Proper change management and administration makes it easy to connect to the necessary teams and resolve the issue immediately.
-- 💣 Large releases are a kind of pressure cooker. Errors go unnoticed, until the release date. Then they show up everywhere all at once.
-- ⚙️ "BAU" means: manage projects and dependencies. This is *business as usual* in large software organizations that use large release cycles.
-- 📦 Continuous delivery involves *canary deployments*. Releasing changes gradually to user, in order to mitigate the impact of incidents.
-- 🧑‍🔬 Continuous discovery refers to the discovery of a product/market fit. Automated experiments allow algorithms to be optimized for specific customer segments.
-
+<img src="../img/map-constraints-release-frequency.png" alt="map-constraints-release-frequency" style="max-height:21em;" />

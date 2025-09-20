@@ -2,6 +2,8 @@
 
 Most of the concepts surrounding strategy emerge from collaboration and experience. For brevity, we focus on the artefacs of such work: vision and strategy documents. It excludes *adaption* them.
 
+- These ideas work for organizations with a *writing culture*. A focus on living documents over artifacts and sign-off forms.
+
 ## Overview
 
 Consider the following artifacts.
