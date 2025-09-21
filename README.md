@@ -23,10 +23,10 @@ Models
 <details>
 <summary>Practice: <b>Computer language</b> (encoding of models)</summary>
 <ul style="margin: 1em;">
-<li><a href="computer-languages/style-guide.md">Style Guide</a> - a prescriptive guide for programming (low level)</li>
-<li><a href="computer-languages/language-spec.md">Language Specification</a> - this can be implemented as a library or a new language.</li>
-<li><a href="computer-languages/programming-patterns-functional.md">Functional Programming Patterns</a></li>
-<li><a href="computer-languages/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
+<li><a href="domain-modelling/style-guide.md">Style Guide</a> - a prescriptive guide for programming (low level)</li>
+<li><a href="domain-modelling/language-spec.md">Language Specification</a> - this can be implemented as a library or a new language.</li>
+<li><a href="domain-modelling/programming-patterns-functional.md">Functional Programming Patterns</a></li>
+<li><a href="domain-modelling/programming-paradigms.md">Programming Paradigms</a> - a comparison of OOP and FP.</li>
 </ul>
 </details>
 
@@ -170,7 +170,7 @@ Other
 
 From abstract theory to application within a domain. For a full overview, see [this table](software-industry/software-domains-table.md).
 
-- [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](computer-languages/programming-paradigms.md)
+- [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](domain-modelling/programming-paradigms.md)
 - [Alignment](alignment/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](legacy/project-management.md)
 - [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
 - [Alignment](alignment/alignment.md) > [Goals](alignment/goals.md) > [Goal Templates](alignment/goal-templates.md) > [Strategy](legacy/alignment-strategy.md)

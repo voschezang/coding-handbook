@@ -1,6 +1,6 @@
 # Index
 
-Terms that relate to multiple documents or categories. See also [models](models.md) and [maps](index-maps.md).
+An index of this repository based on an almost flat hierarchy. Documents are grouped by theme. See also [models](models.md).
 
 [toc]
 
@@ -37,6 +37,22 @@ Terms that relate to multiple documents or categories. See also [models](models.
 [psychology/desires.md](psychology/desires.md)
 
 [psychology/mind-body.md](psychology/mind-body.md)
+
+## Documentation
+
+[alignment/vision-strategy](alignment/vision-strategy.md) (writing-culture)
+
+[collaboration/administration.md](collaboration/administration.md)
+
+[collaboration/documentation.md](collaboration/documentation.md)
+
+[documentation.md](documentation.md)
+
+## Emotions
+
+[collaboration/emotions.md](collaboration/emotions.md). Professional emotions.
+
+[psychology/emotions.md](psychology/emotions.md)
 
 ## Goals
 
@@ -135,6 +151,20 @@ Terms that relate to multiple documents or categories. See also [models](models.
 ## System
 
 [systems/systems.md](systems/systems.md)
+
+## Templates
+
+[alignment/goal-templates](alignment/goal-templates.md)
+
+[collaboration/interview-questions.md](collaboration/interview-questions.md)
+
+[communication/coaching-conversations.md](communication/coaching-conversations.md)
+
+[guides/](guides/)
+
+[intelligence/creativity-templates.md](intelligence/creativity-templates.md)
+
+[labour/planning-templates.md](labour/planning-templates.md) and [labour/story-mapping.md](labour/story-mapping.md)
 
 ## Value
 

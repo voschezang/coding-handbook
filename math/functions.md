@@ -1,5 +1,7 @@
 # Functions
 
+[wikipedia](https://en.wikipedia.org/wiki/Function_(mathematics))
+
 ## Properties
 
 ### Functions

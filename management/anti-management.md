@@ -45,8 +45,3 @@ And some negations.
 - Authority ≠ truth
 
 
-
-
-
-
-

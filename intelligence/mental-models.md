@@ -14,8 +14,6 @@ Rigidity. Worldviews.
 
 
 
-
-
 ## Building Models
 
 |                              | A Priori            | Evidence-based                                     |

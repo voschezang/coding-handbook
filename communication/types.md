@@ -1,4 +1,4 @@
-# Collaboration
+# Communication Types
 
 [toc]
 

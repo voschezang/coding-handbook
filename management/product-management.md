@@ -136,6 +136,20 @@ Philosophy
 - Analogies to fuel imagination.
 - Present features as solutions
 
+Marketing is a big plan to:
+- Advertising. Put up a poster / sign
+- Promotion. Big event to promote X
+- Publicity. Traction
+- Public relations. Impress officials
+- Sales. Show how product solves problems
+- Branding: people’s expectations of you (trust)
+
+Views
+- Everybody has this product, so it must be good.
+- Nobody has this product, so it must be good.
+
+People want either a bargain or a treat, but rarely something in between.
+
 **Market**
 
 > Good strategy means saying no.

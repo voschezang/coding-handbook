@@ -2,6 +2,20 @@
 
 [toc]
 
+## Contrasts
+
+Acceptance-control ([empowerment-power](../alignment/alignment.md), [surrendering-authority](../alignment/leadership-styles.md))
+
+<img src="img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:5em;" />
+
+Push-pull
+
+![communication-styles](img/communication-styles.png)
+
+
+
+
+
 ## Junctions
 
 <img src="img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:15em;" />   <img src="img/junction-goals-revenue.png" alt="junction-goals-revenue" style="height:15em;" />   <img src="img/junction-communication.png" alt="junction-communication" style="height:15em;" />
