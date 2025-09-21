@@ -18,8 +18,9 @@ An ordering of structures (aggregates) from microscopic to macroscopic scale. Ne
 4. Atoms. E.g. carbon, coper.
 5. Atomic structures. [Chemical bonds](https://en.wikipedia.org/wiki/Chemical_bond), [chemical compounds](https://en.wikipedia.org/wiki/Chemical_compound). E.g. molecules, ionic compounds.
 6. Solid [matter](https://en.wikipedia.org/wiki/State_of_matter), liquid, gas and plasma.
-7. Planets
-8. Solar systems
+7. Infrastructure.
+8. Planets
+9. Solar systems
 
 
 
@@ -36,13 +37,19 @@ Types of organisms
 3. Plants. Rhizomes.
 4. Animals. E.g. mammals, humans.
 
+Human activity and experience. 
+
+1. Human desires, emotions.
+2. Roles and jobs in the context of a person.
+
 
 
 **Social structures**
 
 1. [Symbiosis](https://en.wikipedia.org/wiki/Symbiosis). E.g. [pollination](https://en.wikipedia.org/wiki/Pollination).
-2. Families, [kin](https://en.wikipedia.org/wiki/Kinship).
-4. Businesses
+2. Families, [kin](https://en.wikipedia.org/wiki/Kinship), communities.
+3. Organizations, businesses, institutions.
+4. Industries, traditions. E.g. the field of marketing.
 5. Societies
 6. Cultures
 7. Nations
@@ -53,11 +60,10 @@ Types of organisms
 **Intellectual structures**
 
 1. [Conventions](https://en.wikipedia.org/wiki/Convention_(norm)). Embodied knowledge. E.g.
-    1. Sign language
+    1. Sign language, natural language
     2. Rituals
-    3. Natural language
-    4. Drawing
-    5. Writing
+    3. Drawing, writing
+    4. (Scientific) disciplines of knowledge, frameworks.
 2. [Symbolic](https://en.wikipedia.org/wiki/Symbol) structures. Maps. Models and conventions that can be mapped to reality. E.g. an [algebra](https://en.wikipedia.org/wiki/Algebra).
 3. [Memes](https://en.wikipedia.org/wiki/Meme).
 

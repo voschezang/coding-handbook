@@ -1,4 +1,4 @@
-# Structure
+# Dynamic & Static Structures
 
 [toc]
 
@@ -41,7 +41,7 @@ Two types of structure.
 
 ### Society
 
-|            | Dynamic Structure           | Static Structure                                             |
+|            | Dynamic Society             | Static Society                                               |
 | ---------- | --------------------------- | ------------------------------------------------------------ |
 | **Core**   | Inherent purpose            | External purpose                                             |
 | **Origin** | Evolved                     | Designed, planned                                            |

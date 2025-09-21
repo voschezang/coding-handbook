@@ -24,29 +24,7 @@ Examples of accountabilities for capability:
 - Working empirically. Transparency, reflection.
 - Effectiveness. Ensuring commitments, attention to results.
 
-## Value Chain
-
-> *Build the right thing.*
-
-Delivery of value is modelled by a **value chain**. The end-to-end process. Its aim is to balance the preferences of the organization and customers: *what* is produced.
-
-> Build it right.
-
-The value chain is centered around a **production chain**. This is an internal process that aims to optimize production quality and throughput: *how* it is produced.
-
-<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="width:45em" />
-
-## Environment
-
-Value creation is done in an environment. Everything within this environment enables value creation and delivery. The environment is also subject to influence from outside.
-
-<img src="../img/value-chain-environment.png" alt="value-chains-environment" style="width:40em;" />
-
-Activities that **enable** value creation and delivery
-
-- Manage people and resources
-- Remove impediments
-- Coach teams
+See also [value chains](value-chains.md).
 
 
 

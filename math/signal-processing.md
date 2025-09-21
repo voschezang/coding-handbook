@@ -1,6 +1,6 @@
 # Signal Processing
 
-See [waves](../save_fig('plot-wave-distorted')).
+See [waves](waves.md).
 
 [toc]
 

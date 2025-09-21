@@ -49,6 +49,7 @@ Structures consisting of multiple lifeforms. Structures that exist in physical f
     - [labour/products-projects-initiatives.md](labour/products-projects-initiatives.md)
     - [labour/project-requirements.md](labour/project-requirements.md)
     - [labour/lifecycle.md](labour/lifecycle.md)
+    - [labour/value-chains.md](labour/value-chains.md)
 
 ## Intellectual Structures
 

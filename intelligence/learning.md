@@ -11,8 +11,6 @@ There are two types of learning
 - Learning skills. Embodying knowledge. Appreciation and application.
 - Understanding. Obtaining knowledge. Theory.
 
-
-
 > Experiential learning does not require scientific experiments.
 
 Methods. There is a massive difference between living in a culture and studying a culture.
@@ -21,19 +19,11 @@ Methods. There is a massive difference between living in a culture and studying 
 
 - Academics learn through study and deconstruction. Bias for optics. *What does the result look like.*
 
-
-
 <img src="../img/learning-knowledge-capability.png" alt="learning-knowledge-capability" style="width:50%;" />
-
-
 
 Intellectual capability consits of intellect, emotional intelligence and organizational intelligence. Having great ideas is does not imply the ability to share them. Nor to convince people to appreicate them.
 
 <img src="../img/triangle-intellect-emotional-organizational.png" alt="triangle-intellect-emotional-organizational" style="width:60%;" />
-
-
-
-
 
 Learning is as much unlearning as it is learning.
 
@@ -41,32 +31,24 @@ Learning is as much unlearning as it is learning.
 - Subtract. Generalize.
 - Harmonize / synthesize. Use better (simpler) models.
 
-
-
 > You don’t learn bowling by studying guardrails.
 
 Skills are developed by incremental succes. E.g. repeatedly failing and getting up. A teacher should encourage students, rather than telling them what not to do.
-
-
 
 > Knowledge is both a vehicle and a cage.
 
 Knowledge is baggage. The more knowledge one has, the more difficult is to appreciate something that is not in line with that knowledge.
 
-
-
 Learning is facilitated by [models](modelling.md). Learning is the process of updating these models.
 
 - As humans, we use [mental models](mental-models.md) to make sense of the world. In practice, we create these ourselves.
-    - Communicating models is requires more than merely listing the components in a model.
-
-
+  - Communicating models is requires more than merely listing the components in a model.
 
 In intuitive learning, the environment is designed to facilitate learning. The learner encounters a wide range of aspects of a topic.
 
 For studying, specific topics are chosen deliberately.
 
-See [structure](../metaphysics/structure.md).
+See [structure](../metaphysics/dynamic-static-structure.md).
 
 |                 | Intuitive                          | Studying                           |
 | --------------- | ---------------------------------- | ---------------------------------- |
@@ -79,13 +61,9 @@ See [structure](../metaphysics/structure.md).
 
 Playing, acting, role playing are all forms of learning. They let you explore both alternate realities andt the extreme of the current reality.
 
-
-
 > In relationships we grow
 
 Learning from others...
-
-
 
 **Improvement effort**
 
@@ -100,8 +78,6 @@ Learning from others...
 | 2 year     | Follow a course                  |
 | 5 years    | Work in an organization (domain) |
 
- 
-
 ## Formal Learning
 
 [Learning cycles](https://en.wikipedia.org/wiki/Learning_cycle). See [Kolb](https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning).
@@ -112,8 +88,6 @@ Learning from others...
 | Reflection and introspection      | Analyze & process data   |
 | Abstraction and conceptualization | Define model             |
 | Hypothesis and experimentation    | Test boundaries of model |
-
-
 
 ### Learning Types
 
@@ -131,15 +105,11 @@ Experiments not require complex setups. Start simple and expand if necessary. A 
 
 This can be done in a formal way. See [scientific method](knowledge.md#Scientific%20Method).
 
-
-
 A few dimensions:
 
 - Top-down or bottom-up.
 - Invite or inflict change.
 - Revolutionary or evolutionary change.
-
-
 
 **Tension-release**
 
@@ -155,17 +125,13 @@ Two phases:
 - 🔭 Go wide. Discover ranges and possibilities.
 - 🔬 Go deep. Discover details. Define boundaries.
 
-
-
 **Change**
 
 Psychologically, change can be difficult for both individuals and groups. There are a few stages to go though - at the right pace.
 
 1. Awareness of the challenge or obstacle. Awareness of the difference between the current and desired states.
-2. Acceptance of the current state. Awknowledge its limitations, but also the realization that change is possible. 
+2. Acceptance of the current state. Awknowledge its limitations, but also the realization that change is possible.
 3. Agency. Decide on the right target state. Be able to move towards it.
-
-
 
 ## Organizational Learning
 
@@ -185,8 +151,6 @@ Local improvements and adaptation are a vital complement to top-down strategies.
 
 - This requires alignment on all levels. Hence higher management should share their vision and strategy within the organization.
 - Local improvements are usually easier than global ones.
-
-
 
 ## Practice (Context)
 
@@ -208,8 +172,6 @@ Other patterns
 - inspect-adapt-reflect
 - visualize-stabilize-optimize
 
-
-
 ## Learning Models
 
 **Consicous competence**
@@ -224,8 +186,6 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 - Unlearning: from 4. to 2.
 - Relearning: from 2. to 4.
 
-
-
 [Dreyfus](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) model combined with the [conscious competence](https://en.wikipedia.org/wiki/Four_stages_of_competence) model.
 
 | Novice                       | Advanced Beginner                                    | Competence                                  | Proficient                                | Expert                                    |
@@ -233,8 +193,6 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 | *Un*conscious *in*competence | Conscious *in*competence                             | Conscious competence                        | *Un*conscious competence                  | Transcended                               |
 | ...                          | Recollection: Situational instead of non-Situational | Recognition: Holistic instead of decomposed | Decision: Intuitive instead of analytical | Awareness: Absorbed instead of monitoring |
 | Needs rules                  | Tests rules                                          | Applies rules                               | Falls back on rules                       | Transcends rules                          |
-
-
 
 > follow rules - break rules - make rules
 
@@ -268,8 +226,6 @@ After this, one could go back and zoom in on specific behaviours that can be imp
 - Growth zone. Alive, anticipation, challenge, excitement.
 - Panic zone. Anxiety, stress, fear, tension.
 
-
-
 ## Asking Good Questions
 
 **Tools / Deconstruction**
@@ -290,13 +246,9 @@ Mirror questions
 
 - "What do you think/feel about it?"
 
-
-
 **In Coaching**
 
 - Oppurtunity > blame. What tools do you need to succeed? ~~Why did you fail?~~
-
-
 
 **In Teaching**
 
@@ -309,16 +261,12 @@ See [socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning).
 - Implications / consequences. *If X, then what about Y? What's the effect on Z?*
 - Reflect. *What makes this question important? Why is it useful?*
 
-
-
 **Mu**
 
 Mu is a rejection to a given binary question. It is defined as "not true and not false".
 
 - In science, *mu* answers suggest that there is more to the question. They form a basis to continue investigating.
 - Moreover, they suggest that the initial question / hypothesis is somehow lacking - that it originates from a limited perspective.
-
-
 
 ## References
 

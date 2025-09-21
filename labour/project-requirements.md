@@ -233,4 +233,4 @@ The [many roles](https://twitter.com/johncutlefish/status/1425849975108358147/ph
 
 - Units: scope all tasks down until they have a comparable, small and manageable size. Large tasks are a challenge.
 - Days per engineer: more specific than story-points but there is a risk of simplification (i.e. the comparison with an *average* engineer)
-- Symbols. E.g.  `🐅 🦒 🐘`.
+- # Symbols. E.g.  `🐅 🦒 🐘`.

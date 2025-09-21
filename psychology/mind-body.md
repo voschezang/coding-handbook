@@ -1,6 +1,6 @@
 # Mind and Body
 
-One of the most [controversial](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem) subjects is the relation between the mind and the human body. Both are studied in the academic fields psychology and biology. Consciousness itself is not yet understood by science.
+One of the most [controversial](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem) subjects is the relation between the mind and the human body. Both are studied in the academic fields psychology and biology. Consciousness itself is not yet understood by science. See also [materialism](../metaphysics/materialism.md).
 
 [toc]
 

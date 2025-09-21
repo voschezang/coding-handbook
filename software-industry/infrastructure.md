@@ -1,4 +1,6 @@
-# Infra
+# Infrastructure
+
+Infrastructure consists of hardware, software, systems and connections.
 
 
 
