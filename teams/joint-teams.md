@@ -32,6 +32,8 @@ Team dynamics ebb and flow.
 
 
 
+<img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="height:12em;" />
+
 **Team Growth**
 
 Styles
@@ -40,27 +42,3 @@ Styles
 - Analytical. New team members study theory. Then they observe from the background. When they find something significant, they jump in.
 
 
-
-## Persona's
-
-- Old guard. Been around for a while. Is already connected. Conservative.
-- New guard. Fresh eyes. Eager. Make new connections. Progressive. 
-- Senior team member. Interested in planning. Has learned from mistakes.
-- Junior team member. Interested in proving themselves. Still has to learn.
-
-
-
-Two extremes: [old/new guard](https://twitter.com/johncutlefish/status/1451240735127195650).
-
-| Old Guard                          | New Guard                               |
-| ---------------------------------- | --------------------------------------- |
-| Preserve influence                 | Expand influence                        |
-| Leverages informal networks        | Has still  to creates informal networks |
-|                                    |                                         |
-| Knows how to navigate the mess     | Sees a mess                             |
-| Too much auto-pilot                | Too much cognitive overload             |
-| Skeptical: "Yeah, but ..."         | Eager: "So what"                        |
-|                                    |                                         |
-| Seeking acknowledgement            | Seeking acceptance                      |
-| Oriented to long-term improvements | Oriented to short-term improvements     |
-| Has stuck despite challenges       | Recently left prior challenges          |

@@ -19,12 +19,12 @@ The world of physics. Matter and energy. E.g. atoms, molecules, natural forces.
 
 ## Biological Structures
 
-Subjectivity. Specific lifeforms and the dynamics between them. 
+Subjectivity. Specific lifeforms and the dynamics between them.
 
 - Communication
   - [psychology/emotions.md](psychology/emotions.md)
   - [collaboration/messaging.md](collaboration/messaging.md)
-  - [communication/communication.md](communication/communication.md)
+  - [communication/communication.md](communication/communication-overview.md)
   - [communication/context.md](communication/context.md)
   - [communication/conversations.md](communication/conversations.md)
   - [communication/influencing.md](communication/influencing.md)
@@ -55,22 +55,20 @@ Structures consisting of multiple lifeforms. Structures that exist in physical f
 
 Shared concepts and memories. Conventions, symbols and memes. Things that can be understood as theoretical blabber.
 
-
-
 ### Alignment & collaboration
 
 - Alignment
-  - [alignment/vision-strategy](alignment/vision-strategy.md) (writing-culture)
-  -  [alignment/accountability](alignment/accountability.md)
+  - [alignment/vision-strategy](alignment/vision-strategy-documents.md) (writing-culture)
+  - [alignment/accountability](alignment/accountability.md)
   - [alignment/goals](alignment/goals.md) and [alignment/goal-templates](alignment/goal-templates.md)
 - Communication / leadership / influence
   - [communication/proposals.md](communication/proposals.md)
   - [communication/principles.md](communication/principles.md)
-  - [communication/triangle.md](communication/triangle.md)
+  - [communication/triangle.md](communication/pyramid.md)
 
 - Professional / corporate world
   - [collaboration/emotions.md](collaboration/emotions.md). Professional emotions.
-  - [collaboration/hiring.md](collaboration/hiring.md)
+  - [hiring.md](legacy/hiring.md)
   - [collaboration/interview-questions.md](collaboration/interview-questions.md)
   - [collaborations/meetings.md](collaborations/meetings.md)
   - [labour/](labour/)
@@ -101,10 +99,6 @@ Shared concepts and memories. Conventions, symbols and memes. Things that can be
   - [domain-modelling/style-guide.md](domain-modelling/style-guide.md)
   - [programming-paradigms.md](domain-modelling/programming-paradigms.md), [patterns](domain-modelling/programming-patterns.md) and [functional patterns](domain-modelling/programming-patterns-functional.md)
 
-
-
-
-
 **Inorganic structures**
 
 1. Subatomic particles.
@@ -115,8 +109,6 @@ Shared concepts and memories. Conventions, symbols and memes. Things that can be
 6. Solid [matter](https://en.wikipedia.org/wiki/State_of_matter), liquid, gas and plasma.
 7. Planets
 8. Solar systems
-
-
 
 **Biological structures**
 
@@ -131,8 +123,6 @@ Types of organisms
 3. Plants. Rhizomes.
 4. Animals. E.g. mammals, humans.
 
-
-
 **Social structures**
 
 1. [Symbiosis](https://en.wikipedia.org/wiki/Symbiosis). E.g. [pollination](https://en.wikipedia.org/wiki/Pollination).
@@ -142,8 +132,6 @@ Types of organisms
 5. Cultures
 6. Nations
 7. Ecosystems
-
-
 
 **Intellectual structures**
 
@@ -155,8 +143,6 @@ Types of organisms
    5. Writing
 2. [Symbolic](https://en.wikipedia.org/wiki/Symbol) structures. Maps. Models and conventions that can be mapped to reality. E.g. an [algebra](https://en.wikipedia.org/wiki/Algebra).
 3. [Memes](https://en.wikipedia.org/wiki/Meme).
-
-
 
 **Eternal structures**
 

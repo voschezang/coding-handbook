@@ -12,11 +12,13 @@ Teams tend to evolve naturally through periods of instability and growth. Both p
 
 The model is derived from the typical challenges faced by teams. Consider a fire brigade as analogy. Ordered by criticallity: recurring fires, traffic congestions, road detours, slack.
 
-|                | 🔥 Recurring incidents                                        | 🚗🚗 Congestion                                                | 🚧 Detours                                                    | 🧯 Slack                                                  |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| **Constraint** | Incidents divert focus. Unplanned work. Failing components. Growing backlog. | Too much WIP: unfinished projects, lingering tasks. Overloaded systems. Long queues. | Technical debt. Time lost on upkeep and cleanup. Constant workarounds | Lack of demand for the current capacity. Obsolete plans. |
-| **Signals**    | Recurring incidents,skills gaps, growing backlog             | Long queues, dependencies                                    | Complexity / clutter, workarounds.                           | Ambition / growing potential                             |
-| **Solution**   | Hire more or reduce scope                                    | Focus, improve collaboration                                 | Make time                                                    | Balance expectations                                     |
+|                     | Firefighting                                                 | Flow                                                         | Gardening                                                    | Innovation                                               |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| **Traffic analogy** | 🔥 Recurring incidents                                        | 🚗🚗 Congestion                                                | 🚧 Detours                                                    | 🧯 Slack                                                  |
+| **Boat analogy**    | 🛟 Sinking                                                    | 🪣 Treading water                                             | 🛠️ Making repairs                                             | 🚢 Cruising                                               |
+| **Constraint**      | Incidents divert focus. Unplanned work. Failing components. Growing backlog. | Too much WIP: unfinished projects, lingering tasks. Overloaded systems. Long queues. | Technical debt. Time lost on upkeep and cleanup. Constant workarounds | Lack of demand for the current capacity. Obsolete plans. |
+| **Signals**         | Recurring incidents,skills gaps, growing backlog             | Long queues, dependencies                                    | Complexity / clutter, workarounds.                           | Ambition / growing potential                             |
+| **Solution**        | Hire more or reduce scope                                    | Focus, improve collaboration                                 | Make time                                                    | Balance expectations                                     |
 
 For each constraint, a team may focus on the following solution.
 

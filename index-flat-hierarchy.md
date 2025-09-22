@@ -40,7 +40,7 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 ## Documentation
 
-[alignment/vision-strategy](alignment/vision-strategy.md) (writing-culture)
+[alignment/vision-strategy](alignment/vision-strategy-documents.md) (writing-culture)
 
 [collaboration/administration.md](collaboration/administration.md)
 

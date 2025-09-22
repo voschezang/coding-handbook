@@ -232,7 +232,7 @@ Note that the last type is controversial. In the western scientific community, a
 
 **Coping styles**
 
-- Surrender
+- Give up. Give yourself over to the situation.
 - Avoid
 - Reverse. Re-interpret the situation as pleasant.
 

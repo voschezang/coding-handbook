@@ -49,21 +49,27 @@ Human activity and experience.
 1. [Symbiosis](https://en.wikipedia.org/wiki/Symbiosis). E.g. [pollination](https://en.wikipedia.org/wiki/Pollination).
 2. Families, [kin](https://en.wikipedia.org/wiki/Kinship), communities.
 3. Organizations, businesses, institutions.
-4. Industries, traditions. E.g. the field of marketing.
-5. Societies
-6. Cultures
-7. Nations
-8. Ecosystems
+4. Industries, craftsmanship. E.g. the field/profession of marketing.
+5. Conventions specific to an organization or culture.
+   1. Traditions, contracts related to organizations. E.g. bills.
+   2. Products, projects, jobs, practices.
+
+6. Societies
+7. Cultures
+8. Nations
+9. Ecosystems
 
 
 
 **Intellectual structures**
 
 1. [Conventions](https://en.wikipedia.org/wiki/Convention_(norm)). Embodied knowledge. E.g.
-    1. Sign language, natural language
-    2. Rituals
+    1. Sign language, natural language, algebra's.
+    2. Rituals?
     3. Drawing, writing
     4. (Scientific) disciplines of knowledge, frameworks.
+    5. The field of statistics, types of statistics (e.g. averages).
+    6. (The concept of) goals, purpose, alignment.
 2. [Symbolic](https://en.wikipedia.org/wiki/Symbol) structures. Maps. Models and conventions that can be mapped to reality. E.g. an [algebra](https://en.wikipedia.org/wiki/Algebra).
 3. [Memes](https://en.wikipedia.org/wiki/Meme).
 

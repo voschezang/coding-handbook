@@ -61,17 +61,13 @@ Guidance requires a different perspective than control. It's rooted in acceptanc
 
 <img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
 
-
-
-**Abstractions** decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md) and [vision and strategy](./vision-strategy.md).
+**Abstractions** decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md) and [vision and strategy](./vision-strategy-documents.md).
 
 - The world of **strategy** focusses on vision, alignment, and systems.
 
 - The world of **operations** focusses on quality & delivery.
 
 <img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
-
-
 
 ## Conflicts
 

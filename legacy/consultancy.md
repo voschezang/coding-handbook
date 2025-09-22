@@ -19,3 +19,14 @@ Consultancy involves storytelling, justification and expectation management. Ali
 
 <img src="../img/venn-feasible-viable-desirable.png" alt="venn-feasible-viable-desirable" style="width:30em;" />
 
+
+
+
+
+Consultancy domains
+
+- Strategy & business transformation. Promise to improve profitability at scale.
+- Entrepreneurship & innovation
+- Domain experts. E.g. on an AI product suite.
+- Legal consultants. Regulatory, Risk, Compliance, patents. Their scope will shift: many legal work is straightforward to automate.
+- Relationships & networking. “Diplomacy”?

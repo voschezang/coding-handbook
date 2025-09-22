@@ -57,9 +57,12 @@ The leader
 | **Risk**          | Aggressive, ruthless, cold       | Sub-assertive, soft                 |
 | **Communication** | Control, command, challenge.     | Encourage, incentivize, facilitate. |
 
+
+
 Surrendering
 
 - Surrendering is to accept the present. To staying with an experience, rather than controlling it.
+- In the spirit of the acronym RAIN: recognize, allow, investigate, nurture.
 
 Minimal inteference. See [gardening](../teams/gardening.md).
 

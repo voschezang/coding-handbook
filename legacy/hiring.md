@@ -1,8 +1,6 @@
 # Hiring
 
-Hiring people revolves around generalizing a couple of short interactions. See [performance](teams/individual-performance.md).
-
-
+Hiring people revolves around generalizing a couple of short interactions. See [performance](../collaboration/teams/individual-performance.md).
 
 **Key factors**
 
@@ -12,8 +10,6 @@ Hiring people revolves around generalizing a couple of short interactions. See [
 - Personality. How they behave in various environments. How they act under stress.
 
 Dutch: `kennis, kunde, ervaring, karakter`
-
-
 
 **Contextual factors**
 
