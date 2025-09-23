@@ -2,7 +2,7 @@
 
 Subjects or agents have desire. Their identity determines their dreams (inherent desire) and there intent (day-to-day desires). Together with expectations and habits this determines their behaviour.
 
-
+[toc]
 
 ## Multiplicity
 
@@ -17,7 +17,7 @@ A single model won't capture the complex landscape of desires of humans. Imagine
 Desire consists of two parts:
 
 - Δ Quality. Difference in the quality of your experience.
-- Satisfaction. Being satisfie. Positioning that has a high likelihood of satisfaction.
+- Satisfaction. Being satisfied. Positioning that has a high likelihood of satisfaction.
 
 Note that the expecation of improvement can be more pleasurable than obtaining the actual improvement.
 
@@ -80,3 +80,6 @@ Strategies to get attention:
 | ---------------------------------- | -------------------------------------------------------- | --------------------------- |
 | Impress others. Get power, status. | Connect to others. Develop inimate and stable relations. | Find the right environment. |
 
+### Intent
+
+...

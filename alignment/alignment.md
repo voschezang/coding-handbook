@@ -1,12 +1,12 @@
 # Alignment
 
-Also see [proposals](../collaboration/communication/proposals.md) and [documentation](../collaboration/documentation.md).
+This document covers alignment in the context of leadership and organizations. Also see [proposals](../collaboration/communication/proposals.md) and [documentation](../collaboration/documentation.md).
 
 [toc]
 
 ## Introduction
 
-Alignment is foremost a scaling problem. The more people are involved, the greater the collision of opinions and needs. Aligning colleagues involves balancing opinions, ego's and incentives. Alignment with external parties brings even more challenges. This document attempts to give insight into styles and tools to maintain alignment.
+Alignment is the sharing creation of [intent](intent.md), understanding and coordinated action. It is foremost a scaling problem. The more people are involved, the greater the collision of opinions and needs. Aligning colleagues involves balancing opinions, ego's and incentives. Alignment with external parties brings even more challenges. This document attempts to give insight into styles and tools to maintain alignment.
 
 Different tools can be used to privide *gentle* alignment for larger organizations.
 

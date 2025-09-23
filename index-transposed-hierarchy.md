@@ -74,7 +74,7 @@ Universals. Types.
   - [documentation.md](documentation.md)
   - [communication/principles.md](communication/principles.md) and [types](communication/types.md)
   - [communication/storytelling.md](communication/storytelling.md) - the art of storytelling
-  - [communication/pyramid.md](communication/pyramid.md) and [context.md](communication/context.md) and [styles](communication/styles.md)
+  - l[communication/pyramid.md](communication/pyramid.md) and [context.md](communication/context.md) and [styles](communication/styles.md)
   - [labour/increments.md](labour/increments.md)
   - [labour/story-mapping.md](labour/story-mapping.md)
   - [labour/terminology.md](labour/terminology.md)

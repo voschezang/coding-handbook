@@ -16,7 +16,7 @@ One can start an initiative to approach or reach goals.
 
 ## Function
 
-Goals are a tools that can be used in several ways. E.g. inspire groups or focus efforts.
+Goals are a tools that can be used in several ways. E.g. inspire groups or focus efforts. See [intent](intent.md).
 
 |      | Core                              | Performance            |
 | ---- | --------------------------------- | ---------------------- |
