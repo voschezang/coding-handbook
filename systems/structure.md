@@ -1,18 +1,8 @@
 # Organizational Structure
 
+See [product and functional teams](product-functional-teams.md).
+
 [toc]
-
-## Value Delivery
-
-A [value chain](https://en.wikipedia.org/wiki/Value_chain) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
-
-Ideally each component in this chain has a [clear interface](https://en.wikipedia.org/wiki/Interface_segregation_principle). See [systems-management](systems-management.md).
-
-These chains can intersect, based on the types of components in an organization. Ownership and responsibility of the whole value chain may be implicit. There can be independence of decision making and independence of releasing.
-
-<img src="../img/feature-functional-teams.png" alt="feature-functional-teams" style="width:80%;" />
-
-
 
 ## Tradeoff in Interaction
 

@@ -12,14 +12,14 @@ Changes in intent may follows three directions: continuation, deviation and reje
 
 > Anything beyond 60 days is directional
 
-Every intent assumes four dimensions: a result, form, time horizon and scale.
+Every intent assumes four dimensions: a result, form, time horizon and scale. Each dimension can be mixed. E.g. visions, strategies or sprint goals use different combinations.
 
-|                      | Close                        | Far                               |
-| -------------------- | ---------------------------- | --------------------------------- |
-| **Result**           | Effort / output (procedural) | Outcome (impact)                  |
-| **Form**             | 🎯 Concrete (tangible)        | 🧭 Abstract (motivational)         |
-| **Time horizon**     | ⏱️ Short term                 | 📅 Long term                       |
-| **Scale / leverage** | 🔬 Local improvements         | 🔭 Global improvements (worldwide) |
+| Dimension | Close (precise)              | Far (course)                      |
+| --- | :-- | --: |
+| **Target**  | ⚙️ Effort (procedural) | Outcome (impact) 📈               |
+| **Form**             | 🎯 Concrete (tangible)        | Abstract (motivational) 🧭      |
+| **Time horizon**     | ⏱️ Short term                 | Long term 📅                    |
+| **Scale / leverage** | 🔍 Local improvements       | Global effects (worldwide) 🌍 |
 
 ## Types of Intent
 

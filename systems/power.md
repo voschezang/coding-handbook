@@ -111,3 +111,20 @@ In democracies, parties may co-exist in a symbiotic-like state. One needs other.
 - Conservatives and progressives. Advocate for stability versus change.
 - Populists and bad conservatives. Populists presents themselves as saviours of the poor goverment policies (as underdog). The conservatives needs the thread of populists to justify their power.
 
+
+
+## Government
+
+Governments can be separated along the dimensions centralization and alignment. Centralization is "vertical" coupling an alignment is "horizontal" coupling. This approach produces four quadrants.
+
+<img src="../img/power-centralization-coupling-government.png" alt="power-centralization-couling-government" style="max-height:24em;" />
+
+|                       | Tight Coupling                                               | Loose Coupling                                               |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Centralized** Power | **Federation**. Independent kingdoms, connected by shared values, ideologies and institutions. | **Oligarchy**. A ruling elite, but with limited power.       |
+| **Distributed** Power | Totalitarian **bureaucracy**. Distributed power structures. Rules & regulation. Matrix structures. | **Autocracy**. Full centralized, top-down control. One leader, one state, one nation. Everything else bends. |
+
+In this model, a federation can be bureaucratic. A democracy lies between federation and oligarchy. The health of its institutions determind the balance.
+
+
+

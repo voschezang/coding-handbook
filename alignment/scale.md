@@ -1,10 +1,12 @@
-# Organization Scale
+# Alignment at Scale
 
-Scaling up an organization while maintaining centralized control is inherently difficult. Factors such as autonomy, alignment, control and efficiency may work against each other.
+Scaling up an organization while maintaining alignment is inherently difficult. Factors such as autonomy, control and efficiency may work against each other.
 
+[toc]
 
+## Overview
 
-Organizations may grow and adapt. There are a few phases that can be distinguished:
+Phases in organization growth.
 
 ![scale-up-out](../img/scale-up-out.png)
 
@@ -16,9 +18,9 @@ Each component has a *bounded context*. This is an internal, local model. These 
 
 
 
+<img src="../img/alignment-scaling.png" alt="alignment-scaling" style="height:21em;" />
 
-
-**Scaling Agile**
+### Scaling Agile
 
 > Agile transformations are done by removing obstacles, rather than by enforcing change.
 
@@ -29,8 +31,6 @@ Achieving high agility of small teams is much simpler that doing it for multiple
 - Scale in. Increase alignment without impeding autonomy. E.g. create a shared vision.
 
 
-
-**In IT organizations**
 
 At certain scales, the structure incentivizes **local** optimizations due to the inherent difficulty of making changes that affect other components.
 

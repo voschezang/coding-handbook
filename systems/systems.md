@@ -12,8 +12,6 @@ It consists of capability, production and a product. See [team performance](../c
 
 <img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="width:45em;" />
 
-
-
 The structure of organizations can be evolved or manufactured.
 
 |               | Organic Organizations       | Rigid Organizations |
@@ -32,20 +30,14 @@ The optimal structure of an organization is highly dependent on the domain and s
 
 See [structure](structure.md).
 
-
-
 An organization can be
 
 - A [system](../systems/system.md) that has a function. E.g. a machine that consumes resources and produces value.
 - A structure that presents information for a specific purpose.
 
-
-
 Construction is the process of forming a organized structure out of individual subjects.
 
 Deconstructuction is the opposite. Breaking down an organization into individual parts.
-
-
 
 ## Unified Perspective
 
@@ -59,8 +51,6 @@ An **object** can be understood as a **function** with respect to it's context. 
 
 This results in the following levels. Based on [domains](../reality/structures.md).
 
-
-
 Outside views
 
 1. **Functional** view. The external purpose of the object. The relation between its inputs and outputs.
@@ -71,8 +61,6 @@ Inside views
 1. **Social** view. The dynamcis of the internal internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
 2. **Component** view. The structure of the individual parts. Its materials.
 
-
-
 |                       | Lens     | Emphasis                             | Model          | Domain              |
 | --------------------- | -------- | ------------------------------------ | -------------- | ------------------- |
 | **Functional view**   | Context  | Why / Purpose                        | Value delivery | Intellectual domain |
@@ -80,11 +68,7 @@ Inside views
 | **Social view**       | Dynamics | How / Relations between components 🕸️ | System         | Social domain       |
 | **Component view**    | Material | What / Individual components         | Application    | Biological domain   |
 
-
-
 See [organizational desire](desire.md).
-
-
 
 #### Component view
 
@@ -92,8 +76,6 @@ Components can be treated a subjects or organized structures.
 
 - Subjects have two types of desires: satisfaction and improved quality. See [subjects/desire.md](subjects/desires.md).
 - Organizations have a function, lifecycle and exhibits internal dynamics.
-
-
 
 ### Alternative perspective
 
@@ -125,8 +107,6 @@ Example: load balancer
 - A load balancer is connected to real-world servers. It's expression is load balancing of traffic.
 
 <img src="../img/load-balancer-views.png" alt="load-balancer-views" style="width:80%;" />
-
-
 
 ### Functional view
 
@@ -168,8 +148,6 @@ All these factors should be consider in order to create a sustainable design.
 
 There exist natural forces that disrupt the proper functioning of an organization. The organization adapts itself to changing circumstances. Living and complex systems naturally evolve into disorganization. Active effort has to be put into a system to maintain homeostasis. This can have the form of rules, (updated) plans or a re-organization.
 
-
-
 #### Internal goals
 
 An organization may be optimized for a specific goal:
@@ -184,8 +162,6 @@ An organization may be optimized for a specific goal:
 - Stability
 - Sustainability, long-term
 
-
-
 ### Social view
 
 This view focusses on the interaction of the internal components.
@@ -193,7 +169,7 @@ This view focusses on the interaction of the internal components.
 A system can be understood in the following dimensions.
 
 - **Individuality**. The components can be a *mass* or a pack. The significance of the identity of the individual components.
-  - See [scale](scale.md).
+  - See [scale](../alignment/scale.md).
 
 - **Relations** between components. The autonomy of components. See [relations](relations.md).
   - Control. Behaviour can arise through [orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing)) or [choreography](https://en.wikipedia.org/wiki/Service_choreography).
@@ -201,11 +177,8 @@ A system can be understood in the following dimensions.
 
 The nature of the relations may give rise to emergent properties. E.g. fluid dynamics, swarm behaviour, flocking.
 
-
-
 ## Other
 
 **Ashby's Law**
 
 In order to manage a system effectively, a control system must have at least as much [variety](https://en.wikipedia.org/wiki/Variety_(cybernetics)) as the system that it manages.
-

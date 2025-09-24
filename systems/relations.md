@@ -1,6 +1,6 @@
 # Relations
 
-A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](scale.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md) and personal [relations](../psychology/relations.md).
+A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](../alignment/scale.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md) and personal [relations](../psychology/relations.md).
 
 [toc]
 
@@ -9,8 +9,6 @@ A system or organization can be understood as a [network](https://en.wikipedia.o
 In theory, information flows top-down and a bottom-up.
 
 <img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
-
-
 
 ## Autonomy and Control
 
@@ -28,36 +26,26 @@ The short-term behaviour of agents in a system determined by their *a priori* co
 
 Note that the social structure may change over time.
 
-
-
 **Celebrity status**
 
-Real organizations tend to mix these models. A specific form is that of 
+Real organizations tend to mix these models. A specific form is that of
 
 - A celebrity that attracts fans, without direct control.
 - A solar system with planets that orbit around a sun.
 
 From a networking point of view, the [degree distribution](https://en.wikipedia.org/wiki/Degree_distribution) of these networks is enormously skewed. The celebrity acts as a [hub](https://en.wikipedia.org/wiki/Hub_(network_science)).
 
-
-
 ![orchestration-choreography](../img/orchestration-choreography.png)
-
-
 
 **Alignment**
 
 The alignment of agents may change over time. Their behaviour can be flexible or consistent.
-
-
 
 ### Commands and Events
 
 Organizational structure can range from hierarchical to flat.
 
 ![orchestration-choreography-orgs](../img/orchestration-choreography-orgs.png)
-
-
 
 Hierarchies allow commands to be distributed efficiently.
 
@@ -71,8 +59,6 @@ As an example, consider the relations between an employer and thier employees.
 
 **Messages** can be send in any direction, even between employees. This includes proposals and opinions.
 
-
-
 |                 | Command      | Event          |
 | --------------- | ------------ | -------------- |
 | **Example**     | `doThis`     | `thisHappened` |
@@ -82,24 +68,16 @@ As an example, consider the relations between an employer and thier employees.
 
 Communication (commands) may happen *synchronously* - with blocking messages - or *asynchronously*.
 
-
-
 Event-based patterns
 
 - See: [publisher-subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) at the architecture level, [observer](https://en.wikipedia.org/wiki/Observer_pattern) at the application level.
 - See the [Saga](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga) pattern.
 
-
-
 ### Information Sharing
 
 Information can be send in the form of commands, events or requests. It can be send one-to-one or broadcasted. The information can be part of the core domain, it may support the core domain, or it can be generic.
 
-
-
 <img src="../img/relationship-types.png" alt="relationship-types" style="width:90%;" />
-
-
 
 ### Networks
 

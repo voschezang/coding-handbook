@@ -1,4 +1,4 @@
-# Gardening for Teams
+# 🪴 Gardening for Teams
 
 Managing teams has many similarities with managing a garden. In a garden, you plant seeds, rather than giving orders. Plants grow by themselves, if their environment can support it. Weeds (bad behaviour) are addressed periodically.
 

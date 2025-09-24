@@ -6,7 +6,7 @@ This document covers alignment in the context of leadership and organizations. A
 
 ## Introduction
 
-Alignment is the sharing creation of [intent](intent.md), understanding and coordinated action. It is foremost a scaling problem. The more people are involved, the greater the collision of opinions and needs. Aligning colleagues involves balancing opinions, ego's and incentives. Alignment with external parties brings even more challenges. This document attempts to give insight into styles and tools to maintain alignment.
+Alignment is the sharing creation of [intent](intent.md), understanding and coordinated action. It is foremost a scaling problem. The more people are involved, the greater the collision of opinions and needs. Aligning colleagues involves balancing opinions, ego's and incentives. Alignment with external parties brings even more challenges. This document attempts to give insight into styles and tools to maintain alignment. See also [scale](scale.md).
 
 Different tools can be used to privide *gentle* alignment for larger organizations.
 
@@ -27,26 +27,6 @@ Next to scale, alignment depends on the structure of the organization and its pa
 4. The bias for metrics is mitigated by celebrating certains **ideals**. The organization aligns to a single mission or north star.
 
 ![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
-
-## Control & Guidance
-
-There are two seemingly opposite philosophies to achieve alignment. See also systems [control](../systems/control.md) and [leadership styles](./leadership-styles.md).
-
-1. 🎛️ **Control**. A direct, brute-force approach that uses *power* to obtain control. It relies on rules and directives.
-2. 🧭 **Guidance**. A softer, indirect style that uses *empowerment*. It involves receptivity, facilitation and incentives.
-
-These approaches use a variety of tools. Organizations tend to mix tools from both styles in different situations.
-
-|                | Control (low autonomy) | Guidance (high autonomy)             |
-| -------------- | ---------------------- | ------------------------------------ |
-| **Small team** | 🗣️ Direct, command      | 👂 Conversations                      |
-| **Large team** | 👮‍♂️ Roles, rules        | 🚧 Guidelines, procedures, incentives |
-| **Few teams**  | 🪜 Hierarchy            | 📈Metrics                             |
-| **Many teams** | 🏛️ Institutions         | 📄 Abstraction. Vision & strategies.  |
-
-Guidance requires a different perspective than control. It's rooted in acceptance, rather than toleration.
-
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
 
 ## Tools
 

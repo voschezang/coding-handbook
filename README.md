@@ -39,7 +39,7 @@ Systems
 <ul style="margin: 0;">
   <li><a href="systems/structure.md">Structure</a> and topology</li>
   <li><a href="systems/relations.md">Relations</a></li>
-  <li><a href="systems/scale.md">Scale</a></li>
+  <li><a href="alignment/scale.md">Scale</a></li>
   <li><a href="systems/platform">Platforms</a></li>
 </ul>
 <li><a href="systems/systems-management.md">Systems</a> Management</li>

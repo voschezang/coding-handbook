@@ -36,7 +36,7 @@ These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wi
 
 Team productivity and lifecycle.
 
-<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:21em;" />
+<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:15em;" />
 
 Organizational evolution.
 
