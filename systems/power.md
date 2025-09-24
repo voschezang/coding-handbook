@@ -115,7 +115,7 @@ In democracies, parties may co-exist in a symbiotic-like state. One needs other.
 
 ## Government
 
-Governments can be separated along the dimensions centralization and alignment. Centralization is "vertical" coupling an alignment is "horizontal" coupling. This approach produces four quadrants.
+Governments can be separated along the dimensions centralization and alignment. Centralization is "vertical" coupling an alignment is "horizontal" coupling. This approach produces four quadrants. See [coupling](../alignment/coupling.md).
 
 <img src="../img/power-centralization-coupling-government.png" alt="power-centralization-couling-government" style="max-height:24em;" />
 
