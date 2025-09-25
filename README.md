@@ -150,7 +150,7 @@ Social
 Other
 
 - [Quotes](quotes.md) - to contemplate (high level).
-- [Behaviour](behaviour.md) - *generic* ideas, *specific* to human behaviour.
+- [Behaviour](legacy/behaviour.md) - *generic* ideas, *specific* to human behaviour.
 - [Documentation](documentation.md).
 
 ## Other

@@ -1,6 +1,6 @@
 # Management Patterns
 
-Find part 1 [here](./management/management-principles).
+Find part 1 [here](../management/management-principles).
 
 [toc]
 
@@ -95,7 +95,7 @@ Subjects
 
 **Project vs. Product management**
 
-See [product-management.md](./management/product-management.md)
+See [product-management.md](../management/product-management.md)
 
 **Decision-making**
 
@@ -131,7 +131,7 @@ Risks
 
 ### Risk Management
 
-This is a continuation of [risk management principles](management/principles.md#Risk%20Management).
+This is a continuation of [risk management principles](<../management/principles.md#Risk Management>).
 
 **Steps**
 
@@ -172,7 +172,7 @@ Prioritize the tasks. Then, be aggressive on high priority tasks, focussing on s
 
 ## Communication
 
-See [communication](./communication.md).
+See [communication](../communication.md).
 
 E.g. in case of uncertainty
 
@@ -283,7 +283,6 @@ A "fair" salary has the following preconditions (excluding benefits etc.). It sh
 - Other employees. E.g. knowledge, skill, experience, personality (e.g. resilience, integrity, temperament).
   - In Dutch: `kennis, kunde, ervaring, karakter`
 
-
 ## Motivation & Productivity
 
 > Busy? Is that caused by a lack of priorities, faulty expectations or grandiose desires?
@@ -309,7 +308,7 @@ Periodic goals (weekly, quarterly) are motivational tools. Use it when the intri
 
 Misbehaviour will never cease to exist, people will become better at hiding it.
 
-![plot-pressure-misbehaviour](./img/plot-pressure-misbehaviour.png)
+![plot-pressure-misbehaviour](../img/plot-pressure-misbehaviour.png)
 
 Behavior and ideology of higher management influences lower management and employees.
 
@@ -329,7 +328,7 @@ Adding more employees to a project won't indefinitely improve productivity and a
   - I.e. improving productivity or efficiency often results in new bottlenecks.
 - Overstaffing degrades design; it forces work to be split up [based](https://en.wikipedia.org/wiki/Conway%27s_law) on the number of teams rather than through a deliberate architectural decision.
 
-![plot-participants-value](./img/plot-participants-value.png)
+![plot-participants-value](../img/plot-participants-value.png)
 
 [Larger](https://en.wikipedia.org/wiki/Conway%27s_law) teams tend to produce larger and more complex software (and take [longer](https://en.wikipedia.org/wiki/Brooks%27s_law)).
 
@@ -386,7 +385,7 @@ Causes:
 
 Note that the following burn-down chart is "red", even though the work is finished perfectly on time.
 
-![plot-burndown](./img/plot-burndown.png)
+![plot-burndown](../img/plot-burndown.png)
 
 `Velocity = lead time per task x number of tasks`
 
@@ -396,7 +395,7 @@ A stochastic simulation of production stages over time. The average velocity per
 
 This simulation is fully random and assumes that capacity and velocity are equal. In reality the velocity depends on efficiency of the work and is influenced by the number of people working on a single task at the same time. This can in turn be influenced by setting a WIP limit per stage.
 
-![plot-cumulative-flow](./img/plot-cumulative-flow.png)
+![plot-cumulative-flow](../img/plot-cumulative-flow.png)
 
 ## Anti-patterns
 
@@ -440,4 +439,3 @@ This simulation is fully random and assumes that capacity and velocity are equal
 - Cost center optimization.
   - Optimize individual components (e.g. resources) based their cost.
   - Maximize resource utilization and efficiency everywhere (without considering the long-term impact).
-
