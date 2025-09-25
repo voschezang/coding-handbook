@@ -28,7 +28,7 @@ From an organizational view, a team touches various areas. See [product manageme
 
 ## Leadership
 
-See [leadership](../alignment/leadership-styles.md) and [alignment](../alignment/alignment.md).
+See [leadership](../alignment/authoritative-surrendered-leadership.md) and [alignment](../alignment/alignment.md).
 
 > Authority implies responsibility.
 
@@ -97,16 +97,12 @@ T7 Model of Team Effectiveness
   - Team leader fit
   - Team support from the organization
 
-
-
 ## Team Persona's
 
 - Old guard. Been around for a while. Is already connected. Conservative.
-- New guard. Fresh eyes. Eager. Make new connections. Progressive. 
+- New guard. Fresh eyes. Eager. Make new connections. Progressive.
 - Senior team member. Interested in planning. Has learned from mistakes.
 - Junior team member. Interested in proving themselves. Still has to learn.
-
-
 
 Two extremes: [old/new guard](https://twitter.com/johncutlefish/status/1451240735127195650).
 
@@ -122,4 +118,3 @@ Two extremes: [old/new guard](https://twitter.com/johncutlefish/status/145124073
 | Seeking acknowledgement            | Seeking acceptance                      |
 | Oriented to long-term improvements | Oriented to short-term improvements     |
 | Has stuck despite challenges       | Recently left prior challenges          |
-

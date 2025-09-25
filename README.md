@@ -172,7 +172,7 @@ From abstract theory to application within a domain. For a full overview, see [t
 
 - [Communication Patterns](systems/communication-patterns.md) > [Programming Patterns](domain-modelling/programming-patterns.md) > [Programming Paradigms](domain-modelling/programming-paradigms.md)
 - [Alignment](alignment/alignment.md)  > [Requirements Engineering](organization/requirements.md) > [Project Management](legacy/project-management.md)
-- [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](organization-architecture.md)
+- [Systems Management](systems/systems-management.md) > [Organization Structure](systems/structure.md) > [Organization Architecture](legacy/organization-architecture.md)
 - [Alignment](alignment/alignment.md) > [Goals](alignment/goals.md) > [Goal Templates](alignment/goal-templates.md) > [Strategy](legacy/alignment-strategy.md)
 - [Management Principles](management/management-principles.md) > (management of)  [Systems](systems/systems-management.md) > a [Product](management/product-management.md) > a [Platform](organization/platform) > a [Project](legacy/project-management.md)
 

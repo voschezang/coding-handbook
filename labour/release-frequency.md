@@ -18,7 +18,7 @@ There are various downsides to larger batch sizes.
 
 ## Production Constraints
 
-Teams evolve over time. The table below shows the result of operational disruptions and release frequency. See [productivity constraints](../teams/productivity-constraints.md). 
+Teams evolve over time. The table below shows the result of operational disruptions and release frequency. See [productivity constraints](../teams/productivity-constraints.md) and [optimizing processes](../guides/optimize-processes.md).
 
 <img src="../img/map-constraints-release-frequency.png" alt="map-constraints-release-frequency" style="max-height:25em;" />
 

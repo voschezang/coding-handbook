@@ -2,7 +2,7 @@
 
 Managing teams has many similarities with managing a garden. In a garden, you plant seeds, rather than giving orders. Plants grow by themselves, if their environment can support it. Weeds (bad behaviour) are addressed periodically.
 
-See also [leadership](../alignment/leadership-styles.md) and [management](../management-styles.md) styles.
+See also [leadership](../alignment/authoritative-surrendered-leadership.md) and [management](../management-styles.md) styles.
 
 [toc]
 
