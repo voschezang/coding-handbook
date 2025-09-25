@@ -171,8 +171,6 @@ Ad hoc guides. Historical guides that do not have to maintained.
 Archive. Deprecated pages.
 ```
 
-
-
 ### Systems
 
 To visualize systems, long-running processes, value chains and pipelines. See also [systems-management](systems/systems-management.md).

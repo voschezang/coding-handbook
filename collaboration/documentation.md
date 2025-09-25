@@ -15,7 +15,7 @@ Respect the audience.
 - Emphasize what works well. Be inspriational.
 - Mix text with sketches and models.
 
-## Template 1: One pager.
+## Template 1: One pager
 
 Present a single idea.
 
@@ -141,7 +141,7 @@ Anything else that's relevant. E.g.
 
 ## Template: Many-to-one
 
-- Style. Short bullet points - ordered by importance. Make it easy to understand. Reduce ambiguity and surprises. 
+- Style. Short bullet points - ordered by importance. Make it easy to understand. Reduce ambiguity and surprises.
 - The receiver might receive many messages. Faciliate their efficiency.
 - Give the receiver the opportunity to ask details about what's relevant *for them*. Give them the initiative.
 
@@ -153,4 +153,3 @@ Template
 - B did progress half as fast as expected.
 - C is released.
 ```
-
