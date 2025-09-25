@@ -50,3 +50,9 @@ The dimensions translate directly to government-type of organizations. See [powe
 In this model, a federation can be bureaucratic. A democracy lies between federation and oligarchy. The health of its institutions determind the balance.
 
 <img src="../img/power-centralization-coupling-government.png" alt="power-centralization-coupling-government" style="max-height:26em;" />
+
+### Networks
+
+Authoritative power structures tend to be hierarchical and top down. The other structures are more distributed.
+
+<img src="../img/network-structure.png" alt="network-structure" style="width:60%;" />

@@ -37,7 +37,7 @@ Named entities. Particulars.
 
 Universals. Types.
 
-- Types of objects
+- Types of objects (or physics)
   - [math/forces.md](math/forces.md)
   - [math/waves.md](math/waves.md)
   - [software-industry/networks.md](software-industry/networks.md)
@@ -57,8 +57,6 @@ Universals. Types.
   - [psychology/personality.md](psychology/personality.md)
   - [psychology/relations.md](psychology/relations.md)
 - Types of social structures
-  - Countries
-  - Nations
   - [systems/organization-types.md](systems/organization-types.md)
   - [teams/joint-teams.md](teams/joint-teams.md) - like families
   - [software-industry/infrastructure.md](software-industry/infrastructure.md)
@@ -71,7 +69,7 @@ Universals. Types.
     - [labour/value-chains.md](labour/value-chains.md)
     - [labour/lifecycle.md](labour/lifecycle.md)
 - Types of intellectual structures
-  - [documentation.md](documentation.md)
+  - [documentation.md](documentations.md)
   - [communication/principles.md](communication/principles.md) and [types](communication/types.md)
   - [communication/storytelling.md](communication/storytelling.md) - the art of storytelling
   - l[communication/pyramid.md](communication/pyramid.md) and [context.md](communication/context.md) and [styles](communication/styles.md)

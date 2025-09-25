@@ -12,6 +12,14 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [subjects/behaviour.md](subjects/change.md)
 
+## Coupling / Cohesion
+
+[alignment/coupling.md](alignment/coupling.md)
+
+[alignment/scale.md](alignment/scale.md)
+
+[systems/relations.md](systems/relations.md)
+
 ## Change
 
 [subjects/change.md](subjects/change.md)
