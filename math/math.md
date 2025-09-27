@@ -37,30 +37,20 @@ Many-worlds interpretation
 
 
 
-## Game Theory
+### Queueing Theory
 
-How to win games. See e.g. https://en.wikipedia.org/wiki/Prisoner%27s_dilemma
+**Terminology**
 
+Utilization is the relative amount of time that a resource is busy (i.e. not idle). Variability is the variance in service time of a specific component.
 
+**Theories**
 
-Types of games
+[Little's law](https://en.wikipedia.org/wiki/Little's_law) states that for a stationary system, the long-term average:
 
-- Winner's game. Play deliberately to score points.
+> Mean lead time =  number of items in the system / mean arrival rate (of items)
 
-- Loser's game. Avoid losing as a result of losing points.
-
-
-
-Types of strategies
-
-- Zero-sum game
-- Win-win outcome
+[Kingma's formula](https://en.wikipedia.org/wiki/Kingman's_formula) predicts that given certain constraints, full system utilization results in infinite lead time.
 
 
 
-A chess game.
-
-1. Opening game. Focus on essentials. Deploy pieces into the game. Explore areas with risk.
-2. Middlegame. Improve reliability, scalability, stability, usability.
-3. Endgame. Finishing touch. Improve efficiency, maintainability.
-
+## 

@@ -30,26 +30,30 @@ These dimensions roughly translate to centralization and autonomy, respectively.
   </tr>
 </tbody>
 </table>
-
 <img src="../img/power-coupling-organization-topology.png" alt="power-coupling-organization-topology" style="max-height:24em;" />
 
+Tight or loose coupled. E.g. by formulating requests based on input, output or outcomes. E.g.
+
+- *"Execute these steps."*
+- *"Solve this problem by building feature X"*
+- *"Find a way to ensure that a user can achieve Y"*
+- *"We would like to have Z"*
 
 
-## Governments
 
-The dimensions translate directly to government-type of organizations. See [power](../systems/power.md).
+### Autonomy
 
-- Vertical coupling: centralization of power.
-- Horizontal coupling: consistency of components. I.e. governments of regions, provinces, cities etc.
+In order to run a project, a certain level of autonomy is required. This is a balance of supply and demand.
 
-|                       | Loose Coupling: Autonomous                                   | Tight Coupling: Consistent                                   |
-| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Centralized** Power | **Federation**. Independent kingdoms, connected by shared values, ideologies and institutions. | **Oligarchy**. A ruling elite, but with limited power.       |
-| **Distributed** Power | Totalitarian **bureaucracy**. Distributed power structures. Rules & regulation. Matrix structures. | **Autocracy**. Full centralized, top-down control. One leader, one state, one nation. Everything else bends. |
+| Demand         | Supply     |
+| -------------- | ---------- |
+| Objective      | Capability |
+| Constraints    | Resources  |
+| Accountability | Authority  |
 
-In this model, a federation can be bureaucratic. A democracy lies between federation and oligarchy. The health of its institutions determind the balance.
+Anti-pattern: Learned helplessness
 
-<img src="../img/power-centralization-coupling-government.png" alt="power-centralization-coupling-government" style="max-height:26em;" />
+
 
 ### Networks
 

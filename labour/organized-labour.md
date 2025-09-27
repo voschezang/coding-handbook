@@ -33,7 +33,7 @@ Scaling alignment requires specialization. One part of the organization focusses
 ### Organization Structure
 
 - Organization types, scales
-- Information flow. [Power structures](../systems/power.md), [leadership styles](../allignment/leadership-styles.md).
+- Information flow. [Power structures](../systems/power-structures.md), [leadership styles](../allignment/leadership-styles.md).
 - [Lifecycle](systems/lifecycle.md)
 
 ## Projects
@@ -90,8 +90,6 @@ Common processes
 - Meeting agenda's.
 - Presentation outlines.
 
-
-
 A minimal production chain consists of the following steps.
 
 1. The production process.
@@ -99,8 +97,6 @@ A minimal production chain consists of the following steps.
 3. The value created by delivering the product to customers.
 
 <img src="../img/production-outcome.png" alt="production-outcome" style="max-height:6em;" />
-
-
 
 ## References
 

@@ -34,10 +34,11 @@ These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wi
 
 
 
+Organizational evolution.
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
+
 Team productivity and lifecycle.
 
 <img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:15em;" />
 
-Organizational evolution.
-
-![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)

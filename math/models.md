@@ -50,18 +50,7 @@ Tradeoffs of independent dimensions
 
 **Correlation**
 
-Values may span over multiple dimensions. Dimensions may be correlated or uncorrelated. E.g.
-
-- The *performance* of an algorithm may be correlated to *complexity*.
-- *Messiness* can be correlated to *creativeness*.
-
-
-
-A set of particles can be discretized over space, and transformed into a density function.
-
-<img src="../img/particles-discretize-density.png" alt="particles-discretize-density" style="width:40em;" />
-
-Alternatively, particles can be grouped into clusters.
+Objects can be grouped into clusters, which behave as objects. See [statistics](statistics.md).
 
 <img src="../img/particles-experssion-assemblage.png" alt="particles-experssion-assemblage" style="width:55em;" />
 
@@ -74,29 +63,6 @@ Options
 3. Do something radically different
 
 <img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="max-height:250px;" />
-
-## Distributions (Statistics)
-
-**Statistics**
-
-Three fundamental probability distributions.
-
-1. Uniform. E.g. the result of flipping a fair coin or a roll of a fair dice.
-2. A bell curve. The average of averages [follows](https://en.wikipedia.org/wiki/Central_limit_theorem) a normal distribution.
-3. A [power law](https://en.wikipedia.org/wiki/Pareto_distribution), where 80% of the results are caused by 20% of the participants.
-    - Or, 10% of the results [outweigh](https://en.wikipedia.org/wiki/Sturgeon's_law) the other 90%.
-
-Many probabilistic processes are [ergodic](https://en.wikipedia.org/wiki/Ergodicity); i.e. *time* average = *ensemble* average. Equality may not hold for higher-order moments.
-
-- In such processes, anything that can happen [will happen](https://en.wikipedia.org/wiki/Murphy's_law) (eventually).
-
-**Equilibria**
-
-Long-term stable distributions (but not necessarily without tension).
-
-- Uniform, 50-50. Equally sized components. Typically self-organizing, but up to a certain boundary. A large deviation may disrupt the balance.
-- Skewed: majority-minority. E.g. Microsoft and Apple market shares.
-  - Size-effects make it difficult for the majority party to conquer the whole.
 
 ## Growth
 
@@ -116,50 +82,6 @@ Exponential growth can result in strong compounding.
 - This shows how powerful continuous improvement can be.
 
 ![plot-compounding](../img/plot-compounding.png)
-
-### Queueing Theory
-
-**Terminology**
-
-Utilization is the relative amount of time that a resource is busy (i.e. not idle). Variability is the variance in service time of a specific component.
-
-**Theories**
-
-[Little's law](https://en.wikipedia.org/wiki/Little's_law) states that for a stationary system, the long-term average:
-
-> Mean lead time =  number of items in the system / mean arrival rate (of items)
-
-[Kingma's formula](https://en.wikipedia.org/wiki/Kingman's_formula) predicts that given certain constraints, full system utilization results in infinite lead time.
-
-## Game Theory
-
-Interaction of rational agents.
-
-In the real world, agents are always constrained.
-
-- Bounded rationality: asymmetric information causes agents to act sub-optimally.
-- Limited influence over environment.
-
-
-
-### Karma
-
-> What you do comes back.
-
-The following derivation explains effects of karma in certain environments.
-
-1. Propositions.
-   1. Actions have consequences
-   2. People repeat what they observe
-2. Together, these result in an accumulations of consequences.
-3. Consequences range from good to bad. Some are *universally* good (beneficial), some are universally bad (malicious).
-4. Actions with such consequences make the same consequences more likely.
-
-
-
-Sidenote: the existence of universal good is controversial.
-
-
 
 ## Entropy
 
