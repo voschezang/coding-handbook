@@ -12,7 +12,7 @@ This model consists of three layers.
 2. Team dynamics. Participation of team members, their collaboration and (open) communication.
 3. Care for the team vision. Engagement and shared interests.
 
-<img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="height:12em;" />
+<img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="max-height:12em;" />
 
 ### Visibility
 
@@ -91,4 +91,4 @@ Other factors
 
 Team success can be understood through different lenses. Also see [team performance](../team-performance.md).
 
-<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:16em;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="max-height:16em;" />

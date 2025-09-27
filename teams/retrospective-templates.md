@@ -124,7 +124,7 @@ Verify
 
 ### Value Proposition
 
-<img src="../img/service-provider-consumer.png" alt="service-provider-consumer" style="height:6em;" />
+<img src="../img/service-provider-consumer.png" alt="service-provider-consumer" style="max-height:6em;" />
 
 <img src="../img/gains-pains.png" alt="gains-pains" style="width:60%;" />
 
@@ -200,7 +200,7 @@ Ask the team:
 - How did the team react? What was the result?
 - Where are we heading now?
 
-<img src="../img/dragon-productivity-cycle.jpg" alt="dragon-productivity-cycle" style="height:18em;" />
+<img src="../img/dragon-productivity-cycle.jpg" alt="dragon-productivity-cycle" style="max-height:18em;" />
 
 ### Fire Brigade
 

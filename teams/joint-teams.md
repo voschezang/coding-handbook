@@ -32,7 +32,7 @@ Team dynamics ebb and flow.
 
 
 
-<img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="height:12em;" />
+<img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="max-height:12em;" />
 
 **Team Growth**
 

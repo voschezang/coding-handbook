@@ -59,7 +59,7 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 | **Uncertainty** | Low      | Low to high     | High      | High                 |
 | **Results**     | Fast     | Fast            | Delayed   | Indirect             |
 
-<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="height:16em;" />
+<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="max-height:16em;" />
 
 **Functional and non-functional requirements (NFR)**
 

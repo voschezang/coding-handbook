@@ -98,7 +98,7 @@ A minimal production chain consists of the following steps.
 2. The product of the production process.
 3. The value created by delivering the product to customers.
 
-<img src="../img/production-outcome.png" alt="production-outcome" style="height:6em;" />
+<img src="../img/production-outcome.png" alt="production-outcome" style="max-height:6em;" />
 
 
 

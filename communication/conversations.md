@@ -44,7 +44,7 @@ Continue: dive in
 
 Pivot away: shift topic
 
-<img src="../img/junction-communication.png" alt="junction-communication" style="height:15em;" />
+<img src="../img/junction-communication.png" alt="junction-communication" style="max-height:15em;" />
 
 Sections
 
@@ -155,7 +155,7 @@ Listening and empathy.
 
 Agreeing and disagreeing. With details or intent. Note: all of these can be communicated without words.
 
-<img src="../img/quadrant-disagree-relation-content.png" alt="quadrant-disagree-relation-content" style="height:24em;" />
+<img src="../img/quadrant-disagree-relation-content.png" alt="quadrant-disagree-relation-content" style="max-height:24em;" />
 
 ### Professional conversations
 

@@ -89,19 +89,19 @@ Layers
 
 
 
-<img src="../img/attraction-attitude-attention.png" alt="attraction-attitude-attention" style="height:24em;" />
+<img src="../img/attraction-attitude-attention.png" alt="attraction-attitude-attention" style="max-height:24em;" />
 
 
 
 
 
-<img src="../img/experience-desire-activity.png" alt="experience-desire-activity" style="height:24em;" />
+<img src="../img/experience-desire-activity.png" alt="experience-desire-activity" style="max-height:24em;" />
 
 
 
 
 
-<img src="../img/activity-attention-attraction.png" alt="activity-attention-attraction" style="height:24em;" />
+<img src="../img/activity-attention-attraction.png" alt="activity-attention-attraction" style="max-height:24em;" />
 
 
 

@@ -13,7 +13,7 @@ A personality is the collection of behavioural, cognitive and emotional patterns
 - Patterns can be useful in a specific context and adverse in another.
 - Suppressing (old) patterns costs energy.
 
-<img src="../img/self-other-roles.png" style="height:18em;" />
+<img src="../img/self-other-roles.png" style="max-height:18em;" />
 
 ### Extremes
 
@@ -177,7 +177,7 @@ Expression of personality in an environment.
 
 
 
-<img src="../img/personality-blue-red-yellow-green.png" alt="personality-blue-red-yellow-green" style="height:24em;" />
+<img src="../img/personality-blue-red-yellow-green.png" alt="personality-blue-red-yellow-green" style="max-height:24em;" />
 
 
 
@@ -204,11 +204,11 @@ The four colors map to roles within an organization.
 
 An examiner wants to get it right. A charmer wants to get along. They may make compliments and tell jokes.
 
-<img src="../img/quadrant-personality-examiner-charmer.png" alt="quadrant-personality-examiner-charmer" style="height:24em;" />
+<img src="../img/quadrant-personality-examiner-charmer.png" alt="quadrant-personality-examiner-charmer" style="max-height:24em;" />
 
 
 
-<img src="../img/quadrant-examiner-challenger-charmer-harmonizer.png" alt="quadrant-examiner-challenger-charmer-harmonizer" style="height:24em;" />
+<img src="../img/quadrant-examiner-challenger-charmer-harmonizer.png" alt="quadrant-examiner-challenger-charmer-harmonizer" style="max-height:24em;" />
 
 
 
@@ -224,7 +224,7 @@ Values and purpose. See [Keirsey temperament sorter](https://en.wikipedia.org/wi
 
 
 
-<img src="../img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="height:26em;" />
+<img src="../img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="max-height:26em;" />
 
 
 
@@ -238,7 +238,7 @@ For each *quality* or trait, there is an extreme which usually has adverse effec
 
 The extreme side of the challenge may conflict with the initial quality. This is the *allergy*.
 
-<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="height:14em;" />
+<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="max-height:14em;" />
 
 
 

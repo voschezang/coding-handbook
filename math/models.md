@@ -73,7 +73,7 @@ Options
 2. Deviate or expand. Diversify.
 3. Do something radically different
 
-<img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:250px;" />
+<img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="max-height:250px;" />
 
 ## Distributions (Statistics)
 

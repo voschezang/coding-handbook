@@ -15,7 +15,7 @@ Different tools can be used to privide *gentle* alignment for larger organizatio
 - Metrics allow many teams to follow specific directions.
 - Vision and strategies inform leaders to set out their individual direction.
 
-<img src="../img/alignment-scaling.png" alt="alignment-scaling" style="height:21em;" />
+<img src="../img/alignment-scaling.png" alt="alignment-scaling" style="max-height:21em;" />
 
 ## Organizational Structure
 
@@ -37,9 +37,11 @@ Next to scale, alignment depends on the structure of the organization and its pa
 - Structure & expectations. Compensate restriction with freedom in other areas.
 - Self-sustaining systems that protect the status quo.
 
+See [orchestration and choreography](../alignment/orchestration-choreography.md).
+
 **Responsibilities** are often formalized. Typical responsibilities are products (projects), people (resources) and capabilities (technology). At greater scales, roles transform to functional teams and to departments (centers of expertice). See [product](../management/product-management.md) and [team](../teams/team-management.md) management.
 
-<img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
+<img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="max-height:18em;" />
 
 **Abstractions** decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md) and [vision and strategy](./vision-strategy-documents.md).
 

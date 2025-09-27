@@ -6,7 +6,7 @@
 
 Structure can be persistent or changing. Change may repeat itself or dissolve into uniformity.
 
-<img src="../img/continuity-creation-destruction.png" alt="continuity-creation-destruction" style="width:35em;" />
+<img src="../img/continuity-creation-destruction.png" alt="continuity-creation-destruction" style="max-height :9em;" />
 
 
 

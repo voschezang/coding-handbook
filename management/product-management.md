@@ -20,7 +20,7 @@ This document explores the management of [products and projects](../labour/produ
 
 Two perspectives are a contextual view and an internal view. These map to the value and production chains.
 
-<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="height:15em;" />
+<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="max-height:15em;" />
 
 The value chain exists within an environment and a context. The scope of product manager stops at this boundary. The value chain is contingent upon organizational (and technical) capabilities. See [accountability](../collaboration/accountability.md).
 
@@ -36,13 +36,13 @@ Running a business involves collaboration and [management](https://en.wikipedia.
 - **Activity**. Coordinating partners and resources in order to realize the proposition.
 - **Channels**. Delivering to customers. Developing relationships with customers.
 
-<img src="../img/grid-business-partners-customers-value.png" alt="grid-business-partners-customers-value" style="height:12em;" />
+<img src="../img/grid-business-partners-customers-value.png" alt="grid-business-partners-customers-value" style="max-height:12em;" />
 
 ### Internal View
 
 Value delivery is the result of realization of a vision. See [performance](../collaboration/team-performance.md).
 
-<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="height:12em;" />
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="max-height:12em;" />
 
 Value delivery is contingent upon production and capability.
 
@@ -52,7 +52,7 @@ Value delivery is contingent upon production and capability.
 
 Value is a mix of direct value and growth.
 
-<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
+<img src="../img/growth-and-value.png" alt="growth-and-value" style="max-height:16em;" />
 
 ### What
 
@@ -76,7 +76,7 @@ Three innovation horizons. From exploitation to exploration. *Do you want it che
 2. High-growth businesses: will become cash-flow.
 3. Growth options: will potentially become growth.
 
-<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="height:16em;" />
+<img src="../img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="max-height:16em;" />
 
 ## Background
 

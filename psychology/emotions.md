@@ -181,13 +181,11 @@ These signal an imbalance.
 
 ## Coping
 
-**Tools (by acronyms)**
-
-These are considered healthy.
+These approaches are considered healthy ways to cope with intensity.
 
 
 
-AAA
+**AAA**
 
 1. Awareness. By paying attention.
 2. Acceptance of the new reality.
@@ -195,7 +193,7 @@ AAA
 
 
 
-RAIN
+**RAIN**
 
 1. Recognize
 2. Allow

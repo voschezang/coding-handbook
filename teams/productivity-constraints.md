@@ -2,7 +2,7 @@
 
 This is a model for team productivity. It provides insight into dynamics such as stabilization and innovation. See also team [productivity](team-productivity.md) and [success](success.md).
 
-[<img src="../img/dragon-productivity-cycle-bg.jpg" alt="dragon-productivity-cycle-bg" style="height:8em;" />](retrospective-templates.md#Fiery%20Dragon)
+[<img src="../img/dragon-productivity-cycle-bg.jpg" alt="dragon-productivity-cycle-bg" style="max-height:8em;" />](retrospective-templates.md#Fiery%20Dragon)
 
 ## Introduction
 
@@ -49,7 +49,7 @@ This provides two paths forward.
 
 The instable phases result to a characteristic pattern, not unlike to boom and bust cycles in economics. Over-optimizing for growth and innovation will fail eventually, and result in a period of underperformance.
 
-<img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="height:12em;" />
+<img src="../img/productivity-cyclical-evolution.png" alt="productivity-cyclical-evolution" style="max-height:12em;" />
 
 Another analogy is that of (simulated) [annealing](https://en.wikipedia.org/wiki/Simulated_annealing). This optimization technique alternates stabilization (exploitation) with diversification (exploration). Local optimization is alternated with diversification to improve the global state.
 

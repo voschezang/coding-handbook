@@ -190,7 +190,7 @@ The experience of a person in the present moment.
 
 All of these have negations. *What is absent? What do you not see?*
 
-<img src="../img/activity-attention-attraction.png" alt="activity-attention-attraction" style="height:24em;" />
+<img src="../img/activity-attention-attraction.png" alt="activity-attention-attraction" style="max-height:24em;" />
 
 
 
@@ -198,7 +198,7 @@ All of these have negations. *What is absent? What do you not see?*
 
 Move from surface level observations to disclosing deeper personal information.
 
-<img src="../img/attraction-attitude-attention.png" alt="attraction-attitude-attention" style="height:24em;" />
+<img src="../img/attraction-attitude-attention.png" alt="attraction-attitude-attention" style="max-height:24em;" />
 
 
 

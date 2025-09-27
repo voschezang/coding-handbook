@@ -17,11 +17,11 @@ This requires:
 
 It aims to do so reliably and predictably.
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
 
 Engineering is surrounded by product management. It's boundaries are busines administration, sales, etc.
 
-<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="height:14em;" />
+<img src="../img/value-chain-production-chain.png" alt="value-chain-production-chain" style="max-height:14em;" />
 
 ## Collaboration
 
@@ -45,4 +45,4 @@ It involves
 | **Social view**     | Team dynamics                | Production     |
 | **Biological view** | Trust (appreciation, safety) | Team health    |
 
- <img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:8em;" /> <img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="height:8em;" />
+ <img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="max-height:8em;" /> <img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="height:8em;" />

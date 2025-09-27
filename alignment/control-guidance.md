@@ -22,7 +22,7 @@ These approaches use a variety of tools. Organizations tend to mix tools from bo
 
 Guidance requires a different perspective than control. It's rooted in acceptance, rather than toleration.
 
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="max-height:6em;" />
 
 ## Practice
 
@@ -39,7 +39,7 @@ Incentives rely on attitude (intent). *Make it easy to do X.*
 
 Policies are enforced. *Make it mandatory to do X.*
 
-<img src="../img/rules-incentives-results.png" alt="rules-incentives-results" style="height:24em;" />
+<img src="../img/rules-incentives-results.png" alt="rules-incentives-results" style="max-height:24em;" />
 
 Frameworks. See also [product vs functional teams](product-functional-teams.md) and [organizational scale](./scale.md).
 

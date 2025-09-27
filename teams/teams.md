@@ -14,7 +14,7 @@ A team is composed of several layers.
 4. [Productivity](productivity-constraints.md). Utilization. Completion of tasks
 5. The environment.
 
-<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:16em;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="max-height:16em;" />
 
 All of the above are layers are important. Zooming out, the team can be understood through several lenses.
 
@@ -24,7 +24,7 @@ All of the above are layers are important. Zooming out, the team can be understo
 
 From an organizational view, a team touches various areas. See [product management](management/product-management.md).
 
-<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="height:12em;" />
+<img src="../img/grid-organization-production-product.png" alt="grid-organization-production-product" style="max-height:12em;" />
 
 ## Leadership
 

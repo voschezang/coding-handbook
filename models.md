@@ -10,7 +10,7 @@ Dynamic-static ([structure](metaphysics/dynamic-static-structure.md))
 
 Acceptance-control ([empowerment-power](../alignment/alignment.md), [surrendering-authority](../alignment/leadership-styles.md))
 
-<img src="img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:5em;" />
+<img src="img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="max-height:5em;" />
 
 Push-pull
 
@@ -18,7 +18,7 @@ Push-pull
 
 ## Junctions
 
-<img src="img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:15em;" />   <img src="img/junction-goals-revenue.png" alt="junction-goals-revenue" style="height:15em;" />   <img src="img/junction-communication.png" alt="junction-communication" style="height:15em;" />
+<img src="img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="max-height:15em;" />   <img src="img/junction-goals-revenue.png" alt="junction-goals-revenue" style="max-height:15em;" />   <img src="img/junction-communication.png" alt="junction-communication" style="max-height:15em;" />
 
 <img src="img/junction-being-becoming.png" alt="junction-being-becoming" style="width:30em;" />
 
@@ -44,13 +44,13 @@ Experience
 
 <img src="img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
 
-<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />
+<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="max-height:12em;" />
 
 ## Pyramids
 
 <img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
 
-<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="height:12em;" />
+<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="max-height:12em;" />
 
 <img src="img/pyramid-organiational-desire.png" alt="pyramid-organiational-desire" style="width:60%;" />
 
@@ -102,13 +102,13 @@ Outside and inside views.
 
 Outcome & impact
 
-<img src="img/production-outcome.png" alt="production-outcome" style="height:5em;" />
+<img src="img/production-outcome.png" alt="production-outcome" style="max-height:5em;" />
 
 <img src="img/output-outcome-impact.png" alt="output-outcome-impact" style="width:80%;" />
 
 Focus
 
- <img src="img/junction-goals-revenue.png" alt="junction-goals-revenue" style="height:15em;" />
+ <img src="img/junction-goals-revenue.png" alt="junction-goals-revenue" style="max-height:15em;" />
 
   <img src="img/change-management.png" alt="change-management" style="width:30%;" />          <img src="img/growth-and-value.png" alt="growth-and-value" style="width:50%;" />
 

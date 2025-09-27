@@ -12,7 +12,7 @@ Systems contain components that interact. Management involves:
 
 There are three fundamental types of systems.
 
-<img src="../img/system-types.png" alt="system-types" style="height:10em;" />
+<img src="../img/system-types.png" alt="system-types" style="max-height:10em;" />
 
 
 
@@ -28,7 +28,7 @@ System components can be categorized as supplies and demands. Supplies enable fu
 
 **Control**
 
-<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="height:6em;" />
+<img src="../img/scale-accept-tolerate-control.png" alt="scale-accept-tolerate-control" style="max-height:6em;" />
 
 
 
@@ -66,7 +66,7 @@ In a system with limited resources, there is a need to balance attention.
 - Strong focus requires saying no.
 - Distributed focus lacks power.
 
-<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="height:8em;" />
+<img src="../img/waves-onderstroom-bovenstroom.png" alt="mainstream-undercurrent" style="max-height:8em;" />
 
 
 

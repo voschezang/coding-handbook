@@ -1,6 +1,6 @@
-# Product & Functional Teams
+# Product Teams & Functional Teams
 
-<img src="../img/production-outcome.png" alt="production-outcome" style="height:5em;" />
+<img src="../img/production-outcome.png" alt="production-outcome" style="max-height:5em;" />
 
 A [value chain](../labour/value-chains.md) is the sequence of activities that are necessary to deliver *value* to the customer. This chain may cross departmental boundaries. If this is the case, then a small change could disrupt multiple departments.
 

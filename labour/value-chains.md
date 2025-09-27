@@ -2,7 +2,7 @@
 
 Value and production chains refer to the steps taken to deliver business value.
 
-<img src="../img/production-outcome.png" alt="production-outcome" style="height:5em;" />
+<img src="../img/production-outcome.png" alt="production-outcome" style="max-height:5em;" />
 
 [toc]
 
@@ -63,7 +63,7 @@ See [requirements](project-requirements.md).
 
 Projects and tasks have three key constraints: time, cost and scope.
 
-<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="height:15em;" />
+<img src="../img/scope-time-cost.png" alt="scope-time-cost" style="max-height:15em;" />
 
 ## Vision
 

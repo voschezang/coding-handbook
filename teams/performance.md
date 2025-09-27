@@ -8,7 +8,7 @@ A team is a set of players that work together to achieve a shared goal. Their pe
 
 Team performance focusses on production: planning and execution. It makes uses of capabilities to deliver a service to a customer that benefits from it. For businesses this results in profit. The latter is dependent on many external factors. See [product management](product-management.md).
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
 
 Striclty speaking, **performance** is captured by productivity and the quality of the product. Capability can be measured by *agility*: the speed at which the organization can realize new ideas and deliver results. It consists of organizational capability and technical capability.
 
@@ -21,7 +21,7 @@ Striclty speaking, **performance** is captured by productivity and the quality o
 | **Other metrics** | Decisiveness                                                 | Throughput, [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_repair) | Customer satisfaction |
 | **Ideal growth**  | Incrementally                                                | Stable average                                               | Exponential           |
 
-<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="height:7em;" />
+<img src="../img/capability-production-delivery.png" alt="capability-production-delivery" style="max-height:7em;" />
 
 > Performance is not about metrics.
 
@@ -35,7 +35,7 @@ Delivery is contingent on a good view of what would be valuable. Product deliver
 
 In general, a team aims to deliver *value* to stakeholders. The definition of value is context-dependent. There can be an emphasis on current or potential value. The latter consists of growth and unrelalized value. See [realization](../legacy/realization.md).
 
-<img src="../img/growth-and-value.png" alt="growth-and-value" style="height:16em;" />
+<img src="../img/growth-and-value.png" alt="growth-and-value" style="max-height:16em;" />
 
 Theoretically value can grow indefinitely. In practice growth accelerates and then slows down.
 

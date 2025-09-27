@@ -49,7 +49,7 @@ Transparency, inspection and adaption. See [empiricism](../intelligence/empirici
 
 See [teams](../collaboration/teams.md).
 
-<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="height:16em;" />
+<img src="../img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="max-height:16em;" />
 
 #### AAA
 

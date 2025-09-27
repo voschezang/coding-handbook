@@ -39,7 +39,7 @@ Care for team vision
 - *Does the subject **engage** actively, in line with the team vision?*
 - *Does the subject engage in **improvement**?*
 
-<img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="height:12em;" />
+<img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="max-height:12em;" />
 
 ### Performance-based Perspective
 
@@ -60,7 +60,7 @@ Delivery
 - Are the results leading to the right **outcomes**?
 - Is the **delivery** of results reliable and predictable?
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
 
 ### Capability-based Perspective
 

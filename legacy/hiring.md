@@ -16,3 +16,21 @@ Dutch: `kennis, kunde, ervaring, karakter`
 - Charisma
 - Team player
 - Ambition / motivation
+
+
+
+**Branding**
+
+As a professional, summarize your skills in this format.
+
+- **Core** skill.
+- **Complementing** skills. Differentiators.
+- **People** skills. Human edge.
+- Best **context**.
+
+In Dutch
+
+- Kernvaardigheid.
+- Aanvullende vaardigheden. Onderscheidende kenmerken.
+- Sociale vaardigheden. "Menselijke voorsprong".
+- Ideale / bewezen context.

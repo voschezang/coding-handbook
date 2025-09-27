@@ -17,13 +17,13 @@ These desires drive progress. They result in initiatives, engagement and improve
 
 Team management may emphase capability or delivery. See team [performance](../collaboration/team-performance.md) and [success](../collaboration/team-success.md).
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
 
 
 
 Team performance is contingent on the quality of the team itself.
 
-<img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="height:12em;" />
+<img src="../img/pyramid-team-performance-trust-care.png" alt="pyramid-team-performance-trust-care" style="max-height:12em;" />
 
 
 
@@ -31,7 +31,7 @@ Team performance is contingent on the quality of the team itself.
 
 A team consists of **people** that realize **projects**. They do so using **capabilities**. Large organizations tend to split these up into accountabilities. Capabilities may include technology (engineering) and infrastructure (networks).
 
-<img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="height:18em;" />
+<img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="max-height:18em;" />
 
 
 
