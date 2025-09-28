@@ -24,7 +24,7 @@ Push-pull
 
 ## Triangles
 
-<img src="img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="width:50%;" />
+<img src="img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="max-width:50%;" />
 
 People-oriented (who), result-oriented (what), thought-oriented (meta-how).
 
@@ -54,7 +54,7 @@ Experience
 
 <img src="img/pyramid-organiational-desire.png" alt="pyramid-organiational-desire" style="width:60%;" />
 
-<img src="img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="width:25em;" /> <img src="img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:30em;" />
+<img src="img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="max-width:25em;" /> <img src="img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="max-width:30em;" />
 
 <img src="img/pyramid-team-performance-health.png" alt="pyramid-team-performance-health" style="width:70%;" />
 

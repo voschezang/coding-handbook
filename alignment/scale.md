@@ -16,6 +16,8 @@ Each component has a *bounded context*. This is an internal, local model. These 
 - **Platforms**. These are generic components that are vital for the functioning of the core domain. These <u>enable</u> value.
 - **Contextual** or supporting domains. E.g. interfaces in hexagonal architecture.
 
+<img src="../img/core-complement-context.png" alt="core-complement-context" style="max-height:12em;" />
+
 
 
 <img src="../img/alignment-scaling.png" alt="alignment-scaling" style="height:21em;" />

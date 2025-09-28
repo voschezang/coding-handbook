@@ -34,3 +34,5 @@ In Dutch
 - Aanvullende vaardigheden. Onderscheidende kenmerken.
 - Sociale vaardigheden. "Menselijke voorsprong".
 - Ideale / bewezen context.
+
+<img src="../img/core-complement-context.png" alt="core-complement-context" style="max-height:12em;" />

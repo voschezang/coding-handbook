@@ -6,10 +6,30 @@ This document focusses on conscious and human experience. It emphasises attitude
 
 ## Overview
 
+Experience can be broken down to the following. Note that all components are interrelated.
+
+- Awareness
+  - 👁️ **Perception** of the environment, including assumptions. E.g. perception of someone’s emotions.
+  - 💭 Awareness of **thoughts**. Memories, fantasy, language, reasoning.
+  - ❤️ Awareness of **feelings**. Bodily sensations, desires, emotions. External sensations, like empathy, emotional contagion, vicarious embarrassment.
+- 💬 Behaviour. Actions and their [intent](../alignment/intent.md).
+- 🏡 Context. The environment and everything else. Past events, identity, expectations.
+
+Perception is a complex activity. It includes translations of raw sensations into cohesive interpretation. It includes things that are not directly observed. E.g. when a someone's coat hides the majority of their body, we wouldn't doubt it's existence.
+
+- Intuitive processing. Automatic translation and inference of meaning. E.g. sub-conciously empathizing with someone.
+- Bottom-up processing. Step-by-step interpretation of details, before infering meaning. E.g. noticing someone's posture, facial expressions, and then concluding they likely feel an intense emotion.
+
+Hallucinations usually refer to perception, but thoughts could be considered hallicunations as well.
+
+<img src="../img/experience-awareness-behaviour-context.png" alt="experience-awareness-behaviour-context" style="max-height:21em;" />
+
 Conscious experience is not a biological or social process. It can be reduced to a set of patterns that characterize a person.
 
 - Such patterns are called roles or habits. They are a mix of someone's desires, worldview and environment.
 - They affect attention and the sense of self. See [ego](ego.md).
+
+
 
 
 

@@ -59,7 +59,7 @@ Mock components if you want to test the product as a whole. Replace mocks and st
 
 
 
-The following example visualizes the different increments in the context of building a church. See also [Picasso's bull](https://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm).
+The following example visualizes the different increments in the context of building a church.
 
 ![product-increments](../img/product-increments.png)
 

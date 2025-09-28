@@ -64,9 +64,31 @@ Options
 
 <img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="max-height:250px;" />
 
+### Signals
+
+<img src="../img/plot-waves-disturbance-chaotic.png" alt="plot-waves-disturbance-chaotic" style="width:60em;" />
+
+## Core-Context
+
+The core is most important quality of a subject. Second, there are complementing qualities that make it more diverse / flexible. Third, the context maps the subject to other subjects.
+
+<img src="../img/core-complement-context.png" alt="core-complement-context" style="max-height:12em;" />
+
+
+
+### Pyramid
+
+Each layer is contingent upon the previous layers.
+
+<img src="../img/communication-pyramid.png" alt="communication-pyramid" style="max-height:14em;" />
+
+<img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:30em;" />
+
+
+
 ## Growth
 
-Growth of populations.
+Growth of populations. See [statistics](statistics.md).
 
 - Linear: constant increase in size.
 - Exponential: relative increase in size.
