@@ -6,7 +6,7 @@ This document focusses on conscious and human experience. It emphasises attitude
 
 ## Overview
 
-Experience can be broken down to the following. Note that all components are interrelated.
+Experience is fundamentally dynamic. It's a verb: to experience. It can be broken down to the following. Note that all components are interrelated.
 
 - Awareness
   - 👁️ **Perception** of the environment, including assumptions. E.g. perception of someone’s emotions.
@@ -23,6 +23,8 @@ Perception is a complex activity. It includes translations of raw sensations int
 Hallucinations usually refer to perception, but thoughts could be considered hallicunations as well.
 
 <img src="../img/experience-awareness-behaviour-context.png" alt="experience-awareness-behaviour-context" style="max-height:21em;" />
+
+
 
 Conscious experience is not a biological or social process. It can be reduced to a set of patterns that characterize a person.
 

@@ -10,7 +10,7 @@ Subjects and agents have experience: *What it is like to be you.*
 
 Experience is fundamentally dynamic. It's a verb: to experience. Experience of an agent consists of [attention](attention.md) and activity (behaviour). It is influenced by the dynamics of the environment.
 
-<img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:45em;" />
+<img src="../img/experience-awareness-behaviour-context.png" alt="experience-awareness-behaviour-context" style="max-height:21em;" />
 
 There is a strong interplay between awareness (attention) and activity (behaviour).
 

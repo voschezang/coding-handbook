@@ -215,7 +215,7 @@ Agents have **experience**. It consists of multitasting and context switching. O
 
 Agents might be sensitive (perceptive) of themselves and their environment.
 
-<img src="../img/tree-experience-quality-dynamics.png" alt="tree-experience-quality-dynamics" style="width:40em;" />
+<img src="../img/experience-awareness-behaviour-context.png" alt="experience-awareness-behaviour-context" style="max-height:21em;" />
 
 
 

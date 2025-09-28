@@ -68,6 +68,17 @@ Options
 
 <img src="../img/plot-waves-disturbance-chaotic.png" alt="plot-waves-disturbance-chaotic" style="width:60em;" />
 
+<details>
+<summary>Plots in two dimensions</summary>
+<br>
+<p>This generalizes to multiple dimensions.</p>
+<img src="../img/plot-waves-disturbance-chaotic-2d.png" alt="plot-waves-disturbance-chaotic" style="width:50em;" />
+<p>Peaks may form clusters, which in turn may form form greater peaks.</p>
+<img src="../img/plot-waves-disturbance-clusters-2d.png" alt="plot-waves-disturbance-clusters-2d" style="width:50em;" />
+</details>
+
+
+
 ## Core-Context
 
 The core is most important quality of a subject. Second, there are complementing qualities that make it more diverse / flexible. Third, the context maps the subject to other subjects.
