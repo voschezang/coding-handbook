@@ -166,6 +166,10 @@ Specific forms
 
 <img src="../img/sub-assertive-aggressive.png" alt="sub-assertive-aggressive" style="height:16em;" />
 
+Assertive and dominant communication are categorized as dominant because they are inherently confronting. Based on the situation and power dynamics it can have repercussions.
+
+
+
 ## Feedback
 
 Anti-patterns
