@@ -69,7 +69,19 @@ Vision document
 - **Vision statement**. The core message in 1-2 sentences.
 - Narrative. A captivating story that covers:
   - The **value proposition**. Taking into account value for customers or partners.
-  - The **capabilities** necessary to deliver the value proposition.
+  - The **capabilities** necessary to (be able to) deliver the value proposition.
+
+
+
+## Templates
+
+Intuitive template for vision.
+
+```markdown
+- Where do you envision to be in the next 5 years? (1-2 sentences)
+- What does this look like? What value does it bring?
+- What capabilities would be required to realize all this?
+```
 
 
 

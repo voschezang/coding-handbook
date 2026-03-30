@@ -19,7 +19,7 @@ Different tools can be used to privide *gentle* alignment for larger organizatio
 
 ## Organizational Structure
 
-Next to scale, alignment depends on the structure of the organization and its partners. We can distinguish four typical structures, each based on: power, rules, performance and ideals. There is a natural evolution of organization through these phases. Alignment changes alongside this evolution. See [power](../systems/power.md).
+Next to scale, alignment depends on the structure of the organization and its partners. We can distinguish four typical structures, each based on: power, rules, performance and ideals. There is a natural evolution of organization through these phases. Alignment changes alongside this evolution. See [power](../systems/power-structures.md).
 
 1. In authoritative organizations alignment is achieved through a strong, **powerful** leader.
 2. In bureaucratic organizations power is regulated through **standardization**. This distributes alignment, but increases stability.

@@ -148,14 +148,14 @@ Specific forms
 - **Absence** of silence. This may send a mixed messages. It may be interpreted in many different ways.
 - **Presence** and attention. E.g. to show support.
 
-#### Level of assertiveness
+#### Level of assertiveness and dominance
 
 - Ideal behaviour: find a balance based on each other's boundaries.
 - Assertiveness is the expression of self-worth (dignity).
 
-|                            | Sub-assertive                     | Assertive                       | Aggressive                    |
+|                            | Submissive                        | Balanced (Assertive)            | Dominant (Aggressive)         |
 | -------------------------- | --------------------------------- | ------------------------------- | ----------------------------- |
-| **Directness and respect** | Indirect                          | Direct + respect                | Direct - respect              |
+| **Directness and respect** | Indirect + respect                | Direct + respect                | Direct - respect              |
 | **Relation and goal**      | Relation > goal                   | Relation + goal                 | Goal > relation               |
 | **Boundaries**             | Lowering boundaries               | Maintaining boundaries          | Over-stepping boundaries      |
 | **Flexibility**            | Too agreeable                     | Authentic. In line with desire. | Too defensive                 |
@@ -163,6 +163,8 @@ Specific forms
 | **Responsibility**         | Avoiding. <br />Over-apologizing. | Taking responsibility.          | Rejecting. Accusing. Blaming. |
 
 
+
+<img src="../img/sub-assertive-aggressive.png" alt="sub-assertive-aggressive" style="height:16em;" />
 
 ## Feedback
 

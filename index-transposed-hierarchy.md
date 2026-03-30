@@ -56,7 +56,7 @@ Universals. Types.
   - [psychology/neurodiversity.md](psychology/neurodiversity.md)
   - [psychology/personality.md](psychology/personality.md)
   - [psychology/relations.md](psychology/relations.md)
-- Types of social structures
+- Types of social structure
   - [systems/organization-types.md](systems/organization-types.md)
   - [teams/joint-teams.md](teams/joint-teams.md) - like families
   - [software-industry/infrastructure.md](software-industry/infrastructure.md)
@@ -68,7 +68,7 @@ Universals. Types.
     - [labour/products-projects-initiatives.md](labour/products-projects-initiatives.md)
     - [labour/value-chains.md](labour/value-chains.md)
     - [labour/lifecycle.md](labour/lifecycle.md)
-- Types of intellectual structures
+- Types of intellectual structure
   - [documentation.md](documentations.md)
   - [communication/principles.md](communication/principles.md) and [types](communication/types.md)
   - [communication/storytelling.md](communication/storytelling.md) - the art of storytelling

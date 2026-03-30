@@ -1,5 +1,7 @@
 # Proposals
 
+See also [anti-agile](../software-industry/anti-agile.md).
+
 [toc]
 
 ## Overview

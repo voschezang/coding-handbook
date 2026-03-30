@@ -49,4 +49,4 @@ Components can be treated both as subjects and as organized structures.
 
 
 
-<img src="../img/desire-satisfaction.png" alt="desire-satisfaction" style="width:80%;" />
+<img src="../img/cycle-desire-satisfaction.png" alt="desire-satisfaction" style="width:80%;" />

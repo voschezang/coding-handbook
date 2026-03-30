@@ -4,6 +4,12 @@ There are countless management theories, but most managers follow their own prin
 
 
 
+Practice
+
+- Management is a game of budget & optics. Management is a [scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) problem.
+- Management is about preserving the status quo. Minimizing cost and change.
+- Good management is situational.
+
 Delivery
 
 - Deliverables create accountability. Handovers break accountability. 
@@ -34,6 +40,7 @@ Optimization
 - Local optima differ from global optima.
 - Optimizing utilization reduces performance.
 - Sabotage kills companies.
+- Management studies optimize for teaching management.
 
 
 
@@ -43,5 +50,4 @@ And some negations.
 - Larger team ≠ impact
 - Titles ≠ impact
 - Authority ≠ truth
-
 

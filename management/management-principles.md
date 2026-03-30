@@ -1,36 +1,30 @@
 # Management Principles
 
-Note: This document covers the activity management, rather than the organizational layer. See also [goals & strategy](../legacy/alignment-strategy.md) and [accountabilities](accountabilities.md).
+Note: This document covers the management of people and systems. See also [alignment](../alignment/alignment.md) and [accountabilities](accountabilities.md).
 
 [toc]
 
 ## Overview
 
-Management involves responsibility of a *subject*: e.g. a system, organization, project or product. This subject is functioning within an *environment*: e.g. a market or organization.
+>  Good management is situational.
 
-> Good management is situational
+There are countless management theories, but most managers follow their own principles. In practice, many decisions are biassed by emotions and politics. See [anti-management](anti-management.md) for a less idealized view on management.
 
-The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value.
-
-> Management is a [scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) problem
-
-The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution.
+The art of management is the intuition of what to focus on (and what to delegate). This may range from culture to strategy and execution. The goal is to *facilitate* the delivery of value. E.g. creating an environment where resources can produce value. The role of a manager includes alignment, coaching, communication, facilitation, motivation and [orchestration](../alignment/orchestration-choreography.md). This is influenced by the skills of employees and their responsibilities. Management can can be broken down to **strategy** and **operations**. See [strategy documents](../alignment/vision-strategy-documents.md).
 
 <img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
 
-### Systems view
+## Internal View
 
-This *subject* can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent on the environment of the system. An understanding of the purpose of a system is a pre-requisite.
+Management involves responsibility of a **subject**: e.g. a system, organization, project or product. This subject can be framed as a [theoretical system](../systems/systems-management.md). It's the job of a manager to ensure that the system achieves it purpose - both now and in the future. This is contingent upon the enviornment of the system.
 
-See also [organization-structure](../systems/structure.md), [systems-management](../systems/systems-management.md) and [change-management](../legacy/change-management.md).
-
-#### Feedback loop
+### Systems View
 
 At minimum, the role of a manager can be explained as the conductor of an orchestra. The latter can be autonomous, but it will benefit from an external coordinator. This requires a feedback loop.
 
 1. **Awareness**. An expectation of the system how the system will operate in the current conditions.
 2. **Prioritization** of adjustments. E.g. a focus point, an investigation or a concrete improvement.
-    1. This is a tradeoff between importance and urgency.
+   1. This is a tradeoff between importance and urgency.
 
 3. A **communication channel** to send adjustments to the system.
 
@@ -46,7 +40,7 @@ Fundamentally, the functioning of a system follows the following phases.
 
 ### Practice
 
-In practice, the role of a manager may include alignment, coaching, communication, facilitation, motivation, orchestration and strategy. This is influenced by the skills of employees and their responsibilities.
+
 
 Management consists of balances. For example:
 
