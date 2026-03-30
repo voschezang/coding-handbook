@@ -2,7 +2,7 @@
 
 > Succeed through a rapid progression of failures.
 
-Empricism in collaboration focusses on learning from experience. It is useful in environments with uncertainty.
+Empricism in collaboration focusses on learning from experience. It is useful in environments with uncertainty. See also [continuous systems improvement](../systems/continuous-improvement.md).
 
 
 
