@@ -22,23 +22,6 @@ Planning phases.
 
 
 
-## Improvement
-
-Both continuous improvement and stepwise improvement are both idealistic models. Progress is rarely monotonic.
-
-**Continuous improvement** effectively minimizes the stepsize. Every day, a microscopic perturbation is applied to yield a proportionate improvement. Over time this adds up. Risks:
-
-- In complex world systems the resulting improvement will rarely be consistent.
-- Because the system is always updated, it is never truly stable. 
-
-**Discrete improvement** steps focus on consistency and resilience. Each perturbation is succeeded by a recovery period that allows the system to stabilize. The recovery period depends on the intensity of the disruption.
-
-
-
-<img src="../img/continuous-discrete-improvement.png" alt="continuous-discrete-improvement" style="max-height:14em;" />
-
-
-
 ## Scaling & Flexiblity
 
 Scaling of products can have several forms.
