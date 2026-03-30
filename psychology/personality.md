@@ -240,6 +240,11 @@ The extreme side of the challenge may conflict with the initial quality. This is
 
 <img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="max-height:14em;" />
 
+Critique
+
+1. The model is biassed toward moderate qualities. It implies that conflict is resolved through personal growth. Neurodivergent people should un-learn any traits that are  extreme.
+2. Many traits are situational. The environment determines whether a trait is a handicap or not.
+
 
 
 ### Roles
