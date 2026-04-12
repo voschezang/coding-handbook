@@ -25,6 +25,78 @@ A high-level, long-term goal that is used to show the direction to work towards.
 **Output, Outcome and Impact**
 See [requirements engineering](../management/requirements-engineering.md).
 
+### Mandate levels and constraints
+
+See also [mandate levels](mandate-levels.md).
+
+<table>
+<tr>
+  <th><p></p></th>
+  <th><p>Type</p></th>
+  <th><p>Subtype</p></th>
+  <th><p>Meaning</p></th>
+</tr>
+<tbody>
+  <tr>
+      <td rowspan="4"><p><b>Purpose</b></p></td>
+      <td rowspan="4"><p><b>Why</b></p></td>
+      <td><p>Mission</p></td>
+      <td><p>Why do we <b>exist</b>? What is our purpose? Why we are investing in this?</p></td>
+  </tr>
+    <tr>
+      <td><p>Vision</p></td>
+      <td><p>Evidence or result. What our ideal world (state) looks like.</p></td>
+  </tr>
+  </tr>
+    <tr>
+      <td><p>Outcome</p></td>
+      <td><p>A specific result that you want to see. This is oriented towards <em>impact</em>.</p></td>
+  </tr>
+    <tr>
+      <td><p>Objective</p></td>
+      <td><p>A concrete goal. This can be idealistic or realistic.</p></td>
+  </tr>
+  <tr>
+      <td rowspan="2"><p><b>Approach</b></p></td>
+      <td rowspan="2"><p><b>What</b></p></td>
+      <td><p>Strategy</p></td>
+      <td><p>How to achieve the mission / realize the vision (<em>external</em> factors).</p></td>
+  </tr>
+    <tr>
+      <td><p>Tactic</p></td>
+      <td><p>How to achieve the mission / realize the vision (<em>internal</em> factors).</p></td>
+  </tr>
+  <tr>
+      <td rowspan="3"><p><b>Plan</b></p></td>
+      <td rowspan="2"><p><b>How</b></p></td>
+      <td><p>Deliverables</p></td>
+      <td><p>What good results look like. E.g. milestones, saga's, episodes, epics.</p></td>
+  </tr>
+  <tr>
+      <td><p>Initiatives</p></td>
+      <td><p>Specfic actions that are taken to achieve (sub-)goals.</p></td>
+ </tr>
+    <tr>
+      <td rowspan="1"><p><b>When</b></p></td>
+      <td><p>Roadmap</p></td>
+      <td><p>When we deliver milestones or increments.</p></td>
+  </tr>
+  <tr>
+      <td rowspan="2"><p><b>Context</b></p></td>
+      <td rowspan="1"><p><b>Who</b></p></td>
+      <td><p>Segmentation</p></td>
+      <td><p>Who (the target market)</p></td>
+  </tr>
+  <tr>
+      <td rowspan="1"><p><b>Where</b></p></td>
+      <td><p>Positioning</p></td>
+      <td><p>Where (the product stands)</p></td>
+  </tr>
+</tbody>
+</table>
+
+Note that these can be chosen for an *organization* and for each *product* within that organization.
+
 ## Storytelling
 
 This way of working emphasizes storytelling and narratives. It puts an emphasis on purpose and end-results. It promotes shared understanding, natural language and pictures.

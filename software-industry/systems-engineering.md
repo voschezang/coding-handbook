@@ -1,6 +1,6 @@
 # Systems Engineering
 
-Commont requirements of systems and new features. See also [testing](../guides/test-more-effectively.md).
+Common requirements of systems and new features. See also [testing](../guides/test-more-effectively.md) and [abstraction and expression layers](abstraction-expression.md).
 
 *"Be in control"*
 

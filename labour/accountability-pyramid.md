@@ -4,8 +4,6 @@
 
 First, let's distinguish the **production** process and its **product**. These yield the first two accountabilities. Production is enabled through **capabilities**. Usually this is a mix of *technical* and *organizational* capability.
 
-
-
 <img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:35em;" />
 
 Note that all of this is influenced by the external world: the **context**. There is a boundary of things that are in control of the organization. Accountability cannot trancend this boundary.
@@ -25,6 +23,3 @@ Examples of accountabilities for capability:
 - Effectiveness. Ensuring commitments, attention to results.
 
 See also [value chains](value-chains.md).
-
-
-

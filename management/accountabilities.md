@@ -1,6 +1,6 @@
 # Accountability
 
-Also see [collaboration](../collaboration/accountability).
+Also see [collaboration](../collaboration/accountability) and [mandate levels](mandate-levels.md).
 
 ## Management Roles
 

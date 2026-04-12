@@ -47,7 +47,7 @@ Awareness of the current landscape is a prerequisite of planning. This template 
     1. What is causing these signals? Why haven't they been addressed before?
     2. Collect data if necessary.
 
-Based on this, it is possible to:
+    Based on this, it is possible to:
 
 - Define experiments to verify hypotheses.
 - Choose initiatives that address these problems.

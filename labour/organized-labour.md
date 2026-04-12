@@ -8,7 +8,7 @@ The organization of labour involves planning, orchestration and execution. This 
 
 ### Alignment & Progress
 
-Consider the following structures. They are ordered by importance, from atomic structures to higher-level structures, each optimizing the whole.
+Consider the following structures. They are ordered by importance, from atomic structures to higher-level structures, each optimizing the whole. See also [mandate levels](mandate-levels.md)
 
 1. **Projects**. Organize increments of work. Work empirically & validate results.
 2. **Quality standards**. Organize quality of work.

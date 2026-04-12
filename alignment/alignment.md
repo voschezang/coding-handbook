@@ -37,13 +37,14 @@ Next to scale, alignment depends on the structure of the organization and its pa
 - Structure & expectations. Compensate restriction with freedom in other areas.
 - Self-sustaining systems that protect the status quo.
 
+
 See [orchestration and choreography](../alignment/orchestration-choreography.md).
 
 **Responsibilities** are often formalized. Typical responsibilities are products (projects), people (resources) and capabilities (technology). At greater scales, roles transform to functional teams and to departments (centers of expertice). See [product](../management/product-management.md) and [team](../teams/team-management.md) management.
 
 <img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="max-height:18em;" />
 
-**Abstractions** decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md) and [vision and strategy](./vision-strategy-documents.md).
+**Abstractions** decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md), [mandate levels](mandate-levels.md) and [vision and strategy](./vision-strategy-documents.md).
 
 - The world of **strategy** focusses on vision, alignment, and systems.
 

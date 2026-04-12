@@ -55,4 +55,3 @@ Authoritative power structures tend to be hierarchical and top down. The other s
 
 <img src="../img/network-structure.png" alt="network-structure" style="width:60%;" />
 
-## 

@@ -84,7 +84,7 @@ Criteria for good goals.
   - Make it specific. Add conditions. Define when the goal is achieved.
   - Consider the available resources.
 
-In addition, ensure the following.
+  In addition, ensure the following.
 
 - High awareness of the main goal, at multiple levels and time scales.
 - Urgency. E.g. by committing to deadlines.
@@ -101,7 +101,7 @@ Inspired by [John](https://twitter.com/johncutlefish/status/1653114991527198720)
   - Strictness: Guiding or focussed.
   - Scope: Broad (holistic) or narrow.
 
-**Anti-patterns**
+  **Anti-patterns**
 
 - Give all goals the same priority. Lack of an preeminent goal.
 - Low awareness of the goal. The goal get's lost in day to day activities.

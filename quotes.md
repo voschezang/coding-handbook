@@ -295,6 +295,8 @@ The following is applicable in a [complex domain](https://en.wikipedia.org/wiki/
 * Java is so flexible that it has neither of the advantages of a strong type system and a dynamic one (with duck typing).
 * C++ has default arguments AND function overloading.
 * Modern languages should be expressive and extensible. E.g. allow for partial functions, Python's `@decorator`, Elm's `Maybe.andThen`, Kotlin's dataclasses.
+* AI is an expression layer, not an abstraction layer.
+* AI is just another form of outsourcing.
 
 ## Bad advice
 
