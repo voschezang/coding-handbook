@@ -6,7 +6,7 @@ Outsourcing can be done at different mandate levels. It can be done in the form 
 
 
 
-Mandate levels from long term to short term. See also [terminology](../labour/terminology.md).
+Mandate levels from long term to short term. See also [terminology](../labour/terminology.md) and [strategy and vision](alignment/vision-strategy-documents.md).
 
 | Mandate                              | Description               |
 | ------------------------------------ | ------------------------- |

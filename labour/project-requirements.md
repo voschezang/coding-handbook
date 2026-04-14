@@ -6,7 +6,9 @@ This document focusses on requirements for a single *unit* of work. This can be 
 
 ## Overview
 
-Requirements are a form of [documentation](../collaboration/documentation.md). Their primary purpose depends on the audience and the significance of the project or task. This influences the level of detail and any assumptions that should be made.
+A project is a item of work with a goal and an end. Specfics and details can be writen in the form of requirements. 
+
+**Requirements** are a form of [documentation](../collaboration/documentation.md). Their primary purpose depends on the audience and the significance of the project or task. This influences the level of detail and any assumptions that should be made.
 
 - Requirements may be hierarchical. E.g. multiple deliverables within a project.
 - Requirements may be written from different perspectives. E.g. a functional view, system view or component view.
