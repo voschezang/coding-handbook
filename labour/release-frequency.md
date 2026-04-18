@@ -4,7 +4,7 @@ Organizations guide productivity by setting a release frequency. Fast releases a
 
 ## Batch Size
 
-Release frequency is directly [related](https://en.wikipedia.org/wiki/Little%27s_law) to batch size and efficiency. 
+Release frequency is directly [related](https://en.wikipedia.org/wiki/Little%27s_law) to batch size and efficiency.
 
 - Greater batch sizes can improve resource utilization, through economies of scale. Repetition allows for optimization.
 - Overproduction can be used as a buffer against supply chain disruptions.
@@ -18,7 +18,7 @@ There are various downsides to larger batch sizes.
 
 ## Production Constraints
 
-Teams evolve over time. The table below shows the result of operational disruptions and release frequency. See [productivity constraints](../teams/productivity-constraints.md) and [optimizing processes](../guides/optimize-processes.md).
+Teams evolve over time. The table below shows the result of operational disruptions and release frequency. See [productivity constraints](../teams/productivity-constraints.md) and [optimizing processes](../guides/how-to-optimize-processes.md).
 
 <img src="../img/map-constraints-release-frequency.png" alt="map-constraints-release-frequency" style="max-height:25em;" />
 
@@ -49,4 +49,3 @@ This graph shows the granularity of increment verses the development stages. The
 For software projects the increments follow a typical form.
 
 ![project-increments-iterations](../img/project-increments-iterations.png)
-

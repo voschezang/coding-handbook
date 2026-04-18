@@ -1,18 +1,14 @@
 # Systems Engineering
 
-Common requirements of systems and new features. See also [testing](../guides/test-more-effectively.md) and [abstraction and expression layers](abstraction-expression.md).
+Common requirements of systems and new features. See also [testing](../guides/how-to-test-more-effectively.md) and [abstraction and expression layers](abstraction-expression.md).
 
 *"Be in control"*
-
-
 
 Capabilities
 
 - Start and stop the system as a whole.
 - Start and stop specific components.
 - Test functionality. E.g. end-to-end tests.
-
-
 
 Monitoring
 

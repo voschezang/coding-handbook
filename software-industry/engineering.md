@@ -1,6 +1,6 @@
 # Engineering
 
-See also the guides [testing](../guides/test-more-effectively.md) and [optimization](../guides/optimize-processes.md).
+See also the guides [testing](../guides/how-to-test-more-effectively.md) and [optimization](../guides/how-to-optimize-processes.md).
 
 [toc]
 

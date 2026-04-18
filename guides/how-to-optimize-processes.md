@@ -10,8 +10,6 @@ The wrong way to optimize is: automate something, then speed it up, then simplif
 4. Speed it up.
 5. Automate it.
 
-
-
 ## Background
 
 > Deletion is painful.
@@ -19,13 +17,10 @@ The wrong way to optimize is: automate something, then speed it up, then simplif
 Two styles:
 
 - Aggressive. Overcorrect. Delete more that you should. Expect to put some steps back after deleting it.
-- Conservative. Be overly careful. This leads to leads to accumulation of waste over time. 
+- Conservative. Be overly careful. This leads to leads to accumulation of waste over time.
 
 See also [production constraints](../teams/productivity-constraints.md).
-
-
 
 **Anti-patterns**
 
 - Optimize something that is not used.
-
