@@ -14,17 +14,13 @@ Most answers fall into these [categories](https://hackage-content.haskell.org/pa
 
 <img src="../img/meaning-of-life.png" alt="meaning-of-life" style="width:42em;" />
 
-<img src="../img/meaning-of-life.png" alt="meaning-of-life" style="max-width:42em;" />
-
-<img src="../img/meaning-of-life.png" alt="meaning-of-life" width=600 />
-
 
 
 ## Areas of Life
 
 The answer to *"How is it going?"*
 
-<img src="../img/health-love-work-play.jpg" alt="health-love-work-play" style="max-height:27em;" />
+<img src="../img/health-love-work-play.jpg" alt="health-love-work-play" style="width:36em;" />
 
 First, consider your *being*.
 

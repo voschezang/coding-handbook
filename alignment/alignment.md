@@ -15,7 +15,7 @@ Different tools can be used to privide *gentle* alignment for larger organizatio
 - Metrics allow many teams to follow specific directions.
 - Vision and strategies inform leaders to set out their individual direction.
 
-<img src="../img/alignment-scaling.png" alt="alignment-scaling" style="max-height:21em;" />
+<img src="../img/alignment-scaling.png" alt="alignment-scaling" />
 
 ## Organizational Structure
 
@@ -42,7 +42,7 @@ See [orchestration and choreography](../alignment/orchestration-choreography.md)
 
 **Responsibilities** are often formalized. Typical responsibilities are products (projects), people (resources) and capabilities (technology). At greater scales, roles transform to functional teams and to departments (centers of expertice). See [product](../management/product-management.md) and [team](../teams/team-management.md) management.
 
-<img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="max-height:18em;" />
+<img src="../img/venn-people-projects-capability.png" alt="venn-people-projects-capability" style="width:30em;" />
 
 **Abstractions** decouple strategy from execution. This provides flexibility and protect a manager from being overwhelmed by operational details. See also [goals](./goals.md), [mandate levels](mandate-levels.md) and [vision and strategy](./vision-strategy-documents.md).
 
@@ -50,7 +50,7 @@ See [orchestration and choreography](../alignment/orchestration-choreography.md)
 
 - The world of **operations** focusses on quality & delivery.
 
-<img src="../img/strategy-operations.png" alt="strategy-operations" style="width:70%;" />
+<img src="../img/strategy-operations.png" alt="strategy-operations" style="width:42em;" />
 
 ## Conflicts
 

@@ -30,7 +30,7 @@ These dimensions roughly translate to centralization and autonomy, respectively.
   </tr>
 </tbody>
 </table>
-<img src="../img/power-coupling-organization-topology.png" alt="power-coupling-organization-topology" style="max-height:24em;" />
+<img src="../img/power-coupling-organization-topology.png" alt="power-coupling-organization-topology" style="width:45em;" />
 
 Tight or loose coupled. E.g. by formulating requests based on input, output or outcomes. E.g.
 
