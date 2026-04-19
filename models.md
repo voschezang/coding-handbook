@@ -44,15 +44,15 @@ Experience
 
 <img src="img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
 
-<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="max-height:12em;" />
+
 
 ## Pyramids
 
 <img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
 
-<img src="img/pyramid-intent-style-content.png" alt="pyramid-intent-style-content" style="max-height:12em;" />
 
-<img src="img/pyramid-organiational-desire.png" alt="pyramid-organiational-desire" style="width:60%;" />
+
+<img src="img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:36em;" />
 
 <img src="img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="max-width:25em;" /> <img src="img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="max-width:30em;" />
 

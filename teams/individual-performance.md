@@ -60,7 +60,7 @@ Delivery
 - Are the results leading to the right **outcomes**?
 - Is the **delivery** of results reliable and predictable?
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="width:15em;" />
 
 ### Capability-based Perspective
 

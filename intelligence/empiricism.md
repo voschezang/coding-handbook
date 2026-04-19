@@ -8,7 +8,7 @@ Empricism in collaboration focusses on learning from experience. It is useful in
 
 Obtain knowedge through experience, rather than *a priori* theory. Use experiments to learn.
 
-<img src="../img/experiment-inspect-iterate.png" alt="experiment-inspect-iterate" style="max-height:9em;" />
+<img src="../img/experiment-inspect-iterate.png" alt="experiment-inspect-iterate" style="width:36em;" />
 
 **Prerequisites**
 

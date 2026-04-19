@@ -8,7 +8,7 @@ A team is a set of players that work together to achieve a shared goal. Their pe
 
 Team performance focusses on production: planning and execution. It makes uses of capabilities to deliver a service to a customer that benefits from it. For businesses this results in profit. The latter is dependent on many external factors. See [product management](product-management.md).
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="width:15em;" />
 
 Striclty speaking, **performance** is captured by productivity and the quality of the product. Capability can be measured by *agility*: the speed at which the organization can realize new ideas and deliver results. It consists of organizational capability and technical capability.
 

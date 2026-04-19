@@ -17,7 +17,7 @@ This requires:
 
 It aims to do so reliably and predictably.
 
-<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="max-height:12em;" />
+<img src="../img/capability-production-delivery-vertical.png" alt="capability-production-delivery-vertical" style="width:15em;" />
 
 Engineering is surrounded by product management. It's boundaries are busines administration, sales, etc.
 

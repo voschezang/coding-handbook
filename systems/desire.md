@@ -28,7 +28,7 @@ The objective changes over time. From exploration to expansion to preservation.
 
 These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
 
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:60%;" />
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:42em;" />
 
 
 

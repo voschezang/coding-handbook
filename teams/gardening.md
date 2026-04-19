@@ -43,7 +43,7 @@ Cross-functional teams. Diversity in experience and specialziation. Similar to a
 
 Transparency, inspection and adaption. See [empiricism](../intelligence/empiricism.md). This requires the willingness to take risks, which requires psychological safety.
 
-<img src="../img/experiment-inspect-iterate.png" alt="experiment-inspect-iterate" style="width:50%;" />
+<img src="../img/experiment-inspect-iterate.png" alt="experiment-inspect-iterate" style="width:36em;" />
 
 ### Psychological Safety
 
