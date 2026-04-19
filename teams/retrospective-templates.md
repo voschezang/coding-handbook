@@ -200,7 +200,7 @@ Ask the team:
 - How did the team react? What was the result?
 - Where are we heading now?
 
-<img src="../img/dragon-productivity-cycle.jpg" alt="dragon-productivity-cycle" style="max-height:18em;" />
+<img src="../img/dragon-productivity-cycle.jpg" alt="dragon-productivity-cycle" style="width:24em;" />
 
 ### Fire Brigade
 
@@ -211,7 +211,7 @@ A fire brigade metaphor. Consider the obstacles of a fire brigade.
 3. Debris & litter. Technical debt. Managing workarounds.
 4. Slack. Idle time. Finding new opportunities.
 
-<img src="../img/fire-brigade-text.png" alt="fire-brigade-text" style="width:50%;" />
+<img src="../img/fire-brigade-text.png" alt="fire-brigade-text" style="width:30em;" />
 
 Possible prompts
 

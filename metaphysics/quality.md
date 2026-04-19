@@ -21,6 +21,14 @@ Static quality
 
 <img src="../img/worldview-quality.png" alt="worldview-quality" style="width:45em;" />
 
+As a metaphor, consider:
+
+- A classroom that is all about theory and rules (static quality).
+- An adventure in nature, with immersive experience (dynamic quality).
+- Getting lost in nature, being in disorder.
+
+![infographic-static-dynamic-quality](../img/infographic-static-dynamic-quality.jpg)
+
 
 
 ## Experience

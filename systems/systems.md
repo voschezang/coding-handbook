@@ -64,9 +64,9 @@ Inside views
 |                       | Lens     | Emphasis                             | Model          | Domain              |
 | --------------------- | -------- | ------------------------------------ | -------------- | ------------------- |
 | **Functional view**   | Context  | Why / Purpose                        | Value delivery | Intellectual domain |
-| **Evolutionary view** | Time     | When / Being 🌱🪴🌳🍂                    | Lifecycle      | Biological domain   |
 | **Social view**       | Dynamics | How / Relations between components 🕸️ | System         | Social domain       |
-| **Component view**    | Material | What / Individual components         | Application    | Biological domain   |
+| **Evolutionary view** | Time     | When / Being 🌱🪴🌳🍂                    | Lifecycle      | Biological domain   |
+| **Component view**    | Material | What / Individual components         | Application    | Inorganic domain    |
 
 See [organizational desire](desire.md).
 

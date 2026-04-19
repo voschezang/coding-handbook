@@ -14,6 +14,8 @@ The following steps would help to find your passion. It assumes you are healthy 
 
 See also [life](../metaphysics/life.md).
 
+
+
 ## References
 
 - Bill Burnett and Dave Evans. *Designing Your Life*

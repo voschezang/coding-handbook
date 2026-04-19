@@ -34,7 +34,7 @@ Value considers what is *good* and *bad*. It can be divided into subjective and 
 
 
 
-<img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:35%;" />
+<img src="../img/objective-subjective-value.png" alt="objective-subjective-value" style="width:21em;" />
 
 **Dynamic and static value**
 
