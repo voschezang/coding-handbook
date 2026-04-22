@@ -1,5 +1,9 @@
 # How to Optimize Processes
 
+For incremental progress, see [continuous and discrete improvement](../systems/continuous-improvement.md).
+
+## Improve Efficiency
+
 > Everything can be sped up.
 
 The wrong way to optimize is: automate something, then speed it up, then simplify it and finally get rid of it completely. Naturally, the opposite order is the correct way.

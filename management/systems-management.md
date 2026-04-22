@@ -74,7 +74,7 @@ In a system with limited resources, there is a need to balance attention.
 
 >  Slow down to speed up.
 
-- 👣 Rondjes lopen. Daily,weekly, monthly.
+- 🚶 Rondjes lopen. Daily,weekly, monthly.
 - 🚪 Step outside. Take a step back. *Slow down to speed up.*
 - 🗣️ Tell stories. Have conversations. *Say things out loud.*
   - Practice, iterate and be perceptive. Listen and feel.
