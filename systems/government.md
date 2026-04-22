@@ -40,7 +40,7 @@ The coupling / power relations can be showed graphically. Anarchy is a new categ
 
 Note the similarity to the four domains. See [power structures](power-structures.md) and [lifecycles](./lifecycle.md): power, rules, performance, ideals. Note however, that an idealogy based organization is still a coherent organization, unlinke an anarchy.
 
-<img src="../img/organization-progression.png" alt="organization-progression" style="max-height:11em;" />
+<img src="../img/organization-progression.png" alt="organization-progression" style="width:54em;" />
 
 Organizations follow an evolution of needs.
 

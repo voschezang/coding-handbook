@@ -25,7 +25,9 @@ Second, consider activity: *becoming*. Work is about results and achievement. Pl
 
 ## Time Allocation
 
-*How much of your time is spend on each area?*<img src="../img/quadrants-personal-social-work-obligations.png" alt="quadrants-personal-social-work-obligations" style="width:42em;" />
+*How much of your time is spend on each area?*
+
+<img src="../img/quadrants-personal-social-work-obligations.png" alt="quadrants-personal-social-work-obligations" style="width:42em;" />
 
 ## References
 

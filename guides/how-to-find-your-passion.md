@@ -4,7 +4,7 @@
 
 The following steps would help to find your passion. It assumes you are healthy and have free time and energy. And a positive attitude (beginner’s mind).
 
-1. Reflect on your life. See [life](../metaphysics/life.md).
+1. Reflect on your life. See [lifestyle](../psychology/lifestyle.md).
 2. Find a passion.
    1. Try different things to find out what interests you. **Gather data**.
    2. Gain expertise and develop a passion.
