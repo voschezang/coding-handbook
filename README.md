@@ -6,7 +6,14 @@ This respository is a collection of ideas about collaboration, in written and vi
 
 ## Index
 
-See [index](index.md).
+There are several index pages.
+
+- [Flat hierarchy](index-flat-hierarchy.md). Alphabetical.
+- [Domains hierarchy](index-domains-hierarchy.md). Grouped by the [four domains](metaphysics/domains.md).
+- [Transposed hierarchy](index-transposed-hierarchy.md). Grouped by particulars, categories and abstractions, then by domain.
+- [Models](models.md)
+- [Tools](tools.md)
+- [Visuals](visuals.md)
 
 ## Table of Contents
 

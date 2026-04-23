@@ -40,20 +40,20 @@ See also [mandate levels](mandate-levels.md).
   <tr>
       <td rowspan="4"><p><b>Purpose</b></p></td>
       <td rowspan="4"><p><b>Why</b></p></td>
-      <td><p>Mission</p></td>
+      <td><p>❤️ Mission</p></td>
       <td><p>Why do we <b>exist</b>? What is our purpose? Why we are investing in this?</p></td>
   </tr>
     <tr>
-      <td><p>Vision</p></td>
+      <td><p>⭐ Vision</p></td>
       <td><p>Evidence or result. What our ideal world (state) looks like.</p></td>
   </tr>
   </tr>
     <tr>
-      <td><p>Outcome</p></td>
+      <td><p>📈 Outcome</p></td>
       <td><p>A specific result that you want to see. This is oriented towards <em>impact</em>.</p></td>
   </tr>
     <tr>
-      <td><p>Objective</p></td>
+      <td><p>🎯 Objective</p></td>
       <td><p>A concrete goal. This can be idealistic or realistic.</p></td>
   </tr>
   <tr>
@@ -78,8 +78,8 @@ See also [mandate levels](mandate-levels.md).
  </tr>
     <tr>
       <td rowspan="1"><p><b>When</b></p></td>
-      <td><p>Roadmap</p></td>
-      <td><p>When we deliver milestones or increments.</p></td>
+      <td><p>🗺️ Roadmap</p></td>
+      <td><p>When we deliver milestones or increments (long term).</p></td>
   </tr>
   <tr>
       <td rowspan="2"><p><b>Context</b></p></td>
@@ -94,6 +94,8 @@ See also [mandate levels](mandate-levels.md).
   </tr>
 </tbody>
 </table>
+
+
 
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 

@@ -170,7 +170,7 @@ Phases
 
 ### Reaction
 
-There are three main types of reactions to intense feelings.
+ There are three main types of reactions to intense feelings.
 
 - **Act** on the feeling. Express it. Let the feeling guide your action. `feeling -> acting`
 - **Immerse** yourself in the feeling. Stay with it. Without thinking. Without acting. `feeling -> feeling`

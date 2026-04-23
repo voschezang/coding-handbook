@@ -6,16 +6,16 @@ Outsourcing can be done at different mandate levels. It can be done in the form 
 
 
 
-Mandate levels from long term to short term. See also [terminology](../labour/terminology.md) and [strategy and vision](alignment/vision-strategy-documents.md).
+Mandate levels from long term to short term. From goals to projects. See also [terminology](../labour/terminology.md) and [strategy and vision](alignment/vision-strategy-documents.md).
 
-| Mandate                              | Description               |
-| ------------------------------------ | ------------------------- |
-| **❤️ Mission**                        | Why we exist              |
-| **⭐ Vision** (North star)            | What world we envision    |
-| **🎯 Objective** (OKR)                | What we intent to achieve |
-| **🗺️ Initiative** (saga/episode/epic) | An abstract plan          |
-| **📄 User story**                     | A specific plan           |
-| **☑️ Task**                           | A procedure               |
+| Mandate                            | Description               |
+| ---------------------------------- | ------------------------- |
+| **❤️ Mission**                      | Why we exist              |
+| **⭐ Vision** (North star)          | What world we envision    |
+| **🎯 Objective** (OKR)              | What we intent to achieve |
+| **Initiative** (saga/episode/epic) | An abstract plan          |
+| **📄 User story**                   | A specific plan           |
+| **☑️ Task**                         | A procedure               |
 
 Mandates may require constraints. These can be defined as.
 

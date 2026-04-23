@@ -227,7 +227,7 @@ Agents might be sensitive (perceptive) of themselves and their environment.
 
 ### Quality
 
-...
+See [quality](quality.md)...
 
 Any structure has quality. An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns, repetition, rules and rituals.
 
@@ -236,7 +236,7 @@ Any structure has quality. An absense of quality it leads to disorder and chaos.
 
 <img src="../img/worldview-quality.png" alt="worldview-quality" style="width:45em;" />
 
-
+![infographic-static-dynamic-quality](../img/infographic-static-dynamic-quality.jpg)
 
 ### Systems
 

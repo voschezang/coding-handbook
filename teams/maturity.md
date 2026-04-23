@@ -55,3 +55,5 @@ Group performance. Value delivery
 Note the similarity to [organizational](../systems/lifecycle.md) desires.
 
 <img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:42em;" />
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)

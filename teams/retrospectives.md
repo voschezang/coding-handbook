@@ -1,6 +1,6 @@
 # Retrospectives
 
-A retrospective is a reflection (lookback) session with the aim of learning.
+A retrospective is a reflection (lookback) session with the aim of learning. See [templates](retrospective-templates).
 
 [toc]
 

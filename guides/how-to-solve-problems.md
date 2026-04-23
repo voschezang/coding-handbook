@@ -29,7 +29,7 @@ Mindset
 | 📦 Find the right solution | Lean startup, prototyping, bets                              | Validation |
 | ⚙️ Build the solution      | [Engineering](../software-industry/engineering.md), project management | Quality    |
 
-## Tools
+## Tools / Methods
 
 Approaches
 
@@ -41,7 +41,7 @@ Approaches
 
 - ⏸️ Pause. Do nothing.
 
-
+<img src="../img/junction-change-deviate-rest.png" alt="junction-change-deviate-rest" style="height:250px;" />
 
 ## References
 
