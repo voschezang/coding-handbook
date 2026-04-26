@@ -6,8 +6,6 @@ The nature of personal relations can vary.
 - Reciprocal. Personal. Based on cooperation. Mutual support. Shared experience. Long-term
 - Shared interests.
 
-
-
 |                  | Transactional   | Reciprocal        | Shared Interests |
 | ---------------- | --------------- | ----------------- | ---------------- |
 | **Core**         | Fair exchange   | Shared experience | Aligned actions  |
@@ -16,16 +14,10 @@ The nature of personal relations can vary.
 | **Method**       | Trade           | Cooperate         | Alignment        |
 | **Time-horizon** | Instantaneously | Long-term         | Long-term        |
 
-
-
 <img src="../img/quadrant-objective-social.png" alt="quadrant-objective-social" style="width:80%;" />
 
 ### Related Models
 
-
-
-<img src="../img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="zoom:35%;" />  <img src="../img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
-
-
+<img src="../img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="zoom:35%;" />  <img src="../img/triangle-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
 
 <img src="../img/culture-principle-process.png" alt="culture-principle-process" style="width:50%;" />

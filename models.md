@@ -28,7 +28,7 @@ Push-pull
 
 People-oriented (who), result-oriented (what), thought-oriented (meta-how).
 
-<img src="img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="width:45%;" />  <img src="img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
+<img src="img/triangle-goal-people-tasks.png" alt="triangle-goal-people-tasks" style="width:45%;" />  <img src="img/triangle-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:45%;" />
 
 <img src="img/triangle-intellect-emotional-organizational.png" alt="triangle-intellect-emotional-organizational" style="width:50%;" />
 
@@ -44,13 +44,9 @@ Experience
 
 <img src="img/thoughts-feelings-behaviour.png" alt="thoughts-feelings-behaviour" style="width:60%;" />
 
-
-
 ## Pyramids
 
 <img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
-
-
 
 <img src="img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:36em;" />
 

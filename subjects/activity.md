@@ -8,33 +8,24 @@ We can distinguish between *vita activa* and *vita contemplativa* (see [Hannah A
 
 <img src="../img/vita-activa-contemplativa.png" alt="vita-activa-contemplativa" style="zoom:40%;" />
 
-
-
 **Vita activa** Be active. Focus on engagement with the world. The purpose may differ:
 
 - Arbeiten (labour): Care for survival (self-preservation).
 - Herstellen (production): Care for the external world.
 - Handeln (acting): Care for the greater good.
 
-
-
 > Not all those who wander are lost.
 
 **Vita contemplativa**. Contemplate. Focus on internal experience of the world.
 
 - Entspannen (relaxing). Lingering. Resting.
-    - [Uparati](https://en.wikipedia.org/wiki/Uparati). Cessation, stopping.
-
-
-
+  - [Uparati](https://en.wikipedia.org/wiki/Uparati). Cessation, stopping.
 
 ## Vita Activa
 
 > Active people roll like a stone, confirming to the stupidity of mechanics.
 
 Nietzsche called vita activa a form of laziness. True activity would be to reject conformity.
-
-
 
 Types of activity
 
@@ -47,28 +38,22 @@ Types of activity
 
 *Utilities* are products that have *some* purpose, rather than merely being consumption.
 
-
-
 Note the difference in the nature of the activities: continuation, results and change.
 
 - Labour focusses on a *continuation* of the subjects themselves.
-    - It is never-ending.
+  - It is never-ending.
 
 - Production focusses on external *results*: utilities or art.
-    - It results in an otherness: an [external](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation), objective world. "A world of things."
-    - It has a bias for results and alienation. It relates to [instrumentalism](https://en.wikipedia.org/wiki/Instrumentalism): where objects are evaluated based on purpose and usefulness.
+  - It results in an otherness: an [external](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation), objective world. "A world of things."
+  - It has a bias for results and alienation. It relates to [instrumentalism](https://en.wikipedia.org/wiki/Instrumentalism): where objects are evaluated based on purpose and usefulness.
 
 - Action focusses on *change* of society.
-
-
 
 **History**
 
 In history, there has been a shift from *"Work so that you may rest"* to *"Rest so that you may work"*.
 
 In premodern eras, life consisted of an abundance of vita contemplativa. After modernization, the world became more efficient and labour-oriented. People started to focus on productivity.
-
-
 
 ### Purpose
 
@@ -89,13 +74,9 @@ A subject's purpose can be categorized as follows.
 
 The time-horizon can range from immediate, to long-term.
 
-
-
 ## Intent
 
-<img src="../img/trianlge-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:50%;" />
-
-
+<img src="../img/triangle-thought-people-tasks.png" alt="trianlge-thought-people-tasks" style="width:50%;" />
 
 ## References
 
