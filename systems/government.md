@@ -32,13 +32,11 @@ Governments can be separated along the dimensions centralization and alignment. 
 
 The coupling / power relations can be showed graphically. Anarchy is a new category, representing an absense of global organization.
 
-<img src="../img/power-coupling-government-4-domains.png" alt="power-coupling-government-4-domains" style="max-height:11em;" />
-
-
+<img src="../img/power-coupling-government-4-domains.png" alt="power-coupling-government-4-domains" style="width:54em;" />
 
 ## Four Domains
 
-Note the similarity to the four domains. See [power structures](power-structures.md) and [lifecycles](./lifecycle.md): power, rules, performance, ideals. Note however, that an idealogy based organization is still a coherent organization, unlinke an anarchy.
+Note the similarity to the four domains. See [power structures](power-structures.md) and [lifecycles](./evolution.md): power, rules, performance, ideals. Note however, that an idealogy based organization is still a coherent organization, unlinke an anarchy.
 
 <img src="../img/organization-progression.png" alt="organization-progression" style="width:54em;" />
 
@@ -46,16 +44,11 @@ Organizations follow an evolution of needs.
 
 ![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
 
-
-
 ### Other Governments
 
 In the quadrant-model, **democracies** and **republics** fit the closest to a federation or oligrachy. The health of its institutions determind the balance.
-
-
 
 In democracies, parties may co-exist in a symbiotic-like state. One needs the other.
 
 - Conservatives and progressives. Advocate for stability versus change.
 - Populists and bad conservatives. Populists presents themselves as saviours of the poor goverment policies (as underdog). The conservatives needs the thread of populists to justify their power.
-

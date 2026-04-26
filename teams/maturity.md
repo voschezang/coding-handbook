@@ -3,7 +3,7 @@
 Team maturity is difficult fit into a single model. This model considers the following dimensions are important for autonomous, cross-functional, self-organizing teams. This can help to select areas to improve. [Read more](https://martinfowler.com/bliki/MaturityModel.html).
 
 - Team health. E.g. psychological safety, trust, transparent expecations and results, resilience.
-- Team effectiveness. From competitive to cooperative. 
+- Team effectiveness. From competitive to cooperative.
 - Result-orientation. At what part of the value chain is the team focussing? Are they firefighting or pro-actively solving problems?
 
 ![map-maturity-health](../img/map-maturity-health.png)
@@ -40,7 +40,6 @@ Team maturity
   - Decisiveness. Speed of decision making. Willinness to make difficult decisions.
   - Agency. Able to implement (radical) change. Is the team able to *act* and change their identity (structure)?
 
-
 Group performance. Value delivery
 
 - Surviving. The team reacts to its environment.
@@ -48,11 +47,9 @@ Group performance. Value delivery
 - Focussed on organizational objectives.
 - Predictability.
 
-
-
 ![map-team-maturity-performance](../img/map-team-maturity-performance.png)
 
-Note the similarity to [organizational](../systems/lifecycle.md) desires.
+Note the similarity to [organizational](../systems/evolution.md) desires.
 
 <img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:42em;" />
 

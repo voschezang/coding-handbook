@@ -27,7 +27,7 @@ As a metaphor, consider:
 - An adventure in nature, with immersive experience (dynamic quality).
 - Getting lost in nature, being in disorder.
 
-![infographic-static-dynamic-quality](../img/infographic-static-dynamic-quality.jpg)
+<img src="../img/infographic-static-dynamic-quality.jpg" alt="infographic-static-dynamic-quality" style="width:51em;" />
 
 
 

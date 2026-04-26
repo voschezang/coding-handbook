@@ -2,6 +2,12 @@
 
 [toc]
 
+## Four Forces
+
+Four [fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction) in physics: gravity, electromagneticism, strong interaction, weak interaction.
+
+
+
 ## Net Forces
 
 The net force is the linear sum of forces.

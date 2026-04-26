@@ -14,25 +14,27 @@
 
 ## Quality
 
-![infographic-static-dynamic-quality](img/infographic-static-dynamic-quality.jpg)
+<img src="img/infographic-static-dynamic-quality.jpg" alt="infographic-static-dynamic-quality" style="width:51em;" />
+
+#### Four domains
+
+<img src="img/4-domains.jpg" alt="4-domains" style="width:45em;" />
 
 ## Organizations
 
-<img src="img/organization-progression.png" alt="organization-progression" style="width:54em;" />
+### Lifecycle
+
+<img src="img/lifecycle-apple-tree.png" alt="org-evolution-apple-tree" style="width:51em;" />
+
+### Evolution
+
+![org-evolution-restaurant](img/org-evolution-restaurant.jpg)
 
 ![pyramid-organiational-progression](img/pyramid-organiational-progression.png)
 
-### Team Sizing
+<img src="img/organization-progression.png" alt="organization-progression" style="width:54em;" />
 
-![scale-up-out](img/scale-up-out.png)
-
-### Product Increments
-
-![product-scaling](img/product-scaling.png)
-
-![product-increments](img/product-increments.png)
-
-## Productivity
+### Productivity
 
 <img src="img/production-outcome.png" alt="production-outcome" style="width:33em;" />
 
@@ -43,6 +45,16 @@
 ### Fire Brigade
 
 <img src="img/fire-brigade-text.png" alt="fire-brigade-text" style="width:42em;" />
+
+### Team Sizing
+
+![scale-up-out](img/scale-up-out.png)
+
+### Product Increments
+
+![product-scaling](img/product-scaling.png)
+
+![product-increments](img/product-increments.png)
 
 
 

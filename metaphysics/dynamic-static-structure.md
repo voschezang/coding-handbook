@@ -50,3 +50,16 @@ Two types of structure.
 
 
 
+### Information Systems
+
+See [orchestration-choreography](../alignment/orchestration-choreography.md)
+
+![orchestration-choreography](../img/orchestration-choreography.png)
+
+|            | Dynamic Messaging    | Static Commands     |
+| ---------- | -------------------- | ------------------- |
+| **Core**   | Local autonomy       | Top-down directives |
+| **Origin** | Adaptive, emergent   | Designed, enforced  |
+| **How**    | Choreography         | Orchestration       |
+| **What**   | Event messages (1:∞) | Commands (1:1)      |
+

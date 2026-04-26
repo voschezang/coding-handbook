@@ -66,4 +66,4 @@ In history, power has had different forms.
   - Production power. Future wealth.
   - Wealth. To attract capabilities.
 
-
+# 

@@ -58,3 +58,9 @@ Another analogy is that of (simulated) [annealing](https://en.wikipedia.org/wiki
 Organizations guide productivity by setting a release frequency. Fast releases allow more immediate reactions to competition, at the cost of local performance. The table below shows the result of operational disruptions and release frequency. Read more [here](../labour/release-frequency.md).
 
 <img src="../img/map-constraints-release-frequency.png" alt="map-constraints-release-frequency" style="max-height:21em;" />
+
+## Team Needs
+
+At a grander scale, the needs of a team follow an evolution. See [organizational desire](systems/desire.md). The needs influence the organizational structure and incentives.
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)

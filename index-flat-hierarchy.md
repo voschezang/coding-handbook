@@ -4,6 +4,14 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [toc]
 
+## 4
+
+[math/4 forces](math/forces.md) (physics)
+
+[metaphysics/4 domains](metaphysics/domains.md)
+
+[systems/4 power structures](systems/power-structures.md)
+
 ## Activity
 
 [subjects/activity.md](subjects/activity.md)
@@ -68,6 +76,10 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [management/goals-planning-strategy.md](legacy/alignment-strategy.md)
 
+[OKRs](alignment/OKRs.md)
+
+[labour/mandate-levels.md](labour/mandate-levels.md)
+
 ## Function & Relations
 
 [domain-modelling/relations.md](domain-modelling/relations.md)
@@ -82,7 +94,7 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [labour/lifecycle](labour/lifecycle.md)
 
-[systems/lifecycle](systems/lifecycle.md)
+[systems/lifecycle](systems/evolution.md)
 
 [metaphysics/quality.md](metaphysics/quality.md)
 

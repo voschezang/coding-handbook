@@ -10,15 +10,21 @@ The universe can be split up into five domains. The first split of reality is ma
 
 Higher structures tend to conflict with lower structures. They consist of emergent patterns that oppose or reject the rules of the latter. E.g. social structures limit biological desires and ideological structures disrupt social structures.
 
-1. **Inorganic** structures. Pure existence. This involves the world of physics. It consists of matter and energy.
-2. **Biological** structures. Subjectivity. These are specific lifeforms and the dynamics between them. 
+1. **Inorganic** structures. Pure existence. This involves the world of *physics*. It consists of matter and energy.
+2. **Biological** structures. Subjectivity. These are specific *lifeforms* and the dynamics between them.
 3. **Social** structures. Others. These are patterns that consist of multiple lifeforms.
-4. **Intellectual** structures. Shared concepts and memories. Ideals. Conventions.
+4. **Intellectual** structures. Shared concepts and memories. *Ideas* & ideaologies. Conventions.
 5. **Eternal** structures. These are concepts that are not contingent upon lifeforms or matter. These structures tend to be difficult to define.
 
 Note: this ordering assumes that lifeforms are organic, i.e. based on carbon-based molecules.
 
-
+| Structure                    | System Lenses                                      |
+| ---------------------------- | -------------------------------------------------- |
+| **Inorganic** structures     | Internal structure of components. Material         |
+| **Biological** structures    | Lifecycle of components                            |
+| **Social** structures        | Component relationships. Positions and positioning |
+| **Intellectual** structures. | Function or purpose of the system                  |
+| **Eternal** structures       | Type of system                                     |
 
 ### Examples
 
@@ -34,8 +40,6 @@ A few examples of eternal structures.
 - `e`  Euler's number
 - `∫` [Functions](../domain-modelling/relations.md)
 
-
-
 ### Qualities per Domain
 
 Quality can reach local optima at each level.
@@ -44,8 +48,6 @@ Quality can reach local optima at each level.
 - Biological structures: feelings. the edges of homeostasis. Balance: homeostasis.
 - Social structures: care for basic human needs. Utility.
 - Intellectual structures: better frameworks to embody knowledge?
-
-
 
 These domains show similarity to the [7 chakras](https://en.wikipedia.org/wiki/Chakra#The_seven_chakra_system), in the order from Muladhara to Sahasrara.
 
@@ -57,71 +59,50 @@ These domains show similarity to the [7 chakras](https://en.wikipedia.org/wiki/C
 | **Intellectual** structures. | Virtual. Spiritual. Ideas hold by subjects                   | Capability              | Conventions          |
 | **Eternal** structures       | Ideals                                                       | Oneness                 |                      |
 
-
-
 ## Organizations
 
 Structures such as organisms and organizations exist in all domains at the same time. They are contingent on their lower-level structures.
 
-
-
 ### Examples
 
-|                       | Blood cell                           | Human                                       | City                       |
-| --------------------- | ------------------------------------ | ------------------------------------------- | -------------------------- |
-| **Inorganic view**    | Molecules                            | Molecules                                   | Buildings, citizens, roads |
-| **Biological view**   | Nucleus, cytoplasm                   | Cells, DNA                                  | A population that can grow |
-| **Social view**       | Cardiovascular system, immune system | A *person* with rights and responsibilities | Communities, businesses    |
-| **Intellectual view** | Roles                                | A subjective worldview, opinions, memory    | Conventions                |
-| **Eternal view**      |                                      | Human nature                                | Urban nature               |
+<img src="../img/4-domains.jpg" alt="4-domains" style="width:45em;" />
+
+|                       | Person                                                       | Team                        | City                       |
+| --------------------- | ------------------------------------------------------------ | --------------------------- | -------------------------- |
+| **Inorganic view**    | ⚛ Molecules, atoms                                           | Members                     | Buildings, citizens, roads |
+| **Biological view**   | 🧬 Cells, DNA. A baby                                         | Evolution of the team       | A population that can grow |
+| **Social view**       | 👤 A *person* with rights and responsibilities. Social economic role | Position in an organization | Communities, businesses    |
+| **Intellectual view** | 🪦 A subjective worldview, opinions, memory, legacy           | Purpose                     | Conventions                |
+| **Eternal view**      | Human nature                                                 |                             | Urban nature               |
 
 Note that the components in each perspective are subject to *different* forces. Molecules are subject to gravity, but a population is not. A person is a subject of the law, but molecules are not.
 
-
-
 **Lifecycle stages**
 
-See [lifecycle.md](../systems/lifecycle.md).
+See [lifecycle.md](../systems/evolution.md).
 
-|                         | 💲 Business Organization           | 💡 Non-profit Organization        |
-| ----------------------- | --------------------------------- | -------------------------------- |
-| **Inorganic domain**    | Existence.                        | Existence.                       |
-| **Biological domain**   | Quality, variance (risk), scale.  | Quality, variance (risk), scale. |
-| **Social domain**       | Market dynamics. Competition.     | Collaboration.                   |
-| **Intellectual domain** | Successors. Environmental impact. | Ideology.                        |
-
-
+|                         | 💲 Business Organization           | 💡 Non-profit Organization   |
+| ----------------------- | --------------------------------- | --------------------------- |
+| **Inorganic domain**    | Existence. Buildings, paper       | Existence. Buildings, paper |
+| **Biological domain**   | Cash flow, profit                 | Quality, funding            |
+| **Social domain**       | Market dynamics. Competition.     | Collaboration.              |
+| **Intellectual domain** | Successors. Environmental impact. | Ideology.                   |
 
 ## Health
 
 The domains can be mapped to Aristotle's [four causes](https://en.wikipedia.org/wiki/Four_causes).
 
 - Inside view
-    - Material health. Inner structure. The network of components that make up the structure.
-    - Natal/life-cycle health. The origin (birth) of the structure. How the structure evolves. E.g. growth of a human body or corporation.
+  - Material health. Inner structure. The network of components that make up the structure.
+  - Natal/life-cycle health. The origin (birth) of the structure. How the structure evolves. E.g. growth of a human body or corporation.
 - Outside view
-    - Positional view. The position of the structure in its environment.
-    - Functional view. The role of the structure in it's environment. It's purpose.
+  - Positional view. The position of the structure in its environment.
+  - Functional view. The role of the structure in it's environment. It's purpose.
 
 Notes
 
 - The environment of an object or structure can be an organization, system or society.
 - The material structure can be further decomposed into atomic parts and the relations between them. E.g. molecules that form organs in a human body.
-
-
-
-### Examples
-
-In a capitalist society.
-
-|                             | Person                        | Corporate Department                       |
-| --------------------------- | ----------------------------- | ------------------------------------------ |
-| **Material** (inorganic)    | Network of biological system. | Network of teams                           |
-| **Life-cycle** (biological) | Childbirth                    | Founding of the corporation and department |
-| **Position** (social)       | Family member                 | Position in the corporate hierarchy        |
-| **Function** (intellectual) | Job                           | Output of the department                   |
-
-
 
 ## References
 

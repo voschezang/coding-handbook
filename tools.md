@@ -31,6 +31,8 @@ Organizational structure
 Knowledge / understanding
 
 - [4 power structures](systems/power-structures.md)
+- [4 organizational desires](systems/desire.md)
 - [4 domains](metaphysics/domains.md)
-- [production chain](management/product-management.md)
+- [value chain / production chain](management/product-management.md)
 - [guides](guides/)
+

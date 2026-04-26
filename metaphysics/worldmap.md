@@ -8,17 +8,18 @@ The world consists of difference. Anything needs to differ to be observable. We 
 
 1. The world consists of uniformity and **disturbance**.
 2. Distrurbance can have **structure** or no structure (chaos). Structures may be created or destroyed.
-3. Structures are interpreted as **entities** and **organizations**.
-  4. Entities are defined through difference (boundaries). They have a beginning and ending. An inside and an outside.
-  5. Entities have an internal organization.
-  6. Organizations are connections of entities. Entities are connected to other entities.
-  7. The function of organizations is their desire.
-8. **Entities** are subject to forces.
-9. **Agents** are entities that act.
-  10. Acting is either goal-oriented, relation-oriented or self-expression.
-  11. Agents have experience.
-  12. Experience is a result of quality, sensitivity and dynamics.
-13. Quality is dynamic, static or absent.
+3. Structure can be **dynamic** or **static**.
+4. Static structures are interpreted as **entities** and **organizations**.
+  5. Entities are defined through difference (boundaries). They have a beginning and ending. An inside and an outside.
+  6. Entities have an internal organization.
+  7. Organizations are connections of entities. Entities are connected to other entities.
+  8. The function of organizations is their desire.
+9. **Entities** are subject to forces.
+10. **Agents** are entities that act.
+  11. Acting is either goal-oriented, relation-oriented or self-expression.
+  12. Agents have experience.
+  13. Experience is a result of quality, sensitivity and dynamics.
+14. Quality is dynamic, static or absent.
 
 
 
@@ -52,7 +53,7 @@ Disturbance relate to space or time. Waves may seemingly move over water,
 
 Disturbance can be structured. New structures can be created and destroyed. The beginning and ending of entities are disturbances. Their rise and fall.
 
-<img src="../img/continuity-creation-destruction.png" alt="continuity-creation-destruction" style="width:35em;" />
+<img src="../img/continuity-creation-destruction.png" alt="continuity-creation-destruction" style="width:33em;" />
 
 The *personifications* of these forces are Gaia, Apollo and Dionysus. Apollo is the deity of structure and harmony. Dionysus is associated with drama and ecstacy.
 
@@ -61,6 +62,15 @@ The *personifications* of these forces are Gaia, Apollo and Dionysus. Apollo is 
 These personifications are forces of nature, rather than specific deities. Similar to concepts as mother earth, lady justice, Marianne.
 
 
+
+### Structure
+
+Any structure has [quality](quality.md). An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns, repetition, rules and rituals.
+
+1. **Dynamic** quality transcends static quality.
+2. **Static** quality consists of permanent structure and [4 domains](domains.md) of impermanent structure.
+
+<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:45em;" />
 
 ### Double Articulation
 
@@ -89,27 +99,6 @@ This duality is fundamental. There is a two-step transformation process in betwe
 
 
 
-#### Connections & Relations
-
-Organizations are connections connections of entities. Entities within an organization are connected to each other the organization itself is often connected to other organizations.
-
-Entities are characterized by:
-
-- The product of the internal dynamics. Its desire. A **functional view**.
-- Its relation to other entities. A **social view**.
-
-
-
-The functional view emphasises the production process. It leads to an outcome.
-
-<img src="../img/production-outcome.png" alt="production-outcome" style="width:30em;" />
-
-The social view emphasises the relation to other entities. E.g. partners and customers.
-
-<img src="../img/value-chain-context-small.png" alt="value-chains-environment" style="width:40em;" />
-
-
-
 #### Functional View
 
 An entity may have many functions. Therefore one can define multiple functional views.
@@ -119,39 +108,6 @@ An entity may have many functions. Therefore one can define multiple functional 
 Fundamentally there are three types of functions.
 
 <img src="../img/system-types.png" alt="system-types" style="width:80%;" />
-
-#### Vehicles
-
-Entities are either subjects, objects or vehicles. The latter type is used by subjects. This includes nations, corporations and teams.
-
-
-
-**Delivery & Strategy**
-
-Corporations tend to optimize for revenue or growth. In addition, they take strategy into account: the ability to growth in the future.
-
-<img src="../img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="width:25em;" />
-
-
-
-Departments and teams deliver a product or service. This is the result of a production process. Production is enabled through capability.
-
-<img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:30em;" />
-
-
-
-### Relations
-
-#### Communication
-
-Communication consists of several layers.
-
-- ✉️ The message. The content.
-- 🎁 Packaging
-- 🚚 Delivery
-- 🌐 Context
-
-<img src="../img/triangle-communication-trust-content.png" alt="triangle-communication-trust-content" style="width:35em;" />
 
 #### Subjects
 
@@ -225,30 +181,82 @@ Agents might be sensitive (perceptive) of themselves and their environment.
 
 
 
-### Quality
-
-See [quality](quality.md)...
-
-Any structure has quality. An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns, repetition, rules and rituals.
-
-1. **Dynamic** quality transcends static quality.
-2. **Static** quality consists of 5 [domains](#Domains).
-
-<img src="../img/worldview-quality.png" alt="worldview-quality" style="width:45em;" />
-
-![infographic-static-dynamic-quality](../img/infographic-static-dynamic-quality.jpg)
-
-### Systems
+### Organization Evolution
 
 Systems are organizations that...
 
+Organizational needs.
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
+
+The four layers map to organizational structure.
+
+<img src="../img/organization-progression.png" alt="organization-progression" style="width:54em;" />
+
+As well as government types.
+
+<img src="../img/power-coupling-government-4-domains.png" alt="power-coupling-government-4-domains" style="width:54em;" />
+
+#### Teams
+
+Teams within organizations tend to evolve as well.
+
+<img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:15em;" />
+
+Team scale is directly related to specialization.
+
+![scale-up-out](../img/scale-up-out.png)
 
 
-![orchestration-choreography](../img/orchestration-choreography.png)
+
+## Other (Unsorted)
+
+#### Connections & Relations
+
+Organizations are connections connections of entities. Entities within an organization are connected to each other the organization itself is often connected to other organizations.
+
+Entities are characterized by:
+
+- The product of the internal dynamics. Its desire. A **functional view**.
+- Its relation to other entities. A **social view**.
 
 
 
-<img src="../img/network-structure.png" alt="network-structure" style="width:60%;" />
+The functional view emphasises the production process. It leads to an outcome.
+
+<img src="../img/production-outcome.png" alt="production-outcome" style="width:30em;" />
+
+The social view emphasises the relation to other entities. E.g. partners and customers.
+
+<img src="../img/value-chain-context-small.png" alt="value-chains-environment" style="width:40em;" />
+
+#### Vehicles
+
+Entities are either subjects, objects or vehicles. The latter type is used by subjects. This includes nations, corporations and teams.
 
 
 
+**Delivery & Strategy**
+
+Corporations tend to optimize for revenue or growth. In addition, they take strategy into account: the ability to growth in the future.
+
+<img src="../img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="width:25em;" />
+
+
+
+Departments and teams deliver a product or service. This is the result of a production process. Production is enabled through capability.
+
+<img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:30em;" />
+
+
+
+#### Communication
+
+Communication consists of several layers.
+
+- ✉️ The message. The content.
+- 🎁 Packaging
+- 🚚 Delivery
+- 🌐 Context
+
+<img src="../img/triangle-communication-trust-content.png" alt="triangle-communication-trust-content" style="width:35em;" />
