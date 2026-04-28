@@ -42,7 +42,7 @@ Structures consisting of multiple lifeforms. Structures that exist in physical f
 - Social Dynamics
   - [Leadership styles](alignment/eadership-styles.md)
 - Businesses & Organizations
-  - [management/accountabilities.md](management/accountabilities.md)
+  - [management/accountabilities.md](management/accountability-triangle.md)
   - [management/anti-management.md](management/anti-management.md)
   - [management/management-styles.md](management/management-styles.md)
   - Products & Projects
@@ -98,4 +98,3 @@ Shared concepts and memories. Conventions, symbols and memes. Things that can be
   - [domain-modelling/relations.md](domain-modelling/relations.md) and [functions](math/functions.md)
   - [domain-modelling/style-guide.md](domain-modelling/style-guide.md)
   - [programming-paradigms.md](domain-modelling/programming-paradigms.md), [patterns](domain-modelling/programming-patterns.md) and [functional patterns](domain-modelling/programming-patterns-functional.md)
-

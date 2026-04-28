@@ -18,13 +18,15 @@ Higher structures tend to conflict with lower structures. They consist of emerge
 
 Note: this ordering assumes that lifeforms are organic, i.e. based on carbon-based molecules.
 
-| Structure                    | System Lenses                                      |
-| ---------------------------- | -------------------------------------------------- |
-| **Inorganic** structures     | Internal structure of components. Material         |
-| **Biological** structures    | Lifecycle of components                            |
-| **Social** structures        | Component relationships. Positions and positioning |
-| **Intellectual** structures. | Function or purpose of the system                  |
-| **Eternal** structures       | Type of system                                     |
+| Structure                           | System Lenses                                 | Aristotle's four causes  |
+| ----------------------------------- | --------------------------------------------- | ------------------------ |
+| **Inorganic** structures (material) | Internal structure of components              | Material cause           |
+| **Biological** structures           | Dynamics and lifecycle of components          | Formal cause (structure) |
+| **Social** structures               | Dynamics with the outside world. Positioning. | -                        |
+| **Intellectual** structures.        | Function or purpose of the system. Output.    | Final cause              |
+| **Eternal** structures              | Type of system                                | -                        |
+
+The effiicent cause does not have a valid mapping to the domains.
 
 ### Examples
 
@@ -66,6 +68,8 @@ Structures such as organisms and organizations exist in all domains at the same 
 ### Examples
 
 <img src="../img/4-domains.jpg" alt="4-domains" style="width:45em;" />
+
+![org-evolution-restaurant](../img/org-evolution-restaurant.jpg)
 
 |                       | Person                                                       | Team                        | City                       |
 | --------------------- | ------------------------------------------------------------ | --------------------------- | -------------------------- |

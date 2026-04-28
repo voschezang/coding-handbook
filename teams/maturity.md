@@ -51,6 +51,6 @@ Group performance. Value delivery
 
 Note the similarity to [organizational](../systems/evolution.md) desires.
 
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:42em;" />
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:33em;" />
 
 ![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)

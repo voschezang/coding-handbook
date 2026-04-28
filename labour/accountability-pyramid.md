@@ -2,7 +2,7 @@
 
 **Accountability** is the key factor that distiguishes roles and responsibilities. This document presents a generic model for accountability.
 
-First, let's distinguish the **production** process and its **product**. These yield the first two accountabilities. Production is enabled through **capabilities**. Usually this is a mix of *technical* and *organizational* capability.
+First, let's distinguish the **production** process and its **product**. These yield the first two accountabilities. Production is enabled through **capabilities**. Usually this is a mix of *technical* and *organizational* capability. See [value chains](value-chains.md).
 
 <img src="../img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="width:35em;" />
 
@@ -22,4 +22,9 @@ Examples of accountabilities for capability:
 - Working empirically. Transparency, reflection.
 - Effectiveness. Ensuring commitments, attention to results.
 
-See also [value chains](value-chains.md).
+
+
+In practice, many roles mix two of the three.
+
+<img src="../img/product-production-capability.png" alt="product-production-capability" style="width:30em;" />
+

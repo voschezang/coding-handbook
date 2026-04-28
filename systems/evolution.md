@@ -2,6 +2,8 @@
 
 Organizations are always evolving. They improve and decline as a result of internal and external pressure. See also [product lifecycle](../labour/lifecycle.md).
 
+A capitalist example would be the transition from a small restaurant to a global franchise to a generic brand that embodies values.
+
 ![org-evolution-restaurant](../img/org-evolution-restaurant.jpg)
 
 ## Four Stages

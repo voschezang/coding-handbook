@@ -54,6 +54,26 @@ For each user story:
 
 
 
+### Mindmapping
+
+Steps
+
+1. Start with the core term
+2. Create a circle around it with ~5 related terms
+3. Add another circle with indirectly related terms
+4. Repeat this for even more terms
+
+Principles
+
+- Use a design thinking mindset. A beginner's mind. Explore rather than judge.
+- Move fast. Don’t censor or overthink.
+- Include wild and crazy ideas, they will eventually lead to grounded alternatives. Attempt to build upon the ideas of others.
+- Find the best solution. Consider many. Don’t anchor yourself to a bad solution.
+
+See also [brainstorming](https://en.wikipedia.org/wiki/Brainstorming).
+
+
+
 ## Lookback
 
 
@@ -120,6 +140,7 @@ For each topic
 
 
 
-## RCA
+### RCA
 
 ...
+

@@ -186,6 +186,7 @@ Technical
 **Context**
 
 - What have other candidates shown that impressed you?
+- How many other candidates have you interviewed before?
 
 
 

@@ -58,8 +58,9 @@ Outside views
 
 Inside views
 
-1. **Social** view. The dynamcis of the internal internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
-2. **Component** view. The structure of the individual parts. Its materials.
+1. **Social** view. The dynamcis of the internal components. The structure of the [network](https://en.wikipedia.org/wiki/Network_theory).
+2. **Evolutionary** view (2). The lifecycle or growth of the internal components.
+3. **Component** view. The structure of the individual parts. Its materials.
 
 |                       | Lens     | Emphasis                             | Model          | Domain              |
 | --------------------- | -------- | ------------------------------------ | -------------- | ------------------- |

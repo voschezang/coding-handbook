@@ -24,7 +24,11 @@ Push-pull
 
 ## Triangles
 
+<img src="img/triangle-product-management-accounting.png" alt="triangle-product-management-accounting" style="width:36em;" />
+
 <img src="img/effective-efficient-predictable.png" alt="effective-efficient-predictable" style="max-width:50%;" />
+
+<img src="img/scope-time-cost.png" alt="scope-time-cost" style="max-height:16em;" />
 
 People-oriented (who), result-oriented (what), thought-oriented (meta-how).
 
@@ -48,7 +52,7 @@ Experience
 
 <img src="img/communication-pyramid.png" alt="communication-pyramid" style="width:80%;" />
 
-<img src="img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:36em;" />
+<img src="img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:33em;" />
 
 <img src="img/pyramid-value-growth-strategy.png" alt="pyramid-value-growth-strategy" style="max-width:25em;" /> <img src="img/pyramid-capability-production-product.png" alt="pyramid-capability-production-product" style="max-width:30em;" />
 
@@ -83,6 +87,8 @@ Personality
 Confidence, trust, reputation
 
 <img src="img/quadrants-trust-reputation.png" alt="quadrants-trust-reputation" style="width:80%;" />
+
+<img src="img/quadrants-personal-social-work-obligations.png" alt="quadrants-personal-social-work-obligations" style="width:42em;" />
 
 ## Venn Diagrams
 

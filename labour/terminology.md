@@ -95,8 +95,6 @@ See also [mandate levels](mandate-levels.md).
 </tbody>
 </table>
 
-
-
 Note that these can be chosen for an *organization* and for each *product* within that organization.
 
 ## Storytelling
@@ -138,7 +136,7 @@ A *product* is a proxy for the set of [products](https://en.wikipedia.org/wiki/P
 
 It is a simplification of all the different services that create value. The product is not a constant, it changes over time. It evolves, together with the environment.
 
-In order to be valuable a product should be usable, feasible and desirable. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA. See [accountability](../management/accountabilities.md).
+In order to be valuable a product should be usable, feasible and desirable. Responsiblity for these qualities can be delegated to the following roles: product owner (PO), developer, SME or BA. See [accountability](../management/accountability-triangle.md).
 
 <img src="../img/venn-valuable-usable-feasible.png" alt="valuable-usable-feasible" style="width:25em;" />
 

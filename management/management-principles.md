@@ -1,12 +1,12 @@
 # Management Principles
 
-Note: This document covers the management of people and systems. See also [alignment](../alignment/alignment.md) and [accountabilities](accountabilities.md).
+Note: This document covers the management of people and systems. See also [alignment](../alignment/alignment.md) and [accountabilities](accountability-triangle.md).
 
 [toc]
 
 ## Overview
 
->  Good management is situational.
+> Good management is situational.
 
 There are countless management theories, but most managers follow their own principles. In practice, many decisions are biassed by emotions and politics. See [anti-management](anti-management.md) for a less idealized view on management.
 
@@ -40,8 +40,6 @@ Fundamentally, the functioning of a system follows the following phases.
 
 ### Practice
 
-
-
 Management consists of balances. For example:
 
 - Delegating some but not all.
@@ -50,8 +48,8 @@ Management consists of balances. For example:
 
 **Other properties**
 
-2. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
-3. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value.
+1. Type of leadership. The role can vary from being a *leader* to a *facilitator*.
+2. The nature of the target: *projects* or *processes*. The former focusses on reaching a goal within a time or cost bound. The latter is focusses on maximizing value.
     1. Project (time- and cost-bound). Focus on reaching a goal, completing requirements.
     2. Process (bound by opportunity cost). Focus on maximizing value (often profit). E.g. management of [products](./product-management.md) or people.
 
@@ -344,7 +342,7 @@ Communication - based on a request:
 
 1. Send acknowledgement
 2. Send planning. E.g. the estimated date of the change.
-4. Confirm success - after the change has been done.
+3. Confirm success - after the change has been done.
 
 Communication - based on change
 

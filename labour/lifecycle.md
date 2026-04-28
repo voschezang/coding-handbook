@@ -25,12 +25,12 @@ Each stage in the lifecycle of an product has challenges.
 
 
 
-|      | Uncertainty                  | Aim      | Avoid             | Time horizon   |
-| ---- | ---------------------------- | -------- | ----------------- | -------------- |
-| 🌱    | Existence                    | Survive  | Death             | Now            |
-| 🪴    | Stability                    | Grow     | Risk, variability | Potential      |
-| 🌳    | Competitive advantage        | Optimize | Under-performance | Long-term      |
-| 🍂    | Sustainability, significance | Ideals   | Tunnel vision     | Sustainability |
+|      | Uncertainty                      | Aim      | Avoid             | Time horizon   |
+| ---- | -------------------------------- | -------- | ----------------- | -------------- |
+| 🌱    | Existence (explore)              | Survive  | Death             | Now            |
+| 🪴    | Stability (expand)               | Grow     | Risk, variability | Potential      |
+| 🌳    | Competitive advantage (preserve) | Optimize | Under-performance | Long-term      |
+| 🍂    | Sustainability, significance     | Ideals   | Tunnel vision     | Sustainability |
 
 The scale and direction tends to vary. Organizations may have a fractal structure, with sub-organizations that have a different maturity.
 
@@ -40,9 +40,9 @@ The scale and direction tends to vary. Organizations may have a fractal structur
 
 ![org-evolution-restaurant](../img/org-evolution-restaurant.jpg)
 
-
-
 ## Maps
+
+![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
 
 **Lifecycle**
 

@@ -70,6 +70,6 @@ Their are seven chakras, located near the major ganglia.
 
 ### Other Needs
 
-See [desire (organizations)](systems/desire.md).
+See [organization needs](systems/desire.md).
 
-<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:42em;" />
+<img src="../img/pyramid-organiational-desire.png" alt="organiational-desire" style="width:33em;" />

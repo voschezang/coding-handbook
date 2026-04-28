@@ -63,6 +63,10 @@ A (in)direct result of the scope is **impact**. E.g. the effect of the initiativ
 
 <img src="../img/scope-time-cost.png" alt="scope-time-cost" style="max-height:16em;" />
 
+**Other requirements**
+
+<img src="../img/venn-feasible-viable-desirable.png" alt="venn-feasible-viable-desirable" style="width:30em;" />
+
 **Functional and non-functional requirements (NFR)**
 
 [Functional requirements](https://en.wikipedia.org/wiki/Functional_requirement) specify how a system or component should behave, *as function* of its [inputs](https://en.wikipedia.org/wiki/IPO_model).

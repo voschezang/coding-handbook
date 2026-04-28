@@ -93,7 +93,7 @@ Abstractions are qualities of things. E.g. relations and properties.
   - [collaboration/ownership.md](collaboration/ownership.md)
   - [collaboration/trust.md](collaboration/trust.md)
   - [collaboration/accountability.md](collaboration/accountability.md)
-  - [management/accountabilities.md](management/accountabilities.md)
+  - [management/accountabilities.md](management/accountability-triangle.md)
 - Intellectual abstractions. Qualities of intellectual structures.
 
   - [metaphysics/value.md](metaphysics/value.md)

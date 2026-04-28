@@ -14,13 +14,7 @@ A subject can be:
 
 **Table of contents**
 
-- Purpose
-  - [Goals](../alignment/goals.md)
-- Method
-  - [Products and projects](product-project.md)
-  - [Platform](platform.md)
 - Details
   - [Identity](identity.md)
-  - [Requirements](requirements.md)
 - Context
   - [Property](property.md)
