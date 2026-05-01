@@ -30,9 +30,9 @@ Values may span over multiple dimensions. Dimensions may be correlated or uncorr
 
 
 
-A set of particles can be discretized over space, and transformed into a density function.
+A set of particles can be discretized over space, and transformed into a density function. Additionally the density function can be used to generate particles at a greater scale level (zoomed out).
 
-<img src="../img/particles-discretize-density.png" alt="particles-discretize-density" style="width:40em;" />
+<img src="../img/particles-discretize-density.png" alt="particles-discretize-density" style="width:51em;" />
 
 Alternatively, particles can be grouped into clusters.
 

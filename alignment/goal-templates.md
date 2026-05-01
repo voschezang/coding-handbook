@@ -150,11 +150,11 @@ Different ways to set goals
 **Legend**
 
 - A. Current state
-- B. Next target state, which will help towards Y and Z.
-- Y. Required objective for Z.
+- B. Next target state, towards  Z
+- Y. A precondition to Z
 - Z. North star goal
 
-<img src="../img/setting-goals.png" alt="seq-par-chain" style="width:80%;" />
+<img src="../img/setting-goals.png" alt="seq-par-chain" style="width:42em;" />
 
 #### Template 2: Goal Cascade
 

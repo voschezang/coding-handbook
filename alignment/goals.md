@@ -201,4 +201,4 @@ Set static goals to ensure a minimum standard of quality. Then optimize value wi
 
 Visually:
 
-<img src="../img/current-target-state.png" alt="current-target-state" style="width:70%;" />
+<img src="../img/current-target-state.png" alt="current-target-state" style="width:36em;" />
