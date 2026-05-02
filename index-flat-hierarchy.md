@@ -8,9 +8,11 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [math/4 forces](math/forces.md) (physics)
 
-[metaphysics/4 domains](metaphysics/domains.md)
+[metaphysics/4 domains](metaphysics/domains.md) (quality)
 
 [systems/4 power structures](systems/power-structures.md)
+
+ [lifecycle.md](labour/lifecycle.md) (4 stages)
 
 ## Activity
 
@@ -72,13 +74,13 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 ## Goals
 
-[labour/goals.md](alignment/goals.md)
+[mandate-levels.md](labour/mandate-levels.md) 
 
-[management/goals-planning-strategy.md](legacy/alignment-strategy.md)
+[goals.md](alignment/goals.md)
+
+ [goal-templates.md](alignment/goal-templates.md) 
 
 [OKRs](alignment/OKRs.md)
-
-[labour/mandate-levels.md](labour/mandate-levels.md)
 
 ## Function & Relations
 
@@ -129,6 +131,36 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 [intelligence/modelling.md](intelligence/modelling.md)
 
 [intelligence/mental-models.md](intelligence/mental-models.md)
+
+## Leadership
+
+> Leadership is the art of aligning people to reach a common goal.
+
+Direction
+
+-  [vision-strategy-documents.md](alignment/vision-strategy-documents.md)
+-  [mandate-levels.md](labour/mandate-levels.md) 
+-  [success.md](teams/success.md)
+-  [project-requirements.md](labour/project-requirements.md) (direct tasks)
+-  [ownership.md](collaboration/ownership.md) (direct responsibility)
+-  [trust.md](collaboration/trust.md) 
+
+Style
+
+-  [communication](communication) 
+-  [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
+
+Management
+
+- [anti-management.md](management/anti-management.md)
+- [anti-agile.md](software-industry/anti-agile.md) 
+
+- [gardening.md](teams/gardening.md)
+
+Accountability
+
+- [accountability-pyramid.md](labour/accountability-pyramid.md)
+- [accountability-triangle.md](management/accountability-triangle.md) 
 
 ## Organization
 

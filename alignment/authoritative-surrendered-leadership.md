@@ -1,6 +1,6 @@
-# Leadership
+# Authoritative and Surrendered Leadership
 
-Leadership is the ability to connect, in the context of an organization. Communication [styles](../communication/styles.md) play a huge role, whether in-person or [textual](../collaboration/documentation.md).
+Leadership involves the ability to connect, in the context of an organization. Communication [styles](../communication/styles.md) play a huge role, whether in-person or [textual](../collaboration/documentation.md).
 
 [toc]
 

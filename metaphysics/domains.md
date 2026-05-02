@@ -69,7 +69,11 @@ Structures such as organisms and organizations exist in all domains at the same 
 
 <img src="../img/4-domains.jpg" alt="4-domains" style="width:45em;" />
 
+See [product lifecycle.md](../labour/lifecycle.md)
+
 ![org-evolution-restaurant](../img/org-evolution-restaurant.jpg)
+
+<img src="../img/evolution-quality-person.png" alt="evolution-quality-person" style="width:42em;" />
 
 |                       | Person                                                       | Team                        | City                       |
 | --------------------- | ------------------------------------------------------------ | --------------------------- | -------------------------- |

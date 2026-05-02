@@ -40,9 +40,11 @@ The scale and direction tends to vary. Organizations may have a fractal structur
 
 ![org-evolution-restaurant](../img/org-evolution-restaurant.jpg)
 
-## Maps
+In reaillty the lifecycle may evolve unpredictably. See [organizatins evolution](../systems/evolution.md).
 
-![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
+<img src="../img/evolution-quality-company.png" alt="evolution-quality-company" style="width:42em;" />
+
+## Maps
 
 **Lifecycle**
 

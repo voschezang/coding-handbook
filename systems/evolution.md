@@ -14,6 +14,10 @@ Organizations evolve along with their needs. Progress toward higher layers is do
 
 Note that progression towards spirituality or impulsion is not inherently good. It is useful in a specific environment and it has side-effects.
 
+### Company Example
+
+<img src="../img/evolution-quality-company.png" alt="evolution-quality-company" style="width:42em;" />
+
 ## Organziational Structure
 
 The four phases map to organizational structure.
