@@ -32,3 +32,6 @@ Next, consider the dynamic nature of reality. Most things in reality are not sta
 
 Many discourses claim that everything that exists is part of a single being. A unity. All things are reflections of the one. Reality consists of Being, and Becoming is merely there in our perception. Like Plato's shadows in the cave.
 
+Contrarywise, Deleuze claims that the world full with multiplicities, examplified by the rhizome. The structure of a tree is hierarchical. A rhizome is a network of roots, without a beginning and or end.
+
+<img src="../img/tree-rhizome.jpg" alt="tree-rhizome" style="width:36em;" />
