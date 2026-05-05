@@ -6,7 +6,7 @@ Control implies structure. It attempts to avoid disorder and uncertainty. An alt
 
 ## Dual model
 
-There are two seemingly opposite philosophies to achieve alignment. See also [leadership styles](./leadership-styles.md).
+There are two seemingly opposite philosophies to achieve alignment. See also [authoritative & surrendered leadership](authoritative-surrendered-leadership.md).
 
 1. 🎛️ **Control**. A direct, brute-force approach that uses *power* to obtain control. It relies on rules and directives.
 2. 🧭 **Guidance**. A softer, indirect style that uses *empowerment*. It involves receptivity, facilitation and incentives.

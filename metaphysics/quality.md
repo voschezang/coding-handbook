@@ -2,6 +2,8 @@
 
 > Everyone feels quality, but it is hard to measure.
 
+>  You know quality before you can say what it is.
+
 Any structure has quality. An absense of quality it leads to disorder and chaos. Quality itself can be separated into dynamic and static quality. The latter includes static patterns, repetition, rules and rituals.
 
 1. **Dynamic** quality transcends static quality.

@@ -136,19 +136,25 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 > Leadership is the art of aligning people to reach a common goal.
 
-Direction
+Direction. To inspire. To envision
 
 -  [vision-strategy-documents.md](alignment/vision-strategy-documents.md)
+
+[Alignment](alignment)
+
+-  [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
+-  [control-guidance.md](alignment/control-guidance.md)
+  -  [project-requirements.md](labour/project-requirements.md) (direct tasks)
+
 -  [mandate-levels.md](labour/mandate-levels.md) 
 -  [success.md](teams/success.md)
--  [project-requirements.md](labour/project-requirements.md) (direct tasks)
 -  [ownership.md](collaboration/ownership.md) (direct responsibility)
 -  [trust.md](collaboration/trust.md) 
 
 Style
 
--  [communication](communication) 
--  [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
+- [communication](communication) 
+- [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
 
 Management
 
