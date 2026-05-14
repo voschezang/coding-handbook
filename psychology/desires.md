@@ -14,7 +14,7 @@ Two flavours of a simple model for desire and human needs.
 
 
 
-<img src="../img/pyramid-desire.png" alt="desire" style="width:90%;" />
+<img src="../img/pyramid-desire.png" alt="desire" style="width:51em;" />
 
 Typical desires:
 
@@ -23,13 +23,13 @@ Typical desires:
 
 
 
-|                  | Individualist Model                          | Collectivist Model            |
-| ---------------- | -------------------------------------------- | ----------------------------- |
-| **Success**      | "My" status (social, economic, intellectual) | Community or ideology         |
-| **Example**      | *Want to be the best*                        | *Desire to support an other*  |
-| **Bias**         | Global, objective metrics                    | Local, subjective connections |
-| **Risk**         | Optimize metrics                             | Stuck in tradition            |
-| **Anti-virtues** | Poverty suggests laziness                    | Wealth suggests exploitation  |
+|                  | Individualist Model                          | Collectivist Model           |
+| ---------------- | -------------------------------------------- | ---------------------------- |
+| **Success**      | "My" status (social, economic, intellectual) | Community or ideology        |
+| **Example**      | *Want to be the best*                        | *Desire to support an other* |
+| **Bias**         | Global, objective metrics                    | Local, informal connections  |
+| **Risk**         | Optimize metrics                             | Stuck in tradition           |
+| **Anti-virtues** | Poverty suggests laziness                    | Wealth suggests exploitation |
 
 
 

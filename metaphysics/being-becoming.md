@@ -8,9 +8,9 @@ Reality consists of the present. The presents exists within time and space. Bein
 
 **Spatial view**
 
-In practice, we think of the present as all of space at a fixed moment in time. Adding the dimension of time, we can expand reality is by the past and the future. A spatial view considers the present to be a *moment* in time.
+In practice, we think of the present as all of space at a fixed moment in time. Adding the dimension of time, we can expand reality is by the past and the future. A spatial view considers the present to be a *moment* in time. Space may be thought of as continuous or discrete.
 
-**Temporal view**
+**Spatio-temporal view**
 
 The spatial view assumes that time is separate from space. Lifting this assumption allows us to consider time and space as arbitrary dimensions. Consequently, the present can be defined as an *area* within the dimensions of space and time.
 
@@ -18,7 +18,9 @@ The spatial view assumes that time is separate from space. Lifting this assumpti
 
 Now that we have introcuded the *present*, let us consider *existence*. Out of the many things that exist, some are perpetual. E.g. numbers can be said to exist, and to never change. They are static and have a static identity. Let **Being** denote all things that exist in the present in a stable, static fashion. In this definition, time and space are bounded.
 
-Being may be synomous with Plato's world of Forms, Lacan's symbolic world.
+Let *atomoi* refer to the smallest, indivisible objects (not to be confused with atoms in physics). Reality can be thought of to exist of atamoi and emptiness or nothingness. Atamoi are thought of be eternal, as to satisfy the criteria that realtiy is unchanging.
+
+Over time, many things change. E.g. a seed may grow into a tree. This is explained as follows. The seed is said to contain the essence of the tree. This essence is static and unchanging. A famous example of such a parallel non-physical reality is Plato's world of Forms.
 
 ## Becoming
 

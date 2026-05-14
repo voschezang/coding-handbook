@@ -32,6 +32,12 @@
 
 <img src="img/organization-progression.png" alt="organization-progression" style="width:54em;" />
 
+<img src="img/tree-rhizome.jpg" alt="tree-rhizome" style="width:36em;" />
+
+## Culture
+
+<img src="img/factory-bazaar-temple.jpg" alt="factory-bazaar-temple" style="width:42em;" />
+
 ## Management
 
 <img src="img/accountabilities-gardener.png" alt="accountabilities-gardener" style="width:42em;" />
