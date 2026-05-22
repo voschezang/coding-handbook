@@ -47,7 +47,7 @@ Universals. Types.
   - [communication/non-violent.md](communication/non-violent.md)
   - [subjects/activity.md](subjects/activity.md)
   - [subjects/attention.md](subjects/attention.md)
-  - [psychology/desires.md](psychology/desires.md)
+  - [psychology/desires.md](anthropology/desires.md)
   - [psychology/ego.md](psychology/ego.md)
   - [psychology/experience.md](psychology/experience.md)
   - [psychology/health.md](psychology/health.md)
@@ -55,7 +55,7 @@ Universals. Types.
   - [psychology/nervous-system.md](psychology/nervous-system.md)
   - [psychology/neurodiversity.md](psychology/neurodiversity.md)
   - [psychology/personality.md](psychology/personality.md)
-  - [psychology/relations.md](psychology/relations.md)
+  - [psychology/relations.md](anthropology/relations.md)
 - Types of social structure
   - [systems/organization-types.md](systems/organization-types.md)
   - [teams/joint-teams.md](teams/joint-teams.md) - like families

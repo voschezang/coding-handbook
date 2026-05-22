@@ -27,19 +27,13 @@ _identity belief capability behavior environment_
 
 It also influences the rights a subject beliefs to have. E.g. to live in a certain country.
 
-
-
 ## Perception of self
 
 > What if we focus in improving “our” selves (community)
 
-See [property](property.md).
-
-
+See [property](../anthropology/property.md).
 
 <img src="../img/personal-social-selves.png" alt="personal-social-selves" style="width:45%;" />
-
-
 
 ## Self and Other
 
@@ -47,8 +41,6 @@ Terms
 
 - Self. The subject themselves.
 - Other. Other subjects and the environment.
-
-
 
 A distinction between the [self](https://en.wikipedia.org/wiki/Self) (internal) and its environment (external). E.g. a *subject* and the non-subject.
 
@@ -60,8 +52,6 @@ The Self or subject can be:
 
 [Multiplicity](https://en.wikipedia.org/wiki/Posthuman) of selves. Identification with each role is dynamic. "I was not myself". Time flies.
 
-
-
 ### Mathematical Identity
 
 In logic: `f(x) = x`.
@@ -72,10 +62,7 @@ Value of `I`. See [programming patterns](../computer-language/programming-patter
 - `1` for products
 - `[]` for sequences
 
-
-
 In philosophy
 
 - In [modelling](../domain-modelling/domain-driven-design.md).
 - In [classical philosophy](https://en.wikipedia.org/wiki/Identity_(philosophy)).
-

@@ -2,9 +2,9 @@
 
 Governing and execution of power in organizations. See also:
 
-- [coupling.md](alignment/coupling.md)
-- [control-guidance.md](alignment/control-guidance.md)
-- [power-structures.md](power-structures.md)
+- [coupling.md](../systems/alignment/coupling.md)
+- [control-guidance.md](../systems/alignment/control-guidance.md)
+- [power-structures.md](../systems/power-structures.md)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ The coupling / power relations can be showed graphically. Anarchy is a new categ
 
 ## Four Domains
 
-Note the similarity to the four domains. See [power structures](power-structures.md) and [lifecycles](./evolution.md): power, rules, performance, ideals. Note however, that an idealogy based organization is still a coherent organization, unlinke an anarchy.
+Note the similarity to the four domains. See [power structures](../systems/power-structures.md) and [lifecycles](../systems/evolution.md): power, rules, performance, ideals. Note however, that an idealogy based organization is still a coherent organization, unlinke an anarchy.
 
 <img src="../img/organization-progression.png" alt="organization-progression" style="width:54em;" />
 

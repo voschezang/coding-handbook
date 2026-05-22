@@ -17,4 +17,4 @@ A subject can be:
 - Details
   - [Identity](identity.md)
 - Context
-  - [Property](property.md)
+  - [Property](../anthropology/property.md)

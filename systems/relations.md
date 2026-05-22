@@ -1,6 +1,6 @@
 # Relations
 
-A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](../alignment/scale.md), [power](power-structures.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md) and personal [relations](../psychology/relations.md).
+A system or organization can be understood as a [network](https://en.wikipedia.org/wiki/Network_theory) of components. In case of a system of agents this provides a social view. See also [scale](../alignment/scale.md), [power](power-structures.md) and [structure](structure.md). See also [functions & relations.md](domain-modelling/functions-relations.md) and personal [relations](../anthropology/relations.md).
 
 [toc]
 
@@ -13,8 +13,6 @@ In theory, information flows top-down and a bottom-up. Top-down commands are typ
 These different approaches are called [orchestration and choreography](../alignment/orchestration-choreography.md) in IT.
 
 ![orchestration-choreography-orgs](../img/orchestration-choreography-orgs.png)
-
-
 
 ### Networks
 

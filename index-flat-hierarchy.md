@@ -52,7 +52,7 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [subjects/desire.md](subjects/desire.md)
 
-[psychology/desires.md](psychology/desires.md)
+[psychology/desires.md](anthropology/desires.md)
 
 [psychology/mind-body.md](psychology/mind-body.md)
 
@@ -74,11 +74,11 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 ## Goals
 
-[mandate-levels.md](labour/mandate-levels.md) 
+[mandate-levels.md](labour/mandate-levels.md)
 
 [goals.md](alignment/goals.md)
 
- [goal-templates.md](alignment/goal-templates.md) 
+ [goal-templates.md](alignment/goal-templates.md)
 
 [OKRs](alignment/OKRs.md)
 
@@ -92,7 +92,7 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 [psychology/health.md](psychology/health.md)
 
-[psychology/desires.md](psychology/desires.md)
+[psychology/desires.md](anthropology/desires.md)
 
 [labour/lifecycle](labour/lifecycle.md)
 
@@ -138,35 +138,35 @@ An index of this repository based on an almost flat hierarchy. Documents are gro
 
 Direction. To inspire. To envision
 
--  [vision-strategy-documents.md](alignment/vision-strategy-documents.md)
+- [vision-strategy-documents.md](alignment/vision-strategy-documents.md)
 
 [Alignment](alignment)
 
--  [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
--  [control-guidance.md](alignment/control-guidance.md)
-  -  [project-requirements.md](labour/project-requirements.md) (direct tasks)
+- [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
+- [control-guidance.md](alignment/control-guidance.md)
+- [project-requirements.md](labour/project-requirements.md) (direct tasks)
 
--  [mandate-levels.md](labour/mandate-levels.md) 
--  [success.md](teams/success.md)
--  [ownership.md](collaboration/ownership.md) (direct responsibility)
--  [trust.md](collaboration/trust.md) 
+- [mandate-levels.md](labour/mandate-levels.md)
+- [success.md](teams/success.md)
+- [ownership.md](collaboration/ownership.md) (direct responsibility)
+- [trust.md](collaboration/trust.md)
 
 Style
 
-- [communication](communication) 
+- [communication](communication)
 - [authoritative-surrendered-leadership.md](alignment/authoritative-surrendered-leadership.md)
 
 Management
 
 - [anti-management.md](management/anti-management.md)
-- [anti-agile.md](software-industry/anti-agile.md) 
+- [anti-agile.md](software-industry/anti-agile.md)
 
 - [gardening.md](teams/gardening.md)
 
 Accountability
 
 - [accountability-pyramid.md](labour/accountability-pyramid.md)
-- [accountability-triangle.md](management/accountability-triangle.md) 
+- [accountability-triangle.md](management/accountability-triangle.md)
 
 ## Organization
 

@@ -1,6 +1,6 @@
 # Desire
 
-In psychology, desire relates to an subject and a change. See [desire (subjects)](../subjects/desire.md),  [ego](ego.md) and [identity](../subjects/identity.md).
+In psychology, desire relates to an subject and a change. See [desire (subjects)](../subjects/desire.md),  [ego](../psychology/ego.md) and [identity](../subjects/identity.md).
 
 [toc]
 
@@ -12,16 +12,12 @@ Two flavours of a simple model for desire and human needs.
 2. The middle layer relates to the position (belonging) in a society. Either a status or ability to participate. A typical metric is net worth.
 3. The top layer relates to forms of enlightenment. Actualizing ones true potential. Being at peace.
 
-
-
 <img src="../img/pyramid-desire.png" alt="desire" style="width:51em;" />
 
 Typical desires:
 
 - In a individualist culture: I want a perfect partner, and live in a big house. Then become the next CEO.
 - In a collectivist culture: I want to become a great member for my community, and find inner peace.
-
-
 
 |                  | Individualist Model                          | Collectivist Model           |
 | ---------------- | -------------------------------------------- | ---------------------------- |
@@ -31,18 +27,12 @@ Typical desires:
 | **Risk**         | Optimize metrics                             | Stuck in tradition           |
 | **Anti-virtues** | Poverty suggests laziness                    | Wealth suggests exploitation |
 
-
-
 The difference is highlighted in **resumes**. These may either:
 
 - Rely on self-promotion of achievements. Emphasize individual results.
 - Show the relation to authorities. I.e. membership to prestigeous organizations. Contribution to team results.
 
-
-
 In pure individualistic cultures there is an incentive to quickly grow up to be independent. Conversely, in collectivist cultures there is a bias to trust and rely on family or the community.
-
-
 
 **Types of needs**
 
@@ -56,8 +46,6 @@ Standard human needs (Maslow).
 6. Order and beauty
 7. Self-actualization. Realizing ones potential.
 
-
-
 In two dimensions
 
 1. Personal. Well-being (safety) versus agency in an environment.
@@ -65,16 +53,12 @@ In two dimensions
 
 <img src="../img/psychological-needs.png" alt="psychological-needs" style="width:60%;" />
 
-
-
 **Jobs**
 
 Purpose of a job
 
 - The core method to measure self-worth.
 - A means to obtain leisure.
-
-
 
 # Other
 
@@ -85,8 +69,6 @@ Simple [model](https://en.wikipedia.org/wiki/Self-determination_theory)
 - Autonomy
 - Social connection
 - Competence / skill
-
-
 
 ## Dual Model
 
@@ -103,4 +85,3 @@ Social harmony
 - Autonomy, competence
 - Justice. Being treated fairly.
 - Safety, security, predictability
-

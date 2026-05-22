@@ -8,7 +8,7 @@ A capitalist example would be the transition from a small restaurant to a global
 
 ## Four Stages
 
-Organizations evolve along with their needs. Progress toward higher layers is done through gaining power, creating structure (rules), optimization (metrics) and creating values. These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). There is a resemblance to [individual desires](../psychology/desires.md).
+Organizations evolve along with their needs. Progress toward higher layers is done through gaining power, creating structure (rules), optimization (metrics) and creating values. These phases can be mapped to a [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). There is a resemblance to [individual desires](../anthropology/desires.md).
 
 ![pyramid-organiational-progression](../img/pyramid-organiational-progression.png)
 
@@ -29,4 +29,3 @@ The four phases map to organizational structure.
 See team [productivity](../teams/productivity-constraints.md).
 
 <img src="../img/team-productivity-lifecycle.png" alt="team-maturity-lifecycle" style="height:15em;" />
-

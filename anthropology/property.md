@@ -2,13 +2,7 @@
 
 Property is a social concept. It needs to recognized by multiple subjects. It is inherently excluding. E.g. borders of countries.
 
-
-
 <img src="../img/personal-social-selves.png" alt="personal-social-selves" style="width:40%;" />
-
-
-
-
 
 **Identity**
 
@@ -20,13 +14,11 @@ Property relates to the identity of a subject.
 - Possessions are part of someones identity.
 - Property has emotional value. E.g. proudness of owning high quality property. Shame of being poor.
 
-
-
 **Power & status**
 
 Desire for property has several origins.
 
-- Direct experience. 
+- Direct experience.
   - Resources. Self preservation. Utility.
 
 - Indirect experience.
@@ -34,26 +26,19 @@ Desire for property has several origins.
   - Dominance in a social hierarchy.
   - Attention. Social connection.
 
-
-
-
-**Types of property**
+**Nature of Property**
 
 - Organic. Natural, shared. Not owned if there is no owner present?
 - Synthetic. Manufactured, deliberately build. Sold or traded.
-
-
 
 **Possession**
 
 Possession can be based on:
 
-- 1st possession. I was here first. Applicable as long as you’re present. Forego ownership when owner is absent. 
+- 1st possession. I was here first. Applicable as long as you’re present. Forego ownership when owner is absent.
   - For animals: Food, territory, mates.
 - Ownership. 3rd party protection. Social convention. Persistent
 - Purpose. Possession holds because there there is emotional or utility.
-
-
 
 **Fairness**
 
@@ -63,3 +48,9 @@ The following conventions may hold in a given situation.
 - 1st possession. "I called it"
 - Rights based on past agreements
 - Implicit agreements. "Stay together until the end"
+
+**Rights**
+
+- Jus abutendi. Right to abuse or destroy property
+
+Endowment effect. Losing property (money) feels worse than gaining property.

@@ -10,8 +10,6 @@ The contracting phase aims to align expectations and give the coachee and coach 
 
 Start with developing a relation and building up trust. Initial agreements can be made on a abstract level. E.g. alignment on certain values or agreement on a title. Later agreements can be more specific.
 
-
-
 **Coach contract**
 
 Contract between coach and the coachee. The latter can be a team.
@@ -34,8 +32,6 @@ Contract between team members
 4. Responsibility. How can we ensure that we keep these agreements? How can we make this easier?
 ```
 
-
-
 ## Prompts
 
 Inquiring
@@ -52,10 +48,6 @@ Statements
 I notice/sense ...
 I'm hearing/feeling ...
 ```
-
-
-
-
 
 ## Templates
 
@@ -76,7 +68,7 @@ Purpose: zoom in towards core values and motivation.
 
 **Qualities & Allergies**
 
->  Each obstacle implies a strengths. 
+> Each obstacle implies a strengths.
 
 Purpose: understand extreme forms of behaviour. See [communication-principles](./principles.md) and also [personality](../psychology/personality.md).
 
@@ -89,13 +81,11 @@ List of
   - Allergy: the opposite of the quality.
 ```
 
-
-
 <img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="width:60%;" />
 
 **Needs (Maslow)**
 
-Purpose: understand where desires come from. See [desires](../psychology/desires.md).
+Purpose: understand where desires come from. See [desires](../anthropology/desires.md).
 
 ```markdown
 List of
@@ -105,8 +95,6 @@ List of
   - Desire. Change difference.
   - Fear. Perceived risks.
 ```
-
-
 
 **Actionable**
 
@@ -123,16 +111,12 @@ Prompts
 - Dissociate. *"You are aware of the thought of X"*
 - Out of the box. *"What would need to be true for you to belief this?"*
 
-
-
 ### Prompts
 
 ```markdown
 What kind of person do you want to be in your (work-)relationships?
 What do you feel?
 ```
-
-
 
 Dealing with sensitive / emotional topics. Don't start with investigation or solutioning.
 
@@ -143,8 +127,6 @@ RAIN
 3. Investigate. Deconstruct it: events, feelings, needs.
 4. Move forward. Find ways to improve.
 ```
-
-
 
 ### Exercises
 

@@ -37,19 +37,15 @@ The classification of societies shows the implicit ideology. In contrast to trad
 | **Communication**  | Direct, factual, often professional. Say what you mean.      | Expressive sincerity. High context but emotional             | High context. Listen first. Calm & calibrated answers. Respect. |
 | **Origin**         | UK, Germany, Benelux                                         | Southern Europe                                              | East Asia                                                    |
 
-
-
 ### ❄️ Procedural Society
 
 1. The **core** characteristics are the heavy usage of rules and roles. Predictability is ensured through schedules and contracts. Society is driven by performance and achievement.
-2. **Identity** is split into personal, social and work lives. They change their attitude based on the current role. 
+2. **Identity** is split into personal, social and work lives. They change their attitude based on the current role.
 3. This enables a dual **morality**. Deontology is favoured in general, while work roles allow consequentialist judgement (outcome-based) and diplomatic communication. Business is business. A deal is a deal. Ratio is highly valued.
 4. A **good life** may revolve around work. Work may provide significant meaning. Productivity is seen as virtuous. Life can be scheduled, making efficient use of the available time.
 5. The **origin** is specific to the beer belt countries (UK, Germany, Benelux). The most characteristic influences were an increased need for planning due to cold winters, Potestant and Calvinist morals, rationalism, merchant capitalism and a history of competent institutions and relatively low corruption. The societies were highly compatible with the mass coordination needed for industrialization.
 
 The systematic nature, mild emotional expression, planned lifestyles and the consequentialist judgement can seem cold and apathetic to outsiders.
-
-
 
 ### 🔥 Relational Society
 
@@ -57,11 +53,9 @@ The systematic nature, mild emotional expression, planned lifestyles and the con
 2. **Identity** is interdependent. Shared personal, social and professional lives. Personal relationships intertwine with business business.
 3. **Morality** is highly contextual (particularism). Rules are negotiable. Some rules should be bend. Relationships come before business.
 4. A **good life** consists of shared experience and leisure. Slack allows for spontaneity. Work is merely a tool. *Carpe diem. Dolce far niente.*
-5. The **origin** South European countries. The most characteristic influence is the prevalence of co-existent power structures. The state, the church, patrons, family. There is a history of weak states. 
+5. The **origin** South European countries. The most characteristic influence is the prevalence of co-existent power structures. The state, the church, patrons, family. There is a history of weak states.
 
 The resistance to institutions and preference for flexibility and spontaneity may make these societies seem impatient or chaotic to outsiders.
-
-
 
 ### ☯️ Collectivist Society
 
@@ -73,8 +67,6 @@ The resistance to institutions and preference for flexibility and spontaneity ma
 
 The emotional restraint and focus on the collective may seem suppressive to outsiders.
 
-
-
 ## Communism
 
 Historically, communism has been most compatible with collectivist societies. The socialist nature and respect for institutions provides a basis for communist policies.
@@ -85,7 +77,7 @@ Relational societies tend to have stronger support for communist ideas. Yet, com
 
 ## Desires Model
 
-See also [desires](desires.md).
+See also [desires](./desires.md).
 
 <img src="../img/pyramid-desire.png" alt="desire" style="width:51em;" />
 
