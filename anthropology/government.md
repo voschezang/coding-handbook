@@ -52,3 +52,11 @@ In democracies, parties may co-exist in a symbiotic-like state. One needs the ot
 
 - Conservatives and progressives. Advocate for stability versus change.
 - Populists and bad conservatives. Populists presents themselves as saviours of the poor goverment policies (as underdog). The conservatives needs the thread of populists to justify their power.
+
+
+
+## Coupling
+
+The quadrant maps to coupling in organizations. See [coupling.md](../alignment/coupling.md).
+
+<img src="../img/power-coupling-organization-topology.png" alt="power-coupling-organization-topology" style="width:45em;" />

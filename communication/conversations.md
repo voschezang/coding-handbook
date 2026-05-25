@@ -87,7 +87,7 @@ Then
 
 Individuals can be strongly goal-oriented, people-oriented or thought-oriented. In conversations the emphasis may lie on these respective styles. See [personality](../psychology/personality.md) and [DISC](https://en.wikipedia.org/wiki/DISC_assessment).
 
-<img src="../img/results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
+<img src="../img/triangle-results-thoughts-people.png" alt="results-thoughts-people" style="width:60%;" />
 
 Converstations can move between content, form, relation and context. See [communication triangle](pyramid.md).
 

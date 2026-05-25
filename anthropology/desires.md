@@ -27,12 +27,16 @@ Typical desires:
 | **Risk**         | Optimize metrics                             | Stuck in tradition           |
 | **Anti-virtues** | Poverty suggests laziness                    | Wealth suggests exploitation |
 
+In pure individualistic cultures there is an incentive to quickly grow up to be independent. Conversely, in collectivist cultures there is a bias to trust and rely on family or the community.
+
+Both models contain a - biassed - measurement of a **utility**. They compare the value of one's life. Corporate or communal achievement indicate high utility. Doing nothing signifies low utility.
+
 The difference is highlighted in **resumes**. These may either:
 
 - Rely on self-promotion of achievements. Emphasize individual results.
 - Show the relation to authorities. I.e. membership to prestigeous organizations. Contribution to team results.
 
-In pure individualistic cultures there is an incentive to quickly grow up to be independent. Conversely, in collectivist cultures there is a bias to trust and rely on family or the community.
+
 
 **Types of needs**
 

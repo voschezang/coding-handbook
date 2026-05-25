@@ -55,7 +55,7 @@ Universals. Types.
   - [psychology/nervous-system.md](psychology/nervous-system.md)
   - [psychology/neurodiversity.md](psychology/neurodiversity.md)
   - [psychology/personality.md](psychology/personality.md)
-  - [psychology/relations.md](anthropology/relations.md)
+  - [anthropology/relationship-triangle.md](anthropology/relationship-triangle.md)
 - Types of social structure
   - [systems/organization-types.md](systems/organization-types.md)
   - [teams/joint-teams.md](teams/joint-teams.md) - like families
