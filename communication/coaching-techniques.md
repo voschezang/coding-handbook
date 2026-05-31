@@ -70,7 +70,7 @@ Purpose: zoom in towards core values and motivation.
 
 > Each obstacle implies a strengths.
 
-Purpose: understand extreme forms of behaviour. See [communication-principles](./principles.md) and also [personality](../psychology/personality.md).
+Purpose: understand extreme forms of behaviour. See [qualities-allergies](../psychology/qualities-allergies.md) and [personality](../psychology/personality.md).
 
 ```markdown
 List of

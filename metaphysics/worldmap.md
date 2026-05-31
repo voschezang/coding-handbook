@@ -15,11 +15,15 @@ The world consists of difference. Anything needs to differ to be observable. We 
   7. Organizations are connections of entities. Entities are connected to other entities.
   8. The function of organizations is their desire.
 9. **Entities** are subject to forces.
-10. **Agents** are entities that act.
-  11. Acting is either goal-oriented, relation-oriented or self-expression.
-  12. Agents have experience.
-  13. Experience is a result of quality, sensitivity and dynamics.
-14. Quality is dynamic, static or absent.
+   1. **Agents** are entities that act.
+   2. Acting is either goal-oriented, relation-oriented or self-expression.
+   3. Agents have experience.
+   4. Experience is a result of quality, sensitivity and dynamics.
+
+10. 4 domains → fields
+    1. Social structure → organizations, alignment
+    2. Labour → management, engineering
+
 
 
 
@@ -181,7 +185,22 @@ Agents might be sensitive (perceptive) of themselves and their environment.
 
 
 
-### Organization Evolution
+### Fields
+
+Fields exist in the higher domains (social, intellectual). A few lists:
+
+- Highest level: [fields.md](../anthropology/fields.md)
+- Management and organizations
+  - Organization: [accountability-triangle.md](../management/accountability-triangle.md)
+  - Operations: [accountability-pyramid.md](../labour/accountability-pyramid.md) 
+  - Strategy: [mandate-levels.md](../labour/mandate-levels.md)
+- Software industry
+  - [software-domains.md](../software-industry/software-domains.md)
+  - [software-domains-table.md](../software-industry/software-domains-table.md)
+
+
+
+#### Organization Evolution
 
 Systems are organizations that...
 
@@ -197,7 +216,7 @@ As well as government types.
 
 <img src="../img/power-coupling-government-4-domains.png" alt="power-coupling-government-4-domains" style="width:54em;" />
 
-#### Teams
+##### Teams
 
 Teams within organizations tend to evolve as well.
 

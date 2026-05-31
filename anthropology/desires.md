@@ -36,9 +36,19 @@ The difference is highlighted in **resumes**. These may either:
 - Rely on self-promotion of achievements. Emphasize individual results.
 - Show the relation to authorities. I.e. membership to prestigeous organizations. Contribution to team results.
 
+### Attribution & Humiliy
 
+Attribution styles bear a resemblance to the two categories.
 
-**Types of needs**
+-  **Internal attribution** is ego-centric. It emphasizes exceptionalism and pride. It also implies a high level of personal responsibility. 
+- **External attribution** recognizes the interdependent nature of the world. Success is as attributed to luck or the environment. Failure is surrounded by excuses and forgiveness. Confuscian humility creates a stark contrast with ego-centric exeptionalism. It embraces being ordinary. It teaches gratefulness for being lucky enough when success.
+
+|                           | Individualist Model      | Collectivist Model                   |
+| ------------------------- | ------------------------ | ------------------------------------ |
+| **Attribution (success)** | Internal (ego). Be proud | External (luck). Confuscian humility |
+| **Attribution (failure)** | Personal responsibility  | Excuses, forgiveness                 |
+
+## Types of needs
 
 Standard human needs (Maslow).
 

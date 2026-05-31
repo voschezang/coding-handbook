@@ -181,13 +181,13 @@ Expression of personality in an environment.
 
 
 
-|                 | 💧 Cool Blue    | 🔥 Fiery Red             | 🌻 Sunshine Yellow               | ☘️ Earth Green          |
-| --------------- | -------------- | ----------------------- | ------------------------------- | ---------------------- |
-| **Value**       | Considerate    | Determined, dominant    | Inspiration, excitement, social | Caring, sharing        |
-| **Preference**  | Analyze        | Fast action             | Together                        | Fairness, conservative |
-| **Active**      | Inward         | Outward                 | Outward                         | Inward                 |
-| **Orientation** | Task           | Task                    | People                          | People                 |
-| **Risk**        | Cold, cautious | Aggressive, controlling | Persuasive, hasty               | Conforming, reliant    |
+|                 | 💧 Cool Blue    | 🔥 Fiery Red             | 🌻 Sunshine Yellow               | ☘️ Earth Green            |
+| --------------- | -------------- | ----------------------- | ------------------------------- | ------------------------ |
+| **Value**       | Considerate    | Determined, dominant    | Inspiration, excitement, social | Caring, sharing, respect |
+| **Preference**  | Analyze        | Fast action             | Together                        | Fairness, conservative   |
+| **Active**      | Inward         | Outward                 | Outward                         | Inward                   |
+| **Orientation** | Task           | Task                    | People                          | People                   |
+| **Risk**        | Cold, cautious | Aggressive, controlling | Persuasive, hasty               | Conforming, reliant      |
 
 
 
@@ -226,24 +226,9 @@ Values and purpose. See [Keirsey temperament sorter](https://en.wikipedia.org/wi
 
 <img src="../img/personality-achievement-harmony.png" alt="personality-achievement-harmony" style="max-height:26em;" />
 
-
-
 ### Qualities & Allergies
 
-Core quality quadrant: personal qualities & risks
-
-> Each allergy signifies an underlying quality
-
-For each *quality* or trait, there is an extreme which usually has adverse effects. This presents a *risk*. Often, the behaviour associated with addressing this risk is the reverse of the quality. Behaving in the opposite direction of the initial quality is *challenging*.
-
-The extreme side of the challenge may conflict with the initial quality. This is the *allergy*.
-
-<img src="../img/quality-risk-challenge.png" alt="quality-risk-challenge-allergy" style="max-height:14em;" />
-
-Critique
-
-1. The model is biassed toward moderate qualities. It implies that conflict is resolved through personal growth. Neurodivergent people should un-learn any traits that are  extreme.
-2. Many traits are situational. The environment determines whether a trait is a handicap or not.
+[qualities-allergies.md](qualities-allergies.md)
 
 
 

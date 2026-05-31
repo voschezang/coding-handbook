@@ -4,6 +4,8 @@ This document presents a basic model for ideologies (beliefs) that are embedded 
 
 Like all models, this model is wrong. It resembles specific societies in specific eras and fails to cover the majority of societies (present and historical). Instead of attempting to capture the complexity of multicultural societies, it attempts to explain the different directions societies have taken.
 
+See also [relationship types](relationship-triangle.md) within societies.
+
 [toc]
 
 ## Freedom Triangle
@@ -34,7 +36,7 @@ The classification of societies shows the implicit ideology. In contrast to trad
 | **Morality**       | Principled. Deontological morality. Impersonal rules. Avoid favorism. | Particularism. High context. Dignity, forgiveness.           | Moral duty, minimize friction. Long-term stability.          |
 | **Accountability** | Institutions judge outcomes. <br />Business = business. <br />A deal = a deal. | Rules are negotiable. Personal relationships before business. | Balance                                                      |
 | **Satisfaction**   | Work provides significant meaning                            | *Carpe diem. Dolce far niente*                               | Peaceful contribution. Social harmony. *Wa*                  |
-| **Communication**  | Direct, factual, often professional. Say what you mean.      | Expressive sincerity. High context but emotional             | High context. Listen first. Calibrated answers. Respect & humility |
+| **Communication**  | Direct, factual, often professional. Say what you mean.      | Expressive sincerity. High context but emotional             | High context. Listen first. Confuscian humility. Calibrated answers. Respect. |
 | **Origin**         | UK, Germany, Benelux                                         | Southern Europe                                              | East Asia                                                    |
 
 ### ❄️ Procedural Society
@@ -63,7 +65,7 @@ The resistance to institutions and preference for flexibility and spontaneity ma
 2. **Identity** is rooted in community. The ego is far less important than in individualist societies.
 3. **Morality** and ethics are balanced deontology (duty), virtue (self-discipline, sincerity) and consequences (harmony, long-term stability). Duty depends on relationships and hierarchy. Moral duty.
 4. A **good life** consists of living virtuously, in peace. The "reward" is social harmony. 
-5. Communication is high context. Listening and humility is cherished. *Man zhao sun qian shou yi*. Complacency (excess) invites loss, humility invites progress. Pride comes before the fall.
+5. Communication is high context. Listen first. Confuscian humility. *Man zhao sun qian shou yi*. Complacency (excess) invites loss, humility invites progress. Pride comes before the fall. Confuscian humility.
 6. Next to a spiritual foundation, East Asian countries featured ancient imperial bureaucracies.
 
 The emotional restraint and focus on the collective may seem suppressive to outsiders. The emphasis on humility may seem self-critical when taken out of context.

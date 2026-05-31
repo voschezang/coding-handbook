@@ -29,6 +29,21 @@ Second, consider activity: *becoming*. Work is about results and achievement. Pl
 
 <img src="../img/quadrants-personal-social-work-obligations.png" alt="quadrants-personal-social-work-obligations" style="width:42em;" />
 
+## Relationships
+
+Relationships revolve around trust. Here are some more properties of (romantic) relationships. They relate both to the other partner and to the relationship itself. Connection is the core of the relationship. Each partner can take the responsibility to be open themselves and to have compassion for the partner. Alignment relates to the whole: it involves the ability to resolve conflict together.x
+
+|           | Strengthen relationship                         | Degrade relationship                                  |
+| --------- | ----------------------------------------------- | ----------------------------------------------------- |
+| **Core**  | Connection (intimacy, love, care)               | Distance, neglect, wihdrawal, carelessness            |
+| **Self**  | Openness (honesty, vulnerability, transparency) | Closure. Stonewalling, defensiveness, lying           |
+| **Other** | Compassion (empathy, respect)                   | Hostility. Judgement, criticism, contempt, resentment |
+| **Whole** | Alignment (cooperation)                         | Divergence. Inability to resolve conflict             |
+
+The four horsemen of relationships are criticism, contempt, defensiveness and stonewalling (Gottman)
+
+
+
 ## References
 
 - Bill Burnett and Dave Evans. *Designing Your Life*

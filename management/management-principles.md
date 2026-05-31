@@ -1,6 +1,6 @@
 # Management Principles
 
-Note: This document covers the management of people and systems. See also [alignment](../alignment/alignment.md) and [accountabilities](accountability-triangle.md).
+Note: This document covers the management of people and systems. See also [alignment](../alignment/alignment.md), [accountabilities](accountability-triangle.md) and [fields](../anthropology/fields.md).
 
 [toc]
 

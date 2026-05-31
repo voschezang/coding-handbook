@@ -1,6 +1,6 @@
 # Accountability Triangle
 
-See also [accountability pyramid](../labour/accountability-pyramid.md) (for internal accountabilities) and [mandate levels](../labour/mandate-levels.md).
+See also [accountability pyramid](../labour/accountability-pyramid.md) (for internal accountabilities) and [mandate levels](../labour/mandate-levels.md). See also [fields](../anthropology/fields.md).
 
 [toc]
 

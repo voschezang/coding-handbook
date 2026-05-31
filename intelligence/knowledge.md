@@ -17,7 +17,7 @@ Knowledge begins with similarity. It recognizes structures and patterns.
 
 ## Domains
 
-Science attempts to organize knowledge. It relates to the following domains.
+Science attempts to organize knowledge. It relates to the following domains. See [fields](../anthropology/fields.md).
 
 | Domain            | Quality (Emphasis)     | Bias                  | Artifact                    |
 | ----------------- | ---------------------- | --------------------- | --------------------------- |
