@@ -1,16 +1,16 @@
 # Macroeconomics
 
-[toc]
-
-## Fundamentals
+Fundamentals of economic systems. See also [economics](economics.md).
 
 **Inflation**. Inflated prices make money less valuable.
 
 **Interest** is paid as compensation for loans. Households receive interest on savings accounts and governments pay interest on bonds.
 
-### Printing Money
+## Printing Money
 
 Traditionally, banks would lend out money at interest. Modern banks have effectively the ability to create electronic money through loans. Central banks may even create money by buying assets (e.g. bonds). It is expected that most loans are paid back. However, a fraction of loans is expected to default. The premium compensates for this. When too many loans default, it causes problems. Trust in (central) banks or will diminish.
+
+When a debtor cannot pay, there can legal (or violent) consequences. A state or patron steps in.
 
 ### Monetary Policy
 

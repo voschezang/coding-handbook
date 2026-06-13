@@ -36,6 +36,7 @@ Note that the validity of the following statements is dependent on certain *impl
 * [God](https://en.wikipedia.org/wiki/God_is_dead) is dead.
 * [Capitalism](https://en.wikipedia.org/wiki/Yanis_Varoufakis) is dead.
 * Management studies optimize for teaching management.
+* Credit scores are better at predicting class than merit.
 
 ### Models & Language
 
@@ -46,6 +47,7 @@ Note that the validity of the following statements is dependent on certain *impl
 - All big data comes from the [past](https://en.wikipedia.org/wiki/Selection_bias).
 - Language is fundamentally flawed and is merely a network of [signs](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) and [hyperlinks](https://en.wikipedia.org/wiki/Hyperreality).
 - Language is restrictive. It allows concepts to be expressed, but in a biased way.
+- Compression is intelligence.
 
 ### Quality / Value
 
@@ -72,7 +74,7 @@ Note that the validity of the following statements is dependent on certain *impl
   * Prefer messy but effective communication over efficient silos (with tunnel vision).
   * Doing the right thing > being right.
 * Good strategy means saying no (otherwise there would be no strategy).
-* Process = (average) intensity + consistency
+* Process = (average) intensity + consistency. Intensity impresses, consistency transforms
   * Good outcome > meeting the initial requirements.
   * Procedures > plans (if not overly bureaucratic). E.g. [the scientific method](https://en.wikipedia.org/wiki/Scientific_method), [PDCA](https://en.wikipedia.org/wiki/PDCA).
     * "No plan survives first contact"
@@ -183,6 +185,8 @@ Note that the validity of the following statements is dependent on certain *impl
 * Time is a game played beautifully by children.
 * My TV isn't HD that's too real.
 * Once you let go of music being correct, you can do whatever you want.
+* Happiness is letting go of what you don’t need.
+* Naastenliefde begint met zelfliefde
 
 ### Patience
 

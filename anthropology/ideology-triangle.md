@@ -33,8 +33,9 @@ The classification of societies shows the implicit ideology. In contrast to trad
 | **Core**           | Rules, roles, schedules, contracts, outcomes                 | Authentic informal relationships, reputation, flexibility    | Attunement & respect. Preserve harmony                       |
 | **Driver**         | Performance (becoming). Protestantism, rationalism, industrialization, capitalism | Distrust "broken" institutions. Honor cultures.              | Buddhism, Confucianism. Loose power structures (choreography) |
 | **Identity**       | Split identity. Different roles in different environments    | Interdependence. Shared personal, social, professional lives. | *Anatman* (non-self)                                         |
-| **Morality**       | Principled. Deontological morality. Impersonal rules. Avoid favorism. | Particularism. High context. Dignity, forgiveness.           | Moral duty, minimize friction. Long-term stability.          |
+| **Morality**       | Principled. Deontological morality. Impersonal rules. Avoid favorism. | Particularism. High context. Dignity, forgiveness.           | Moral duty, minimize friction. Long-term stability. Anti-capitalist. |
 | **Accountability** | Institutions judge outcomes. <br />Business = business. <br />A deal = a deal. | Rules are negotiable. Personal relationships before business. | Balance                                                      |
+| **Fair Pricing**   | Equal prices for all customers                               | Reduce prices for the poor, increase prices for the rich     | Close to cost price                                          |
 | **Satisfaction**   | Work provides significant meaning                            | *Carpe diem. Dolce far niente*                               | Peaceful contribution. Social harmony. *Wa*                  |
 | **Communication**  | Direct, factual, often professional. Say what you mean.      | Expressive sincerity. High context but emotional             | High context. Listen first. Confuscian humility. Calibrated answers. Respect. |
 | **Origin**         | UK, Germany, Benelux                                         | Southern Europe                                              | East Asia                                                    |
@@ -62,8 +63,8 @@ The resistance to institutions and preference for flexibility and spontaneity ma
 ### ☯️ Collectivist Society
 
 1. The **core** characteristics are attunement and respect. Society runs on a type of choreography. Implicit expectations and self-discipline, rather than tight control. It is build upon foundations of Buddhist and Confuscianist teachings.
-2. **Identity** is rooted in community. The ego is far less important than in individualist societies.
-3. **Morality** and ethics are balanced deontology (duty), virtue (self-discipline, sincerity) and consequences (harmony, long-term stability). Duty depends on relationships and hierarchy. Moral duty.
+2. **Identity** is rooted in community. The ego is far less important than in individualist societies. The state, religion and community all overlap.
+3. **Morality** and ethics are balanced deontology (duty), virtue (self-discipline, sincerity) and consequences (harmony, long-term stability). Duty depends on relationships and hierarchy. Moral duty. A history of anti-capitalist sentiment. Accumulating wealth is seen as exploitative.
 4. A **good life** consists of living virtuously, in peace. The "reward" is social harmony. 
 5. Communication is high context. Listen first. Confuscian humility. *Man zhao sun qian shou yi*. Complacency (excess) invites loss, humility invites progress. Pride comes before the fall. Confuscian humility.
 6. Next to a spiritual foundation, East Asian countries featured ancient imperial bureaucracies.
