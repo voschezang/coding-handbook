@@ -85,9 +85,7 @@ Dyadic completion. If there is a victim, then the automatic response is to assig
 
 
 
-## Satir communication stances
-
-
+## Satir Communication Stances
 
 |                  | Focus                            | Value                  | Example          |
 | ---------------- | -------------------------------- | ---------------------- | ---------------- |

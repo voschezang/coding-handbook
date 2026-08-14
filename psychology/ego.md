@@ -2,7 +2,7 @@
 
 The concept ego has a simple [definition](https://www.merriam-webster.com/dictionary/ego), but has a variety of implications, specificaly across cultures. One the one hand it can be interpreted as a strong sense of self (confidence) and one the other hand it can be a buildup of baggage and expectations.
 
-Also see [identity](../subjects/identity.md).
+Also see [identity](../subjects/identity.md) and [desires](../anthropology/desires.md).
 
 
 

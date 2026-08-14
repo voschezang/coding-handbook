@@ -20,6 +20,10 @@
 
 ## Organizations / Systems
 
+### Focus / Motivation
+
+<img src="img/run-chase-dream.jpg" alt="run-chase-dream" style="width:42em;" />
+
 ### Lifecycle
 
 <img src="img/lifecycle-apple-tree.png" alt="org-evolution-apple-tree" style="width:51em;" />
@@ -58,7 +62,11 @@
 
 ### Fire Brigade
 
-<img src="img/fire-brigade-text.png" alt="fire-brigade-text" style="width:42em;" />
+<img src="img/fire-brigade-text.png" alt="fire-brigade-text" style="width:33em;" />
+
+### Ships
+
+<img src="img/storm-sail-harbour.jpg" alt="storm-voyage-harbour" style="width:42em;" />
 
 ### Team Sizing
 

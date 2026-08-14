@@ -61,14 +61,14 @@ Some emotions have multiple sides. E.g. critique can come from a deeper desire t
 
 
 
-## Threat Drive Calm modes
+## Threat-Drive-Calm Modes
 
-The [Three Systems Model](https://balancedminds.com/three-system-model/) can be to applied to teams.
+The [Three Systems Model](https://balancedminds.com/three-system-model/) can be to applied to teams. See [nervous-system-triangle](../psychology/nervous-system-triangle.md).
 
-Ship metaphor
+A ships metaphor.
 
 - Threat system: **Storms**. Survive the day. Minimize losses.
 - Drive system: **Sailing**. Move across the seas. Maximize progress.
 - Calm system: **Harbour**. Rest and repair. Prepare the next voyage.
 
-<img src="../img/storm-voyage-harbour.png" alt="storm-voyage-harbour" style="width:42em;" />
+<img src="../img/storm-sail-harbour.jpg" alt="storm-voyage-harbour" style="width:42em;" />

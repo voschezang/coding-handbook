@@ -1,6 +1,6 @@
 # Being and Becoming
 
-Reality consists of the present. The presents exists within time and space. Being and Becoming refer to that what exists and its identity. What's what.
+Reality consists of the present. The presents exists within time and space. Being and Becoming refer to that what exists and its identity. What's what. Not to be confused with [being-becoming](../psychology/being-becoming.md) in mindfulness
 
 [toc]
 

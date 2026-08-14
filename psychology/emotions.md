@@ -1,5 +1,7 @@
 # Emotions
 
+See also [experience](../subjects/experience.md).
+
 [toc]
 
 ## Overview
@@ -202,7 +204,19 @@ These approaches are considered healthy ways to cope with intensity.
 
 
 
-### Avoiding emotions
+### Reactions (Wave Analogy)
+
+See [experience](../subjects/experience.md). Amplify, resonate, diffuse.
+
+- Amplify. Express the emotion. E.g. cry or cry out.
+- Resonate. Sit with the emotion. 
+- Diffuse. Suppress or avoid the emotion. Possibly over-compensate or detach.
+
+
+
+<img src="../img/experience-attention-acting.png" alt="experience-attention-acting" style="width:45em;" />
+
+#### Avoiding emotions
 
 > Suppressing takes energy. embracing frees up energy.
 
@@ -216,3 +230,10 @@ Avoidance may result in either a less vibrant (numb) life, or in eruptions of em
 
 Experiencing negative emotions is unpleasant, but it can avoid future problems.
 
+
+
+## Fight/Flight Responses
+
+
+
+<img src="../img/fight-flight-freeze-fawn.png" alt="fight-flight-freeze-fawn" style="width:36em;" />

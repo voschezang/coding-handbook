@@ -29,7 +29,17 @@ Hierarchy of the [nervous system](https://en.wikipedia.org/wiki/Nervous_system)
 
 See also [emotions](emotions.md).
 
-<img src="../img/sympathetic-nervous-system.png" alt="sympathetic-nervous-system" style="width:60%;" />
+<img src="../img/sympathetic-nervous-system.png" alt="sympathetic-nervous-system" style="width:60%;" /> 
 
- 
+
+
+## Nervous System Responses
+
+Reactions to stressors or stimuli. Appraisal determines the emotional response.
+
+<img src="../img/experience-attention-acting.png" alt="experience-attention-acting" style="width:45em;" />
+
+Fight/flight/freeze/fawn responses
+
+<img src="../img/fight-flight-freeze-fawn.png" alt="fight-flight-freeze-fawn" style="width:30em;" />
 

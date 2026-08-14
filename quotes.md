@@ -186,7 +186,8 @@ Note that the validity of the following statements is dependent on certain *impl
 * My TV isn't HD that's too real.
 * Once you let go of music being correct, you can do whatever you want.
 * Happiness is letting go of what you don’t need.
-* Naastenliefde begint met zelfliefde
+* Naastenliefde begint met zelfliefde.
+* Stress is the distance between the world as you see it and the world as you wish it to be.
 
 ### Patience
 

@@ -2,7 +2,7 @@
 
 This document presents a basic model for ideologies (beliefs) that are embedded in society. These include values, beliefs, behaviours and other patterns. The model is comparative and does not favour any specific direction. It is inspired by the Lewis model.
 
-Like all models, this model is wrong. It resembles specific societies in specific eras and fails to cover the majority of societies (present and historical). Instead of attempting to capture the complexity of multicultural societies, it attempts to explain the different directions societies have taken.
+Like all models, this model is wrong. It resembles specific societies in specific eras and fails to cover the majority of societies (present and historical). Instead of attempting to capture the complexity of multicultural societies, it attempts to explain the different directions societies have taken. Moreover, behaviour may follow different trends in specific environments, for example communication between partners or performance reviews at work.
 
 See also [relationship types](relationship-triangle.md) within societies.
 
@@ -10,7 +10,7 @@ See also [relationship types](relationship-triangle.md) within societies.
 
 ## Freedom Triangle
 
-In the **rules**-first model, freedom means equal chance and quality treatment. This is guaranteed by rules, institutions and contracts. Freedom from abusive individuals. Absense of rules would be chaotic.
+In the **rules**-first model, freedom means equal chance and quality treatment. This is guaranteed by rules, institutions and contracts. Freedom from abusive individuals. Absense of rules would be chaotic. Overly tight (family/work) relationships would feel suffocating.
 
 In the **relationship**-first model, freedom means an absense of state intervention. The freedom to negotiate on your own. The freedom to bend rules.  A deep rejection of authority. Human warmth over cold procedure. A rule-based society would feel suffocating.
 
