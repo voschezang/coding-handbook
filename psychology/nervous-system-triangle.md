@@ -9,15 +9,15 @@ See the [Three Systems Model](https://balancedminds.com/three-system-model/).
 | React to threats       | Progress towards rewards   | Relax       |
 | Fight/flight responses | Dopamine seeking behaviour | Peace, rest |
 
-### Analogy: Hunter-Gatherers
-
-<img src="../img/run-chase-dream.jpg" alt="run-chase-dream" style="width:42em;" />
-
 ### Analogy: Ships
 
 <img src="../img/storm-sail-harbour.jpg" alt="storm-voyage-harbour" style="width:42em;" />
 
+### Analogy: Hunter-Gatherers
 
+From present threats to future potential.
+
+<img src="../img/run-chase-dream.jpg" alt="run-chase-dream" style="width:42em;" />
 
 ## Fight/Flight Responses
 

@@ -175,7 +175,7 @@ A hierarchy of targets that is updated every quarter.
 <summary><b>Goal Structures (Patterns)</b></summary>
 <br>
 <p><b>Tree Structure</b><br/>
-  Problem: assumption of independence is an oversimplification.</p>
+  Problem: assumption of independence is an oversimplification. The goal cascase may be a hidden project cascade where subgoals are merely steps in a recipe.</p>
 <img src="../img/goals-tree.png" alt="goals-tree" style="width:70%;" />
 <br/><br/>
 <p><b>Complex Structure</b><br/>
@@ -186,3 +186,4 @@ A hierarchy of targets that is updated every quarter.
   Sub-goals map to multiple high-level goals.</p>
 <img src="../img/goals-tree-double.png" alt="goals-tree" style="width:50%;" />
 </details>
+
